@@ -3318,6 +3318,476 @@ Te mueves lentamente y con seguridad, controlando cualquier atisbo de nerviosism
 #Narration
 You control your fear with a will of iron.  You are the Queen.
 Controlas tu miedo con una voluntad de hierro. Tú eres la reina.
+#Narration
+You mask your fear behind the armor of beauty.  Whether or not you are truly ready to be Queen, you certainly look the part.
+Enmascaras tu miedo tras tu inigualable belleza. Independientemente de si estás realmente lista para ser reina, no cabe duda de que pareces preparada.
+#Narration
+Seeing yourself reflected in so many eyes makes you want to run away and hide.
+Verte reflejada en tantos ojos te da ganas de huir y esconderte.
+#Narration
+After a moment, you force yourself to carry on, but you're sure they've all seen you hesitate.
+Tras una pausa, te obligas a continuar, pero estás segura que todos te han visto vacilar.
+#Narration
+Your father waits for you at the bottom of the stairs and offers you his arm.
+Tu padre te espera en la parte inferior de la escalera y te ofrece su brazo.
+#Speaker: joslyn
+The first dance is for us.
+El primer baile es para nosotros.
+#Narration
+He guides you gently around the dance floor, never rushing you.  It's fun to dance with your father, but the look in his eyes is so sad.
+Él te guía suavemente alrededor de la pista de baile, sin apresurarse. Es divertido para bailar con tu padre, pero la mirada de sus ojos es triste.
+# Talarist at the ball, >= 1.3.x
+I believe the next turn is mine.
+Creo que el siguiente turno es mío.
+# Narration
+He bows gracefully and offers you his hand, then leans close to whisper a quick question.
+Se inclina con elegancia y te ofrece su mano, luego se acerca para susurrar una pregunta rápida.
+# talarist
+Do you know how to dance? Nod or shake your head.
+¿Sabes bailar? Asiente o niega con la cabeza.
+# choice:
+Nod yes
+Asentir con la cabeza
+You dip your head in acknowledgement.
+Inclinas tu cabeza en señal de reconocimiento.
+Shake your head
+Negar con la cabeza
+You shake your head slightly, your hair swaying.
+Sacudes ligeramente la cabeza, balanceando el cabello.
+# talarist
+Watch me. I'll go slowly.
+Obsérvame. Voy a ir poco a poco.
+# Narration
+Dancing with a real partner feels quite different from dancing with your father. Especially when the man in front of you is the one you have agreed to marry.
+Bailar con una pareja de verdad es muy diferente a bailar con tu padre. Sobre todo cuando el hombre que tienes delante es con el que has accedido a casarte.
+His touch is gentle, his every move carefully signaled to be sure that you don't miss the beat. Is this what your marriage will be like?
+Su tacto es suave, todos sus movimientos cuidadosamente ejecutados para asegurarse de que no pierdas el ritmo. ¿Es así como será tu matrimonio?
+# choice:
+Step on his foot
+Pisarle el pie
+# elodie_angry
+(He thinks I'm a stupid child!)
+(¡Piensa que soy una niña estúpida!)
+Quite deliberately, you place your toe over his and bear down.
+Deliberadamente, colocas el pie sobre el suyo y empujas.
+This might be more effective if you weren't wearing such soft dancing slippers. He either doesn't notice your action, or smoothly pretends not to.
+Podría ser más efectivo si no llevases esas zapatillas de baile. O bien no se da cuenta de tu pisotón o lo finge con elegancia.
+# Accepting Banion's dance invite w/Talarist present.
+# Narration
+You take a breath, but someone else speaks first.
+Coges aire, pero alguien más habla primero.
+# talarist
+If I may be of some assistance? I can provide a recommendation for the best oculists in Sedna, Your Grace.
+¿Si puedo ser de alguna ayuda? Puedo recomendarle el mejor oculista de Sedna, vuestra merced.
+# banion
+Oculists?
+¿Oculista?
+# talarist, >= 1.3.18 version.
+To correct your vision. You have apparently mistaken my fiancée for a woman of your acquaintance.
+Para corregir su visión. Aparentemente ha confundido a mi prometida por otra mujer.
+# <= 1.3.17 - had trailing space.
+To correct your vision. You have apparently mistaken my fiancée for a woman of your acquaintance. 
+Para corregir su visión. Aparentemente ha confundido a mi prometida por otra mujer.
+# Banion
+Of course. My... apologies.
+Claro. Mis... disculpas.
+# Narration
+He walks away, smirking.
+Se aleja, sonriendo.
+#Speaker: joslyn
+After this, you must choose your own partner. There are a number of men who hope to catch your eye.
+Después de esto, debes elegir tu propia pareja de baile. Hay varios hombres que esperan captar tu atención.
+#Speaker: joslyn
+The Duke of Kigal alone has brought three eligible sons, all near your age.
+Tan sólo el Duque de Kigal ha traído tres hijos candidatos, todo más o menos de tu edad.
+#Speaker: elodie_afraid
+But I'm already betrothed to the Duke of Sedna!
+¡Pero ya estoy prometida al Duque de Sedna!
+#Speaker: joslyn
+That does not bar you from dancing.
+Eso no te impide bailar.
+#Speaker: elodie_depressed
+(If I dance with the gentlemen here, it will make them happy, but Talarist might think I'm planning to break the betrothal.)
+(Si bailo con esos caballeros, los hará felices, pero Talarist podría pensar que estoy planeando romper el compromiso matrimonial.)
+#choice:
+Dance with suitors
+Bailar con los pretendientes
+#choice:
+#Speaker: elodie_neutral
+No, I don't want the Duke of Sedna to think badly of me.  I will skip the dancing.
+No, no quiero que el Duque de Sedna piense mal de mí. Prefiero no bailar.
+#Speaker: joslyn
+{tag=joslyn}Very well.
+Muy bien.
+#Narration
+You look around the room at all your possible partners - which is to say, everyone.  No one may begin dancing until you do.  You can pick whomever you want and you will not be denied.
+Miras a tu alrededor observando a todas las posibles parejas - es decir, a todos. Nadie puede empezar a bailar hasta que lo hagas tú. Puedes escoger a quien quieras y nadie te rechazará.
+#Narration
+No doubt every noble family with eligible sons has dreams of a royal wedding. Your choice will raise some hopes and dash others. Feuds could be born here.
+No hay duda de que cada familia con hijos sueña con una boda real. Tu elección agradará a unos y enfadará a otros. Podrías crear enemistades entre familias.
+#Narration
+The Duke of Kigal has not yet named any of his sons as his official heir, but his second son, Linley, was always kind to you at school. If you wished to show favor to Kigal, Linley would be your choice.
+El Duque de Kigal aún no ha nombrado a ninguno de sus hijos como su heredero oficial, pero su segundo hijo, Linley, siempre fue amable contigo en la escuela. Si quisieras agradar a Kigal, Linley sería tu elección.
+#Narration
+The Duchy of Elath is currently held in regency for its young lord Adair, who is only twelve and a head shorter than you are. Elath is a rich territory, and at least little Adair wouldn't try to take any liberties.
+El Ducado de Elat está actualmente gobernado en regencia por su joven señor Adair, el cual tiene sólo doce años y una cabeza menos que tú. Elat es un territorio rico, y por lo menos el pequeño Adair no intentaría tomarse muchas libertades.
+#Narration
+Dancing with Banion, the Duke of Maree, could be quite awkward if you did not actually wish to marry him. He has been waiting years for a powerful heiress to accept his suit.
+Bailar con Banion, el Duque de Maree, podría resultar bastante incómodo si no deseas finalmente casarte con él. Él ha estado años esperando que alguna poderosa heredera acepte su petición.
+#Narration
+Not all nobles are created equal. You could choose someone charming and unimportant, like the Earl of Mima, a territory too minor for anyone to consider it a threat. However, the major families might eat him alive afterwards.
+No todos los nobles son iguales. Podrías elegir a alguien encantador y sin importancia, como el Conde de Mima, un territorio demasiado pequeño como para que nadie lo considere una amenaza. Sin embargo, las familias más poderosas podrían comérselo vivo después.
+#Narration
+If you wished to distract attention from your marital prospects, you could choose someone clearly ineligible. One of your uncles, or an older family man like the Earl of Ishtar, or even a woman, though that would be mildly scandalous.
+Si quisieses desviar la atención de tus pretendientes, podrías escoger a alguien nada interesado en casarse contigo. A uno de tus tíos, o un hombre mayor, como el Conde de Ishtar, o incluso a una mujer, aunque eso sería ligeramente escandaloso.
+#choice:
+Linley of Kigal
+Linley de Kigal
+#Narration
+He bows to you with great courtesy and you begin to dance.
+Se inclina hacia ti con gran cortesía y comenzáis a bailar.
+#choice:
+Adair, Young Lord of Elath
+Adair, joven Señor de Elat
+#Adair:
+Um, h-hi, Elodie?
+¿Um, h-hola, Elodie?
+#Narration
+He looks absolutely terrified at the prospect of having to dance with a {i}girl{/i}, but the little lord is too well-bred to refuse you. Still, you'll have to be careful not to step on him.
+Se le ve absolutamente aterrado ante la perspectiva de tener que bailar con una {i}chica{/i}, pero está demasiado bien educado como para rechazarte. Aun así, tendrás que tener cuidado de no pisarle.
+#choice:
+Banion, Duke of Maree
+Banion, Duque de Maree
+#Narration
+He looks all-too-satisfied as he takes up position before you.
+Se le ve muy satisfecho mientras se posiciona frente a ti.
+#choice:
+Chaine, Earl of Mima
+Chaine, Conde de Mima
+#Narration
+He smiles brightly at your approach and you begin to dance.
+Esboza una amplia sonrisa al acercarte y comenzáis a bailar.
+#choice:
+#Narration
+At a distance, Armand looks a great deal like your father. However, your father would never look so uneasy at being asked to dance with you. 
+A cierta distancia, Armand se parece mucho a tu padre. Sin embargo, tu padre nunca se mostraría tan incómodo al ser preguntado para bailar.
+#choice:
+Erwin, Earl of Ishtar
+Erwin, Conde de Ishtar
+#Narration
+After all, he's old enough to be your {i}grandfather,{/i} and his wife is {i}right there{/i} with him. He seems startled by your approach at first, then thoughtful, and accepts your hand with a kindly smile.
+Después de todo, es lo suficientemente mayor como para ser tu {i}abuelo{/i}, y su esposa está {i}ahí{/i} mismo. Parece estar sorprendido por tu acercamiento al principio, luego pensativo, acepta tu mano con una sonrisa amable.
+#choice:
+Examine the women
+Examinar a las mujeres
+#Narration
+As a Queen, few would dare comment about your choice of companions, but until you have provided an heir to the throne, there is great pressure on you to make an appropriate match. That doesn't mean you have to give in.
+Como reina, pocos se atreverían a comentar sobre tu elección de pareja, pero hasta que hayas proporcionado un heredero al trono, hay una gran presión sobre ti para que elijas correctamente. Lo cual no significa que tengas que ceder.
+#Narration
+It might be entertaining to see the reaction of Julianna, Duchess of Ursul, if you asked her to dance with you. Would she be flustered, for once?
+Podría ser entretenido ver la reacción de Julianna, Duquesa de Ursul, si la invitaras a bailar. ¿Se pondría nerviosa, por una vez?
+#Narration
+Brin, the Duchess of Hellas, is an attractive and unmarried woman. What might people think, seeing the two of you together?
+Brin, la Duquesa de Hellas, es una mujer atractiva y soltera. ¿Qué podría pensar la gente al veros juntas?
+#Narration
+According to rumor, she {i}is{/i} inclined in that direction. But what does she think of you?
+Según los rumores, ella {i}está{/i} inclinada en esa dirección. Pero, ¿qué piensa ella de ti?
+#Narration
+After you pressured Brin, the Duchess of Hellas, into marrying an Ixionite, it might be something of a peace offering to dance with her now.
+Después de haber presionado a Brin, la Duquesa de Hellas, a casarse con un Ixionite, podría ser algo así como una oferta de paz ofrecerle un baile ahora.
+#Narration
+You know that she prefers women, and she knows that you know. Dancing with her might set up expectations.
+Sabes que ella prefiere a las mujeres, y ella sabe que tú lo sabes. Bailar con ella podría crearle expectativas.
+#Narration
+Especially now that you realise why she was so opposed to the marriage, or any marriage with a man.
+Sobre todo ahora que te das cuenta de por qué estaba tan en contra de su boda, o de cualquier boda con un hombre.
+#Narration
+The most important woman present, after yourself, is Arisse, Duchess of Lillah. She is married, elderly, a mother and grandmother many times over, but might be flattered by the acknowledgement of her status.
+La mujer más importante que hay presente, después de ti misma, es Arisse, la Duquesa de Lillah. Casada, de edad avanzada, madre y abuela muchas veces, pero podría sentirse halagada por el reconocimiento de su condición.
+#Narration
+Or, if you truly wanted to set the court on its ear, you could demand your first dance with a mere servant. A maid - like Alice. The assembled nobles would be outraged.
+O, si realmente quieres escandalizar a la corte, podrías exigir un primer baile con un simple sirviente. Una criada - como Alicia. Los nobles reunidos estarían indignados.
+#choice:
+#Narration
+You were hoping such an outrageous act would cause her to lose some of her composure, but she remains unruffled. At least the chorus of shocked whispers around you as you take your place on the floor is gratifying.
+Esperabas que tal acto causara la pérdida de su compostura, pero ella permanece imperturbable. Por lo menos el coro de murmullos de asombro alrededor de ti mientras tomas tu lugar en la pista es gratificante.
+#choice:
+Brin, Duchess of Hellas
+Brin, Duquesa de Hellas
+#Narration
+You feel deliciously wicked at the expression of shock on her face, but it soon fades into something more ambiguous. Her hand in yours is warm, and too late, you wonder if you're playing with fire.
+Te sientes deliciosamente perversa al ver la expresión de asombro en su rostro, pero pronto se desvanece en algo más ambiguo. Su mano se siente cálida en la tuya y, demasiado tarde, te preguntas si estás jugando con fuego.
+#choice:
+#Narration
+You approach the grand old lady, uncomfortably aware that in some eyes she may look more like a Queen than you do. The room holds its breath as you stand before her, waiting for her reaction. Then, with dignity, she extends her hand to you.
+Te acercas a la dama más anciana, incómodamente consciente de que para algunos ella puede parecer más reina que tú. La sala contiene la respiración mientras estás de pie frente a ella, esperando su reacción. Luego, con dignidad, ella te extiende su mano.
+#choice:
+Alice, the maid
+Alicia, la criada
+#Speaker: elodie_willful
+Have the maid Alice brought here. I wish to dance with her.
+Traer a la Alicia, la doncella. Quiero bailar con ella.
+#Narration
+All sound in the room stops, save for little Adair's nervous laughter.
+La sala se queda en silencio, salvo por la risa nerviosa del pequeño Adair.
+#Narration
+Still, you have given a royal command, and thus someone goes to find the maid. A few minutes later, Alice is pushed out into the glittering throng by a pair of burly manservants.
+Aun así, has dado una orden real, y por lo tanto alguien va a buscar a la doncella. Unos minutos más tarde, Alicia es empujada hacia la multitud por un par de criados fornidos.
+#Speaker: alice_worried
+I... If you insist, my lady...
+Yo... Si insistes, mi señora...
+#Narration
+Dutifully, she places her hand in yours.
+Obedientemente, posiciona sus manos sobre las tuyas.
+#choice:
+Someone about your age
+Alguien de tu edad
+#choice:
+Someone younger than you
+Alguien más joven que tú
+#choice:
+Someone older than you
+Alguien mayor que tú
+#choice:
+Someone already married
+Alguien ya casado
+#choice:
+Someone scandalous
+Alguien escandaloso
+#Narration
+You approach Linley, the second son of the Duke of Kigal.  He's about two years older than you, and he was always nice to you at school.
+Te acercas a Linley, el segundo hijo Del duque de Kigal. Él es aproximadamente dos años mayor que tú, y siempre ha sido amable contigo en la escuela.
+#Narration
+#Narration
+You may be too young to hold a title in your own right, but you are not the youngest noble present.  That honor falls to Adair, the Young Lord of Elath, who is only twelve and a head shorter than you are.  Next to him, you look positively adult.
+Puede que seas demasiado joven para ostentar un título en derecho propio, pero no eres la noble más joven presente. Ese honor recae en Adair, el joven Señor de Elat, el cual sólo tiene doce años y una cabeza menos que tú. A su lado, pareces más adulta.
+#Narration
+He looks absolutely terrified at the prospect of having to dance with a {i}girl,{/i} but the little lord is too well-bred to refuse you.  Still, you'll have to be careful not to step on him.
+Se le ve absolutamente aterrado ante la perspectiva de tener que bailar con una {i}chica{/i}, pero está demasiado bien educado como para rechazarte.  Aun así, tendrás que tener cuidado de no pisarle.
+#Narration
+You look around for a likely candidate, and your eye settles on Chaine, the Earl of Mima. He's almost ten years older than you are and quite good-looking, so why not enjoy yourself?
+Miras a tu alrededor buscando un candidato aceptable, y tu ojo se posa sobre Chaine, el Conde de Mima. Es casi diez años mayor que tú y bastante guapo, ¿por qué no disfrutar?
+#Narration
+#Narration
+You don't want everyone assuming that whoever you pick first is your intended marriage partner, so what better way to prove that than by choosing someone who's already married?
+No quieres que todo el mundo asuma que a quien elijas primero es tu cónyuge elegido, así que ¿qué mejor manera para demostrarlo que elegir a alguien que ya está casado?
+#Narration
+With that in mind, you approach Erwin, the Earl of Ishtar.  He's old enough to be your {i}grandfather,{/i} and his wife is {i}right there{/i} with him.
+Con eso en mente, te acercas a Erwin, el conde de Ishtar. Él es lo suficientemente mayor como para ser tu {i}abuelo{/i}, y su esposa está {i}ahí{/i} mismo.
+#Narration
+He seems startled by your approach at first, then thoughtful, and accepts your hand with a kindly smile.
+Parece estar sorprendido por tu acercamiento al principio, luego pensativo, acepta tu mano con una sonrisa amable.
+#Narration
+You don't want everyone assuming that whoever you pick first is your intended marriage partner, so why not make your choice as ridiculous as possible?
+No quieres que todo el mundo asuma que a quien elijas primero es tu cónyuge elegido, así que ¿qué mejor manera para demostrarlo que hacer una elección ridícula?
+#Narration
+With that in mind, you approach the Duchess of Ursul.
+Con eso en mente, te acercas a la Duquesa de Ursul.
+#Narration
+You admit to yourself that you were hoping such an outrageous act would cause her to lose some of her composure, but she remains unruffled.  At least the chorus of shocked whispers around you as you take your place on the floor is gratifying.
+Reconoces que esperabas que tal acto causara la pérdida de su compostura, pero ella permanece imperturbable. Por lo menos el coro de murmullos de asombro alrededor de ti mientras tomas tu lugar en la pista es gratificante.
+#Narration
+With that in mind, you approach the Duchess of Hellas.
+Con eso en mente, te acercas a la Duquesa de Hellas.
+#Narration
+You feel deliciously wicked at the expression of shock on her face, but it soon fades into something more ambiguous.  Her hand in yours is warm, and too late, you wonder if you're playing with fire.
+Te sientes deliciosamente perversa al ver la expresión de asombro en su rostro, pero pronto se desvanece en algo más ambiguo. Su mano se siente cálida en la tuya y, demasiado tarde, te preguntas si estás jugando con fuego.
+#Narration
+With that in mind, you approach the Duchess of Lillah.  She's forty years older than you, married (several times!) with too many children and step-children to count.
+Con eso en mente, te acercas a la Duquesa de Lillah. Tiene cuarenta años más que tú, se ha casado (¡varias veces!), y tiene demasiados hijos y hijastros.
+#Narration
+The room holds its breath as you stand before her, waiting for her reaction.  Then, with dignity, she extends her hand to you.
+La sala contiene la respiración mientras estás de pie frente a ella, esperando su reacción. Luego, con dignidad, ella te extiende su mano.
+#Narration
+Dancing with a real partner feels quite different from dancing with your father.  You knew him, knew his steps like a part of you.  Now every move is a mystery.
+Bailar con una pareja de verdad es muy diferente a bailar con tu padre. Conocías sus movimientos como la palma de tu mano.  Ahora cada paso es un misterio.
+#Narration
+Of course, you are an excellent dancer and you relish the chance to show off your hard-earned skills.
+Desde luego, eres una bailarina excelente y saboreas la oportunidad de mostrar las habilidades que tanto te ha costado ganar.
+#Narration
+Unfortunately, your partner can't possibly keep up with your talent, and you end up tripping over each other.
+Por desgracia, tu pareja no puede mantenerse a tu altura, y acabáis tropezando uno con el otro.
+#Adair:
+Sorry!
+¡Lo siento!
+#Narration
+A ballroom dance isn't nearly as much of a showcase as a stage performance, but you can easily impress the guests with your technique and style.
+Un baile de salón no es una forma muy eficaz de demostrar tus habilidades, pero aun así impresionas fácilmente a los invitados con tu técnica y estilo.
+#Narration
+You, at least, have some idea of how formal dances are meant to be performed. Your partner has none. She soon trips and tumbles to the floor, leading the whole room to laugh at her misfortune.
+Tu, por lo menos, tienes alguna idea de cómo funciona un baile formal. Tu pareja no tiene ninguna. Ella pronto se tropieza y cae al suelo, lo cual provoca la risa de todos los presentes.
+#Narration
+You have been tutored in dance, of course, as has your partner, and it is simple enough to move through the motions without mishap.
+Tú has recibido clases de baile, al igual que tu pareja, y resulta bastante simple realizar los movimientos sin contratiempos.
+#Narration
+Unfortunately, you lose track of which steps you're supposed to do when, and trip over your own feet.  Oops!
+Por desgracia, pierdes la cuenta de que pasos se supone que debes hacer, y te tropiezas contigo misma. ¡Oops!
+#Narration
+As soon as you relax your grip, the maid flees to the safety of the kitchens.
+Tan pronto como aflojas el agarre, la criada huye a la seguridad de las cocinas.
+#Narration
+Between the dances, there is time for the guests to mingle, chat, and sample tiny bites of exquisite food.
+Entre baile y baile, hay tiempo para que los invitados se mezclen, hablen y prueben pequeños bocados de exquisita comida.
+#Narration
+You interact comfortably with your peers, leaving a wise word in every ear.
+Interactúas sin dificultad con los invitados, dejando caer sabios consejos en cada oído.
+#Narration
+You notice that Fabian, the elderly Earl of Titan, is not looking entirely well.  Could this have something to do with the omen the owl brought you of death and disruption?
+Observas que Fabian, el anciano Conde de Titán, no tiene muy buen aspecto. ¿Podría esto estar relacionado con el presagio de muerte y ruptura que te trajo la lechuza?
+#Narration
+Fabian is the father of, and regent for, Adair, the Young Lord of Elath.  The boy is only twelve, years too young to assume his full title.
+Fabian es padre y regente de Adair, el joven Señor de Elat. El muchacho tan sólo tiene doce años, demasiado joven para asumir su título.
+#Narration
+Almost all of Adair's near-blood relatives have died in the past thirty years.  His mother Cayleigh died in childbirth; {i}her{/i} mother and sister are suspected to have been the victims of agents from Sedna.
+Casi todos los parientes cercanos de Adair han muerto en los últimos treinta años. Su madre Cayleigh murió en el parto; Se sospecha que su madre {i}(de Cayleigh){/i} y hermana fueron víctimas de agentes de Sedna.
+#Narration
+Tragedy has been a common visitor to the Elath line; his mother Cayleigh died in childbirth, and {i}her{/i} mother and sister died when Cayleigh herself was a very young girl.
+La tragedia ha sido un visitante frecuente a la línea de Elat; su madre Cayleigh murió en el parto, y su madre {i}(de Cayleigh){/i} y su hermana murieron cuando Cayleigh era muy joven.
+#Narration
+If Fabian dies before Adair is of age, there will be a succession crisis in Elath.
+Si Fabian muere antes de que Adair sea mayor de edad, habrá una crisis de sucesión en Elat.
+#choice:
+Talk to him
+Hablar con él
+#choice:
+Say nothing
+No decir nada
+#Speaker: elodie_neutral
+Lord Fabian, might I have a word with you?  I am concerned about the future of your son, Adair.
+Señor Fabian, ¿puedo hablar con usted? Estoy preocupada por el futuro de su hijo, Adair.
+#Speaker: elodie_depressed
+My mother's death has made it clear to me that we are all mortal, and solid plans need to be in place.
+La muerte de mi madre me ha dejado claro que todos somos mortales, y necesitamos tener planes de futuro sólidos.
+#Narration
+You worry for a moment about how the old man will take such a subject, but he only sighs and nods.
+Te preocupas por un momento acerca de cómo el anciano se tomará el tema, pero él sólo suspira y asiente con la cabeza.
+#Speaker: elodie_depressed
+Lord Fabian, can we talk?  You don't look so good, and I'm worried about what will happen to Adair if you die.
+Señor Fabian, ¿podemos hablar? No se te ve bien, y estoy preocupada por lo que le vaya a pasar a Adair si usted muere.
+#Narration
+He stares at you, and you realise that you've spoken too bluntly for politeness.
+Él se te queda mirando, y te das cuenta de que has hablado con demasiada libertad como para ser cortés.
+#Speaker: fabian
+Some of my family would claim that I have already lived forever, and could continue to do so.
+Algunos en mi familia afirmarían que ya he vivido demasiado, y podría seguir haciéndolo.
+#Speaker: fabian
+But the mornings do grow colder. I hope to see Adair become a man, but I know that it may not happen.
+Pero las mañanas son más frías. Espero poder ver a Adair convertirse en un hombre, pero sé que quizás no lo consiga.
+#Speaker: fabian
+Should my time come, it would please me to know that he was in your care as your future husband.
+En caso de llegase mi hora, me complacería saber que Adair está bajo tu protección como tu futuro esposo.
+#Speaker: elodie_afraid
+#Speaker: fabian
+Was that not what you had in mind when you danced with him? Get them young, train them how you want them?
+¿No es eso lo que tenías en mente cuando bailabas con él? ¿Obtenerlos jóvenes, y formarlos como quieras?
+#Speaker: fabian
+Didn't work out so well for me with my Cayleigh, may the gods protect her soul.
+No funcionó tan bien para mí con mi Cayleigh, que los dioses protejan su alma.
+#Speaker: fabian
+But the two of you could be the start of something new. Young and fresh, the both of you. Plenty of years ahead.
+Los dos juntos podríais ser el comienzo de algo nuevo. Jóvenes y frescos los dos. Con un montón de años por delante.
+#Speaker: fabian
+If that's not your plan, then please, leave him with his stepmother. Closest thing to family he'll have left.
+If that's not your plan, then please, leave him with his stepmother. Closest thing to family he'll have left.
+#Speaker: fabian
+I know she's no blood of his, but I say, leave the boy with Arisse and her brood in Lillah.
+I know she's no blood of his, but I say, leave the boy with Arisse and her brood in Lillah.
+#Speaker: fabian
+Her youngest three are near enough to Adair's siblings, Adele especially. She dotes on him.
+Her youngest three are near enough to Adair's siblings, Adele especially. She dotes on him.
+#Speaker: fabian
+My other children are too old, Adair's never known them. And his grandfather...
+My other children are too old, Adair's never known them. And his grandfather...
+#Speaker: fabian
+Well. He and I will never settle it who should have known better, and it's too late now.
+Well. He and I will never settle it who should have known better, and it's too late now.
+#Speaker: fabian
+Still, I would never trust him with Cayleigh's son.
+Still, I would never trust him with Cayleigh's son.
+#Narration
+He pats your hand.
+He pats your hand.
+#Speaker: fabian
+Good little girl, you are, for thinking of me. What will come will come.
+Good little girl, you are, for thinking of me. What will come will come.
+#Narration
+Adair comes running up to his father.
+Adair comes running up to his father.
+#Speaker: adair
+Dad! I got punch on my shoes.
+Dad! I got punch on my shoes.
+#Narration
+You leave them to deal with that problem.
+You leave them to deal with that problem.
+#Narration
+You don't want to spoil the gathering with talk of death and despair; anyway, the omen might not even be about him.
+You don't want to spoil the gathering with talk of death and despair; anyway, the omen might not even be about him.
+#Narration
+During a lull in the music, Banion, the duke of Maree, taps an elegant fingernail against a wineglass, letting the clear note ring out through the room.
+During a lull in the music, Banion, the duke of Maree, taps an elegant fingernail against a wineglass, letting the clear note ring out through the room.
+#Speaker: banion
+If I might have your attention?
+If I might have your attention?
+#Speaker: banion
+I believe we should offer our compliments to our lovely hostess.
+I believe we should offer our compliments to our lovely hostess.
+#Speaker: banion
+Her bravery and courage keep our borders defended.
+Her bravery and courage keep our borders defended.
+#Narration
+Everyone applauds politely.
+Everyone applauds politely.
+#Speaker: banion
+Her words of wisdom guide us through our difficulties.
+Her words of wisdom guide us through our difficulties.
+#Narration
+#Speaker: banion
+Not only does she protect our borders, but she has begun to address the long-standing problem of a shortage of heirs.
+Not only does she protect our borders, but she has begun to address the long-standing problem of a shortage of heirs.
+#Speaker: banion
+My sister is proud to do her duty. As, of course, are others, such as myself and our lovely new queen.
+My sister is proud to do her duty. As, of course, are others, such as myself and our lovely new queen.
+#Narration
+You can almost hear the chorus of eyebrows being raised.
+You can almost hear the chorus of eyebrows being raised.
+#Speaker: elodie_angry
+(He's trying to suggest that he and I have some sort of romantic arrangement.)
+(He's trying to suggest that he and I have some sort of romantic arrangement.)
+#Speaker: elodie_angry
+(If I don't deflect that, everyone will be sure it's true.)
+(If I don't deflect that, everyone will be sure it's true.)
+#Speaker: banion
+May I have this dance, fair lady?
+May I have this dance, fair lady?
+#choice:
+{tag=dance with banion}Accept
+Accept
+#choice: <= 1.3.14.15.9
+
+Mention betrothal to Sedna
+Mention betrothal to Sedna
+# choice: >= 1.3.14.159
+Mention betrothal to Talarist
+Mention betrothal to Talarist
+#Speaker: elodie_neutral
+#Narration
+He pulls you close, his hand possessive on your waist, as the orchestra swings back into motion.
+He pulls you close, his hand possessive on your waist, as the orchestra swings back into motion.
+#Narration
+His head above yours angles down to murmur words that - you hope - no one else can hear.
+His head above yours angles down to murmur words that - you hope - no one else can hear.
+#Speaker: banion
+You realise that you have just admitted to all your guests that you and I are having an affair.
+You realise that you have just admitted to all your guests that you and I are having an affair.
+#Speaker: elodie_willful
+I know.
+I know.
+#choice:
+I plan to use you, then drop you
+I plan to use you, then drop you
+#choice:
+I plan to marry you.
+I plan to marry you.
 # Mood adjustments.
 +2 Afraid
 +2 Asustada
