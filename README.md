@@ -1,10 +1,10 @@
-**# README #**
+# README #
 
 Este repositorio contiene la traducción del juego Long Live The Queen por Hanako Games
 Versión del juego correspondiente a la traducción: 1.3.18
 
 
-**### ¿Como instalar la traducción? ###**
+### ¿Como instalar la traducción? ###
 
 * Descargar el repositorio
 * Dentro de la carpeta del juego, debería haber una llamada game
@@ -19,5 +19,5 @@ Versión del juego correspondiente a la traducción: 1.3.18
 
 ### ¿Hay alguna línea mal traducida o expresada? ###
 
-* Repo owner or admin
-* Other community or team contact
+* Házmelo saber por cualquier medio, ya sea abriendo un ticket aquí o por contacto directo.
+* No te olvides de decirme de que línea se trata.
