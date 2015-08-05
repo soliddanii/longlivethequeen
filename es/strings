@@ -3685,109 +3685,857 @@ Didn't work out so well for me with my Cayleigh, may the gods protect her soul.
 No funcionó tan bien para mí con mi Cayleigh, que los dioses protejan su alma.
 #Speaker: fabian
 But the two of you could be the start of something new. Young and fresh, the both of you. Plenty of years ahead.
-Los dos juntos podríais ser el comienzo de algo nuevo. Jóvenes y frescos los dos. Con un montón de años por delante.
+Los dos juntos podríais ser el comienzo de algo nuevo. Ambos jóvenes y frescos. Con un montón de años por delante.
 #Speaker: fabian
 If that's not your plan, then please, leave him with his stepmother. Closest thing to family he'll have left.
-If that's not your plan, then please, leave him with his stepmother. Closest thing to family he'll have left.
+Si no es ésa tu intención, por favor, déjalo con su madrastra. Es lo más parecido a una familia que le queda.
 #Speaker: fabian
 I know she's no blood of his, but I say, leave the boy with Arisse and her brood in Lillah.
-I know she's no blood of his, but I say, leave the boy with Arisse and her brood in Lillah.
+Sé que no es de su misma sangre, pero yo prefiero que dejes al niño con Arisse y sus chiquillos en Lillah.
 #Speaker: fabian
 Her youngest three are near enough to Adair's siblings, Adele especially. She dotes on him.
-Her youngest three are near enough to Adair's siblings, Adele especially. She dotes on him.
+Los tres más jóvenes son casi como hermanos para Adair, especialmente Adele. Ella lo adora.
 #Speaker: fabian
 My other children are too old, Adair's never known them. And his grandfather...
-My other children are too old, Adair's never known them. And his grandfather...
+Mis otros hijos son demasiado mayores, Adair no les conoce. Y su abuelo...
 #Speaker: fabian
 Well. He and I will never settle it who should have known better, and it's too late now.
-Well. He and I will never settle it who should have known better, and it's too late now.
+Bueno. Él y yo nunca hemos solucionado ciertas diferencias, y ya es demasiado tarde.
 #Speaker: fabian
 Still, I would never trust him with Cayleigh's son.
-Still, I would never trust him with Cayleigh's son.
+Aún así,  nunca se lo confiaría al hijo de Cayleigh.
 #Narration
 He pats your hand.
-He pats your hand.
+Él acaricia tu mano.
 #Speaker: fabian
 Good little girl, you are, for thinking of me. What will come will come.
-Good little girl, you are, for thinking of me. What will come will come.
+Eres una niña maravillosa, gracias por pensar en mí. Lo que tenga que pasar pasará.
 #Narration
 Adair comes running up to his father.
-Adair comes running up to his father.
+Adair llega corriendo hasta su padre.
 #Speaker: adair
 Dad! I got punch on my shoes.
-Dad! I got punch on my shoes.
+¡Padre! Se me han desatado los zapatos.
 #Narration
 You leave them to deal with that problem.
-You leave them to deal with that problem.
+Los dejas resolviendo sus problemas.
 #Narration
 You don't want to spoil the gathering with talk of death and despair; anyway, the omen might not even be about him.
-You don't want to spoil the gathering with talk of death and despair; anyway, the omen might not even be about him.
+No quieres estropear la reunión hablando de muerte y desesperanza; de todos modos, el augurio podría no estar relacionado con él.
 #Narration
 During a lull in the music, Banion, the duke of Maree, taps an elegant fingernail against a wineglass, letting the clear note ring out through the room.
-During a lull in the music, Banion, the duke of Maree, taps an elegant fingernail against a wineglass, letting the clear note ring out through the room.
+Durante una pausa en la música, Banion, el Duque de Maree, golpea elegantemente una copa de vino, dejando que el claro tono resuene a través de la habitación.
 #Speaker: banion
 If I might have your attention?
-If I might have your attention?
+¿Pueden prestarme atención un momento?
 #Speaker: banion
 I believe we should offer our compliments to our lovely hostess.
-I believe we should offer our compliments to our lovely hostess.
+Creo que deberíamos ofrecer nuestras felicitaciones a nuestra encantadora anfitriona.
 #Speaker: banion
 Her bravery and courage keep our borders defended.
-Her bravery and courage keep our borders defended.
+Su valentía y coraje mantienen nuestras fronteras seguras.
 #Narration
 Everyone applauds politely.
-Everyone applauds politely.
+Todo el mundo aplaude educadamente.
 #Speaker: banion
 Her words of wisdom guide us through our difficulties.
-Her words of wisdom guide us through our difficulties.
+Sus sabias palabras nos guían en nuestras dificultades.
 #Narration
 #Speaker: banion
 Not only does she protect our borders, but she has begun to address the long-standing problem of a shortage of heirs.
-Not only does she protect our borders, but she has begun to address the long-standing problem of a shortage of heirs.
+No sólo protege nuestras fronteras, sino que además ha empezado a enmendar el problema de la escasez de herederos.
 #Speaker: banion
 My sister is proud to do her duty. As, of course, are others, such as myself and our lovely new queen.
-My sister is proud to do her duty. As, of course, are others, such as myself and our lovely new queen.
+Mi hermana se enorgullece de cumplir con su deber al respecto. Igual que otros, por supuesto, como yo y nuestra hermosa nueva reina.
 #Narration
 You can almost hear the chorus of eyebrows being raised.
-You can almost hear the chorus of eyebrows being raised.
+Casi se puede oír el coro de cejas elevándose.
 #Speaker: elodie_angry
 (He's trying to suggest that he and I have some sort of romantic arrangement.)
-(He's trying to suggest that he and I have some sort of romantic arrangement.)
+(Está intentando sugerir que él y yo tenemos algún tipo de romance.)
 #Speaker: elodie_angry
 (If I don't deflect that, everyone will be sure it's true.)
-(If I don't deflect that, everyone will be sure it's true.)
+(Si no demuestro lo contrario, todo el mundo creerá que es verdad.)
 #Speaker: banion
 May I have this dance, fair lady?
-May I have this dance, fair lady?
+¿Puedo ofrecerte este baile, bella dama?
 #choice:
 {tag=dance with banion}Accept
-Accept
+Aceptar
 #choice: <= 1.3.14.15.9
 
 Mention betrothal to Sedna
-Mention betrothal to Sedna
+Mencionar compromiso con Sedna
 # choice: >= 1.3.14.159
 Mention betrothal to Talarist
-Mention betrothal to Talarist
+Mencionar compromiso con Talarist
 #Speaker: elodie_neutral
 #Narration
 He pulls you close, his hand possessive on your waist, as the orchestra swings back into motion.
-He pulls you close, his hand possessive on your waist, as the orchestra swings back into motion.
+Te acerca hacia él, y te sujeta firmemente de la cintura, mientras la orquesta comienza a sonar de nuevo.
 #Narration
 His head above yours angles down to murmur words that - you hope - no one else can hear.
-His head above yours angles down to murmur words that - you hope - no one else can hear.
+Su cabeza se inclina hacia abajo para susurrarte palabras que esperas nadie más pueda oír.
 #Speaker: banion
 You realise that you have just admitted to all your guests that you and I are having an affair.
-You realise that you have just admitted to all your guests that you and I are having an affair.
+Te das cuenta de que acabas de admitir frente a todos tus invitados que tú y yo tenemos una aventura. ¿Verdad?
 #Speaker: elodie_willful
 I know.
-I know.
+Lo sé.
 #choice:
 I plan to use you, then drop you
-I plan to use you, then drop you
+Voy a utilizarte, para después dejarte
 #choice:
 I plan to marry you.
-I plan to marry you.
+Tengo intención de casarme contigo
+#Speaker: elodie_willful
+I'm the Queen.  I can have whatever favorites I like, then drop them when they bore me.
+Soy la reina. Puedo usar a quien quiera, y después dejarlo cuando me aburra.
+#Speaker: elodie_willful
+And that will hurt your reputation more than it does mine.
+Y eso afectará negativamente a tu reputación más que a la mía.
+#Speaker: banion
+Ruthless, aren't you? Without allies, even a queen can reach too far. And you {i}do{/i} need a husband.
+Eres despiadada, ¿verdad? Sin aliados puedes llegar lejos, pero {i}necesitas{/i} un marido.
+#Speaker: banion
+I only ask you to consider it. We could do much together.
+Sólo te pido que lo consideres. Podríamos hacer mucho juntos.
+#Speaker: elodie_neutral
+Hmmm.
+Hmmm.
+#Speaker: elodie_cheerful
+That's because I intend to marry you.
+Eso es porque tengo intención de casarme contigo.
+#Speaker: banion
+I thought you were already engaged?
+¿Creí que ya estabas comprometida?
+#Speaker: elodie_willful
+Engagements are broken every day.
+Se rompen compromisos todos los días.
+#Speaker: elodie_neutral
+You're powerful, experienced, and sneaky.  I think we could make a good match.
+Eres poderoso, experimentado y astuto. Creo que podríamos hacer una buena pareja.
+#Speaker: elodie_neutral
+But for now, I intend to dance.
+Pero por ahora, mi único objetivo es bailar.
+#Speaker: elodie_afraid
+#Speaker: banion
+If you don't marry me now, your virtue will be stained.
+Si no te casas conmigo ahora, tu virtud se verá salpicada.
+#Speaker: elodie_angry
+I am already engaged!
+¡Ya estoy prometida!
+#Speaker: banion
+Then your honor is compromised no matter what you do. You should have been more careful.
+Entonces tu honor se verá afectado hagas lo que hagas. Deberías haber tenido más cuidado.
+#Speaker: banion
+{b}I{/b} don't consider your value lowered by your association with the Duke of Sedna.
+{b}No{/b} te tengo en peor estima por haberte comprometido con el Duque de Sedna.
+#Speaker: banion
+Are you certain he will be so forgiving?
+¿Estás segura de que será tan indulgente?
+#choice:
+Choose Duke of Sedna
+Elegir al Duque de Sedna
+#Speaker: elodie_angry
+I'd rather deal with him than with a man who tried to trick me into marriage!
+¡Prefiero tratar con él que con un hombre que ha tratado de engañarme para casarse conmigo!
+#Narration
+You throw his hands aside and stomp off the dance floor.
+Apartas sus manos a un lado y sales de la pista de baile.
+#choice:
+Choose Duke of Maree
+Elegir al Duque de Maree
+#Speaker: elodie_yielding
+... fine.  You win.
+... Bien. Tú ganas.
+#Speaker: banion
+Don't make it sound so bad. I want what's best for both of us, and our domain.
+No te pongas así.  Quiero lo mejor para los dos, y para nuestro reino.
+#Speaker: banion
+We can be married after your coronation. It will be lovely.
+Podemos casarnos después de tu coronación. Será precioso.
+#Speaker: elodie_angry
+That's not fair!
+¡No es justo!
+#Speaker: banion
+Little in life is fair, Your Highness. Was it fair to force my sister to marry her enemy?
+Hay pocas cosas justas en esta vida, Alteza. ¿Acaso fue justo obligar a mi hermana a casarse con su enemigo?
+#Speaker: banion
+I need heirs and so do you. I am the highest-ranking eligible man in the domain.
+Necesito herederos igual que tú. Yo soy el candidato de más rango en el reino.
+#Speaker: banion
+You clearly could not wed your own father or uncle, Young Elath is still a child, and the Duke of Kigal is happily married.
+Claramente no podrías casarte con tu propio padre o con tu tío, el joven Elat es todavía un niño y el Duque de Kigal está felizmente casado.
+#Speaker: banion
+I am the only match worthy of you.
+Yo soy el único candidato digno de ti.
+#Speaker: elodie_yielding
+You have a point.
+Tienes razón.
+#Speaker: banion
+You are, of course, too young to marry until after your coronation. You will need time to prepare.
+Eres, por supuesto, demasiado joven para casarte todavía. Tendrás tiempo para prepararte hasta después de tu coronación.
+#Speaker: banion
+Don't be sad. I want what's best for both of us and our domain.
+No estés triste. Quiero lo mejor para los dos y para nuestro reino.
+#Speaker: elodie_angry
+You are pushing your luck, Banion.
+Estás tentando a la suerte, Banion.
+#Narration
+Your use of his untitled name does not intimidate him.
+El uso de su nombre de pila no lo intimida.
+#Speaker: banion
+Am I?
+¿De verdad?
+#Speaker: banion
+Surely, as Queen, you would act in accordance with your responsibilities, just as you expect of your court.
+Claramente, como reina, actuarás de acuerdo con tus responsabilidades, tal como esperas de tu corte.
+#Speaker: elodie_angry
+Yes, I will marry, but I will marry the person who is best for me and my domain.
+Sí, me casaré, pero lo haré con la persona más adecuada tanto para mi como para mi reino.
+#Speaker: elodie_willful
+And quite simply, the Duke of Sedna has more to offer than you do.
+Y, sencillamente, el Duque de Sedna tiene más que ofrecer que tú.
+#Narration
+Low chuckles accompany his retreat.  You have defeated him, but not gracefully enough to avoid giving offense.
+Se retira riéndose entre dientes. Le has derrotado, pero no con elegancia suficiente como para evitar ofenderle.
+#Speaker: elodie_willful
+So if you want to win my hand, you'd better set about proving your worth.
+Así que si quieres ganar mi mano, mejor dedícate a demostrar tu valía.
+#Narration
+The Duke of Maree smiles wryly and inclines his head to you, acknowledging you the victor of this little verbal sparring match.
+El Duque de Maree sonríe con ironía e inclina la cabeza hacia ti, reconociéndote vencedora de este pequeño combate verbal.
+#Speaker: elodie_angry
+Not the one who bullies me into it.
+No con la persona que me intimida para hacerlo.
+#Narration
+There are low chuckles around the room, but you're not sure which one of you they're laughing at.
+Se oyen algunas risitas en la habitación, pero no estás segura de cuál de los dos se están riendo.
+#Speaker: elodie_neutral
+I don't think it would be appropriate.
+No creo que sea apropiado.
+#Speaker: elodie_cheerful
+After all, your fiancee might be overwhelmed with jealousy!
+
+¡Después de todo, tu prometida podría sentirse abrumada por los celos!
+# >= 1.3.x
+After all, your fiancée might be overwhelmed with jealousy!
+¡Después de todo, tu prometida podría sentirse abrumada por los celos!
+#Speaker: banion
+My...
+Yo...
+#Speaker: elodie_neutral
+My guests are already aware of my engagement to Talarist, Duke of Sedna.
+Mis invitados están al tanto de mi compromiso con Talarist, el Duque de Sedna.
+#Speaker: elodie_neutral
+Therefore, you are announcing your own engagement, are you not?
+Por lo tanto, tu estás anunciando tu propio compromiso, ¿no?
+#Narration
+He stands there, lost for words, and you know that you have won this battle.
+Él permanece allí, sin palabras, y tú eres consciente de que has ganado esta batalla.
+#Speaker: elodie_neutral
+After all, I am engaged to marry the Duke of Sedna.
+Al fin y al cabo, estoy comprometida para casarse con el Duque de Sedna.
+#Speaker: banion
+Of course you are.
+Por supuesto que sí .
+#Narration
+He bows and backs away.  However, you are not certain your actions have done enough to discourage rumors.
+Se inclina y se retira. Sin embargo, no estás segura de que tu respuesta haya sido lo suficientemente clara como para disuadir los rumores.
+#Speaker: banion
+Her respect for tradition and the rights of the nobility means that we can all sleep safe in our beds.
+Su respeto por la tradición y los derechos de la nobleza nos garantiza que todos podemos dormir seguros en nuestras camas.
+#Speaker: banion
+Our boundaries are strong and secure, our lands well-defended. No one would dare to steal from us.
+Nuestras fronteras están bien protegidas, y nuestras tierras bien defendidas. Nadie se atrevería a robarnos.
+#Speaker: banion
+Our mother entrusted the jewel of her lands to my sister Brin, a bequest which the princess holds in honor.
+Nuestra madre confió la joya de sus tierras a mi hermana Brin, un legado que la princesa ostenta con honor.
+#Narration
+The blatant falseness of his words grates on your ears.  He's challenging your honor in front of the entire assembly.
+La falsedad flagrante de sus palabras chirría en tus oídos. Está desafiando tu honor delante de todas los invitados.
+#Speaker: elodie_angry
+(He wants me angry.  He wants me to make a mistake.)
+(Quiere que me enoje. Quiere que cometa un error.)
+#Speaker: elodie_angry
+(I can't let this slide!)
+(¡No puedo pasarlo por alto!)
+#choice:
+Challenge him to a duel
+Retarlo a un duelo
+#choice:
+Ignore the insult
+Ignorar el insulto
+#choice:
+Accuse him of sending assassins
+Acusarlo de enviar asesinos
+#choice:
+Order his execution
+Ordenar su ejecución
+#Speaker: elodie_angry
+You insult my honor.
+!Insultas mi honor¡
+#Speaker: joslyn
+Elodie, no!
+¡Elodie, no!
+#If you invited Talarist: Narration
+A hand claps onto your arm.
+Una mano agarra tu brazo.
+#Speaker: talarist <= 1.3.17
+Don't. He's not worth dying for. 
+No lo hagas. No vale la pena morir por él. 
+# >= 1.3.18 (trailing space pulled.)
+Don't. He's not worth dying for.
+No lo hagas. No vale la pena morir por él.
+#Narration
+From the look on your father's face, he is torn between wanting to agree and wanting to order this man to let go of you.
+A juzgar por la expresión de tu padre, se debate entre darle la razón o pedirle que te suelte.
+#Speaker: banion
+Let Her Royal Highness speak for herself. Or are you declaring to her to be incompetent?
+Dejen que Su Alteza Real hable por sí misma. ¿O es que la declaran incompetente?
+#Speaker: talarist
+I am not yet her subject. When she is crowned and I give my oath, I will obey. Until that time, I will protect her.
+Todavía no soy su súbdito. Cuando ella sea coronada y yo haga mi juramento, obedeceré. Hasta entonces, mi intención es protegerla.
+#Speaker: talarist
+You should be ashamed that you Novans show less loyalty to your future Queen than I, a foreign visitor.
+Debería avergonzaros que yo, un visitante extranjero, muestre más lealtad hacia la futura reina que vos.
+#Narration
+There is an unpleasant stir among the crowd at his words.
+Se produce un desagradable revuelo entre la multitud tras sus palabras.
+#Speaker: elodie_depressed
+(The last time a noble from Sedna married into a Novan family, their child was murdered by Novans... Talarist may feel he has a right to judge them.)
+(La última vez que un noble de Sedna se casó con una familia de Nova, su hijo fue asesinado por gente de Nova... Talarist puede sentir que tiene derecho a juzgarlos.)
+#Speaker: elodie_angry
+(There are rumors that Sedna has sent assassins after Novan nobles in the past. Is he threatening my court?)
+(Hay rumores de que Sedna ha enviado asesinos contra algunos nobles de Nova en el pasado. ¿Está amenazando a mi corte?)
+#Speaker: elodie_afraid
+(Aren't Nova and Talasse supposed to be friends?)
+(¿No deberían ser Nova y Talasse aliados?)
+#menu:
+#choice:
+Speak Up
+Hablar
+#choice:
+Stay Quiet
+Callar
+#Speak Up, Internal Affairs variant
+#Speaker: elodie_angry
+Banion is no representative. He is not the first in his family to prove himself unfit.
+Banion no representa a nadie. Y no es el primero de su familia en demostrar su incapacidad.
+#Speaker: elodie_angry
+However, I have complete confidence in the rest of my court. They do not deserve your scorn.
+Sin embargo, tengo plena confianza en el resto de mi corte. Ellos no merecen tu desprecio.
+#Speaker: elodie_willful
+After all, you will soon be among them.
+Después de todo, pronto estarás entre ellos.
+#Speaker: talarist
+{tag=talarist, to elodie}Of course.
+Por supuesto.
+#Narration
+You take a deep breath and let it out slowly as the crisis passes.
+Respiras profundamente mientras te tranquilizas.
+#Speak Up, Foreign Intelligence variant
+#Speaker: elodie_angry
+The loyalty of Novans does not deserve your scorn.
+La lealtad de la gente de Nova no merece tu desprecio.
+#Speaker: elodie_willful
+After all, you are not a foreigner. I have already conquered you.
+Después de todo, no eres un extranjero. Porque yo ya te he conquistado.
+#Narration
+No one quite seems to know what to say to that.
+Nadie parece saber qué decir al respecto.
+# Speak Up, otherwise
+#Speaker: elodie_neutral
+We shouldn't be arguing. We are all allies here, right?
+No deberíamos estar discutiendo. Todos somos aliados, ¿verdad?
+# Flattery success
+#Speaker: elodie_neutral
+The Duke of Maree and I do not agree on certain matters of state. I respect his courage and integrity for being willing to hold this position openly.
+El Duque de Maree y yo discrepamos sobre ciertos asuntos de Estado. Respeto su valentía e integridad por estar dispuesto a mantener su postura abiertamente.
+#Speaker: elodie_angry
+Knowing that I would be within my rights to demand satisfaction for his words.
+Sabiendo que yo estaré en mi derecho de hacer cumplir sus peticiones.
+#Speaker: elodie_neutral
+He remains a valuable and respected member of my court, as I hope that you will become.
+Él sigue siendo un miembro valioso y respetado de mi corte, igual que tú lo serás.
+#Speaker: elodie_neutral
+I am sure you have many skills to offer in my service.
+Estoy segura de que tienes muchas habilidades que ofrecer a mi servicio.
+#Speaker: talarist
+I - of course, Your Highness.
+Yo - por supuesto, Alteza.
+#Narration
+#You take a deep breath and let it out slowly as the crisis passes.
+#Narration
+From the smirk on Banion's face, you suspect you've said something foolish. However, the immediate crisis is averted.
+A juzgar por la sonrisa en el rostro de Banion, sospechas que has dicho alguna tontería. Sin embargo, has evitado la inminente crisis.
+#Stay quiet, Narration
+Your cheeks burn, but you can't think of anything to say to make the situation better.
+Te arden las mejillas, y no se te ocurre nada más que decir para mejorar la situación.
+#Speaker: talarist
+But it is not stability, not when your first action would be an insult to the domain of Talasse.
+Pero no es estabilidad, no cuando su primera acción sería un insulto para el reino de Talasse.
+#Speaker: banion
+Do you see? Already, this outsider attempts to control us!
+¿Lo veis? ¡Este extranjero ya está intentando controlarnos!
+#Narration
+You pull off one of your long white gloves and hurl it to the ground at Banion's feet.
+Te quitas uno de tus largos guantes blancos y lo arrojas al suelo a los pies de Banion.
+#Speaker: elodie_angry
+I demand satisfaction.
+¡Exijo un duelo!
+#Speaker: banion
+Witness that it was never my intent to endanger the royal succession.
+Sean todos testigos de que nunca fue mi intención poner en peligro la sucesión real.
+#Speaker: banion
+However, these actions prove that Her Royal Highness is too unstable and too immature to sit the throne.
+Sin embargo, esta forma de actuar demuestra que Su Alteza Real es demasiado inestable y demasiado inmadura para sentarse al trono.
+#Speaker: banion
+For the safety of our domain, I will accept.
+Por la seguridad de nuestro reino, aceptaré.
+#Narration
+The floor is cleared and both of you change into more appropriate attire.  As challenged party, Banion has the choice of weapons.  He chooses swords.
+Se despeja el suelo y ambos os cambiáis a un atuendo más apropiado. Como parte desafiada, Banion puede elegir las armas. Elige espadas.
+#Speaker: elodie_angry
+Die!
+¡Muere!
+#Narration
+You charge in, swinging your blade wildly, trusting that he would not dare seriously attempt to harm a young woman of royal blood in front of so many witnesses.
+Cargas contra él, balanceando tu arma peligrosamente, confiando en que no se atreva a dañar a una joven princesa delante de tantos testigos.
+#Narration
+Unfortunately, you are {i}fatally{/i} incorrect.
+Desafortunadamente, estás {i}terriblemente{/i} equivocada.
+#Narration
+The last thing you see is the expression on Banion's face.  He seems almost regretful.  You wonder why... but you don't wonder for long.
+Lo último que ves es la expresión en el rostro de Banion. Parece arrepentido. Te preguntas por qué... pero no te lo preguntas por mucho tiempo.
+#Narration
+You charge in, but cautiously, meeting his blade with your own as you circle, testing each other for weaknesses.
+Cargas contra él, pero con cautela, chocando vuestras espadas en círculo, mientas os observáis el uno al otro buscando debilidades.
+#Narration
+Your opponent appears to be in no hurry.  His training and experience may appear to give him the edge, but you have youthful energy on your side.  You may be able to outlast him.
+Tu oponente parece no tener prisa.  Su formación y experiencia le dan ventaja, pero tú eres más joven y enérgica. Podrías ser capaz de vencerlo.
+#Narration
+Your athletic training has toned your muscles and given you the strength to carry on for long periods of time.
+Tu entrenamiento atlético ha tonificado tus músculos y te ha dado fuerza y aguante.
+#Narration
+Unfortunately, you are not in the most athletic of conditions.  Your strength begins to flag.
+Por desgracia, no te encuentras en muy buena forma. Tu fuerza empieza a flaquear.
+#Narration
+One strike slips past your defenses, then another, and before you know it, you lie bleeding at the feet of the Duke of Maree.
+Un ataque atraviesa tus defensas, luego otro, y antes de que te des cuenta, te encuentras sangrando a los pies del Duque de Maree.
+#Narration
+#Narration
+Round and around you go.  Is it your imagination, or are his movements a fraction slower than they were when you began?
+Vueltas y más vueltas. ¿Es tu imaginación, o son sus movimientos una fracción más lentos de lo que eran cuando empezasteis?
+#Narration
+One of you needs to win, and quickly.  Now is the time to press.
+Uno de los dos tiene que ganar, y rápido. Ahora es el momento de darlo todo.
+#Narration
+One blow, another, a quick change, a twist of the blade, and - there!
+Un golpe, otro, un giro rápido, una estocada, y - ¡Al fin!
+#Narration
+Your sword sinks into his flesh just under his ribcage, and he falls.
+Tu espada se hunde en su carne justo debajo de la caja torácica, y se desploma.
+#Narration
+You stand there, gasping for breath, with his blood on your feet.
+Permaneces quieta, sin aliento, con su sangre en los pies.
+#Speaker: elodie_depressed
+The matter is resolved.
+El asunto está resuelto.
+#Speaker: elodie_depressed
+...  His titles will pass to his brother Bennett.
+... Sus títulos pasarán a su hermano Bennett.
+#Speaker: elodie_depressed
+...  His titles will pass to the offspring of his brother Bennett.
+... Sus títulos pasarán a los hijos de su hermano Bennett.
+#Speaker: elodie_depressed
+This gathering is over.
+Esta "fiesta" ha terminado.
+#Narration
+In silence, you walk away.  You're not in the mood to talk to anyone else right now.
+Te alejas en silencio. No estás de humor para hablar con nadie en este momento.
+#Narration
+Unfortunately, your skills are no match for those of a soldier.
+Por desgracia, tus habilidades no son rival para las de un soldado.
+#Narration
+#Narration
+#Narration
+You turn your head away, pretending not to notice the concerned murmurs around you.
+Miras para otro lado, fingiendo no darte cuenta de los murmullos que te rodean.
+#Narration
+Better to look like a coward than to indulge in pointless fighting... right?
+Mejor parecer un cobarde que meterte en un combate sin sentido... ¿Verdad?
+#Speaker: elodie_angry
+Bold words from one who dabbles in assassination.
+Osadas palabras de alguien aficionado al asesinato.
+#Speaker: banion
+{tag=banion}What?
+¿Qué?
+#Speaker: elodie_angry
+The entire capital saw your agent try and fail to take my life.  That was not honorable.
+Toda la capital vio a tu agente intentando quitarme la vida, y fracasando. Algo nada honorable.
+#Speaker: elodie_angry
+(I don't really know it was him, but it could have been.  What matters is that it sounds good.)
+(Realmente no sé si fue él, pero podría haber sido. Lo que importa es que suena bien.)
+#Speaker: elodie_angry
+(The clues actually pointed to someone else, but that doesn't mean he {i}didn't{/i} do it.)
+(Las pistas en realidad apuntaban a otra persona, pero eso no quiere decir que el {i}no{/i} lo haya hecho.)
+#Speaker: banion
+I...
+Yo...
+#Speaker: elodie_angry
+Silence!
+¡Silencio!
+#choice:
+Imprison him
+Encarcelarlo
+#Speaker: elodie_angry
+For your crimes, you will be stripped of your titles and imprisoned.
+Por tus crímenes, serás despojado de tus títulos y encarcelado.
+#choice:
+#Speaker: elodie_angry
+For your crimes, you will be executed.
+Por tus crímenes, serás ejecutado.
+#Speaker: banion
+This is ridiculous! Surely you won't let her do this!
+¡Esto es ridículo! ¡¿Ninguno le dejara hacer eso, verdad?!
+#Narration
+No one moves to his defense.
+Nadie sale en su defensa.
+#Speaker: elodie_angry
+His titles will pass to his brother Bennett.
+Sus títulos pasarán a su hermano Bennett.
+#Speaker: elodie_angry
+His titles will pass to the offspring of his brother Bennett.
+Sus títulos pasarán a los hijos de su hermano Bennett.
+#Speaker: elodie_angry
+Guards, take him away.
+Guardias, llevároslo.
+#Narration
+After that, it seems that your remaining guests have little stomach for light entertainment.
+Después de esto, parece que a tus invitados restantes les queda pocas ganas de entretenimiento.
+#Speaker: elodie_angry
+I don't have to listen to this.  Guards!  Off with his head!
+No tengo por qué escuchar esto. ¡Guardias! ¡Que le corten la cabeza!
+#Speaker: banion
+Do you see? Impulsive, violent, and chaotic. Is this really what we want in our leader?
+¿Lo ven? Impulsiva, violenta y caótica. ¿Es esto lo que realmente queremos en nuestro líder? 
+#Speaker: elodie_angry
+Guards, I said {i}arrest him!{/i}
+¡Guardias, dije que lo{i}arresten{/i}!
+#Narration
+A guard steps hesitantly towards the Duke of Maree, but the other nobles join ranks around him.
+Un guardia avanza vacilando hacia el Duque de Maree, pero los otros nobles unen filas en torno a él.
+#Speaker: elodie_crowded
+Traitors!
+¡Traidores!
+#Speaker: banion
+Listen well, all of you!
+¡Escuchen bien, todos ustedes!
+#Speaker: banion
+I respect our royal line. I make allowances for the princess' youth and recent tragedy.
+Yo respeto nuestro linaje real. Respeto la juventud de nuestra princesa y su reciente pérdida.
+#Speaker: banion
+But in these troubled times, we require strong leadership.
+Pero en estos tiempos difíciles, se requiere un liderazgo fuerte.
+#Speaker: banion
+In light of her inexperience, I move that the Princess be married to the strongest available candidate.
+A la luz de su inexperiencia, propongo que la princesa se case con el candidato más poderoso disponible.
+#Speaker: banion
+That man will then hold the throne as King Regent, to protect our princess and our domain.
+Ese hombre regentará el trono como rey, para proteger a nuestra princesa y a nuestro reino.
+#Speaker: banion
+As the {i}sole{/i} eligible Duke in Nova, that duty would fall to me.
+Como {i}único{/i} Duque elegible de Nova, este deber recaerá en mí.
+#Speaker: elodie_angry
+I'm already engaged to the Duke of Sedna.
+Yo ya estoy prometida al Duque de Sedna.
+#Speaker: banion
+Engagements can be broken.
+Los compromisos se rompen.
+#Speaker: elodie_angry
+So you admit, you're just trying to take power for yourself.
+Así que lo admites, estás tratando de ganar más poder para ti.
+#Speaker: banion
+There is no other choice!
+¡No hay otra opción!
+#Speaker: banion
+The Duke of Sedna is a foreigner. It would be inconceivable to give him full control here.
+El Duque de Sedna es un extranjero. Sería inconcebible darle el control total de nuestro reino.
+#Speaker: banion
+#Speaker: banion
+For the stability of Nova, I am the only candidate.
+Para la estabilidad de Nova, yo soy el único candidato.
+#Speaker: joslyn
+By right of blood, Elodie is your Queen.
+Por derecho de sangre, Elodie es tu reina.
+#Speaker: banion
+Elodie would retain her title and her children would inherit, but we cannot afford an incompetent Queen.
+Elodie conservaría su título y sus hijos lo heredarán, pero no podemos permitirnos una reina incompetente.
+#Speaker: elodie_neutral
+Father, I am capable of speaking for myself.  Isn't that what this is all about?
+Padre, soy capaz de hablar por mí misma. ¿No es eso de lo que trata todo esto?
+#Narration
+You face the assembled nobles and put the power of command into your voice.
+Encaras a los nobles reunidos y das tono importante a tu voz.
+#Speaker: elodie_angry
+You may not like everything I do, but I act for the good of the domain.
+Puede que no os guste todo lo que hago, pero actúo por el bien del reino.
+#Speaker: elodie_angry
+This man, one of my sworn Dukes, is acting to undermine my rule in order to advance his own power.
+Este hombre, uno de mis Duques juramentados, está intentando quebrantar mis reglas con el fin de ganar más poder.
+#Speaker: elodie_angry
+He wishes to be made King by your hands.  He has admitted it.  Will you be so used?
+Él desea ser nombrado rey gracias a ustedes. Lo ha admitido. ¿Van a dejarse utilizar de semejante manera?
+#Speaker: elodie_angry
+I say this man is a traitor.  I say this man is plotting against the throne.
+Yo digo que este hombre es un traidor. Yo digo que este hombre está conspirando contra el trono.
+#Speaker: elodie_angry
+And for this crime, he must die.  Do you deny my right?
+Y por este crimen, debe morir. ¿Acaso niegan mi derecho?
+#Narration
+The assembled guests murmur among themselves, then step back, leaving Banion exposed.
+Los invitados reunidos murmuran entre sí, y continuación dan un paso atrás, dejando Banion expuesto.
+#Speaker: elodie_willful
+Now, as I was saying.  {b}GUARDS!{/b}
+Ahora, como decía. {b}¡GUARDIAS!{/b}
+#Narration
+He knows when he has lost - he puts up no struggle.
+Banion sabe cuando ha perdido - no opone ninguna resistencia.
+#Speaker: elodie_angry
+#Speaker: elodie_angry
+#Speaker: elodie_willful
+For the good of the realm.
+Por el bien del reino.
+#Narration
+#Speaker: elodie_crowded
+I am {b}not{/b} incompetent!!
+¡¡{b}No{/b} soy una incompetente!!
+#Narration
+It would seem that no one is listening to you anymore.
+Parece que ya nadie te está escuchando.
+#Speaker: banion
+I call for a vote among the Dukes and Duchesses of Nova.
+Propongo una votación entre los Duques y Duquesas de Nova.
+#Speaker: banion
+Do we leave our fates in the hands of a child, or do we take action?
+¿Dejamos nuestro destino en las manos de una niña, o tomamos medidas?
+#Speaker: banion
+The vote of Maree is for change.
+El voto de Maree es para el cambio.
+#Speaker: joslyn
+Caloris stands with the Queen.
+Caloris está con la Reina.
+#Speaker: laurent
+She is my sister's child, and I her stated heir.  I cannot vote.  I abstain.
+Ella es la hija de mi hermana, y yo su heredero. No puedo votar. Me abstengo.
+#Speaker: armand
+Mazomba stands with the Queen.
+Mazomba está con la Reina.
+#Speaker: julianna
+Ursul votes for change.
+Ursul vota por el cambio.
+#Speaker: julianna
+Ursul stands with the Queen.
+Ursul está con la Reina.
+#Narration
+The Duchess of Ursul is not present and therefore gets no vote.
+La Duquesa de Ursul no está presente y por lo tanto, no tiene voto.
+#Speaker: ignatius
+Owing to circumstances, I must abstain.
+Debido a las circunstancias, debo abstenerme.
+#Speaker: severin
+Kigal votes for change.
+Kigal vota por el cambio.
+#Speaker: severin
+Kigal stands with the Queen.
+Kigal vota por la Reina.
+#Speaker: lieke
+Sudbury votes for change.
+Sudbury vota por el cambio.
+#Speaker: lieke
+Sudbury stands with the Queen.
+Sudbury está con la Reina.
+#Speaker: corisande
+Mead votes for change.
+Mead vota por el cambio.
+#Speaker: corisande
+Mead stands with the Queen.
+Mead está con la Reina.
+#Speaker: corisande
+This process is distasteful.  I abstain.
+Esta votación es de mal gusto. Me abstengo.
+#Speaker: arisse
+Lillah votes for change.
+Lillah vota por el cambio.
+#Speaker: arisse
+Lillah stands with the Queen.
+Lillah apoya a la Reina.
+#Speaker: fabian
+Elath agrees with Lillah.
+Elath está de acuerdo con Lillah.
+#Speaker: brin
+Hellas votes for change.
+Hellas vota por el cambio.
+#Speaker: bennett
+Hellas stands with the Queen.
+Hellas está con la Reina.
+#Narration
+You do a bit of quick tallying in your head and realise... you've {i}lost.{/i}
+Haces un recuento rápido mentalmente y te das cuenta...  has{i}perdido.{/i}
+#Speaker: banion
+I serve the will of the people.
+Los nobles de Nova han hablado.
+#Speaker: elodie_crowded
+No!  No, no, no!
+¡No!  ¡No, no, no!
+#Speaker: joslyn
+#Speaker: joslyn
+Elodie, go to your room.
+Elodie, a tu habitación.
+#Speaker: elodie_angry
+You can't make me!  I'm the Queen!
+¡No puedes obligarme! ¡Soy la reina!
+#Speaker: banion
+No. You are not.
+No. No lo eres.
+#Speaker: banion
+Guards, please escort the princess to her rooms - gently.
+Guardias, por favor escoltar a la princesa a sus aposentos - con delicadeza.
+#Speaker: banion
+I apologise for the disruption. I want to ensure a smooth transition.
+Pido disculpas por la interrupción. Quiero asegurar una transición segura.
+#Speaker: banion
+As soon as we can arrange the ceremony, we will be married.
+Tan pronto como podamos organizar la ceremonia, estaremos casados.
+#Narration
+You do a bit of quick tallying in your head and realise... you've won!
+Haces un recuento rápido mentalmente y te das cuenta...  ¡Has ganado!
+#Speaker: elodie_willful
+The votes have been cast, and I remain Queen.
+Los nobles han hablado. Yo sigo siendo reina.
+#Speaker: elodie_angry
+And {i}you{/i} remain a traitor to the realm.
+Y {i}tú{/i} sigues siendo un traidor al reino.
+#Speaker: elodie_angry
+One who has just attempted to lead a coup.
+Uno que acaba de intentar un golpe de Estado.
+#Speaker: elodie_angry
+Your life will be your apology.
+Tu vida será tu disculpa.
+#Speaker: elodie_crowded
+GUARDS!
+¡GUARDIAS!
+#Narration
+#Narration
+You do a bit of quick tallying in your head and realise that the result has come to an even tie.
+Haces un recuento rápido mentalmente y te das cuenta de que el resultado es un empate.
+#Speaker: elodie_afraid
+Uncle Laurent, you {i}have{/i} to vote for me...
+Tío Laurent, {i}tienes{/i} que votar por mí ...
+#Narration
+His wife, the Countess Nix, nudges him discreetly, and he sighs.
+Su esposa, la Condesa Nix, le da un codazo discretamente, y él suspira.
+#Speaker: laurent
+Very well. Merva stands with the queen.
+Está bien. Merva apoya a la reina.
+#Speaker: elodie_cheerful
+I win!
+¡Gané!
+#Narration
+As the gala continues, you take the opportunity to observe nobles that you rarely see.
+Mientras la gala continúa, aprovechas para observar a los nobles que ves en contadas ocasiones.
+#Narration
+There's Gwenelle, for instance - the Young Lady of Sudbury, only months older than you and due to finally inherit control of her duchy soon.
+Está Gwenelle, por ejemplo - la joven señora de Sudbury, sólo unos meses mayor que tú y a punto de heredar el control de su ducado.
+#Narration
+Or Adele, the youngest daughter of the Duchess of Lillah and a fierce sportswoman.  She was a few years ahead of you at school and the absolute terror of the ballfields.
+O Adele, la hija menor de la Duquesa de Lillah. Ella iba unos años por delante tuya en la escuela y era la mejor en los deportes.
+#Narration
+No Briony - she had said her parents were leaving her stuck at school this season.
+No está Briony - Te dijo que sus padres la dejarían en un internado este curso.
+#Narration
+Her parents are here, but they dance at an awkward arm's length from each other.  Something must be wrong there.
+Sus padres están aquí, pero bailan a demasiada distancia el uno del otro, con los brazos estirados. Algo malo pasa ahí.
+#Narration
+Her parents are here, dancing together - the Duke-Consort clutching his Duchess possessively tight.
+Sus padres están aquí, bailando juntos - el Duque consorte y la Duquesa bailan muy apretados.
+#Narration
+Strange that there's no sign of your cousins, though.  Shouldn't they be here?
+Sin embargo, es raro que no haya señales de tus primos. ¿No deberían estar aquí?
+#Narration
+Especially after you'd specifically asked for Charlotte to come and see you?
+¿Sobre todo después de que pidieras específicamente a Charlotte que viniera a verte?
+#Narration
+Your aunt and uncle {i}are{/i} here, of course.  It would be scandalous if they hadn't come, Merva being so close by.
+Tu tía y tu tío {i}están{/i} aquí, por supuesto. Sería escandaloso si no hubieran asistido, estando Merva tan cerca.
+#Narration
+Merva...  That's where the assassin came from!
+Merva... ¡Ahí es de donde vino el asesino!
+#Narration
+Your uncle Laurent is next in line to the throne.  If you die, he'll be king.  But he's your {b}uncle.{/b} Would he really have tried to kill you?
+Tu tío Laurent es el siguiente en la línea de sucesión. Si tú mueres, él será rey. Pero él es tu {b}tío.{/b} ¿Intentaría realmente matarte?
+#Narration
+Accusing him in public would damage his honor.  It would make the two of you enemies - if you aren't already.
+Acusarlo públicamente dañaría su honor. Os convertiría a ambos en enemigos - si no lo sois ya.
+#Narration
+And is it wise to accuse him in such a public place?
+¿Es prudente acusarlo en un lugar tan público?
+#choice:
+Accuse him
+Acusarlo
+#choice:
+#Speaker: elodie_angry
+Your Grace!
+¡Conde de Merva!
+#Narration
+Conversation dies at the tone of your voice.
+Se hace el silencio al escucharse tu voz.
+#Speaker: elodie_angry
+Would you care to explain why you sent an {i}assassin{/i} to greet me at the parade?
+¿Le importaría explicar por qué envió un {i}asesino{/i} a recibirme en el desfile?
+#Speaker: laurent
+{tag=laurent}What?
+¿Qué?
+#Speaker: elodie_angry
+Are you so eager to claim my inheritance?  I have proof!
+¿Estás tan ansioso por reclamar mi herencia? ¡Tengo pruebas!
+#Speaker: laurent
+Elodie... you are my sister's child. I swear by all the gods, I have never meant you harm.
+Elodie... eres la hija de mi hermana. Lo juro por todos los dioses, nunca te haría daño.
+#Speaker: laurent
+There must be some mistake.
+Tiene que haber un error.
+#Narration
+Even if you believe him, you cannot back down now without a massive loss of face.  Accusations of treason are not made lightly.  And, after all, you {i}do{/i} have proof.
+Incluso si le crees, no puedes dar marcha atrás ahora sin dañar tu imagen drásticamente. Las acusaciones de traición no se hacen a la ligera. Y, al fin y al cabo, {i}tienes{/i} pruebas.
+#Narration
+His words seem sincere... but what better way to hide treasonous intent?
+Sus palabras parecen sinceras... pero ¿qué mejor manera de ocultar el intento de traición?
+#choice:
+Agree that you made a mistake
+Aceptar que has cometido un error
+#choice:
+#choice:
+#Speaker: elodie_yielding
+Perhaps you're right.  Perhaps there is some other explanation.  My apologies.
+Tal vez tengas razón. Tal vez haya otra explicación. Mis disculpas.
+#Narration
+He is your uncle, after all.  Charlotte's father.  He's family.
+Él es tu tío, después de todo. El padre de Charlotte. Él es de la familia.
+#Narration
+That doesn't stop the whispers, though, and after that, the gathering soon breaks up.
+Sin embargo, no consigues impedir los susurros. Tras lo acontecido, la reunión acaba pronto.
+#Speaker: elodie_depressed
+I wish there were.  I don't want to do this.
+Ojalá lo hubiera. No quiero hacer esto.
+#Speaker: elodie_angry
+But for the safety of my domain, I have no choice.  You will be imprisoned until further notice.
+Pero por la seguridad de mi reino, no me queda otra opción. Serás encarcelado hasta nuevo aviso.
+#Speaker: elodie_lonely
+Guards... take him away.
+Guards... take him away.
 # Mood adjustments.
 +2 Afraid
 +2 Asustada
