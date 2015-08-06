@@ -91,13 +91,13 @@ Evrard
 Evrard
 #Speaker: charlotte
 I love this room! It's so much bigger than mine back home.
-¡Me encanta esta habitación! Es mucho más grande que la mía en casa.
+¡Me encanta esta habitación! Es mucho más grande que la mía.
 #Speaker: elodie_neutral
 You should visit more often. It's awful that the only time I get to see you is...
 Deberias visitarme más a menudo. Es terrible que la única vez que te vea sea...
 #Speaker: elodie_lonely
 ... something like this.
-... por algo como esto.
+... por algo como lo que ha pasado.
 #Speaker: elodie_neutral
 I know your brother and sister are still too young, but why haven't you come to school?
 Sé que tus hermanos son todavía muy jóvenes, pero ¿Por qué no habéis venido a la escuela?
@@ -1213,7 +1213,7 @@ Hablar con tu Padre
 Play with Toys
 Jugar con Juguetes
 +1 Yielding\n+1 Lonely\n+1 Cheerful
-+1 Dócil\n+1 Soledad\n+1 Alegre
++1 Dócil\n+1 Soledad\n+1 Alegria
 +2 Willful\n+1 Lonely
 +2 Obstinada\n+1 Soledad
 +1 Willful\n+1 Depressed\n+1 Lonely
@@ -1221,7 +1221,7 @@ Jugar con Juguetes
 Walk in the Gardens
 Pasear por los jardines
 +1 Lonely\n+1Cheerful
-+1 Soledad\n+1Alegria
++1 Soledad\n+1 Alegria
 Attend Ball
 Attend Ball
 Attend court
@@ -1433,7 +1433,7 @@ You'll learn quickly and you'll make a wonderful queen.  It's what your mother w
 Aprenderás rápidamente y serás una Reina maravillosa.  Es lo que tu madre hubiera querido.
 #Speaker: elodie_angry
 This is not what Mother would have wanted!
-Esto no es lo que mama hubiera querido!
+¡Esto no es lo que mamá hubiera querido!
 #Speaker: elodie_depressed
 She wouldn't have wanted to die and leave me.
 Ella no hubiera querido morir y dejarme.
@@ -1466,10 +1466,10 @@ You look well, niece.
 Se te ve bien, sobrina.
 #Speaker: charlotte
 Hi, 'Lodie!
-Hola, Elodie!
+¡Hola Elodie!
 #Speaker: elodie_neutral
 Hi, Lottie. I haven't seen you in ages! Will you be staying long?
-Hola, Lottie. ¡No te había visto en siglos! ¿Te quedaras mucho tiempo?
+Hola, Lottie. ¡No te había visto en siglos! ¿Te quedarás mucho tiempo?
 #Speaker: charlotte
 Yup! Mummy said we'd be here all month.
 ¡Sí! Mamá dijo que nos quedaremos aquí todo el mes.
@@ -1492,7 +1492,7 @@ What?!?
 ¿¡¿Qué?!?
 #Speaker: julianna
 I am a Lumen, as was she, and like every Lumen I am willing to give my life if necessary to protect our domain. 
-Soy un Lumen, como lo era ella, y como cada lumen estoy dispuesta a dar mi vida si es necesario para proteger nuestro dominio.
+Soy un Lumen, como lo era ella, y como cada Lumen estoy dispuesta a dar mi vida si es necesario para proteger nuestro dominio.
 #Speaker: joslyn
 Your line has been traitors for two hundred years. I won't have you corrupting my daughter.
 Los tuyos han sido traidores cientos de años. No voy a dejar que corrompas a mi hija.
@@ -1557,7 +1557,7 @@ All of a sudden, the Duchess of Ursul rushes into the garden and points a sword 
 De repente, la Duquesa de Ursul se precipita en el jardín y ¡te apunta con una espada!
 #Narration
 No, not at you. At your... feet?
-No, a ti no. A tus... pies?
+No, a ti no. A tus... ¿pies?
 #Speaker: julianna
 Princess! Don't move!
 ¡Princesa! ¡No se mueva!
@@ -1569,7 +1569,7 @@ Look down
 Mirar abajo
 #Narration
 You want to hold still, but you don't have the composure to hold your position without peeking.
-No quieres moverte, pero no tienes la compostura para mantener la posicion sin mirar.
+No quieres moverte, pero no tienes la calma necesaria para mantener la posicion sin mirar.
 #Narration
 You bite your lip and hold perfectly still, resisting the urge to look down.
 Te muerdes el labio y te mantines perfectamente inmovil, resistiendo el impulso de mirar hacia abajo.
@@ -1584,7 +1584,7 @@ You look down at your feet and see a snake in the grass!
 Miras hacia abajo y ves ¡una serpiente en la hierba!
 #Speaker: charlotte_scared
 Eeeeeek!
-Eeeeeek!
+¡Eeeeeek!
 #Speaker: lucille
 What is going on out here?
 ¿Qué está pasando aquí?
@@ -1620,17 +1620,17 @@ Your cousin pushes you aside, and the snake's fangs sink into her leg.
 Tu prima te empuja a un lado, y los colmillos de la serpiente se hunden en su pierna.
 #Speaker: elodie_afraid
 Lottie!
-Lottie!
+¡Lottie!
 #Narration
 Too late, Julianna swings her sword and cuts off the snake's head.
 Demasiado tarde, Julianna balancea su espada y le corta la cabeza a la serpiente.
 #Speaker: lucille
 #Speaker: julianna
 Your daughter's been bitten by a milk viper. They're poisonous. Get an herbalist, right away!
-Su hija ha sido mordida por una víbora de leche. Son venenosas. Consigue un herbolario, de inmediato!
+Su hija ha sido mordida por una víbora de leche. Son venenosas. ¡Consigue un herbolario, de inmediato!
 #Speaker: lucille
 {b}I{/b} will treat my daughter. I certainly can't trust anyone here to keep her safe!
-{b}Yo{/b} trataré a mi hija. ¡Ciertamente no confío en nadie para mantenerla a salvo!
+{b}Yo{/b} curaré a mi hija. ¡Ciertamente no confío en nadie para mantenerla a salvo!
 #Speaker: elodie_afraid
 I'm sorry...
 Lo siento...
@@ -1642,7 +1642,7 @@ We will be returning home to Merva immediately.
 Volveremos a Merva inmediatamente.
 #Speaker: julianna
 Your aunt has a point. Milk vipers are not native to this area. That snake should never have been here.
-Tu tia tiene razón. Las víboras de leche no son nativas de esta zona. Esa serpiente nunca debería haber estado aquí.
+Tu tía tiene razón. Las víboras de leche no son nativas de esta zona. Esa serpiente nunca debería haber estado aquí.
 #Speaker: julianna
 Someone may have tried to kill you.
 Alguien podría haber intentado matarte.
@@ -1769,7 +1769,7 @@ We have a Duke of Sedna?
 ... No, mi Señora. El ducado de Sedna está en Talasse.
 #Speaker: alice_smile
 They have brought you a letter, and a gift.
-Te han traído una carta, y un regalo.
+Le han traído una carta, y un regalo.
 #Speaker: elodie_depressed
 'Condolences on the death of', 'deeply regret', 'best wishes'...
 'Condolencias por el fallecimiento de', 'Lamento profundamente', 'Mucha suerte'...
@@ -1842,7 +1842,7 @@ You run over to a statue and try to pull yourself up onto the pedestal, but it's
 Te apresuras hacia una estatua y tratas de subir por el pedestal, pero es muy complicado colocar bien los pies.
 #Narration
 By this time, whoever you saw is probably gone anyway.
-A estas alturas, quien quieras que vieses probablemente ya se haya ido.
+A estas alturas, quienquiera que fuese probablemente ya se haya ido.
 #choice:
 Call the guards
 Llamar a los guardias
@@ -1863,7 +1863,7 @@ You rush back to the safety of your stone tower. Better safe than sorry!
 Corres hacia la seguridad de tu torre de piedra. Más vale prevenir que curar!
 #Narration
 As you are walking up the stairs, a maid comes running down holding a towering pile of linen.
-Mientras subes las escaleras, una criada baja corriendo con un imponente pila de ropa de cama.
+Mientras subes las escaleras, una criada baja corriendo con una imponente pila de ropa de cama.
 #Narration
 You gracefully step aside and let her pass.
 Te haces a un lado y la dejas pasar.
@@ -2009,7 +2009,7 @@ No invertir
 #Speaker: elodie_depressed
 # Speaker: Banion
 Your Highness, my sympathies for your loss.  Even after all these years I sometimes forget that my own mother will never be coming back.
-Su Alteza, mis simpatías por su pérdida. Incluso después de todos estos años a veces me olvido de que mi propia madre nunca va a volver.
+Alteza, mis condolencias por su pérdida. Incluso después de todos estos años a veces me olvido de que mi propia madre nunca va a volver.
 #Speaker: banion
 However, I must call for your aid. The Ixionite occupation of the county of Imbrium has gone on for too long. Now is the time to push back.
 Sin embargo, debo pedirle ayuda. La ocupación Ixionite del condado de Imbrium se ha prolongado durante demasiado tiempo. Ahora es el momento de hacerlos retroceder.
@@ -2021,7 +2021,7 @@ Sin embargo, debo pedirle ayuda. La ocupación Ixionite del condado de Imbrium s
 (Sé que ha habido algunos problemas con Ixion, pero no sé los detalles. Supongo que están ocupando el sur de Maree.)
 #Speaker: elodie_neutral
 (We have plenty of troops, so it shouldn't be that hard to drive them out, if we want to make a fight of it.)
-(Tenemos un montón de tropas, por lo que no debería ser tan difícil expulsarlos, si queremos hacer pelear.)
+(Tenemos un montón de tropas, por lo que no debería ser tan difícil expulsarlos, si queremos pelear.)
 #Speaker: elodie_depressed
 (I don't know anything about the military. I don't want to fight.)
 (No sé nada de estrategia militar. No quiero pelear.)
@@ -2036,7 +2036,7 @@ Prepare for battle
 Prepararse para la batalla
 #Speaker: elodie_neutral
 Well, if they want a fight, then we'll give it to them. I will arrange for troops to be sent to your aid.
-Bueno, si quieren pelea, vamos a dársela. Voy acordar con las tropas para mandarlas en tú ayuda.
+Bueno, si quieren pelea, vamos a dársela. Organizaré las tropas para mandarlas en tú ayuda.
 #Speaker: elodie_neutral
 (Now that I'm a Lumen, I bet I could make the Ixionites run screaming with a little bit of magic.)
 (Ahora que soy un Lumen, apuesto a que podría hacer que los Ixionites corrieran gritando con un poco de magia.)
@@ -2057,13 +2057,13 @@ Thank you, Your Highness.
 Gracias, Alteza.
 #Speaker: banion
 Your Highness, if I may ask... That necklace you're wearing. Where did it come from?
-Alteza, si se me permite preguntar... Ese collar que lleva. ¿De dónde viene?
+Alteza, si se me permite preguntar... Ese collar que lleva. ¿De dónde proviene?
 #Speaker: elodie_neutral
 It was a gift from the Duke of Sedna.
 Fue un regalo del Duque de Sedna.
 #Speaker: banion
 Then, you have made arrangements with him?
-Entonces, ¿Ha hecho acuerdos con él?
+Entonces, ¿Ha llegado a un acuerdo con él?
 #Speaker: elodie_neutral
 (I think he's asking if I'm engaged to the Duke!)
 (¡Creo que está preguntando si estoy comprometida con el duque!)
@@ -2090,7 +2090,7 @@ If you say so, Your Highness.
 Si tú lo dices, Alteza.
 #Speaker: elodie_depressed
 Um...  What sort of arrangements?
-Um... ¿Qué tipo de acuerdos?
+Um... ¿Qué tipo de acuerdo?
 #Speaker: banion
 Your Highness, that is a courting gift. The man wishes to gain your hand in marriage.
 Alteza, eso es más que un obsequio. El hombre desea obtener su mano en matrimonio.
@@ -2388,13 +2388,13 @@ Además, hay una carta para ti.
 (Talarist, el Duque de Sedna, llegará la próxima semana para una visita oficial.)
 #Speaker: talarist
 Ah, Your Highness.  What a pleasure it is to meet you in person at last.  Your description did not do you justice.
-Ah, Su Alteza. ¡Qué placer es conocerle por fin en persona. Su descripción no le hace justicia.
+Ah, Alteza. ¡Qué placer es conocerle por fin en persona! Su descripción no le hace justicia.
 #Speaker: elodie_neutral
 You have a silver tongue, Your Grace, or an eye for unfinished potential. Both admirable qualities.
-Tienes una lengua de plata, Su Ilustrísima, o buen ojo para los diamantes en bruto. Ambas cualidades admirables.
+Tiene una lengua de plata señor, o buen ojo para los diamantes en bruto. Ambas cualidades admirables.
 #Speaker: elodie_cheerful
 *giggle*
-*giggle*
+*risita*
 #Speaker: elodie_neutral
 (I don't know how to deal with handsome older men paying me compliments!)
 (¡No sé tratar con hombres mayores y guapos dedicándome cumplidos!)
@@ -2415,7 +2415,7 @@ Politely decline
 Rechazar cortésmente
 #Speaker: elodie_cheerful
 I would be honored!
-¡Sería un honor!
+¡Será un honor!
 #Speaker: joslyn
 Elodie!
 ¡Elodie!
@@ -2427,7 +2427,7 @@ It's my decision.
 Es mi decisión.
 #Speaker: talarist
 A betrothal only, of course. There is no need for hurry. You have your coronation to plan for, after all.
-Sólo un compromiso, por supuesto. No hay prisa. Usted tiene que planear su coronación, después de todo.
+Sólo un compromiso, por supuesto. No hay prisa. Usted tiene que preparar su coronación, después de todo.
 #Speaker: talarist
 If I might be of service in any way, please, send for me. I will be happy to offer my protection or advice.
 Si se me requiere de alguna manera, por favor, hágamelo saber. Estaré encantado de ofrecer mi protección o consejo.
@@ -2565,10 +2565,10 @@ Lied to her, they did, when she went to see why he'd not come back.  Said he'd g
 Le mintieron, lo hicieron, cuando fue a ver por qué no iba a volver. Dijo que se había ido para soldado, cuando él nunca lo haría!
 #Speaker: condemned_woman
 He weren't the only one neither.  I waited ten years for my chance to get my own back.  That's justice!
-Él tampoco era el único. Esperé diez años mi oportunidad de vengarme. ¡Eso es justicia!
+Él tampoco fue único. Esperé diez años mi oportunidad de vengarme. ¡Eso es justicia!
 #Speaker: kevan
 You see? She's completely unrepentant! Hang her and be done with it.
-¿Lo ves? ¡No se arrepiente en absoluto! Cuelgue la y acabemos de una vez.
+¿Lo ve? ¡No se arrepiente en absoluto! Cuélguela y acabemos de una vez.
 #Speaker: elodie_neutral
 (This must be about the last Duke of Mead. He had a lot of servants who were 'mysteriously' injured or killed.)
 (Esto debe ser sobre el último Duque de Mead. Tenía un montón de criados que acabaron 'misteriosamente' heridos o muertos.)
@@ -2580,7 +2580,7 @@ You see? She's completely unrepentant! Hang her and be done with it.
 (Hmm. Esto podría tener algo que ver con el último Duque de Mead. Estuvo involucrado en todo tipo de escándalos.)
 #Speaker: elodie_depressed
 (I don't know what this is all about.  Either way, murder is a serious crime, but...)
-(No sé lo que se trata todo esto. De cualquier manera, el asesinato es un delito grave, pero...)
+(No sé de que trata todo esto. De todos modos, el asesinato es un delito grave, pero...)
 #choice:
 Put her to work
 Ponerla a trabajar
@@ -2617,7 +2617,7 @@ Gods bless you, miss!
 ¡Qué Dios la bendiga, señorita!
 #Speaker: elodie_angry
 You have tried to murder a noble of my domain, and I have no reason to believe you wouldn't do it again.
-Has intentado asesinar a un noble de mi dominio, y no tengo ninguna razón para creer que no lo harías de nuevo.
+Has intentado asesinar a un noble de mi reino, y no tengo ninguna razón para creer que no lo harías de nuevo.
 #Speaker: elodie_angry
 You will be imprisoned for the rest of your life.
 Serás encarcelada para el resto de tu vida.
@@ -2644,7 +2644,7 @@ Before you have a chance to do anything else, your personal guards step into act
 Antes de que puedas hacer nada, tus guardias personales pasan a la acción, interceptando a la mujer antes de que pueda ponerte en peligro. Su cuerpo sin vida yace sangrando en tu alfombra.
 #Speaker: elodie_angry
 ...  Clean that up.
-... Limpiar eso.
+... Limpien eso.
 #Speaker: elodie_angry
 As she is clearly guilty, her life is forfeit.  She will be hanged in public as a deterrent to other criminals.
 Como es claramente culpable, está sentenciada. Será ahorcada en público como elemento de disuasión para otros criminales.
@@ -2743,7 +2743,7 @@ Mientras caminas un día por los jardines, escuchas un sonido extraño y miras h
 (¿Un búho volando a plena luz del día? Eso es inusual. ¿Me pregunto si algo lo atacó?)
 #Speaker: elodie_neutral
 (That's funny, I thought owls were nocturnal. I guess I was wrong.)
-(Es gracioso, pensé que búhos eran nocturnos. Supongo que estaba equivocada.)
+(Es gracioso, pensé que los búhos eran nocturnos. Supongo que estaba equivocada.)
 #Narration
 A young gardener has also paused in his work to watch the bird's flight.
 Un joven jardinero también ha hecho una pausa en su trabajo para observar el vuelo del ave.
@@ -3269,7 +3269,7 @@ Are you ready for the grand ball?
 ¿Estás lista para el gran baile?
 #Speaker: joslyn
 All the nobles in the domain are here to see you - to see their queen.
-Todos los nobles en el dominio están aquí para verte - para ver a su reina.
+Todos los nobles del reino están aquí para verte - para ver a su reina.
 #Speaker: elodie_afraid
 (gulp!)
 (¡Glup!)
@@ -3326,7 +3326,7 @@ Seeing yourself reflected in so many eyes makes you want to run away and hide.
 Verte reflejada en tantos ojos te da ganas de huir y esconderte.
 #Narration
 After a moment, you force yourself to carry on, but you're sure they've all seen you hesitate.
-Tras una pausa, te obligas a continuar, pero estás segura que todos te han visto vacilar.
+Tras una pausa, te obligas a continuar, pero estás segura de que todos te han visto vacilar.
 #Narration
 Your father waits for you at the bottom of the stairs and offers you his arm.
 Tu padre te espera en la parte inferior de la escalera y te ofrece su brazo.
@@ -3335,7 +3335,7 @@ The first dance is for us.
 El primer baile es para nosotros.
 #Narration
 He guides you gently around the dance floor, never rushing you.  It's fun to dance with your father, but the look in his eyes is so sad.
-Él te guía suavemente alrededor de la pista de baile, sin apresurarse. Es divertido para bailar con tu padre, pero la mirada de sus ojos es triste.
+Él te guía suavemente alrededor de la pista de baile, sin apresurarse. Es divertido bailar con tu padre, pero la mirada de sus ojos es triste.
 # Talarist at the ball, >= 1.3.x
 I believe the next turn is mine.
 Creo que el siguiente turno es mío.
@@ -3349,7 +3349,7 @@ Do you know how to dance? Nod or shake your head.
 Nod yes
 Asentir con la cabeza
 You dip your head in acknowledgement.
-Inclinas tu cabeza en señal de reconocimiento.
+Inclinas tu cabeza en señal de confirmación.
 Shake your head
 Negar con la cabeza
 You shake your head slightly, your hair swaying.
@@ -4535,7 +4535,156 @@ But for the safety of my domain, I have no choice.  You will be imprisoned until
 Pero por la seguridad de mi reino, no me queda otra opción. Serás encarcelado hasta nuevo aviso.
 #Speaker: elodie_lonely
 Guards... take him away.
-Guards... take him away.
+Guardias... llevároslo.
+#Narration
+#Speaker: elodie_angry
+The mistake, uncle, was yours.
+El error, tío, ha sido tuyo.
+#Speaker: elodie_angry
+You are a traitor to the realm and must be executed.
+Eres un traidor al reino y debes ser ejecutado.
+#Speaker: joslyn
+Elodie... are you sure?
+Elodie... ¿estás segura?
+#Speaker: elodie_angry
+The evidence is clear!  The assassin came from Merva!
+¡La evidencia es clara! ¡El asesino vino de Merva!
+#Speaker: elodie_angry
+If I leave him alive, he'll just plot against me.  He has to die.
+Si lo dejo vivir, conspirará contra mí. Tiene que morir.
+#Speaker: laurent
+Such times our world has come to. First Fidelia, and now this.
+A donde hemos ido a parar. Primero Fidelia, y ahora esto.
+#Speaker: laurent
+May the gods have mercy on all our souls.
+Que los dioses se apiaden de todas nuestras almas.
+#Narration
+#Narration
+It's probably best not to make a scene at the moment.  You'll just have to keep an eye on him, and watch your back.
+Probablemente es mejor no montar una escena ahora. Simplemente tendrás que mantener un ojo sobre él, y vigilar tu espalda.
+# 1.3.x, if you become suspicious of Laurent through passing an Internal Affairs
+# check.
+#Narration
+Uncle Laurent...  As your mother's brother, he's next in line to the throne.  If anything happens to you, he would be crowned King.
+Tío Laurent... El hermano de tu madre, es el siguiente en la línea de sucesión. Si algo te pasara, él sería coronado rey.
+#Speaker: elodie_afraid
+(He was visiting here when that snake attacked me in the gardens!  Julianna said then that someone might have been trying to kill me...)
+(¡Él estaba aquí de visita cuando esa serpiente me atacó en los jardines! Julianna dijo entonces que alguien podría haber intentado matarme...)
+#Narration
+Could he have been behind the assassin at the parade?  Your own uncle?
+¿Podría haber estado detrás del asesino del desfile? ¿Tu propio tío?
+#Narration
+You have no proof, no evidence, only suspicions.
+No tienes pruebas, ni evidencias, sólo sospechas.
+#menu:
+#choice:
+Talk to him
+Hablarle
+#choice:
+Say nothing
+Callarte
+#Talked to him
+#Speaker: elodie_angry
+(I need to know.)
+(Necesito saberlo.)
+#Speaker: elodie_neutral
+Your Grace, I hope you are enjoying your visit to the capital.
+Su Excelencia, espero que esté disfrutando su visita a la capital.
+#Speaker: laurent
+Ah, Elodie... It is no fault of your skills as a hostess. With every shadow that crosses my eye, I think I see my sister's form.
+Ah, Elodie... No es culpa de tus habilidades como anfitriona. Con cada sombra que cruza mi ojo, me parece ver la forma de mi hermana.
+#Speaker: lucille
+You are very brave, my dear. Both of you. You're holding up well.
+Eres muy valiente, querida.  Los dos lo sois. Estás aguantando muy bien.
+#Speaker: elodie_neutral
+Why didn't you bring Charlotte and Emry and Zahra?
+¿Por qué no trajiste a Charlotte, Emry y Zahra?
+#Speaker: lucille
+Too much travel is not good for children's health.
+La salud de los niños se resiente con viajes tan largos.
+#If Charlotte was bitten.
+#Speaker: lucille
+Charlotte has been particularly fragile since that unfortunate incident with the snake.
+Charlotte todavía no se ha recuperado el todo de aquel desafortunado incidente con la serpiente.
+#Poison success.
+#Speaker: elodie_angry
+(Most people who are bitten by milk vipers die.  There's no antidote for that venom.  You can make someone immune to it, but that protection doesn't last forever.)
+(La mayoría de las personas que son mordidas por víboras de leche mueren. No hay antídoto para ese veneno. Puedes hacerte inmune al veneno, pero la protección no dura para siempre.)
+#Speaker: elodie_angry
+(If Uncle Laurent intentionally fed Charlotte snake venom before her visit here, that would prove he was plotting to murder me!)
+(Si el tío Laurent hubiera alimentado intencionalmente a Charlotte con veneno de serpiente antes de venir aquí, ¡probaría su conspiración para matarme!)
+#Speaker: elodie_neutral
+It can be dangerous here.  Did you hear that someone tried to kill me at the Festival of the Good Lady?
+Este lugar puede ser peligroso. ¿Te has enterado de que alguien trató de matarme en el Festival de la Buena Dama?
+#Speaker: lucille
+How dreadful!
+¡Eso es terrible!
+#Speaker: laurent
+Yes... You must be careful, niece. Listen to your father, and stay in the castle where you will be safe.
+Sí... Debes tener cuidado, sobrina. Escucha a tu padre y permanece en el castillo, donde estarás a salvo.
+#Speaker: elodie_depressed
+(He seems sincere...)
+(Parece sincero...)
+#if poison>=40:
+#Speaker: elodie_angry
+(But that could all be an act.  He's not going to tell me to my face that he's plotting against me!)
+(Pero podría estar actuando. ¡No va a decirme a la cara que está conspirando contra mí!)
+#menu:
+#choice:
+Accuse Him
+Acusarlo
+#choice:
+Trust Him
+Creerlo
+#Speaker: elodie_angry
+How kind of you to warn me, while you are trying to have me killed!
+Qué amable por tu parte avisarme, ¡mientras tratas de matarme!
+#Narration
+Coversation around the ballroom suddenly falls quiet.
+De repente la sala se queda en silencio.
+#Speaker: laurent
+What?
+¿Qué?
+#Speaker: elodie_angry
+The snake, uncle! Those snakes don't live on this island. Someone planted it in the garden. It was a trap.
+¡La serpiente, tío! Esas serpientes no viven en esta isla. Alguien la dejó en el jardín. Era una trampa.
+#Speaker: elodie_angry
+You knew I would be there. Perhaps you even made sure Charlotte would invite me to play!
+Tú sabías que yo estaría allí. ¡Tal vez incluso te aseguraste de que Charlotte me invitara a jugar!
+#Speaker: elodie_angry
+You put your own daughter at risk - except that you didn't, because you carefully prepared her to be sure that she wouldn't die, didn't you?
+Pusiste a tu propia hija en peligro - salvo que en realidad no corría ningún riesgo, porque la preparaste cuidadosamente para asegurarte de que no muriera, ¿verdad?
+#Speaker: elodie_angry
+And then the attack at the parade!  Are you so eager to claim my inheritance?
+¡Y luego el ataque en el desfile! ¿Estás tan ansioso por reclamar mi herencia?
+#Speaker: laurent
+Elodie... you are my sister's child. I swear by all the gods, I have never meant you harm.
+Elodie... eres la hija de mi hermana. Lo juro por todos los dioses, nunca te haría daño.
+#Speaker: joslyn
+Elodie, are you sure?
+Elodie, ¿estás segura?
+#Speaker: elodie_angry
+The evidence fits.
+Las evidencias encajan.
+#Speaker: lucille
+I - I'm shocked! Laurent, how could you do such a thing to our family?
+Yo - ¡Estoy impactada! Laurent, ¿cómo pudiste hacer algo así a nuestra familia?
+#Speaker: elodie_willful
+Even your wife doesn't believe that you're innocent.
+Ni siquiera tu esposa cree en tu inocencia.
+#Speaker: lucille
+Oh, Elodie! You must believe that Charlotte knew nothing of this. Please, don't punish her!
+¡Oh, Elodie! ¡Debes comprender que Charlotte no sabía nada de esto! ¡Por favor, no la castigues!
+#Speaker: elodie_neutral
+Of course not.  She tried to save me.
+Por supuesto que no. Ella trató de salvarme.
+#Speaker: laurent
+You are making a terrible mistake.
+Estás cometiendo un terrible error.
+#menu:
+#choice:
+Imprison Him
+Encarcelarlo
 # Mood adjustments.
 +2 Afraid
 +2 Asustada
@@ -4867,7 +5016,7 @@ Mañana
 Evening
 Tarde
 Now that you've finished studying,\nwhat will you do for the weekend?
-Ahora que has acabado de estudiar,\nque vas a hacer el fin de semana?
+Ahora que has acabado de estudiar,\n¿que vas a hacer el fin de semana?
 Test: %(caption)s â‡¨ %(result)s
 Prueba: %(caption)s â‡¨ %(result)s
 Success
@@ -5002,7 +5151,7 @@ The source of power for any Lumen is a particular magical crystal.  Once you've 
 La fuente de poder de cualquier Lumen es un cristal mágico particular.  Una vez te has unido a el, pasa a formar parte de ti mientras vivas.
 #Speaker: julianna
 The Royal Crystal has been passed down from ruler to ruler for generations. It belongs to you, now - except that the King may be keeping it from you.
-El cristal Real ha pasado de soberano a soberano durante generaciones. Ahora te pertenece - aunque el rey puede estar ocultándotelo.
+El cristal Real ha pasado de soberano a soberano durante generaciones. Ahora te pertenece - aunque tu padre puede estar ocultándotelo.
 #Speaker: elodie_neutral
 Do you have a crystal?
 ¿Tienes tu un cristal?
@@ -5041,7 +5190,7 @@ But if it's mine, it wouldn't matter if someone else found it.
 Pero si es mío, no importaría si otra persona lo encontrase, ¿no?
 #Speaker: julianna
 It's attuned to you, but you haven't bonded with it yet. If it found a compatible host, someone who was {i}like{/i} you in some way, it could bond to them.
-Está en sintonía contigo, pero todavía no te has unido a él. Si encuentra un huésped compatible, alguien que fuese {i}como{/i} tu de alguna manera, podría unirse con él.
+Está en sintonía contigo, pero todavía no te has unido a él. Si encuentra un huésped compatible, alguien que fuese {i}como{/i} tú de alguna manera, podría unirse con él.
 #Speaker: elodie_neutral
 My father says I can't have the crystal until I'm Queen, so we'll just have to wait.
 Mi padre dice que no puedo tener el cristal hasta que sea reina, así que tendremos que esperar.
@@ -5410,7 +5559,7 @@ You flick your fingernail against the metal bars to remind her of her place.
 Recorres los barrotes de metal con el dedo para recordarle su lugar.
 #Speaker: elodie_afraid
 Eek!
-Eek!
+¡Eek!
 #Narration
 For a moment, the ground seemed to tremble.  Was that an earthquake?
 Por un momento, el suelo parecía temblar.  ¿Fue un terremoto?
@@ -6004,7 +6153,7 @@ You attend a formal ball, which gives you the chance to interact with the nobili
 Asistes a un baile de gala, lo que te da la oportunidad de interactuar con la nobleza en un ambiente menos estresante.
 #Narration
 You attend services in the castle grove, letting the peace of the ritual calm your heart.
-Asistes a los servicios en la ('arboleda del castillo'), dejando que la paz del ritual calme tu corazón.
+Asistes a los servicios en el jardín del castillo, dejando que la paz del ritual calme tu corazón.
 #Narration
 You sneak a peek at some of the luckless peasants held in the dungeons - petty thieves and troublemakers, now suffering in the dark. They're obviously bad people, but seeing them so miserable still feels unfair. There must be a better way.
 Echas un vistazo a algunos de los desafortunados campesinos encerrados en las mazmorras - ladronzuelos y alborotadores, que ahora sufren en la oscuridad. Obviamente son malas personas, pero verlos tan miserables te da lástima. Tiene que haber una manera mejor.
@@ -6063,7 +6212,7 @@ You try to explain to the guards that you need to visit the treasury in order to
 Intentas explicar a los guardias que necesitas visitar la tesorería con el fin de obtener un informe preciso sobre las finanzas del reino. Flaquean un poco, pero al final, se mantienen firmes a las ordenes de tu padre.
 #Narration
 You try to talk your way past the treasury guards, but despite eyelash-fluttering, foot-stomping, and outright threats, they won't budge. Hmph!
-Intentas convencer a los guardias de la tesorería, pero a pesar de tus pestañeos, pisadas y amenazas directas, no ceden. Mmm!
+Intentas convencer a los guardias de la tesorería, pero a pesar de tus pestañeos, pisadas y amenazas directas, no ceden. ¡Hmph!
 You order the guards to step aside and let you into the treasury. They waver slightly, but in the end, they stand by your father's commands.
 Ordenas a los guardias que se hagan a un lado y te permitan entrar en la tesorería. Flaquean un poco, pero al final, se mantienen firmes a las ordenes de tu padre.
 You order the guards to stand aside and walk forward with your head held high. None of them dares to deny you access to your own treasury.
@@ -6189,13 +6338,13 @@ What do we do?  Should we send hunters?
 ¿Qué hacemos? ¿Enviamos cazadores?
 #Speaker: joslyn
 The traditional policy on stray beasts is to hope that they return to the forest and stay there.
-La política tradicional en bestias salvajes es esperar que regresan al bosque y se quedan allí.
+La política tradicional en bestias salvajes es esperar a que regresan al bosque y se quedan allí.
 #Speaker: joslyn
 Hunters are no match for such creatures. You would only make it angry and waste more lives.
 Los cazadores no son rival para tales criaturas. Sólo conseguirías enfadar al monstruo y perder más vidas.
 #Speaker: elodie_depressed
 So... we just let it eat people?
-Entonces... dejamos que se coma a la gente?
+Entonces... ¿Dejamos que se coma a la gente?
 #Speaker: joslyn
 Everyone dies in the end.
 Todo el mundo acaba muriendo.
@@ -6205,7 +6354,7 @@ There is a woman here to see you. She wishes Crown funding for a project.
 Hay una mujer que quiere verte. Solicita financiación de la corona para un proyecto.
 #Speaker: woman
 Thank you for seeing me, Your Royal Highness. I... I come to you on behalf of the people.
-Gracias por recibirme, Su Alteza Real. Yo... yo vengo a ti en nombre del pueblo.
+Gracias por recibirme, Su Alteza Real. Yo... yo vengo a usted en nombre del pueblo.
 #Speaker: woman
 I wish to build a hospital where any citizen afflicted with disease can be brought for treatment.
 Deseo construir un hospital, donde cualquier ciudadano enfermo pueda ser tratado.
@@ -6221,7 +6370,7 @@ Deseo construir un hospital, donde cualquier ciudadano enfermo pueda ser tratado
 #Speaker: elodie_neutral
 #Speaker: alice_smile
 My lady, there is a letter for you.
-Mi señora, hay una carta para ti.
+Mi señora, hay una carta para usted.
 #Speaker: elodie_neutral
 (Who sent this?  It isn't signed...)
 (¿Quién envió esto? No tiene firma...)
