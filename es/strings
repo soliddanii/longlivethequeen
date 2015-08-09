@@ -4557,7 +4557,7 @@ Such times our world has come to. First Fidelia, and now this.
 A donde hemos ido a parar. Primero Fidelia, y ahora esto.
 #Speaker: laurent
 May the gods have mercy on all our souls.
-Que los dioses se apiaden de todas nuestras almas.
+Que los dioses se apiaden de nuestras almas.
 #Narration
 #Narration
 It's probably best not to make a scene at the moment.  You'll just have to keep an eye on him, and watch your back.
@@ -4685,6 +4685,706 @@ Estás cometiendo un terrible error.
 #choice:
 Imprison Him
 Encarcelarlo
+#python:
+#Speaker: elodie_depressed
+I wish I could believe that this was only a mistake.
+Me gustaría creer que esto es sólo un error.
+#Speaker: elodie_angry
+But for the safety of my domain, I have no choice.  You will be stripped of your title and imprisoned until further notice.
+Pero por la seguridad de mi reino, no tengo otra opción. Serás despojado de tu título y encarcelado hasta nuevo aviso.
+#Speaker: elodie_lonely
+Guards... take him away.
+Guardias... llevároslo.
+#Narration
+That doesn't stop the whispers, though, and after that, the gathering soon breaks up.
+No consigues evitar los susurros entre los invitados. Tras lo acontecido, la reunión acaba pronto.
+#choice
+Execute Him
+Ejecutarlo
+#Speaker: elodie_angry
+The mistake, uncle, was yours.
+El error, tío, fue tuyo.
+#Speaker: elodie_angry
+You are a traitor to the realm and must be executed.  I can't risk leaving you alive to plot against me.
+Eres un traidor al reino y debes ser ejecutado. No puedo arriesgarme a dejarte con vida para que conspires contra mí.
+#Speaker: merva
+Such times our world has come to. First Fidelia, and now this.
+A donde hemos ido a parar. Primero Fidelia, y ahora esto.
+#Speaker: merva
+May the gods have mercy on all our souls.
+Que los dioses se apiaden de nuestras almas.
+#Narration
+After that, it seems that your remaining guests have little stomach for light entertainment.
+Después de lo acontecido, parece que a tus invitados les quedan pocas ganas de entretenimiento.
+# End accusation branch
+#Speaker: elodie_depressed
+Well, thank you for coming.
+Bueno, gracias por venir.
+#Narration
+Better not to risk making a scene.  You'll just have to keep an eye on him, and watch your back.
+Mejor no arriesgarse a montar una escena. Simplemente tendrás que mantener un ojo sobre él, y vigilar tu espalda.
+# End suspicion-of-Laurent chunk.
+#Narration
+There's something itching at your senses, something familiar.
+Algo inunda tus sentidos.... algo familiar.
+#Narration
+Then it hits you.  Aunt Lucille is a {i}Lumen!{/i}
+Entonces te das cuenta. ¡Tu tía Lucille es un {i}Lumen{/i}!
+#Narration
+Charlotte said her mother knew about her healing powers. Maybe she can answer your questions.
+Charlotte dijo que su madre estaba al tanto de sus poderes curativos. Tal vez ella pueda responder a tus preguntas.
+#choice:
+Talk to your aunt
+Hablar con tu tía
+#choice:
+#Speaker: elodie_neutral
+Aunt Lucille, may I speak with you privately?
+Tía Lucille, ¿puedo hablar contigo en privado?
+#Speaker: lucille
+Of course, dear.
+Por supuesto, cariño.
+#Narration
+You withdraw to a small side room.
+Os retiráis a una pequeña habitación adyacente.
+#Speaker: elodie_neutral
+I can sense your powers. You're a Lumen.
+Puedo sentir tus poderes. Eres un Lumen.
+#Speaker: lucille
+{tag=lucille}What?!?
+¿¡¿Qué?!?
+#Speaker: elodie_neutral
+I am, too. That's how I know. Can't you sense that?
+Yo también lo soy. Por eso lo sé. ¿No puedes sentirlo?
+#Speaker: lucille
+No. No, I can't.
+No. No, no puedo.
+#Narration
+She looks down, shaking her head.
+Mira hacia abajo, sacudiendo la cabeza.
+#Speaker: lucille
+I... I do have a Lumen crystal. I found it, years ago. It called to me. But I don't know anything about magic.
+Yo... yo tengo un cristal Lumen. Lo encontré, hace años. Me llamó. Pero no sé nada de magia.
+#Speaker: lucille
+I can make the crystal appear and disappear, and I can block out sound with it. That's all.
+Puedo hacer que el cristal aparezca y desaparezca, y puedo bloquear el sonido con él. Eso es todo.
+#Speaker: elodie_angry
+(I don't think that's true at all.)
+(Creo que me estás mintiendo.)
+#Speaker: elodie_angry
+(There are traces of old magic around her, too faint to make sense of, but strong.)
+(Hay rastros de magia antigua a su alrededor, demasiado débil para sentirse, pero poderosa.)
+#Speaker: elodie_neutral
+Why keep it hidden?  It's not illegal to be a Lumen.
+¿Por qué mantenerlo oculto? No es ilegal ser Lumen.
+#Speaker: lucille
+Magic is dangerous, everyone knows that. People might think I was an evil witch. They wouldn't trust me.
+La magia es peligrosa, todo el mundo lo sabe. La gente podría pensar que era una bruja malvada. Nadie confiaría en mí.
+#Speaker: elodie_angry
+(Trust... Should I trust her? What other secrets has she been keeping? Does she know anything about the assassins?)
+(Confiar ... ¿Debería confiar en ella? ¿Qué otros secretos ha estado guardando? ¿Sabrá algo acerca de los asesinos?)
+#Speaker: lucille
+Look at how much trouble the Duchess of Ursul has. Please, Your Highness, don't tell anyone.
+Mira la cantidad de problemas que tiene la Duquesa de Ursul. Por favor, Alteza, no se lo digas a nadie.
+#choice: ( < 1.3.x )
+Accuse her
+Acusarla
+#choice ( >= 1.3.x )
+Accuse her husband of sending assassins
+Acusar a su marido de enviar asesinos
+# Sense Magic full success ( >= 1.3.x )
+Accuse her of hiding something
+Acusarla de ocultar algo
+#choice:
+Offer her a court position
+Ofrecerle un puesto en la corte
+#choice: ( < 1.3.x )
+Keep her secret
+Guardarle el secreto
+#choice: >= 1.3.x
+Promise not to tell
+Prometerle tu silencio
+#Speaker: elodie_angry
+I don't think you're weak at all.  I think there's something else you're hiding.
+No creo que eres débil, en absoluto. Creo que me estás ocultando algo más.
+#Speaker: lucille
+Like what?
+¿Como qué?
+#Narration
+You open your mouth to answer her, and -
+Abres tu boca para responderle, y -
+#Narration
+- find yourself unable to speak or move.
+- te encuentras incapaz de hablar o moverte.
+#Speaker: lucille
+My power isn't like your power, little princess. I control the {i}absence{/i} of things. Sound. Light. Life.
+Mi poder no es como el tuyo, princesita. Yo controlo la{i}esencia{/i} de las cosas. El sonido. La luz. La vida.
+#Speaker: lucille
+But you dying now would be too suspicious. Instead, you're going to have a very unfortunate accident.
+Si murieras ahora sería demasiado sospechoso. En vez de eso, vas a sufrir un muy desafortunado accidente.
+#Speaker: lucille
+You will remain alive and helpless until everyone gives up hope of your recovery, and then you will die.
+Permanecerás viva e indefensa hasta que todo el mundo pierda la esperanza de verte recuperada, y luego morirás.
+#Speaker: elodie_angry
+(That's what you think!)
+(¡Eso es lo que tú te crees!)
+#Narration
+Calling on your core of inner strength, you push your own magical energy into her spell, overloading it.
+Reuniendo fuerza de tu interior, viertes tu propia energía mágica en su hechizo, sobre cargándolo.
+#Speaker: lucille
+What? What are you doing -
+¿Qué? Qué estás haciendo -
+#Narration
+There is a loud noise, and the smell of burning.
+Se produce un fuerte estruendo y un olor a quemado.
+#Narration
+When you can move again, you find your aunt lying lifeless on the ground, a glimmering purple crystal beside her.
+Cuando puedes moverte de nuevo, encuentras a tu tía tumbada sin vida en el suelo, y un cristal violeta brillando a su lado.
+#Narration
+Moments later, your father rushes into the room.
+Un instante más tarde, tu padre se precipita en la habitación.
+#Speaker: joslyn
+Elodie! What happened?
+¡Elodie! ¿Qué ha pasado?
+#Speaker: elodie_depressed
+Aunt Lucille was an evil Lumen.  She attacked me.
+La tía Lucille era un Lumen malvado. Ella me atacó.
+#Speaker: elodie_lonely
+It's all right.  She's gone now.
+No te preocupes. Ella ya no está.
+#Narration
+You feel drained of all energy and can barely keep your eyes open.  Leaving your father to clean up the mess, you crawl off to bed.
+Te sientes agotada y apenas puedes mantener los ojos abiertos. Dejas a tu padre limpiando el desastre, y te arrastras hacia tu cama.
+#Narration
+You want to tell her that she's wrong, that you will never give up fighting, that you will defeat her in the end...
+Quieres decirle que se equivoca, que nunca vas a rendirte, que acabarás derrotándola...
+#Narration
+But her magic is too strong.  There's nothing you can do.
+Pero su magia es demasiado fuerte. No hay nada que puedas hacer.
+#Narration
+All you can do is nothing.  Forever.
+No puedes hacer nada.  Nunca.
+#Speaker: elodie_willful
+What I think I should tell everyone is that you are my new Lumen Minister.
+Lo que creo que debería decir a todos es que eres mi nueva ministra Lumen.
+#Speaker: lucille
+{tag=lucille}What?
+¿Qué?
+#Speaker: elodie_neutral
+Lumens have power.  If you train with me, you'll become even stronger.
+Los Lumens tienen poder. Si entrenas conmigo, te harás aún más fuerte.
+#Speaker: elodie_neutral
+I want that strength {i}here{/i} to defend the capital.
+Quiero esa fuerza {i}aquí{/i}, para defender la capital.
+#Speaker: elodie_neutral
+You'll have status and recognition and no one will dare to call you a witch.  What do you say?
+Conseguirás estatus y reconocimiento, y nadie se atreverá a llamarte bruja. ¿Qué me dices?
+#Speaker: lucille
+I accept.
+Acepto.
+#Speaker: elodie_cheerful
+Good!
+¡Bien!
+#Speaker: elodie_neutral < 1.3.x
+I understand.  Don't worry about it.
+Entiendo.  No te preocupes.
+# >= 1.3.x elodie_normal
+I understand. Don't worry. I promise I will protect your secret.
+Entiendo.  No te preocupes. Prometo que protegeré tu secreto.
+#Speaker: lucille
+Thank you, dear.
+Gracias, querida.
+#Speaker: elodie_neutral
+It's about Charlotte and her healing powers.
+Se trata de Charlotte y sus poderes curativos.
+#Speaker: lucille
+... What healing powers?
+... ¿Qué poderes curativos?
+#Speaker: elodie_neutral
+I know all about them. She saved me from a poisonous snake.
+Lo sé todo sobre sus poderes. Charlotte me salvó de una serpiente venenosa.
+#Speaker: elodie_neutral
+I'm just curious, because I found out that I have powers too. Powers that aren't Lumen powers.
+Simplemente tengo curiosidad, porque he descubierto que yo también tengo poderes. Pero no la clase de poderes que tiene un Lumen.
+#Speaker: lucille
+What sort of powers?
+¿Qué clase de poderes?
+#Speaker: elodie_cheerful
+I can glow.
+Puedo brillar.
+#Speaker: elodie_neutral
+I can do much better things with Lumen powers, but that's not the point.
+Puedo hacer cosas mucho mejores como Lumen, pero eso es otro asunto.
+#Speaker: elodie_neutral
+I thought maybe it's because my mother is a Lumen.
+Pensé que tal vez sea porque mi madre es un Lumen.
+#Speaker: lucille
+Charlotte is your cousin. Perhaps there is magic in the royal blood.
+Charlotte es tu prima. Tal vez la magia fluya en la sangre real.
+#Speaker: elodie_neutral
+Maybe, but... {i}Are{/i} you a Lumen?
+Tal vez, pero... ¿{i}Eres{/i} tú un Lumen?
+#Narration
+She hesitates.
+Ella duda.
+# Accusing Laurent of sending assassins
+#Speaker: elodie_depressed
+I'd like to believe you. But...
+Me gustaría creerte. Pero ...
+#Speaker: elodie_angry
+Someone tried to kill me, at the parade. And I found out he was sent from Merva.
+Alguien trató de matarme, en el desfile. Y sé que fue enviado desde Merva.
+#Speaker: elodie_angry
+Is Uncle Laurent trying to have me killed?
+¿Está el tío Laurent intentando matarme?
+#Speaker: lucille
+Elodie! My dear. Laurent loves you. He is your most loyal subject.
+¡Elodie! Querida. Laurent te ama. Él es tu súbdito más leal.
+#Speaker: lucille
+You and Charlotte have always been so close. It would crush her to hear that you suspected our family of such dreadful plots!
+Tú y Charlotte siempre habéis estado muy unidas. ¡Le destrozaría escuchar que sospechas que nuestra familia es responsable de tan terribles conspiraciones!
+#Narration
+You notice that she hasn't said anything about her {i}own{/i} loyalty.
+Te das cuenta de que no ha dicho nada acerca de su {i}propia{/i} lealtad.
+#menu:
+#choice:
+{tag=questioning lucille}Keep pushing
+Presionarla
+#choice:
+{tag=to lucille}Apologise
+Pedir disculpas
+#Speaker: elodie_angry
+That's not good enough. Family or no, I need some proof of your loyalty.
+No es suficiente. Familia o no, necesito alguna prueba de tu lealtad.
+#Lucille:
+Proof? What would be proof?
+¿Prueba? ¿Cuál sería la prueba?
+#You open your mouth to answer her, and -
+# - find yourself unable to speak or move.
+#Lucille:
+Foolish child. Suspecting Laurent! As if he'd have the backbone.
+Niña tonta. ¡Sospechando de Laurent! Como si él tuviera lo que hay que tener.
+#[apologise]
+#Elodie: (depressed)
+Of course, I'm sorry.
+Por supuesto, lo siento.
+#Lucille:
+Darling child. Please. Let us never speak of this again.
+Hija, querida. Por favor, no volvamos a hablar de esto nunca más.
+Feeling vaguely guilty, you watch her walk away.
+Sintiéndote vagamente culpable, la miras mientras se aleja.
+#Narration
+Best not to raise the issue now with so many people around.  Perhaps some other time.
+Mejor no destapar el problema ahora con tanta gente alrededor. Tal vez en otra ocasión.
+#Narration
+It's nice to be able to enjoy time with friends and family, isn't it?
+Es agradable ser capaz de disfrutar con los amigos y la familia, ¿no?
+#If you invited Talarist:
+As the evening grows late, your personal guest draws you aside for a private conversation.
+A medida que avanza la noche, tu invitado especial te lleva a un sitio más apartado para una conversación privada.
+#Talarist:
+You have my most fulsome thanks for the invitation to this event.
+Tienes mi más sincero agradecimiento por haberme invitado a este evento.
+#Court Manners success
+#Talarist:
+Even your handwriting was beautiful and elegant.
+Incluso tu letra era hermosa y elegante.
+#[else]
+However, you might wish to spend more time with the scribes before corresponding in writing with other nobles.
+Sin embargo, quizás quieras pasar más tiempo con tus profesores antes correspondiente por escrito con otros nobles.
+#Talarist
+Some may not appreciate your unique sense of phrasing.
+Algunos podrían no apreciar tu sentido único de fraseo.
+#Princess: (yielding)
+(Wonderful. I sounded like an idiot.)
+(Maravilloso. He sonado como una idiota.)
+#[If we told him we had conquered him]
+#Talarist
+I was very interested to hear your views on the subject of 'conquest'.
+Estoy muy interesado en escuchar tu punto de vista sobre el tema de la "conquista".
+#Talarist:
+Enthusiasm is to be expected from a young ruler, but men are not horses to break to your will. The rein and spurs can turn allies into enemies.
+Tal entusiasmo es de esperar en una joven princesa, pero los hombres no son caballos a los que se les pueda domar. Las riendas y las espuelas pueden convertir aliados en enemigos.
+#[If Horses 30]
+#Princess: (angry)
+(What does he know about horses? If you tried to 'break' a horse with spurs, you'd probably end up with a broken neck.)
+(¿Y que sabrá él caballos? Si trataras de 'domar' a un caballo con espuelas, probablemente acabaras con el cuello roto.)
+#Talarist:
+It is always the greatest of pleasures for me to be in your presence.
+Estar en tu presencia siempre es para mi el mayor de los placeres.
+#[If low noble approval]
+#Talarist:
+That may not be the case for all of those whom you have invited. Please, do not overlook the dangers that may face you from within.
+Puede no ser el caso para todos los demás invitados. Por favor, no ignores los peligros que te puedan acechar desde dentro.
+#Talarist:
+A Queen, or even a Duke, must always be aware of the possibility of intrigue. Especially when those who wish to protect you may not always be present.
+Una reina, o incluso un duque, siempre debe estar al tanto de posibles conspiraciones. Sobre todo cuando los que de verdad quieren protegerte no están cerca.
+#Talarist:
+I look forward to the day when we will no longer have to part.
+Espero con interés el día en el que ya no tengamos que separarnos.
+#Speaker: alice_smile
+My lady, a bouquet has arrived for you.
+Mi señora, ha llegado un ramo de flores para usted.
+#Narration
+The flowers are unusual - long spikes of red, thick with nectar and emitting a strong fragrance, nothing like the delicate blossoms in most vases.
+Las flores son poco comunes - largas y gruesas espigas de color rojo, que emiten una intensa fragancia, nada como las delicadas flores de la mayoría de los floreros.
+#Speaker: elodie_neutral
+(Honey-flowers... that's code for a sweet and secret love!)
+(Flores de miel... ¡es el código para un amor dulce y secreto!)
+#Speaker: elodie_neutral
+(These flowers are very poisonous! But only if you eat them.)
+(¡Estas flores son muy venenosas! Pero sólo si te las comes.)
+#Speaker: elodie_neutral
+Who sent them?
+¿Quién las envió?
+#Speaker: alice_smile
+The Duchess of Hellas, I believe.
+La Duquesa de Hellas, creo.
+#choice:
+Accept them
+Aceptarlas
+#Speaker: elodie_willful
+Put them on display.  I think they look nice.
+Ponlas en algún lugar visible. Creo que son bonitas.
+#choice:
+Reject them
+Rechazarlas
+#Speaker: elodie_angry
+Throw them away.  I don't want them.
+Tíralas. No las quiero.
+#Speaker: alice_worried
+All right...
+Como quiera...
+#choice:
+Give them to Alice
+Dárselas a Alicia
+#Speaker: elodie_neutral
+Would you like them?
+¿Las quieres?
+#Speaker: alice_worried
+But... the Duchess sent those flowers to you.
+Pero... la Duquesa envió estas flores para usted.
+#Speaker: elodie_willful
+I don't care about her.
+Ella no me importa.
+#Speaker: alice_worried
+All right, my lady. I thank you for your gift.
+Muy bien, mi señora. Le doy las gracias por su regalo.
+#Speaker: elodie_willful
+Good.
+Bien.
+#Speaker: alice_worried
+I'm sorry, my lady. I can't accept your gift. It would not be appropriate.
+Lo siento, mi señora. No puedo aceptar su regalo. No sería apropiado.
+#Speaker: elodie_yielding
+(Why does everyone care so much about what's 'appropriate'?)
+(¿Por qué todo el mundo le da tanta importancia a lo que es "apropiado"?)
+#Speaker: alice_smile
+The Duke of Maree has sent you a gift.
+El Duque de Maree le ha enviado un regalo.
+#Speaker: elodie_neutral
+An engagement present?
+¿Un regalo de compromiso?
+#Narration
+You open the box to reveal a little glass figure of a dancing girl, her hands held above her head.
+Abres la caja para revelar una pequeña figura de cristal de una bailarina, sosteniendo las manos sobre la cabeza.
+#choice:
+Put it away
+Guardarlo
+#Narration
+You place the dancer back into its box and hand it to your maid.
+Colocas la bailarina de nuevo en su caja y se la entregas a tu criada.
+#Speaker: elodie_yielding
+Put it away somewhere safe.
+Guárdala en un lugar seguro.
+#choice:
+Display it
+Mostrarlo
+#Narration
+You perch the figure on a shelf where she can catch the light.
+Colocas la figura en un estante donde le da la luz.
+#Speaker: elodie_cheerful
+Pretty.
+Hermoso.
+#choice:
+Smash it
+Destrozarlo
+#Narration
+Alice dives for cover as you hurl the figurine against a hard stone wall, cracking it into worthless chunks of glitter.
+Alicia se pone a cubierto mientras lanzas la estatuilla contra un duro muro de piedra, haciéndola añicos.
+#Speaker: elodie_angry
+I am not a toy.
+No soy un juguete.
+#choice:
+Give it to Alice
+Dárselo a Alicia
+#Speaker: elodie_neutral
+Would you like to have it?
+¿La quieres?
+#Speaker: alice_worried
+It's lovely, but... the Duke sent that to you, my lady.
+Es encantadora, pero... el Duque se la envió a usted, mi señora.
+#Speaker: elodie_willful
+I don't care about him.
+Él no me importa.
+#Speaker: alice_worried
+I... If you insist, my lady.
+Yo... Si insiste, mi señora.
+#Speaker: elodie_willful
+#Speaker: alice_worried
+#Speaker: elodie_yielding
+#Narration
+You wander downstairs to visit your father and talk about the latest events in the domain.
+Bajas las escaleras para visitar a tu padre y hablar de los últimos acontecimientos del reino.
+#Narration
+You're moving with such enthusiasm that you don't realise your father isn't alone until it's too late to avoid him and his... companion.
+Te mueves con tanto entusiasmo que no te das cuenta que tu padre no está solo hasta que es demasiado tarde para evitarlo a él y su compañera....
+#Speaker: sirin
+You are too kind, Joslyn.
+Eres muy amable, Joslyn.
+#Narration
+Countess Sirin. {i}Not{/i} a member of your circles - she's a bit more than a decade your senior, far too old to have ever been your friend.  And yet, not at all old, as noblewomen go.
+Condesa Sirin. {i}No{/i} pertenece a tu círculo - ella es poco más de una década mayor que tú, demasiado mayor para haber sido alguna vez tu amiga. Sin embargo, no es en absoluto vieja, como otras mujeres de la nobleza.
+#Narration
+She has two minor titles, no husband, and {i}your father's arm in her grasp.{/i}
+Tiene dos títulos menores, sin marido, y el {i}brazo de tu padre agarrado.{/i}
+#Narration
+You take a deep breath.
+Respiras profundamente.
+#Narration
+How {i}dare{/i} she make a move on your father?
+¿Cómo {i}se atreve{/i} a ligar con tu padre?
+#choice:
+Greet her politely
+Saludarla cortésmente
+#choice:
+Shame her with silent scorn
+Despreciarla sutilmente
+#choice:
+Insult her with false flattery
+Insultarla con falsos halagos
+#choice:
+Trip her as she passes
+Ponerle la zancadilla al pasar
+#Narration
+You meet her eyes and imagine your mother's disapproving presence behind you.
+La miras a los ojos e imaginas la desaprobación de tu madre.
+#Narration
+Her color pales, and she releases her grip on your father's arm, mumbling an apology before hurrying out of the room.  You have defeated her.
+Su piel palidece, y suelta el brazo de tu padre, murmurando una disculpa antes de apresurarse fuera de la habitación. La has derrotado.
+#Narration
+She notices your stare, but only smiles at you ever-so-sweetly.
+Se percata de tu mirada, pero se limita a sonreír dulcemente.
+#Speaker: sirin
+Darling Elodie.  I hope you have been well.
+Querida Elodie. Espero que hayas estado bien.
+#Speaker: elodie_angry
+...  Fine.
+... Bien.
+#Speaker: sirin
+Perhaps we'll be seeing more of each other in the future.
+Tal vez nos veamos más a menudo en el futuro.
+#Narration
+She gives a little wave and exits.
+Hace una pequeña reverencia y se retira.
+#Speaker: elodie_neutral
+Good afternoon, Countess.
+Buenas tardes, Condesa.
+#Speaker: elodie_neutral
+What a lovely brooch you're wearing. It reminds me a bit of one my mother used to wear.
+¡Lleva un broche precioso! Me recuerda un poco a uno que mi madre solía usar.
+#Speaker: elodie_neutral
+I suppose you have an eye for valuable prizes, don't you?
+Supongo que tiene buen ojo para lo valioso, ¿no cree?
+#Speaker: elodie_neutral
+Ready to leap in and snatch them the instant they become available, to keep them out of anyone else's hands?
+Lista para abalanzarse y conseguir lo que se proponga antes de que alguien más lo intente.
+#Speaker: sirin
+I... I should go.
+Yo... yo debería irme.
+#Speaker: elodie_cheerful
+Bye!
+¡Adios!
+#Speaker: elodie_neutral
+My, what large breasts you have. Putting them on display for any particular reason?
+Guau, que pechos más grandes tiene. ¿Los exhibe de esa forma por alguna razón en particular?
+#Speaker: joslyn
+#Speaker: sirin
+Really, my dear, it's not polite to comment on a lady's attributes like that.
+Realmente, querida, no es educado comentar los atributos de una dama de esa forma.
+#Speaker: sirin
+But you are young. You will... grow.
+Pero eres joven. Ya... crecerás.
+#Speaker: elodie_crowded
+Ooo!
+¡Ooo!
+#Speaker: sirin
+#Narration
+#Narration
+You manage to smile at her in what you hope is a welcoming manner.
+Te las arreglas para sonreírle con lo que esperas sea una sonrisa acogedora.
+#Speaker: elodie_neutral
+Good day to you, Countess.
+Buen día, Condesa.
+#Speaker: sirin
+Your Highness! Good day to you as well.
+¡Alteza! Buen día igualmente.
+#Speaker: sirin
+I was just speaking with your father about - well, it wasn't important.
+Justo estaba hablando con su padre acerca de - bueno, no es importante.
+#Speaker: sirin
+Please allow me to excuse myself. I don't wish to be in the way.
+Por favor acepte mis disculpas. No quisiera importunarles.
+#Narration
+She bows her head to you and exits.
+Inclina la cabeza hacia ti y se marcha.
+#Speaker: elodie_cheerful
+Hi, Sirin! How are you?
+¡Hola Sirin! ¿Cómo estás?
+#Narration
+From her quiet chuckle, you can guess that you didn't make quite the impression you intended.
+Por su disimulada risa, supones que no has causado la impresión que pretendías.
+#Speaker: sirin
+Darling Elodie. I hope you have been well.
+Querida Elodie. Espero que estés bien.
+#Speaker: elodie_yielding
+... Yes.
+... Si.
+#Speaker: sirin
+#Narration
+#Narration
+You wait until the Countess gets closer, then hook your foot around to make her stumble.
+Esperas hasta que la Condesa se acerca, y luego estiras el pie para hacerla tropezar.
+#Narration
+She trips over you, falling gratifyingly to the floor.
+Ella tropieza contigo, cayendo estrepitosamente al suelo.
+#Speaker: elodie_afraid
+Ow!
+¡Ow!
+#Speaker: joslyn
+Are you both all right?
+¿Estáis las dos bien?
+#Speaker: elodie_willful
+I'm fine.
+Yo si.
+#Narration
+She picks herself up and glares at you before forcing a smile onto her face.
+La Duquesa se recompone y te mira fijamente antes de forzar una sonrisa en su rostro.
+#Speaker: sirin
+I think perhaps I should go and sit down. You can't be too careful.
+Creo que tal vez debería irme y sentarme. Nunca se es demasiado cuidadoso.
+#Narration
+Unfortunately, you get your feet tangled up and end up tripping {i}yourself,{/i} falling to the ground with a thud.
+Desafortunadamente, se te enredan los pies y terminas tropezando {i}contigo misma{/i} para después caer al suelo con un ruido sordo.
+#Speaker: joslyn
+Elodie, are you all right?
+Elodie, ¿estás bien?
+#Speaker: elodie_yielding
+#Speaker: sirin
+Oh, dear. She does need a bit of looking after, doesn't she?
+Oh querida. Necesitas cuidados, ¿verdad?
+#Speaker: elodie_crowded
+(Not by you!)
+(¡No los tuyos!)
+#Speaker: sirin
+I should go now. I hope to see more of you later.
+Debo irme. Espero veros más tarde.
+#Narration
+Once she's gone, you raise an eyebrow at your father.
+Una vez que se ha ido, miras a tu padre arqueando una ceja.
+#Speaker: joslyn
+This is the path that you have set us on.
+Éste es el camino al que nos has llevado.
+#Speaker: elodie_afraid
+What do you mean?
+¿A qué te refieres?
+#Speaker: joslyn
+Your acts have made everyone think about preparations for the future. Caloris needs an heir.
+Tus actos han provocado que todo el mundo piense en el futuro. Caloris necesita un heredero.
+#Speaker: joslyn
+My brother, your uncle Armand, is looking for a wife as well. One of us, at least, must produce more children.
+Mi hermano, tu tío Armand, está buscando una esposa también. Uno de nosotros, por lo menos, debe tener más hijos.
+#Speaker: elodie_depressed
+But...  Mama...
+Pero... Mamá...
+#Speaker: joslyn
+Nothing can ever replace your mother.
+Nada podrá sustituir a tu madre, jamás.
+#Speaker: joslyn
+But we all have to do things that we don't want to do.
+Pero todos tenemos que hacer cosas que no queremos.
+#Speaker: elodie_depressed
+#Speaker: joslyn
+Don't give me that look, young lady. She's a nice woman, nothing more.
+No me mires así, jovencita. Ella es una mujer agradable, nada más.
+#Speaker: elodie_angry
+She wants something more!
+¡Ella quiere algo más!
+#Speaker: joslyn
+And it's not going to happen any time soon.
+Y eso no va a suceder a corto plazo.
+#Speaker: joslyn
+You should be careful how you deal with people like Sirin. You need the goodwill of your nobles as well as your commoners.
+Deberías tener más cuidado al tratar con gente como Sirin. Necesitas el apoyo de tus nobles, así como tus plebeyos.
+#Speaker: joslyn
+Have you had any luck in finding out who was behind the attempt on your life?
+¿Has descubierto quién está detrás de tu intento de asesinato?
+#Speaker: elodie_depressed ( <= 1.3.5 )
+No...
+No...
+# >= 1.3.x elodie_depressed
+No... and by now the trail has gone cold.
+No... y además el rastro se ha enfriado.
+#Speaker: joslyn
+Then we must be prepared, in case there are further attempts.
+Entonces tenemos que estar preparados, por si lo intentan de nuevo.
+#Speaker: elodie_depressed
+I think the assassin passed through Maree, but there's no proof of who hired him.
+Creo que el asesino pasó por Maree, pero no hay ninguna prueba de quien lo contrató.
+#Speaker: elodie_depressed
+I think the assassin passed through Merva, but there's no proof of who hired him.
+Creo que el asesino pasó por Merva, pero no hay ninguna prueba de quien lo contrató.
+#Speaker: elodie_depressed
+Nothing in the note gives any more clue to their identity. It's a dead end, unless they strike again.
+Nada en la nota da más pistas sobre su identidad. Es un punto muerto, a menos que ataquen de nuevo.
+#Speaker: joslyn
+Then we must be prepared for future attempts.
+Entonces tenemos que estar preparados para futuros ataques.
+#Speaker: joslyn
+The enemies you have uncovered may not be the only ones.
+Los enemigos que has descubierto pueden no ser los únicos.
+#Speaker: elodie_yielding
+There haven't been any problems so far.
+No ha habido ningún problema hasta el momento.
+#Speaker: joslyn
+No one has been able to track the former Duchess of Ursul. There could be plots underway.
+Nadie ha sido capaz de rastrear a la ex Duquesa de Ursul. Podría haber más conspiraciones.
+#Speaker: joslyn
+Many dark looks were aimed your way at the gala.
+Recibiste muchas miradas poco amistosas en la gala.
+#Speaker: joslyn
+As Queen, you must be aware of everything around you.
+Como reina, debes estar al tanto de todo lo que te rodea.
+#Speaker: elodie_neutral
+Isn't that what I have agents for?
+¿No es para eso por lo que tengo agentes?
+#Speaker: joslyn
+Yes, but you must give them direction. What is your greatest concern?
+Sí, pero tienes que indicarles que hacer. ¿Cuál es tu mayor preocupación?
+#choice:
+Noble plots
+Conspiraciones entre nobles
+#choice:
+Commoner uprisings
+Levantamientos del pueblo
+#choice:
+Foreign threats
+Amenazas del exterior
+#choice:
+Assassins
+Asesinos
+#choice:
+Julianna of Ursul
+Julianna de Ursul
 # Mood adjustments.
 +2 Afraid
 +2 Asustada
