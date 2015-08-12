@@ -284,11 +284,11 @@ Duque de Caloris
 Age 33
 Edad 33
 {b}Wife{/b}: Fidelia, Queen of Nova (Deceased)
-{b}Esposa{/b}: Fidelia, Reina de Nova (Fallecido)
+{b}Esposa{/b}: Fidelia, Reina de Nova (Fallecida)
 {b}Brother{/b}: Armand, Duke of Mazomba
 {b}Hermano{/b}: Armand, Duque de Mazomba
 {b}Daughter{/b}: Elodie, age 14
-{b}Hija{/b}: Elodie, edad 14
+{b}Hija{/b}: Elodie, 14 años
 Queen of Nova
 Reina of Nova
 Crown Princess of Nova
@@ -5134,19 +5134,19 @@ Yo... Si insiste, mi señora.
 #Speaker: elodie_yielding
 #Narration
 You wander downstairs to visit your father and talk about the latest events in the domain.
-Bajas las escaleras para visitar a tu padre y hablar de los últimos acontecimientos del reino.
+Bajas las escaleras para ver a tu padre y hablar sobre los últimos acontecimientos del reino.
 #Narration
 You're moving with such enthusiasm that you don't realise your father isn't alone until it's too late to avoid him and his... companion.
-Te mueves con tanto entusiasmo que no te das cuenta que tu padre no está solo hasta que es demasiado tarde para evitarlo a él y su compañera....
+Te mueves con tanto entusiasmo que no te das cuenta de que tu padre no está solo hasta que es demasiado tarde para evitarlo, a él y a su... compañera.
 #Speaker: sirin
 You are too kind, Joslyn.
 Eres muy amable, Joslyn.
 #Narration
 Countess Sirin. {i}Not{/i} a member of your circles - she's a bit more than a decade your senior, far too old to have ever been your friend.  And yet, not at all old, as noblewomen go.
-Condesa Sirin. {i}No{/i} pertenece a tu círculo - ella es poco más de una década mayor que tú, demasiado mayor para haber sido alguna vez tu amiga. Sin embargo, no es en absoluto vieja, como otras mujeres de la nobleza.
+Condesa Sirin. {i}No{/i} pertenece a tu círculo. Es poco más de una década mayor que tú, demasiado mayor para haber sido alguna vez tu amiga. Sin embargo, no es en absoluto vieja, como otras mujeres de la nobleza.
 #Narration
 She has two minor titles, no husband, and {i}your father's arm in her grasp.{/i}
-Tiene dos títulos menores, sin marido, y el {i}brazo de tu padre agarrado.{/i}
+Tiene dos títulos menores y está soltera. {i}Está agarrando a tu padre del brazo.{/i}
 #Narration
 You take a deep breath.
 Respiras profundamente.
@@ -5176,10 +5176,10 @@ She notices your stare, but only smiles at you ever-so-sweetly.
 Se percata de tu mirada, pero se limita a sonreír dulcemente.
 #Speaker: sirin
 Darling Elodie.  I hope you have been well.
-Querida Elodie. Espero que hayas estado bien.
+Querida Elodie. Espero que estés bien.
 #Speaker: elodie_angry
 ...  Fine.
-... Bien.
+...  Estoy bien.
 #Speaker: sirin
 Perhaps we'll be seeing more of each other in the future.
 Tal vez nos veamos más a menudo en el futuro.
@@ -5290,10 +5290,10 @@ I should go now. I hope to see more of you later.
 Debo irme. Espero veros más tarde.
 #Narration
 Once she's gone, you raise an eyebrow at your father.
-Una vez que se ha ido, miras a tu padre arqueando una ceja.
+Una vez se ha ido, miras a tu padre arqueando una ceja.
 #Speaker: joslyn
 This is the path that you have set us on.
-Éste es el camino al que nos has llevado.
+No nos has dejado otra opción.
 #Speaker: elodie_afraid
 What do you mean?
 ¿A qué te refieres?
@@ -5324,7 +5324,7 @@ And it's not going to happen any time soon.
 Y eso no va a suceder a corto plazo.
 #Speaker: joslyn
 You should be careful how you deal with people like Sirin. You need the goodwill of your nobles as well as your commoners.
-Deberías tener más cuidado al tratar con gente como Sirin. Necesitas el apoyo de tus nobles, así como tus plebeyos.
+Deberías tener más cuidado al tratar con gente como Sirin. Necesitas el apoyo de tus nobles, así como de tus plebeyos.
 #Speaker: joslyn
 Have you had any luck in finding out who was behind the attempt on your life?
 ¿Has descubierto quién está detrás de tu intento de asesinato?
@@ -5354,7 +5354,7 @@ The enemies you have uncovered may not be the only ones.
 Los enemigos que has descubierto pueden no ser los únicos.
 #Speaker: elodie_yielding
 There haven't been any problems so far.
-No ha habido ningún problema hasta el momento.
+No he tenido ningún problema hasta el momento.
 #Speaker: joslyn
 No one has been able to track the former Duchess of Ursul. There could be plots underway.
 Nadie ha sido capaz de rastrear a la ex Duquesa de Ursul. Podría haber más conspiraciones.
@@ -5385,6 +5385,308 @@ Asesinos
 #choice:
 Julianna of Ursul
 Julianna de Ursul
+#Speaker: elodie_angry
+I need to know what the other nobles are up to, and whether anyone is plotting behind my back.
+Necesito saber que traman los otros nobles, y si alguien está conspirando a mis espaldas.
+#Speaker: joslyn
+#Speaker: elodie_angry
+I need to know if I'm popular with the common people.
+Necesito saber si soy popular entre la gente del pueblo.
+#Speaker: joslyn
+#Speaker: elodie_angry
+I need to know if any foreign powers are moving against me.
+Necesito saber si algún reino extranjero está actuando en mi contra.
+#Speaker: joslyn
+#Speaker: elodie_angry
+We need to locate Julianna.  A rogue Lumen is a danger to the entire domain.
+Tenemos que encontrar a Julianna. Un Lumen sin principios es un peligro para todos.
+#Speaker: joslyn
+Without more clues of where to search, your agents are apparently unable to locate her.
+Tus agentes no pueden encontrarla sin saber donde buscar.
+#Speaker: joslyn
+You could detail a portion of your army to patrol for signs of her, but that would take them from their other duties.
+Podrías destinar una parte del ejército a patrullar en busca alguna pista, pero los apartaría de otras tareas.
+#Speaker: joslyn
+If you offered a reward for her capture, the people of Nova would also aid in the search.
+Si ofrecieras una recompensa por su captura, el pueblo de Nova también ayudaría en la búsqueda.
+#Speaker: joslyn
+However, she was imprisoned once before, and that did not contain her.
+Sin embargo, ya fue encarcelada una vez, y eso no la contuvo.
+#choice:
+She has to die
+Tiene que morir
+#Speaker: elodie_angry
+She's too dangerous to hold.  She has to be killed, and quickly, before she has a chance to use her magic.
+No podemos retenerla, es demasiado peligrosa. Hay que matarla antes de que pueda usar su magia.
+#choice:
+I want her alive
+La quiero viva
+#Speaker: elodie_yielding
+I can't order her killed out of hand.  I want her alive and able to tell me the truth.
+No puedo ordenar su muerte. La quiero viva y consciente, necesito sacarle la verdad.
+#Speaker: elodie_angry
+(Some years ago, Julianna spent time with the Duke of Maree and the Duchess of Hellas.)
+(Hace algunos años, Julianna pasó un tiempo con el Duque de Maree y la Duquesa de Hellas.)
+#Speaker: elodie_angry
+(But they're dead, so they can't tell me anything now.)
+(Pero ahora están muertos, por lo que no me pueden decirme nada.)
+#Speaker: elodie_angry
+(But I'm not likely to get any support from that direction now.)
+(Pero probablemente no voy a conseguir su ayuda.)
+#Speaker: elodie_angry
+(Maybe they would have some idea where she's gone.)
+(Tal vez ellos tengan alguna idea de a dónde ha ido.)
+#choice:
+Send soldiers on patrol
+Enviar soldados en patrulla
+#Speaker: elodie_angry
+Send a company of soldiers to search for her, starting in Ursul and moving out from there.
+Envía una compañía de soldados a buscarla. Que comiencen en Ursul y continúen desde allí.
+#Speaker: joslyn
+#choice:
+Post a reward
+Publicar una recompensa
+#Speaker: elodie_angry
+All right, we'll post her description and offer a reward to anyone who can bring her down.
+Muy bien, vamos a publicar su descripción y a ofrecer una recompensa a cualquiera que pueda atraparla.
+#Speaker: elodie_willful
+I can even paint her picture to be sure everyone recognises her.
+Incluso puedo pintar su retrato para asegurarme de todo el mundo la reconoce.
+#Speaker: joslyn
+#choice:
+Ask Maree and Hellas
+Preguntar a Maree y a Hellas
+#Speaker: elodie_neutral
+Send messages to the Duke of Maree and the Duchess of Hellas.  I need to speak with them about Julianna.
+Envía mensajes al Duque de Maree y a la Duquesa de la Hellas. Tengo que hablar con ellos sobre Julianna.
+#Speaker: joslyn
+#Speaker: elodie_angry
+I can deal with any problems that come up as long as I'm here to deal with them.  It's assassins I'm worried about.
+Puedo lidiar con los problemas que surjan mientras esté aquí para hacerlo. Son los asesinos lo que me preocupa.
+#Speaker: joslyn
+{b}You{/b} are your own best defense against assassins. Increasing your skills will help to protect you.
+{b}Tú{/b} eres tu mejor defensa contra los asesinos. Mejorar tus habilidades te ayudará a protegerte.
+#Speaker: joslyn
+Beyond that, you can train more soldiers into personal bodyguards to watch over you.
+Además, puedes asignar más soldados a tu guardia personal para protegerte.
+#Speaker: joslyn
+Or you can institute harsh penalties for treason and make people too frightened to cross you.
+O puedes endurecer los castigos por traición y hacer que la gente tenga demasiado miedo de oponerse a ti.
+#choice:
+More training
+Entrenar más tus habilidades
+#Speaker: elodie_depressed
+There are so many things I need to learn, and so little time!
+¡Hay tantas cosas que necesito aprender y tan poco tiempo!
+#Speaker: joslyn
+Be calm and determined and you will succeed. I believe in you.
+Mantén la calma y la determinación y triunfarás. Yo creo en ti.
+#Speaker: elodie_cheerful
+Thanks, Dad.
+Gracias, papa.
+#choice:
+More guards
+Asignar más guardias a tu protección
+#Speaker: elodie_afraid
+I need more guards.  I have to be safe.
+Necesito más guardias. Tengo que estar segura.
+#Speaker: joslyn
+#choice:
+More punishment
+Endurecer los castigos
+#Speaker: elodie_angry
+Right.  Find that assassin's family and have them all flogged.  And then hanged.
+Sí. Encuentra a la familia de ese asesino y haz que los azoten a todos. Después que los ahorquen.
+#Speaker: elodie_willful
+And make sure everyone knows about it.
+Y asegúrate de que todo el mundo se entere.
+#Speaker: joslyn
+#Speaker: elodie_angry
+Send agents around to towns and villages to warn everyone what happens to traitors.
+Envía agentes a todas las ciudades y pueblos para advertir a todos lo que les pasa a los traidores.
+#Speaker: elodie_angry
+Assassins will suffer death by public impalement, and their families will hang.
+A los asesinos se les empalará públicamente y sus familias serán colgadas.
+#Speaker: joslyn
+#Speaker: elodie_angry
+(I am paying attention to what's around me!)
+(¡Presto atención a lo que me rodea!)
+#Narration
+All of a sudden, there is a scream from the hallway.
+De repente, se escucha un grito desde el pasillo.
+#Narration
+Rushing outside, you find a young squire lying on the floor. An amorphous black shape, like the imprint of a monstrous hand, surrounds his neck. He is not moving.
+Sales corriendo, y encuentras a un escudero joven tendido en el suelo. Una amorfa mano negra, como la de un monstruo, rodea su cuello. El escudero no se mueve.
+#Narration
+Before your eyes, the darkness fades away, leaving only ordinary bruises - and a body.
+La oscura mano se desvanece ante tus ojos, dejando únicamente moratones en el cuerpo.
+#Speaker: joslyn
+What...?
+¿Qué...?
+#Speaker: elodie_angry
+It doesn't feel like a spell... not a Lumen spell, anyway.
+No parece un hechizo... no uno Lumen, desde luego.
+#Speaker: elodie_afraid
+Is this like the dark cloud that attacked Nova two hundred years ago?
+¿Está relacionado con la nube de oscuridad que atacó Nova hace doscientos años?
+#Speaker: joslyn
+Let's hope not. The cost would be too high.
+Esperemos que no. El coste sería demasiado alto.
+#Speaker: elodie_afraid
+A magical monster?
+¿Un monstruo mágico?
+#Speaker: joslyn
+I don't know.
+No lo sé.
+#Speaker: elodie_afraid
+What else could do something like this?
+¿Qué otra cosa podría hacer algo así?
+#Speaker: joslyn
+#Narration
+Everywhere you look, there are shadows... any one of them might be dangerous.
+Mires donde mires, hay sombras... cualquiera podría ser peligrosa.
+#Narration
+It will take some time to sleep tonight.
+Te costará un poco más dormir esta noche.
+#Speaker: joslyn
+It is the time of year to decide any necessary adjustments to the royal budget.
+Es momento de realizar los ajustes necesarios al presupuesto real.
+#Speaker: joslyn
+The majority of the money we receive is already spoken for, but there is always some room for discretion.
+La mayor parte del dinero que recibimos ya está repartido, pero siempre hay cierto margen económico.
+#These are the strings for 1.2.28 and higher
+#Narration
+Based on the records and notes of current expenditures, you have already overspent your personal allotment for the year. You will need to raise taxes to cover the loss.
+Basándote en los registros y las notas de los gastos realizados, ya has gastado más que tu asignación personal para el año. Tendrás que subir los impuestos para cubrir la pérdida.
+#Narration
+Based on the records and notes of current expenditures, if you maintain the current rate of tax, you will still have %(lassi_s)s available for special projects.
+Basándote en los registros y las notas de los gastos realizados, si mantienes la actual tasa de impuestos, aún podrás disponer de %(lassi_s)s para algún proyecto especial.
+#Narration
+
+
+That is not a large amount. If there are no emergencies, everything should be fine, but you cannot afford to lower the tax rates.
+No es una gran suma. Si no hay emergencias, todo debería ir bien, pero no podrás permitirte el lujo de bajar los impuestos.
+#Narration
+
+
+You can't imagine any reason that you would need to spend so much. You could afford to lower taxes.
+No se te ocurre ninguna razón por la que tendrías que gastar tanto. Te podrás permitir el lujo de bajar los impuestos.
+#Narration
+Four thousand lassi should be enough to cover any military surprises for the rest of the year.
+Cuatro mil lassi deberían bastar para cubrir cualquier imprevisto militar durante el resto del año.
+#Narration
+Any little trade disruption shouldn't need more than a few hundred lassi to sort out, at least temporarily.
+Cualquier pequeña alteración del comercio no deberí costar más de unos pocos cientos de lassi para resolverse, al menos temporalmente.
+#Speaker: elodie_depressed >= 1.2.28
+(I really don't understand all of these numbers. Maybe I should leave them alone.)
+(No entiendo nada de estos números. Tal vez debería dejarlos como están.)
+# Begin 1.3.x section
+#Speaker: elodie_scared
+(I don't know anything about budgets!)
+(¡No sé nada de presupuestos!)
+#choice:
+Raise taxes
+Subir los impuestos
+#Speaker: elodie_willful
+We need more money. Raise the taxes a bit.
+Necesitamos más dinero. Sube un poco los impuestos.
+#Speaker: elodie_willful
+If we adjust this and this here, most people won't even notice the difference.
+Si ajustamos esto y eso, la mayoría de la gente ni siquiera notará la diferencia.
+#Speaker: elodie_willful
+Only the ones who can afford it will pay more.
+Sólo los que puedan permitírselo pagarán más.
+#choice:
+Keep them the same
+Mantener los impuestos
+#Speaker: elodie_normal
+I think they're fine as they are.
+Creo que están bien como están.
+#Narration
+Your father consults with a minister.
+Tu padre consulta al ministro.
+#Speaker: joslyn
+Apparently your earlier efforts have totally exhausted the available funds. It will be necessary to raise more funds.
+Al parecer tus gastos hasta el momento han agotado totalmente los fondos disponibles. Será necesario recaudar más.
+#Speaker: elodie_angry
+(Why didn't he say so to begin with?)
+(¿Por qué no lo dijo para empezar?)
+#Speaker: elodie_pressured
+Fine! Raise taxes, then!
+¡Muy bien! ¡Entonces, sube los impuestos!
+#choice:
+Lower taxes
+Bajar los impuestos
+#Speaker: elodie_yielding
+I think we have enough money... Let's lower the taxes a little.
+Creo que tenemos suficiente dinero... Vamos a bajar los impuestos un poco.
+#Narration: Your father consults with a minister.
+#Speaker: joslyn
+Apparently your earlier efforts have exhausted the available funds. There is not enough surplus to give back.
+Al parecer tus gastos hasta el momento han agotado totalmente los fondos disponibles. Será necesario recaudar más.
+#Speaker: elodie_crowded
+(That's not fair! I wanted to lower taxes!)
+(¡No es justo! ¡Quería bajar los impuestos!)
+# End 1.3.x section
+#These are the strings for 1.2.27 and lower
+#Narration
+#Based on the records and notes of current expenditures, if you maintain the current rate of tax, you will still have %(lassi_s)s available for special projects.
+#Narration
+Based on the records and notes of current expenditures, if you maintain the current rate of tax, you will owe the treasury %(lassi_s)s.
+Basándote en los registros y las notas de los gastos realizados, si mantienes la actual tasa de impuestos, deberás al tesoro %(lassi_s)s.
+#Narration
+If you lower taxes, you will lose some of that money because it will go to pay your existing costs; if you raise taxes, you should have more.
+Si bajas los impuestos, perderás parte de ese dinero destinado a pagar tus gastos; si los subes, ganarás más dinero.
+#Speaker: elodie_depressed
+(I really don't understand all of these numbers.)
+(No entiendo en absoluto todos estos números.)
+#choice: Raise taxes
+#Speaker: elodie_willful
+We need more money.  Raise the taxes.
+Necesitamos más dinero. Sube los impuestos.
+#choice: Lower taxes
+#Speaker: elodie_yielding
+I think we have enough money...  Let's lower the taxes a little.
+Creo que tenemos suficiente dinero... Bajemos los impuestos un poco.
+#Narration
+
+#Your father consults with a minister.
+#Speaker: joslyn
+
+#Apparently your earlier efforts have exhausted the available funds. There is not enough surplus to give back.
+#Speaker: elodie_crowded
+(That's not fair!  I wanted to lower taxes!)
+(¡No es justo! ¡Quería bajar los impuestos!)
+
+# End 1.2.27 section.
+#Speaker: joslyn
+Also, we have received a message from the King of Talasse.
+Además, hemos recibido un mensaje del Rey de Talasse.
+#Speaker: joslyn
+It suggests that the Duke of Sedna is extremely displeased at how publicly you broke your betrothal to him.
+Informa que el Duque de Sedna está extremadamente disgustado por la forma en que rompiste públicamente su compromiso contigo.
+#Speaker: elodie_depressed
+Oh.
+Oh.
+#Speaker: joslyn
+He suggests that a large tribute - perhaps 2,000 lassi - would go a long way to smoothing over ruffled feathers.
+Sugiere que un tributo - de quizás 2000 lassi - ayudaría a suavizar los ánimos.
+#choice:
+Pay him
+Pagarle
+#Speaker: elodie_yielding
+Fine, send the money.
+Está bien, envía el dinero.
+#choice:
+#Speaker: elodie_angry
+I am not paying him.  He'll just have to deal with it.
+No voy a darle un céntimo. Tendrá que aguantarse.
+#Narration
+A maid taps at the door for attention.
+Una criada golpea la puerta para llamar tu atención.
+#Speaker: alice_worried
+Ah - The Duchess of Hellas is here to see you, my lady.
+Eh - La Duquesa de Hellas ha venido a verle, mi señora.
 # Mood adjustments.
 +2 Afraid
 +2 Asustada
