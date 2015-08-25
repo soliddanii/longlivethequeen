@@ -216,6 +216,7 @@ hired a spy?
 triggered an earthquake?
 ¿Has desencadenado \nun terremoto?
 # New achievements for 1.3.x:
+# 'kissed your fiancé' only translates properly in >=1.3.20.
 kissed your fiancé?
 ¿Has besado a tu novio?
 poisoned a chicken?
@@ -282,7 +283,7 @@ Rey Viudo de Nova
 Duke of Caloris
 Duque de Caloris
 Age 33
-Edad 33
+33 Años
 {b}Wife{/b}: Fidelia, Queen of Nova (Deceased)
 {b}Esposa{/b}: Fidelia, Reina de Nova (Fallecida)
 {b}Brother{/b}: Armand, Duke of Mazomba
@@ -296,9 +297,9 @@ Princesa de Nova
 Elodie
 Elodie
 Age 14
-Edad 14
+14 Años
 Age 15
-Edad 15
+15 Años
 Engaged to Banion
 Comprometida con Banion
 Betrothed to Talarist
@@ -963,7 +964,7 @@ Como Lumen reconocida abiertamente, Julianna, Duquesa de Ursul, era mal recibida
 It did not matter that Elodie supported her fully as a member of the noble court. That only led the commoners to whisper that Julianna was a bad influence on their Queen.
 No importaba que Elodie la apoyara plenamente como miembro de la corte. Eso sólo llevó a los plebeyos a susurrar que Julianna era una mala influencia para su reina.
 Julianna's perpetually unmarried state was even more worrying to those with wagging tongues. What if {i}that{/i} influence rubbed off on the Queen, and left Nova with no heir?
-El estado de soltera de Julianna era todavía más preocupante para las malas lenguas. ¿Qué iba a pasar si {i}esa{/ i} influencia contagiaba a la reina, y Nova se quedaba sin heredero?
+El estado de soltera de Julianna era todavía más preocupante para las malas lenguas. ¿Qué iba a pasar si {i}esa{/i} influencia contagiaba a la reina, y Nova se quedaba sin heredero?
 Others known publicly to be Lumens, such as the Duchess of Ursul and the Countess of Nix, were met with public suspicion whenever they left their home territories. Not even the Queen's open support was enough to endear them to the common people.
 Otros reconocidos Lumens, como la Duquesa de Ursul y la Condesa de Nix, eran mal recibidos al viajar fuera de sus territorios. Ni siquiera el apoyo abierto de la Reina era suficiente para que la gente los quisiese.
 All in all, it was generally considered a good thing that the old Duchess of Ursul had been replaced. She was a Lumen, after all, and probably up to no good. But then someone would raise the question of just where she had disappeared to...
@@ -1170,6 +1171,8 @@ Cancelar
 The game will now attempt to save the log and open it in a web browser.
 El juego intentará ahora guardar el log y abrirlo en un navegador web.
 # End log strings.
+# Tooltips for the weekend map screen.  Some of these have two different
+# variants because the text is slightly different if you click 'show tooltips'.
 +1 Depressed\n+1 Pressured
 +1 Deprimida\n+1 Presionada
 +1 Cheerful\n+1 Pressured
@@ -1181,7 +1184,7 @@ El juego intentará ahora guardar el log y abrirlo en un navegador web.
 +1 Willful
 +1 Obstinada
 +1 Angry\n-1 Lonely
-+1 Enfadada\n-1 Soledad
++1 Enfadada\n-1 Solitaria
 +1 Angry
 +1 Enfadada
 -2 Angry\n+1 Cheerful
@@ -1210,18 +1213,22 @@ Sin Efecto
 -1 Dócil\n+1 Presionada
 Talk to Your Father
 Hablar con tu Padre
+Talk to\nFather
+Hablar con\nPapá
 Play with Toys
 Jugar con Juguetes
+Play with Toys\n\n
+Jugar con Juguetes\n\n
 +1 Yielding\n+1 Lonely\n+1 Cheerful
-+1 Dócil\n+1 Soledad\n+1 Alegria
++1 Dócil\n+1 Solitaria\n+1 Alegria
 +2 Willful\n+1 Lonely
-+2 Obstinada\n+1 Soledad
++2 Obstinada\n+1 Solitaria
 +1 Willful\n+1 Depressed\n+1 Lonely
-+1 Obstinada\n+1 Deprimida\n+1 Soledad
++1 Obstinada\n+1 Deprimida\n+1 Solitaria
 Walk in the Gardens
 Pasear por los jardines
 +1 Lonely\n+1Cheerful
-+1 Soledad\n+1 Alegria
++1 Solitaria\n+1 Alegria
 Attend Ball
 Attend Ball
 Attend court
@@ -1245,9 +1252,11 @@ Visitar Mazmorras
 Explore Castle
 Explorar Castillo
 +1 Lonely\n+1 Afraid
-+1 Soledad\n+1 Asustada
++1 Solitaria\n+1 Asustada
 Visit Julianna, Duchess Ursul
 Visitar a Julianna, Duquesa de Ursul
+Visit\nJulianna\nof Ursul
+Visitar a\nJulianna\nde Ursul
 Visit Selene
 Visitar a Selene
 Visit Charlotte, Lady Merva
@@ -1293,7 +1302,7 @@ Dócil
 Pressured
 Presionada
 Lonely
-Soledad
+Solitaria
 +1 Afraid
 +1 Asustada
 +1 Cheerful
@@ -1303,9 +1312,9 @@ Soledad
 +1 Yielding
 +1 Dócil
 +1 Lonely
-+1 Soledad
++1 Solitaria
 -1 Lonely
--1 Soledad
+-1 Solitaria
 Long Live The Queen
 Long Live The Queen
 Boarding School Uniform
@@ -1413,9 +1422,9 @@ Empty Slot.
 Ranura vacía.
 # 1.3.x Newest-save indicators, note leading spaces.
  {b}(LATEST){/b}
-  {b}(ÚLTIMA){/b}
+ {b}(ÚLTIMA){/b}
  {b}(NEW){/b}
-  {b}(NUEVA){/b}
+ {b}(NUEVA){/b}
 #Speaker: joslyn
 We're almost home. Your room is just the way you left it.
 Ya estamos en casa. Tu habitación está tal y como la dejaste.
@@ -1486,13 +1495,13 @@ I have come to pay my respects in honor of your mother.
 He venido a presentar mis respetos en honor a tu madre.
 #Speaker: joslyn
 You have no respect or honor.  It's because of you and your powers that my wife is dead!
-No tienes ni respeto ni honor.  ¡Mi esposa está muerta por tu culpa y la de tus poderes!
+No tienes ni respeto ni honor.  ¡Mi esposa está muerta por tu culpa! ¡Por culpa de tus poderes!
 #Speaker: elodie_afraid
 What?!?
 ¿¡¿Qué?!?
 #Speaker: julianna
 I am a Lumen, as was she, and like every Lumen I am willing to give my life if necessary to protect our domain. 
-Soy un Lumen, como lo era ella, y como cada Lumen estoy dispuesta a dar mi vida si es necesario para proteger nuestro dominio.
+Soy un Lumen, como lo era ella, y como cada Lumen estoy dispuesta a dar mi vida si es necesario para proteger nuestro reino.
 #Speaker: joslyn
 Your line has been traitors for two hundred years. I won't have you corrupting my daughter.
 Los tuyos han sido traidores cientos de años. No voy a dejar que corrompas a mi hija.
@@ -1627,7 +1636,7 @@ Demasiado tarde, Julianna balancea su espada y le corta la cabeza a la serpiente
 #Speaker: lucille
 #Speaker: julianna
 Your daughter's been bitten by a milk viper. They're poisonous. Get an herbalist, right away!
-Su hija ha sido mordida por una víbora de leche. Son venenosas. ¡Consigue un herbolario, de inmediato!
+Su hija ha sido mordida por una víbora de leche. Son venenosas. ¡Consiga un herbolario, de inmediato!
 #Speaker: lucille
 {b}I{/b} will treat my daughter. I certainly can't trust anyone here to keep her safe!
 {b}Yo{/b} curaré a mi hija. ¡Ciertamente no confío en nadie para mantenerla a salvo!
@@ -1748,7 +1757,7 @@ There's no known cure for milk viper venom.  Many people just... die.
 No hay cura conocida para el veneno de víbora de leche.  Mucha gente simplemente... muere.
 #Speaker: elodie_neutral
 But her mother said she's okay, so I guess it turned out all right.
-Pero su madre dijo que está bien, así que supongo que salió bien.
+Pero su madre dijo que está bien, así que supongo que al final todo salió bien.
 #Speaker: elodie_cheerful
 Maybe she has a guardian angel!
 ¡Tal vez tenga un ángel de la guarda!
@@ -1821,7 +1830,7 @@ You turn and walk in a different direction, so as not to disturb them. At that m
 Das la vuelta y caminas en otra dirección para no molestarlas. En ese momento, notas algo inusual. Parece que alguien acaba de salir de los jardines del palacio saltando sobre el seto.
 #Narration
 Was that a servant? A thief? Or... an assassin?
-¿Fue eso un sirviente? ¿Un ladrón? O ... ¿Un asesino?
+¿Fue un sirviente? ¿Un ladrón? O... ¿Un asesino?
 #choice:
 Climb up to look over the hedge
 Trepar para mirar sobre el seto
@@ -1851,7 +1860,7 @@ Guards!
 ¡Guardias!
 #Narration
 However, by the time the response is organised and directed to the area beyond the palace, there's no sign of any intruder.
-Sin embargo, para cuando la respuesta se organiza y dirige a la zona más allá del palacio, no hay señal ningún intruso.
+Sin embargo, para cuando los guardias se organizan y dirigen a la zona más allá del palacio, no hay señales de ningún intruso.
 #Narration
 You wonder if you were only imagining it.
 Te preguntas si sólo lo estabas imaginando.
@@ -2001,7 +2010,7 @@ Invest
 Invertir
 #Speaker: elodie_neutral
 We would be happy to invest in your venture.
-Estaríamos encantados de invertir en tu empresa.
+Estaremos encantados de invertir en tu empresa.
 #flags['invested_in_printing_press'] = True
 #choice:
 Don't invest
@@ -2171,7 +2180,7 @@ Please accept our deepest apologies for this whole affair.
 Por favor, acepta nuestras más sinceras disculpas por todo este asunto.
 #Speaker: diplomat_ixion
 Of course. I look forward to seeing you again.
-Por supuesto. Espero volver a verlo.
+Por supuesto. Espero volver a verla.
 #Speaker: elodie_neutral
 That is not acceptable.  All the land north of the river belongs to us.
 Inaceptable. Todo el territorio al norte del río nos pertenece.
@@ -2183,7 +2192,7 @@ I believe we could settle the matter for eight thousand golden lassi.
 Creo que podríamos resolver el asunto con ocho mil lassi de oro.
 #Speaker: elodie_afraid
 (That's more than all of Maree pays in taxes in a year!  It's far too much.)
-(¡Eso es más que todos los impuestos que paga Maree en año! Es demasiado.)
+(¡Es más que todos los impuestos que paga Maree en un año! Es demasiado.)
 #Speaker: elodie_angry
 (That's a {i}lot{/i} of money.  Maybe I can talk him down by reminding him how much a war would cost.)
 (Eso es un {i}montón{/i} de dinero. Tal vez pueda rebajar la suma recordándole cuánto costaría una guerra.)
@@ -2350,7 +2359,7 @@ Como puedes observar, ya tengo aliados. ¿De verdad quieres hacer frente tanto N
 #Speaker: elodie_cheerful
 #Speaker: elodie_willful
 Do you {i}really{/i} want to cross someone who controls the power of magic?
-¿{i}Realmente{/i} quieres enfrentarte a alguien que controla el poder de la magia?
+¿{i}De verdad{/i} quieres enfrentarte a alguien que controla el poder de la magia?
 You surround yourself with a glowing aura, and the Ixionite takes a step backwards.
 Te rodeas de un aura resplandeciente, y la Ixionite da un paso hacia atrás.
 #Speaker: diplomat_ixion
@@ -2382,7 +2391,7 @@ You also receive a letter informing you that Talarist, Duke of Sedna, will be ar
 También recibes una carta informándote que Talarist, el Duque de Sedna, llegará en visita oficial la próxima semana.
 #Speaker: joslyn
 Also, there is a letter for you.
-Además, hay una carta para ti.
+Cambiando de tema, hay una carta para ti.
 #Speaker: elodie_neutral
 (Talarist, the Duke of Sedna, will be arriving next week for an official visit.)
 (Talarist, el Duque de Sedna, llegará la próxima semana para una visita oficial.)
@@ -2427,7 +2436,7 @@ It's my decision.
 Es mi decisión.
 #Speaker: talarist
 A betrothal only, of course. There is no need for hurry. You have your coronation to plan for, after all.
-Sólo un compromiso, por supuesto. No hay prisa. Usted tiene que preparar su coronación, después de todo.
+Sólo un compromiso, por supuesto. No hay prisa. Al fin y al cabo, ella debe preparar su coronación.
 #Speaker: talarist
 If I might be of service in any way, please, send for me. I will be happy to offer my protection or advice.
 Si se me requiere de alguna manera, por favor, hágamelo saber. Estaré encantado de ofrecer mi protección o consejo.
@@ -2559,13 +2568,13 @@ Well, what do you have to say for yourself?
 Bueno, ¿qué tienes que decir?
 #Speaker: condemned_woman
 It's justice, it is!  Them devils killed me brother, and broke me mam's heart.
-¡Es justicia, lo es! Esos demonios mataron a mi hermano, y rompieron el corazón de mi madre.
+¡Es justicia! Esos demonios mataron a mi hermano, dejando a mi madre destrozada.
 #Speaker: condemned_woman
 Lied to her, they did, when she went to see why he'd not come back.  Said he'd gone for a soldier, when he never would!
-Le mintieron, lo hicieron, cuando fue a ver por qué no iba a volver. Dijo que se había ido para soldado, cuando él nunca lo haría!
+La mintieron, desde luego, cuando fue a ver por qué él no volvía. ¡Le dijeron que se había ido para soldado, cuando él nunca lo hubiera hecho!
 #Speaker: condemned_woman
 He weren't the only one neither.  I waited ten years for my chance to get my own back.  That's justice!
-Él tampoco fue único. Esperé diez años mi oportunidad de vengarme. ¡Eso es justicia!
+Mi hermano ni siquiera fue único. Esperé diez años para poder vengarme. ¡Esto es justicia!
 #Speaker: kevan
 You see? She's completely unrepentant! Hang her and be done with it.
 ¿Lo ve? ¡No se arrepiente en absoluto! Cuélguela y acabemos de una vez.
@@ -2659,7 +2668,7 @@ Llevárosla. Mantenerla bajo vigilancia hasta que llegue su momento.
 #Narration
 #Speaker: elodie_angry
 Get that out of here.  Put it on display, so that everyone sees what happens to criminals.
-Sacarla de aquí. Ponerla en un lugar público, para que todo el mundo vea lo que les pasa a los criminales.
+Sacarla de aquí. Exponerla en la plaza, para que todo el mundo vea lo que les pasa a los criminales.
 #Speaker: elodie_neutral
 (I need to know if she has any justification for her actions.)
 (Necesito saber si tiene alguna justificación para sus acciones.)
@@ -3399,7 +3408,7 @@ After this, you must choose your own partner. There are a number of men who hope
 Después de esto, debes elegir tu propia pareja de baile. Hay varios hombres que esperan captar tu atención.
 #Speaker: joslyn
 The Duke of Kigal alone has brought three eligible sons, all near your age.
-Tan sólo el Duque de Kigal ha traído tres hijos candidatos, todo más o menos de tu edad.
+Tan sólo el Duque de Kigal ha traído tres hijos candidatos, todos más o menos de tu edad.
 #Speaker: elodie_afraid
 But I'm already betrothed to the Duke of Sedna!
 ¡Pero ya estoy prometida al Duque de Sedna!
@@ -3510,7 +3519,7 @@ O, si realmente quieres escandalizar a la corte, podrías exigir un primer baile
 #choice:
 #Narration
 You were hoping such an outrageous act would cause her to lose some of her composure, but she remains unruffled. At least the chorus of shocked whispers around you as you take your place on the floor is gratifying.
-Esperabas que tal acto causara la pérdida de su compostura, pero ella permanece imperturbable. Por lo menos el coro de murmullos de asombro alrededor de ti mientras tomas tu lugar en la pista es gratificante.
+Esperabas que tal acto causara la pérdida de su compostura, pero ella permanece imperturbable. Por lo menos el coro de murmullos de asombro mientras tomas tu lugar en la pista es gratificante.
 #choice:
 Brin, Duchess of Hellas
 Brin, Duquesa de Hellas
@@ -3585,7 +3594,7 @@ With that in mind, you approach the Duchess of Ursul.
 Con eso en mente, te acercas a la Duquesa de Ursul.
 #Narration
 You admit to yourself that you were hoping such an outrageous act would cause her to lose some of her composure, but she remains unruffled.  At least the chorus of shocked whispers around you as you take your place on the floor is gratifying.
-Reconoces que esperabas que tal acto causara la pérdida de su compostura, pero ella permanece imperturbable. Por lo menos el coro de murmullos de asombro alrededor de ti mientras tomas tu lugar en la pista es gratificante.
+Reconoces que esperabas que tal acto causara la pérdida de su compostura, pero ella permanece imperturbable. Por lo menos el coro de murmullos de asombro mientras tomas tu lugar en la pista es gratificante.
 #Narration
 With that in mind, you approach the Duchess of Hellas.
 Con eso en mente, te acercas a la Duquesa de Hellas.
@@ -3621,7 +3630,7 @@ You have been tutored in dance, of course, as has your partner, and it is simple
 Tú has recibido clases de baile, al igual que tu pareja, y resulta bastante simple realizar los movimientos sin contratiempos.
 #Narration
 Unfortunately, you lose track of which steps you're supposed to do when, and trip over your own feet.  Oops!
-Por desgracia, pierdes la cuenta de que pasos se supone que debes hacer, y te tropiezas contigo misma. ¡Oops!
+Por desgracia, pierdes la cuenta de que pasos se supone que debes dar, y te tropiezas contigo misma. ¡Oops!
 #Narration
 As soon as you relax your grip, the maid flees to the safety of the kitchens.
 Tan pronto como aflojas el agarre, la criada huye a la seguridad de las cocinas.
@@ -3763,7 +3772,6 @@ May I have this dance, fair lady?
 {tag=dance with banion}Accept
 Aceptar
 #choice: <= 1.3.14.15.9
-
 Mention betrothal to Sedna
 Mencionar compromiso con Sedna
 # choice: >= 1.3.14.159
@@ -3917,7 +3925,6 @@ I don't think it would be appropriate.
 No creo que sea apropiado.
 #Speaker: elodie_cheerful
 After all, your fiancee might be overwhelmed with jealousy!
-
 ¡Después de todo, tu prometida podría sentirse abrumada por los celos!
 # >= 1.3.x
 After all, your fiancée might be overwhelmed with jealousy!
@@ -4778,7 +4785,7 @@ Why keep it hidden?  It's not illegal to be a Lumen.
 ¿Por qué mantenerlo oculto? No es ilegal ser Lumen.
 #Speaker: lucille
 Magic is dangerous, everyone knows that. People might think I was an evil witch. They wouldn't trust me.
-La magia es peligrosa, todo el mundo lo sabe. La gente podría pensar que era una bruja malvada. Nadie confiaría en mí.
+La magia es peligrosa, todo el mundo lo sabe. La gente podría pensar que soy una bruja malvada. Nadie confiaría en mí.
 #Speaker: elodie_angry
 (Trust... Should I trust her? What other secrets has she been keeping? Does she know anything about the assassins?)
 (Confiar ... ¿Debería confiar en ella? ¿Qué otros secretos ha estado guardando? ¿Sabrá algo acerca de los asesinos?)
@@ -5562,13 +5569,9 @@ Basándote en los registros y las notas de los gastos realizados, ya has gastado
 Based on the records and notes of current expenditures, if you maintain the current rate of tax, you will still have %(lassi_s)s available for special projects.
 Basándote en los registros y las notas de los gastos realizados, si mantienes la actual tasa de impuestos, aún podrás disponer de %(lassi_s)s para algún proyecto especial.
 #Narration
-
-
 That is not a large amount. If there are no emergencies, everything should be fine, but you cannot afford to lower the tax rates.
 No es una gran suma. Si no hay emergencias, todo debería ir bien, pero no podrás permitirte el lujo de bajar los impuestos.
 #Narration
-
-
 You can't imagine any reason that you would need to spend so much. You could afford to lower taxes.
 No se te ocurre ninguna razón por la que tendrías que gastar tanto. Te podrás permitir el lujo de bajar los impuestos.
 #Narration
@@ -5649,15 +5652,12 @@ Necesitamos más dinero. Sube los impuestos.
 I think we have enough money...  Let's lower the taxes a little.
 Creo que tenemos suficiente dinero... Bajemos los impuestos un poco.
 #Narration
-
 #Your father consults with a minister.
 #Speaker: joslyn
-
 #Apparently your earlier efforts have exhausted the available funds. There is not enough surplus to give back.
 #Speaker: elodie_crowded
 (That's not fair!  I wanted to lower taxes!)
 (¡No es justo! ¡Quería bajar los impuestos!)
-
 # End 1.2.27 section.
 #Speaker: joslyn
 Also, we have received a message from the King of Talasse.
@@ -5687,6 +5687,264 @@ Una criada golpea la puerta para llamar tu atención.
 #Speaker: alice_worried
 Ah - The Duchess of Hellas is here to see you, my lady.
 Eh - La Duquesa de Hellas ha venido a verle, mi señora.
+#Speaker: elodie_angry
+You came alone?
+¿Has venido sola?
+#Speaker: brin
+You wanted to speak to us about Julianna, didn't you? My brother knows nothing about her. He never did see what was right in front of him.
+Querías hablarme de Julianna, ¿verdad? Mi hermano no sabe nada de ella. Nunca consiguió ver más allá de su nariz.
+#Speaker: elodie_willful
+You mean, you and she -
+Te refieres a que, tú y ella -
+#Speaker: brin
+Under his nose. Yes.
+Bajo su nariz. Sí.
+#Speaker: brin
+With her reputation, I thought she might stay the course. Not like Elsbeth. Or Lucille.
+Con su reputación, pensé que podría estar a la altura. No como Elsbeth. O Lucille.
+#Speaker: elodie_afraid
+(My aunt Lucille??)
+(¿¿ Mi tía Lucille ??)
+#Speaker: brin
+But Julianna said I was too 'challenging' and she left me for some meek little temple novice from Mazomba.
+Pero Julianna dijo que yo era un 'desafío' y me dejó por alguna dócil novata del templo de Mazomba.
+#Speaker: brin
+You want to find her? Check the priestesses.
+¿Quieres encontrarla? Pregunta a las sacerdotisas.
+#Speaker: elodie_angry
+(That priestess who wanted me to set Julianna free!)
+(¡La sacerdotisa que quería que liberase a Julianna!)
+#Speaker: elodie_willful
+Thank you for this information.
+Gracias por la información.
+#Speaker: brin
+You are welcome, my Queen. Always.
+De nada, mi Reina.
+#Speaker: elodie_willful
+(Perhaps some time in the dungeons will make that priestess talk!)
+(¡Tal vez una temporada a la sombra haga hablar a la sacerdotisa!)
+#Narration
+Later that evening, the guards made their move, descending upon the palace grove with the intention of arresting Selene, Priestess of the Second Circle.
+Esa misma noche, los guardias descendieron sobre el patio del palacio con la intención de arrestar a Selene, Sacerdotisa del Segundo Círculo.
+#Narration
+Their first warning of danger was when the ground beneath them began to tremble.  All at once, a column of black water blasted up from the earth, scattering soldiers and priestesses alike.
+La primera señal de peligro llegó cuando el suelo bajo sus pies comenzó a temblar. De repente, una columna de agua negra emergió de la tierra, esparciendo a los soldados y a las sacerdotisas por igual.
+#Narration
+The water faded away, leaving nothing but salt-tinged mist, but Selene had disappeared with it.
+Para cuando el agua se desvaneció, dejando nada más que una espesa niebla, Selene había desaparecido.
+#Narration
+Apparently Julianna was not the only rogue Lumen loose within Nova.
+Por los visto Julianna no era la única Lumen peligrosa suelta por Nova.
+#Speaker: joslyn
+You are requested to stand in judgement.  A man has been convicted of the murder-by-strangling of his wife.
+Se te requiere en un juicio. Un hombre ha sido condenado por el estrangulamiento de su esposa.
+#Speaker: joslyn
+He does not deny the act, but requests a pardon that he might be set free.
+No niega haberlo hecho, pero pide un indulto para dejarlo en libertad.
+#Speaker: elodie_angry
+If you admit you killed your wife, why do you think I'm going to set you free?
+Si admites haber matado a tu esposa, ¿por qué crees que voy a dejarte libre?
+#Speaker: condemned_man
+Save me, Your Majesty!  Wasn't my fault.  {i}Demons{/i} made me do it.
+Sálveme, Majestad! No fue mi culpa. Los {i}demonios{/i} me obligaron a hacerlo.
+#Speaker: condemned_man
+Everyone knows the power of magical beasties!  They used me, they twisted my fingers into chains...
+¡Todo el mundo conoce el poder de bestias mágicas! Me utilizaron, transformaron mis dedos en cadenas...
+#Speaker: condemned_man
+My wife found me screaming, she tried to shake me, and the chains wrapped around her...
+Mi esposa me encontró gritando, e intentó ayudarme, entonces las cadenas la envolvieron...
+#Speaker: condemned_man
+I need the priestesses to bless me and make me clean again!
+¡Necesito que las sacerdotisas me bendigan y me dejen limpio de nuevo!
+#Speaker: elodie_angry
+(Demons?  This man is a {i}Lumen!{/i} Where did he get a crystal?)
+(¿Demonios? Este hombre es un {i}Lumen{/i} ¿De dónde sacó el cristal?)
+#Speaker: elodie_afraid
+(I {i}do{/i} feel some kind of magic around him.  Is it possible that he's telling the truth?)
+({i}Percibo{/i} una especie de magia a su alrededor. ¿Es posible que esté diciendo la verdad?)
+#Speaker: elodie_neutral
+(Selene is a priestess and a Lumen. If I send him to her, she might be able to sort this out.)
+(Selene es sacerdotisa y Lumen. Si se lo envío, quizás sea capaz de resolver esto.)
+#Speaker: elodie_angry
+(Julianna might be able to tell even if I can't. Her Lumen power is stronger than mine.)
+(Julianna podría ser capaz averiguarlo, aunque yo no pueda. Su poder como Lumen es mayor que el mío.)
+#Speaker: elodie_afraid
+(Demons that make you attack people?  Is that even possible?)
+(¿Demonios que te hacen atacar a la gente? ¿Es eso posible?)
+#choice:
+Question him about crystal
+Interrogarlo sobre el cristal
+# For the visible keyboard.
+space
+space
+backspace
+backspace
+Composure
+Serenidad
+the ability to bear pain, fear, and surprise without flinching
+la capacidad para soportar el dolor, el miedo y las sorpresas sin pestañear
+Elegance
+Elegancia
+the ability to be beautiful and dignified under any circumstances
+la capacidad de estar hermosa y digna bajo cualquier circunstancia
+Presence
+Presencia
+an aura of confidence and command
+un aura de confianza y liderazgo
+Public Speaking
+Hablar en Público
+the ability to use words well under pressure
+la habilidad de expresarse bien bajo presión
+Court Manners
+Modales
+proper etiquette for all situations
+buenos modales para todas las situaciones
+Flattery
+Zalamería
+the ability to tell someone what they want to hear
+la capacidad de decirle a alguien lo que quiere oír
+Decoration
+Decoración
+drawing, painting, arranging flowers, dressing well
+dibujar, pintar, arreglar las flores y vestir bien
+Instrument
+Instrumento
+skill with musical instruments such as the harp and flute
+habilidad con instrumentos musicales como el arpa y la flauta
+Voice
+Voz
+the skill of singing beautifully
+la habilidad de cantar maravillosamente
+Novan History
+Historia de Nova
+notable events and locations within this domain
+eventos y lugares destacables dentro de este reino
+Foreign Affairs
+Asuntos Exteriores
+notable events and relationships between this domain and its neighbors
+acontecimientos destacables y las relaciones entre este reino y sus vecinos
+World History
+Historia del Mundo
+long-term information about the world in general
+información a largo plazo sobre el mundo en general
+Internal Affairs
+Asuntos Internos
+what the nobles and other citizens are up to
+a que se dedican los nobles y ciudadanos
+Foreign Intelligence
+Información del Exterior
+what other countries are up to
+que traman otros países
+Ciphering
+Cifrado
+learning to read and write secret information
+aprender a leer y escribir información secreta
+Herbs
+Hierbas
+knowledge of helpful and harmful plants
+conocimiento de las plantas útiles y perjudiciales
+Battlefield Medicine
+Medicina de batalla
+first aid, dealing with immediate injuries
+primeros auxilios, tratar lesiones inmediatas
+Poison
+Veneno
+ability to recognise and counteract dangerous substances
+capacidad de reconocer y combatir sustancias peligrosas
+Accounting
+Contabilidad
+treasury, profits and expenditures
+tesorería, beneficios y gastos
+Trade
+Comercio
+how goods are bought and sold between locations
+cómo funciona la compraventa de productos entre territorios
+Production
+Producción
+national resources and how they are made into goods
+recursos nacionales y cómo se transforman en bienes
+Strategy
+Estrategia
+the skill of achieving victory on land
+la habilidad de alcanzar la victoria en tierra
+Naval Strategy
+Estrategia Naval
+the skill to achieve victory at sea
+la habilidad de lograr la victoria en el mar
+Logistics
+Logística
+being able to move troops and supplies in a timely fashion
+ser capaz de mover tropas y suministros en el momento oportuno
+Dance
+Baile
+knowing the steps and carrying them out with grace
+conocer los pasos y realizarlos con elegancia
+Reflexes
+Reflejos
+the ability to respond quickly to surprises
+la capacidad de responder rápidamente a las sorpresas
+Flexibility
+Flexibilidad
+the ability to stretch and contort without pain
+la habilidad de estirarse y contorsionarse sin dolor
+the ability to use a blade both for formal duels and deadly force
+la habilidad de esgrimir una espada tanto para duelos formales como para peleas reales
+the ability to strike a target at range
+la habilidad de acertar a un objetivo a distancia
+Polearms
+Alabardas
+the ability to wield a long staff or ceremonial weapon
+la habilidad de blandir un largo báculo o arma ceremonial
+Running
+Atletismo
+ability to move swiftly and surely across land
+capacidad de moverse con rapidez y seguridad sobre tierra firme
+Climbing
+Escalada
+scaling ropes, rocks, and walls
+escalar cuerdas, rocas y paredes
+Swimming
+Natación
+endurance and speed when crossing water
+resistencia y velocidad al avanzar por el agua
+Horses
+Caballos
+riding and grooming
+equitación y acicalado
+Dogs
+Perros
+training, hunting
+entrenamiento y caza
+Falcons
+Halcones
+Meditation
+Meditación
+finding and maintaining your own inner peace
+encontrar y mantener tu paz interior
+Divination
+Adivinación
+interpreting signs from nature of what the future might hold
+interpretar los signos de la naturaleza sobre lo que puede deparar el futuro
+Lore
+Lore
+the magical history of Nova
+la historia mágica de Nova
+Sense Magic
+Percibir Magia
+the ability to detect mystical power at work
+capacidad de detectar energía mística en tu entorno
+Resist Magic
+Resistir Magia
+defense against mystical powers
+defensa contra poderes místicos
+Wield Magic
+Usar Magia
+knowledge and control of your own magical powers
+conocimiento y control sobre tus propios poderes mágicos
+Social
+Social
+Royal Demeanor
+Comportamiento
 # Mood adjustments.
 +2 Afraid
 +2 Asustada
@@ -5775,8 +6033,6 @@ La Coronación
 # UI
 Week %d
 Semana %d
-
-
 # New outfit indicator
 {tag=outfit}NEW
 NUEVO
@@ -5893,10 +6149,10 @@ Cierra el juego.
 Language:
 Idioma:
 (current)
-(Actual)
+(Activo)
 # Note: Don't translate filenames or variable names here.
 persistent.log_untranslated is true; missing translations will be prefixed\nwith *** and will be logged to translation_debugging.log.
-persistent.log_untranslated es true; Las traducciones faltantes serán prefijadas con *** y\nserán registradas en translation_debugging.log.
+persistent.log_untranslated = true; Las traducciones faltantes serán prefijadas con *** y\nserán registradas en translation_debugging.log.
 persistent.log_untranslated is false; translation logging is disabled.
 persistent.log_untranslated = false; el log de traducción está desactivado.
 # For 1.2.23 or newer:
@@ -5998,7 +6254,7 @@ Campo de Batalla
    %(name)s: %(desc)s.
 # Tooltip for hovering class groups.
 Allows you to select %s classes.
-Te permite seleccionar %s clases.
+Te permite seleccionar clases de %s.
 Class Options
 Clase - Opciones
 Morning ~ Class Categories
@@ -6156,10 +6412,8 @@ The Royal Crystal has been passed down from ruler to ruler for generations. It b
 El cristal Real ha pasado de soberano a soberano durante generaciones. Ahora te pertenece - aunque tu padre puede estar ocultándotelo.
 #Speaker: elodie_neutral
 Do you have a crystal?
-¿Tienes tu un cristal?
+¿Tienes tú un cristal?
 #Speaker: julianna
-
-
 {tag=julianna, to elodie}Of course.
 Claro.
 #Narration
@@ -6171,7 +6425,7 @@ Te acercas para tocarlo, y se disuelve en nada.
 #Speaker: elodie_lonely
 #Speaker: julianna
 It belongs to me. No one can take it from me until I die.
-Me pertenece. Nadie puede arrebatármelo hasta que me muera.
+Me pertenece. Nadie podrá arrebatármelo hasta que muera.
 #Speaker: julianna
 You need to find the crystal that belongs to you.
 Tienes que encontrar el cristal que te pertenece.
@@ -6189,10 +6443,10 @@ They can't be destroyed. He could throw it away, but then someone else might fin
 No puede ser destruido. Podría tirarlo, pero entonces alguien podría encontrarlo. No, lo mantendrá seguro.
 #Speaker: elodie_neutral
 But if it's mine, it wouldn't matter if someone else found it.
-Pero si es mío, no importaría si otra persona lo encontrase, ¿no?
+Pero si es mío, no importa si otra persona lo encuentra, ¿no?
 #Speaker: julianna
 It's attuned to you, but you haven't bonded with it yet. If it found a compatible host, someone who was {i}like{/i} you in some way, it could bond to them.
-Está en sintonía contigo, pero todavía no te has unido a él. Si encuentra un huésped compatible, alguien que fuese {i}como{/i} tú de alguna manera, podría unirse con él.
+Está en sintonía contigo, pero todavía no te has unido a él. Si encuentra un huésped compatible, alguien que sea {i}como{/i} tú de alguna manera, podría unirse con él.
 #Speaker: elodie_neutral
 My father says I can't have the crystal until I'm Queen, so we'll just have to wait.
 Mi padre dice que no puedo tener el cristal hasta que sea reina, así que tendremos que esperar.
@@ -6257,8 +6511,6 @@ Ok...  Allá vamos... \n ¡Iluminate!
 #Speaker: julianna
 The priestess here is a friend of mine. I will come to your lessons in the faith and train you to use your powers.
 La sacerdotisa es amiga mía. Vendré a tus clases de fe para ayudarte a entrenar tus poderes.
-
-
 #Don't do it
 #Speaker: elodie_depressed
 And, um... if I do that, there's no going back, right?  It's part of me until the day I die?
@@ -6339,8 +6591,6 @@ Entonces, si lo entiendes, toma el cristal y comencemos.
 #Speaker: elodie_afraid
 Pssst! I need to talk to you!
 ¡Pssst! ¡Necesito hablar contigo!
-
-
 #Speaker: elodie_afraid
 That priestess, Selene...  She's a {i}Lumen!{/i} I can sense it!
 La sacerdotisa, Selene...  ¡Es un {i}Lumen!{/i} ¡Puedo sentirlo!
@@ -6441,8 +6691,6 @@ Dejar el tema
 You're right, it's not important.
 Tienes razón, no es importante.
 #choice:
-
-
 {tag=questioning julianna}Keep pushing
 Insistir
 #Speaker: elodie_angry
@@ -6471,7 +6719,9 @@ Justo a tiempo recuerdas que prometiste a Charlotte no contar nada a nadie sobre
 #Speaker: elodie_depressed
 #Narration
 She is your cousin, after all.  Maybe it's just something that runs in the blood.  But you think you'd better write to her and see if you can find out more.
-Es tu prima, apesar de todo.  Quizás sea algo que se lleva en la sangre.  Pero piensas que es mejor escribirle para ver si descubres algo más.
+Es tu prima, a pesar de todo.  Quizás sea algo que se lleva en la sangre.  Pero piensas que es mejor escribirle para ver si descubres algo más.
+She is your cousin, after all.  Maybe it's just something that runs in the blood.
+Es tu prima, a pesar de todo.  Quizás sea algo que se lleva en la sangre.
 #Speaker: julianna
 That is hardly a power. It's a quirk. It's not worth wasting time on.
 Eso es dificilmente un poder. Es un capricho. No vale la pena dedicarle tiempo. 
@@ -6840,7 +7090,7 @@ Es, sin embargo, una tarea peligrosa que requiere toda tu atención.
 # End Selene variant
 #Speaker: elodie_afraid
 (Wait. In the past, {i}all{/i} the Dukes and Duchesses of Nova were Lumens.)
-(Espera. En el pasado, {i}todos{/i} los Duques y Duquesas de Nova fueron Lumens.)
+(Espera. En el pasado, {i}todos{/i} los Duques y Duquesas de Nova eran Lumens.)
 #Speaker: elodie_afraid
 Did your crystal come from one of the old ducal lineages?
 ¿Procede tu cristal de alguno de los antiguos linajes ducales?
@@ -7107,8 +7357,6 @@ Cuando se enfrentó a Togami, se aferraba a un pequeño espejo negro con borde d
 Unless he awakens to tell you more, you have no way to know.
 A menos que se despierte para contarte más, no tienes manera de saberlo.
 #Speaker: elodie_lonely
-
-
 {tag=elodie, to joslyn in coma}I'm sorry.
 Lo siento.
 #Narration
@@ -7220,7 +7468,7 @@ Ordenas a los guardias que se hagan a un lado y te permitan entrar en la tesorer
 You order the guards to stand aside and walk forward with your head held high. None of them dares to deny you access to your own treasury.
 Ordenas a los guardias que se hagan a un lado y avanzas con la cabeza alta. Ninguno de ellos se atreve a negarte el acceso a tu propia tesorería.
 The glitter is dazzling, but some sixth sense draws you towards one little locked box in particular.  {b}This{/b} is what you need. This is the crystal that will make you a Lumen.
-El brillo es deslumbrante, pero un sexto sentido te guía hacia una pequeña caja en particular. {b}Es{/ b} lo que necesitas. Éste es el cristal que te hará Lumen.
+El brillo es deslumbrante, pero un sexto sentido te guía hacia una pequeña caja en particular. {b}Es{/b} lo que necesitas. Éste es el cristal que te hará Lumen.
 You tuck the box into your pocket. You can show it to your mentor later and get instructions on what to do next.
 Te metes la caja en el bolsillo. Puedes mostrárselo a tu mentor más tarde y obtener instrucciones sobre qué hacer a continuación.
 You visit the royal treasury and check your available funds.
@@ -7340,7 +7588,7 @@ What do we do?  Should we send hunters?
 ¿Qué hacemos? ¿Enviamos cazadores?
 #Speaker: joslyn
 The traditional policy on stray beasts is to hope that they return to the forest and stay there.
-La política tradicional en bestias salvajes es esperar a que regresan al bosque y se quedan allí.
+La política tradicional en bestias salvajes es esperar a que regresen al bosque y se queden allí.
 #Speaker: joslyn
 Hunters are no match for such creatures. You would only make it angry and waste more lives.
 Los cazadores no son rival para tales criaturas. Sólo conseguirías enfadar al monstruo y perder más vidas.
@@ -7356,7 +7604,7 @@ There is a woman here to see you. She wishes Crown funding for a project.
 Hay una mujer que quiere verte. Solicita financiación de la corona para un proyecto.
 #Speaker: woman
 Thank you for seeing me, Your Royal Highness. I... I come to you on behalf of the people.
-Gracias por recibirme, Su Alteza Real. Yo... yo vengo a usted en nombre del pueblo.
+Gracias por recibirme, Alteza. Yo... yo vengo a usted en nombre del pueblo.
 #Speaker: woman
 I wish to build a hospital where any citizen afflicted with disease can be brought for treatment.
 Deseo construir un hospital, donde cualquier ciudadano enfermo pueda ser tratado.
@@ -7475,16 +7723,16 @@ Not exactly.
 No exactamente.
 #Speaker: elodie_afraid
 She {i}what?{/i}
-Ella {i} ¿qué?{/i}
+Ella {i}¿qué?{/i}
 #Speaker: musician
 I found her journals. They were in code, of course, but no match for {i}my{/i} talents.
-Encontré sus diarios. Estaban codificados, por supuesto, pero eso no supuso un problema.
+Encontré sus diarios. Estaban codificados, por supuesto, pero eso no {i}me{/i} supuso un problema.
 #Speaker: musician
 Your aunt intends to take over Nova and rule as an unstoppable mother-daughter Lumen team.
 Tu tía tiene la intención de hacerse cargo de Nova y gobernar como un equipo madre-hija Lumen imparable.
 #Speaker: elodie_afraid
 {i}Charlotte{/i} is a Lumen?!?
-{i}Charlotte{/i} es un Lumen?!?
+¿¡¿{i}Charlotte{/i} es un Lumen?!?
 #Speaker: musician
 No. Your aunt intends to give her {i}your{/i} power. And your crown.
 No. Tu tía tiene intención de {i}darle{/i} tu poder. Y tu corona.
@@ -7646,66 +7894,4 @@ Quiero decir, es importante que tú aprendas también, ¿verdad? Vas a ser Duque
 # Adair
 Okay.
 Está bien.
-
-#Tags
-#Speaker: joslyn
-{tag=joslyn}Very well.
-Muy bien.
-#Speaker: alice_worried
-{tag=alice}Oh.
-Oh.
-#Speaker: diplomat_ixion
-{tag=diplomat}... Very well.
-... Muy bien.
-#Speaker: brin
-{tag=brin}... Very well.
-... Muy bien.
-#Speaker: brin
-{tag=brin}Your Highness!
-¡Su Alteza!
-#Speaker: diplomat
-{tag=diplomat, to Elodie}Very well.
-Muy bien.
-#Speaker: elodie_neutral
-{tag=neutral, to diplomat}Very well.
-Muy bien.
-#Speaker: banion
-{tag=banion}Your Highness!
-¡Su Alteza!
-#Speaker: elodie_cheerful
-{tag=cheerful, to Banion}Thank you.
-Gracias.
-#Speaker: elodie_lonely
-{tag=lonely, to Banion}Thank you.
-Gracias.
-#Speaker: julianna
-{tag=julianna}I don't know.
-No lo sé.
-#Speaker: elodie_neutral
-{tag=neutral, to Lucille}Thank you.
-Gracias.
-#elodie_depressed
-{tag=depressed, to Lucille, week38}Thank you.
-Gracias.
-#Speaker: elodie_cheerful
-{tag=cheerful, to Joslyn}Thank you.
-Gracias.
-#Speaker: lucille
-{tag=lucille}What?
-¿Que?
-#Speaker: lucille
-{tag=lucille}What?!?
-¿¡¿Que?!?
-#Speaker: laurent
-{tag=laurent}What?
-¿Que?
-#Speaker: banion
-{tag=banion}What?
-¿Que?
-#Speaker: selene
-{tag=selene}No.
-No.
-#Speaker: joslyn
-{tag=joslyn}No.
-No.
 #Traducido por soliddanii
