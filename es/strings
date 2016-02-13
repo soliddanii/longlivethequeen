@@ -303,7 +303,7 @@ Age 15
 Engaged to Banion
 Comprometida con Banion
 Betrothed to Talarist
-Desposada con Talarist
+Comprometida con Talarist
 Engaged to Adair
 Comprometida con Adair
 Engaged to Thaddeus
@@ -2165,10 +2165,10 @@ Offer to punish the Duchess of Hellas
 Ofrecerle castigar a la Duquesa de Hellas
 #choice:
 Bluff / Intimidate
-Intimidar
+Intimidarlo
 #choice:
 Execute him
-Ejecutarle
+Ejecutarlo
 #Speaker: elodie_lonely
 I don't want to fight.
 Yo no quiero pelear.
@@ -3439,7 +3439,7 @@ The Duke of Kigal has not yet named any of his sons as his official heir, but hi
 El Duque de Kigal aún no ha nombrado a ninguno de sus hijos como su heredero oficial, pero su segundo hijo, Linley, siempre fue amable contigo en la escuela. Si quisieras agradar a Kigal, Linley sería tu elección.
 #Narration
 The Duchy of Elath is currently held in regency for its young lord Adair, who is only twelve and a head shorter than you are. Elath is a rich territory, and at least little Adair wouldn't try to take any liberties.
-El Ducado de Elat está actualmente gobernado en regencia por su joven señor Adair, el cual tiene sólo doce años y una cabeza menos que tú. Elat es un territorio rico, y por lo menos el pequeño Adair no intentaría tomarse muchas libertades.
+El Ducado de Elath está actualmente gobernado en regencia por su joven señor Adair, el cual tiene sólo doce años y una cabeza menos que tú. Elath es un territorio rico, y por lo menos el pequeño Adair no intentaría tomarse muchas libertades.
 #Narration
 Dancing with Banion, the Duke of Maree, could be quite awkward if you did not actually wish to marry him. He has been waiting years for a powerful heiress to accept his suit.
 Bailar con Banion, el Duque de Maree, podría resultar bastante incómodo si no deseas finalmente casarte con él. Él ha estado años esperando que alguna poderosa heredera acepte su petición.
@@ -3874,7 +3874,7 @@ I need heirs and so do you. I am the highest-ranking eligible man in the domain.
 Necesito herederos igual que tú. Yo soy el candidato de más rango en el reino.
 #Speaker: banion
 You clearly could not wed your own father or uncle, Young Elath is still a child, and the Duke of Kigal is happily married.
-Claramente no podrías casarte con tu propio padre o con tu tío, el joven Elat es todavía un niño y el Duque de Kigal está felizmente casado.
+Claramente no podrías casarte con tu propio padre o con tu tío, el joven Elath es todavía un niño y el Duque de Kigal está felizmente casado.
 #Speaker: banion
 I am the only match worthy of you.
 Yo soy el único candidato digno de ti.
@@ -5579,7 +5579,7 @@ Four thousand lassi should be enough to cover any military surprises for the res
 Cuatro mil lassi deberían bastar para cubrir cualquier imprevisto militar durante el resto del año.
 #Narration
 Any little trade disruption shouldn't need more than a few hundred lassi to sort out, at least temporarily.
-Cualquier pequeña alteración del comercio no deberí costar más de unos pocos cientos de lassi para resolverse, al menos temporalmente.
+Cualquier pequeña alteración del comercio no debería suponer grandes pérdidas de momento. Tan sólo unos pocos cientos de lassi.
 #Speaker: elodie_depressed >= 1.2.28
 (I really don't understand all of these numbers. Maybe I should leave them alone.)
 (No entiendo nada de estos números. Tal vez debería dejarlos como están.)
@@ -5595,7 +5595,7 @@ We need more money. Raise the taxes a bit.
 Necesitamos más dinero. Sube un poco los impuestos.
 #Speaker: elodie_willful
 If we adjust this and this here, most people won't even notice the difference.
-Si ajustamos esto y eso, la mayoría de la gente ni siquiera notará la diferencia.
+Si ajustamos esto y aquello, la mayoría de la gente ni siquiera notará la diferencia.
 #Speaker: elodie_willful
 Only the ones who can afford it will pay more.
 Sólo los que puedan permitírselo pagarán más.
@@ -5740,19 +5740,19 @@ You are requested to stand in judgement.  A man has been convicted of the murder
 Se te requiere en un juicio. Un hombre ha sido condenado por el estrangulamiento de su esposa.
 #Speaker: joslyn
 He does not deny the act, but requests a pardon that he might be set free.
-No niega haberlo hecho, pero pide un indulto para dejarlo en libertad.
+No niega haberlo hecho, pero pide un indulto real.
 #Speaker: elodie_angry
 If you admit you killed your wife, why do you think I'm going to set you free?
 Si admites haber matado a tu esposa, ¿por qué crees que voy a dejarte libre?
 #Speaker: condemned_man
 Save me, Your Majesty!  Wasn't my fault.  {i}Demons{/i} made me do it.
-Sálveme, Majestad! No fue mi culpa. Los {i}demonios{/i} me obligaron a hacerlo.
+¡Sálveme, Majestad! No fue mi culpa. Los {i}demonios{/i} me obligaron a hacerlo.
 #Speaker: condemned_man
 Everyone knows the power of magical beasties!  They used me, they twisted my fingers into chains...
-¡Todo el mundo conoce el poder de bestias mágicas! Me utilizaron, transformaron mis dedos en cadenas...
+¡Todo el mundo conoce el poder de las bestias mágicas! Me utilizaron, transformaron mis dedos en cadenas...
 #Speaker: condemned_man
 My wife found me screaming, she tried to shake me, and the chains wrapped around her...
-Mi esposa me encontró gritando, e intentó ayudarme, entonces las cadenas la envolvieron...
+Mi esposa me encontró gritando e intentó ayudarme, entonces las cadenas la envolvieron...
 #Speaker: condemned_man
 I need the priestesses to bless me and make me clean again!
 ¡Necesito que las sacerdotisas me bendigan y me dejen limpio de nuevo!
@@ -5774,6 +5774,1506 @@ I need the priestesses to bless me and make me clean again!
 #choice:
 Question him about crystal
 Interrogarlo sobre el cristal
+#choice:
+Pardon him
+Perdonarlo
+#choice:
+Send him to Selene
+Enviárselo a Selene
+#Speaker: elodie_angry
+It was a demon's magic that killed your wife?  Not your own magic?
+¿Seguro que fue la magia de un demonio lo mató a tu esposa? ¿No fue tu propia magia?
+#Speaker: condemned_man
+...  So you know what I am.
+...  Así que sabes lo que soy.
+#Narration
+He throws out his hands, and his fingertips elongate into floating strings of gold.
+El hombre alza sus manos y sus alargados dedos se transforman en flotantes cadenas de oro.
+#Speaker: condemned_man
+DIE!
+¡MUERE!
+#Narration
+Golden chains slash at you like whips.
+Las cadenas de oro se te abalanzan como látigos.
+#Narration
+With so much warning, of course, it is easy for you to resist.  His attack bounces harmlessly off your shields, the chains flying back in the direction from which they came... where they find an easier target.
+Estar alerta te da la oportunidad de defenderte. Su ataque rebota inofensivamente en tus escudos, y las cadenas vuelan en dirección a su origen... donde encuentran un blanco más fácil.
+#Narration
+Before your eyes, the renegade Lumen is choked to death by his own powers.
+Ante tus ojos, el Lumen es asfixiado por su propia magia.
+#Narration
+You twist and dodge frantically, just managing to avoid being struck while his attack slashes the carpet around you.
+Te retuerces y esquivas frenéticamente, evitando por muy poco los golpes, mientras su ataque hace trizas la alfombra a tu alrededor.
+#Narration
+Luckily your guards spring into action and cut him down while he's still trying to catch you.
+Por suerte tus guardias reaccionan y lo reducen, mientras él todavía intenta atraparte.
+#Narration
+You leap out of the way, bouncing so far back that you actually jump over a bit of furniture and half-fall into the hallway.
+Te apartas de su camino, saltando tan atrás que te tropiezas con unos muebles y caes al suelo del pasillo.
+#Narration
+Luckily your guards spring into action and cut him down before he can reorient his attacks.
+Por suerte tus guardias entran en acción y lo reducen antes de que pueda reorientar sus ataques.
+#Narration
+The chains wrap around your ribs and your neck and begin to tighten.  You can see your guards panicking and starting to rush towards the renegade Lumen, but before they reach him, your vision goes black...
+Las cadenas apresan tus costillas y aprietan tu cuello. Alcanzas a ver a tus guardias corriendo hacia el Lumen, pero antes de que puedan alcanzarlo, tu visión se oscurece...
+#Narration
+After a moment, an orange crystal materialises next to his body.
+Un instante después, un cristal de color naranja se materializa al lado de su cuerpo.
+#Speaker: elodie_yielding
+I guess I'll have to take that for safe keeping.
+Supongo que tendré que recogerlo y custodiarlo.
+#Speaker: elodie_depressed
+I'm very sorry for your loss.  The monsters are responsible, not you.  Don't blame yourself.
+Siento mucho tu pérdida. Los monstruos son los responsables, no tú. No te culpes.
+#Speaker: elodie_depressed
+The priestess of the royal grove will take care of purifying you.
+La sacerdotisa real se hará cargo de tu purificación.
+#Speaker: condemned_man
+Bless you, Your Majesty!
+¡Dios la bendiga, Majestad!
+#Speaker: elodie_angry
+Whether there were demons or not, you still killed a woman - your {i}wife.{/i}
+Hayan sido los demonios o no, has matado a una mujer - tu {i}esposa{/i}.
+#Speaker: elodie_angry
+I won't forgive you for that.  You will be imprisoned for the rest of your life.
+No te voy a perdonar eso. Serás encarcelado para el resto de tu vida.
+#Narration
+He opens his mouth to argue with you further, but then his shoulders slump.
+Abre su boca para alegar algo, pero acaba bajando la mirada.
+#Speaker: condemned_man
+Yes,  Your Majesty.
+Si, Majestad.
+#Speaker: elodie_angry
+I don't care whether there were demons or not, you're still a murderer and your life is forfeit.
+No me importa si fueron los demonios o no, sigues siendo un asesino y lo pagarás con tu vida.
+#Speaker: elodie_willful
+You will be hanged in public as a deterrent to future criminals.
+Serás ahorcado en público como elemento disuasorio para futuros criminales.
+#Speaker: condemned_man
+Yes, Your Majesty.
+Si, Majestad.
+# Sending him to Selene
+#Speaker: elodie_angry
+You are clearly a very troubled man, whether there are demons or not.
+Eres claramente un hombre muy peligroso, haya demonios o no.
+#Speaker: elodie_neutral
+I will send you to the priestess Selene of my royal grove, to make your confession, and await her recommendation on your case.
+Te enviaré a la sacerdotisa Selene para obtener tu confesión, y esperaré su recomendación sobre tu caso.
+#Speaker: condemned man: Bless you, Your Majesty!
+# Summon Julianna
+#choice:
+Summon Julianna
+Convocar a Julianna
+#Speaker: elodie_neutral
+I wish to consult with my advisor. Please send for the Duchess of Ursul.
+Deseo consultar a mi asesora. Por favor vayan a buscar a la Duquesa de Ursul.
+#Speaker: joslyn: ... As you wish.
+#Speaker: condemned_man
+Your Majesty, can you not see the truth for yourself? It is your mercy that I beg, not the powers of a witch!
+Majestad, ¿acaso no puede ver la verdad por sí misma? Es su misericordia lo que ruego, ¡no los poderes de una bruja!
+#Speaker: condemned_man
+Does she control this castle, as well, with the demons that she summons?
+¿Controla la bruja este castillo también, con los demonios que convoca?
+Several onlookers gasp.
+Se escuchan varias toses y suspiros.
+Change your mind
+Cambiar de opinión
+Wait for Julianna
+Esperar a Julianna
+#Speaker: elodie_angry
+Fine, I'll decide without her!
+¡Está bien, decidiré sin ella!
+# Speaker: elodie_angry
+I rule this castle, and I expect to be obeyed.
+Yo gobierno este castillo, y espero que se me obedezca.
+# condemned_man "..."
+# Speaker: julianna
+Your Highness, I stand ready to serve -
+Alteza, estoy lista para servir -
+Without warning, the Duchess of Ursul draws her sword!
+Sin previo aviso, ¡la Duquesa de Ursul desenfunda su espada!
+#Speaker: elodie_scared
+{tag=elodie, startled}What?
+¿Qué?
+#Speaker: joslyn
+Elodie! Get down!
+¡Elodie! ¡Agáchate!
+The man raises his hands, which begin to glow. The demon's power - or his own?
+El hombre levanta sus manos, que comienzan a brillar. ¿El poder del demonio - o el suyo propio?
+Before he can act, Julianna slashes her sword through the air. A wave of energy sweeps away from her blade, striking the man's upraised arms and shredding his skin.
+Antes de que pueda actuar, Julianna corta el aire con su espada. Una ola de energía brota de la hoja, golpeando los brazos del hombre y despedazando su piel.
+He howls, and his fingertips elongate, forming golden chains that float through the air.
+Él grita, y sus dedos se alargan formando cadenas de oro que flotan por el aire.
+You marshal up your own powers and join Julianna in combat.
+Te unes a Julianna en combate utilizando tus poderes.
+You summon magical shields around yourself and huddle down out of the way.
+Materializas escudos mágicos a tu alrededor.
+Snakelike, the chains lash out - not at Julianna, but at you!
+Como serpientes, las cadenas arremeten - ¡no contra Julianna, sino contra ti!
+# Dodging
+The chains wrap around your ribs and your neck and begin to tighten. You can see your guards panicking and starting to rush towards the renegade Lumen, but before they reach him, your vision goes black...
+Las cadenas apresan tus costillas y aprietan tu cuello. Alcanzas a ver a tus guardias corriendo hacia el Lumen, pero antes de que puedan alcanzarlo, tu visión se oscurece...
+Julianna seizes the advantage while your attacker is distracted.
+Julianna aprovecha la ventaja, mientras tu atacante está distraido.
+The battle is messy, but brief. Soon the condemned man lies motionless on the ground before you.
+La pelea es confusa, pero breve. Frente a ti, yace inmóvil el hombre condenado.
+# Speaker: elodie_angry
+This is why magic is important! This is why the crown requires the power of a Lumen, to protect Nova from threats that cannot be ignored!
+¡Por esta razón la magia es importante! ¡La corona requiere el poder de un Lumen, para proteger Nova de amenazas que no se pueden ignorar!
+# Speaker: elodie_willful
+And why the crown requires good Lumens like the Duchess of Ursul, to train and guide us, so that we will be ready to defend you!
+¡Por esto necesitamos buenos Lumens como la Duquesa de Ursul! ¡Para entrenarnos y guiarnos, para ser capaces de defendernos!
+You suspect that only etiquette prevents the assembled court from applauding.
+Sospechas que guardar las formas es lo único que impide a la corte aplaudir.
+# Speaker: elodie_angry, failed public speaking+presence
+There is my judgment! This is what happens to bad people!
+¡Ahí está mi veredicto! ¡Esto es lo que le pasa a la gente mala!
+# Speaker: selene
+Your Royal Highness has need of my services?
+¿Requiere su Alteza de mis servicios?
+# Speaker: elodie_depressed
+That man I sent to you, the one who strangled his wife - what happened to him?
+Aquel hombre que te envié, el que estranguló a su esposa - ¿Qué le pasó?
+# Speaker: selene
+The danger to Nova and yourself has been dealt with.
+Ese hombre ya no supone un peligro para nadie.
+# Speaker: elodie_scared
+You killed him?
+¿Lo has matado?
+# Speaker: selene
+His mind has been purified, but he is not yet dead. He is in the keeping of the temple.
+Su mente ha sido purificada, pero todavía no está muerto. Está bajo los cuidados del templo.
+# Speaker: elodie_depressed
+So... there really was a demon inside him?
+Así que... ¿Había realmente un demonio en su interior?
+# Speaker: selene
+His magics and his murders were of his own making. He is a Lumen, a rogue line previously unknown to me.
+Sus magias y asesinatos eran cosa suya. Es un Lumen, un canalla del que nunca había oído hablar.
+# Speaker: selene
+I have seen to it that he will never awaken. So long as his body lives, his crystal remains safely sealed.
+Por lo que he visto nunca despertará. Pero mientras su cuerpo viva, su cristal permanecerá sellado de forma segura.
+# Speaker: elodie_angry, faith success
+(I've heard of exorcism rituals that force people to drink salt water until they collapse. Is that what she did to him?)
+(He oído hablar de exorcismos en los que obligan a la gente a beber agua salada hasta que se derrumban. ¿Es eso lo que le ha hecho?)
+# Speaker: elodie_angry, faith fail
+(Convenient.)
+(Conveniente.)
+# Speaker: selene
+Perhaps after your coronation we will have the time to investigate. For now, you must concentrate on your studies.
+Tal vez tras tu coronación tengamos más tiempo de investigar. Por ahora, debes concentrarte en tus estudios.
+# Speaker: selene
+If you were not able to detect his power, what other dangers might you miss?
+Si no fuiste capad de detectar su poder, ¿qué otros peligros podrías pasar por alto?
+# Speaker: elodie_yielding
+{tag=elodie, to selene}Right.
+Tienes razón.
+#Narration
+Afterwards, you receive a report from your agents near the Talassian border.  There is unusual activity going on in the duchy of Sedna.  Official messengers have been coming and going between the Sedna customs stations.
+Más tarde, recibes un informe de tus agentes cerca de la frontera con Talasse. Hay actividad inusual en el Ducado de Sedna. Mensajeros oficiales han estado yendo y viniendo entre sus aduanas.
+#Narration
+If the Duke of Sedna blocks trade between Sedna and Elath, there could be shortages.  The mountains of Elath cannot grow enough food to support its population, and it is generally more convenient to buy foodstuffs from Talasse than to ship them up the river.
+Si el Duque de Sedna bloquea el comercio entre Sedna y Elath, podría haber escasez. Las montañas de Elath no pueden producir bastante alimento como para sostener a su población, y por lo general es más conveniente comprar víveres a Talasse que recibirlos por el río.
+#Narration
+However, Elath is not short of funds, and if you prepare an alternative source for buying food, it will be Sedna who comes out the loser for any trade disruption.
+Sin embargo, Elath puede permitirse comprar alimentos de una fuente alternativa, y entonces Sedna saldría perdiendo con la alteración del comercio.
+#Narration
+If you guess wrong, you will have to sell at a loss.  Transporting large amounts of goods upriver isn't cheap.
+Si te equivocas, tendrás que asumir pérdidas. Transportar tal cantidad de mercancías río arriba no es barato.
+#Narration
+Is Duke Talarist planning to disrupt trade between Sedna and Elath?  Or is this a sign of something worse?
+¿Planea el Duque Talarist interrumpir el comercio entre Sedna y Elath? ¿O se trata de un síntoma de algo peor?
+#Narration
+You have no idea what this means.
+No tienes ni idea lo que significa.
+#choice:
+Invest in food to ship to Elath
+Invertir en alimentos para Elath
+#Narration
+You send an order for food to be purchased and sent to Elath.
+Ordenas la compra y envío de comida para Elath.
+#choice:
+Send soldiers to the border
+Enviar soldados a la frontera
+#Narration
+You detach a battalion of soldiers to guard the border between Sedna and Elath. If he tries anything, you'll be prepared.
+Destinas un batallón de soldados para vigilar la frontera entre Sedna y Elath. Si intenta algo, estarás preparada.
+#choice:
+Do nothing
+No hacer nada
+#Narration
+You decide to sit tight.  This might be nothing.
+Decides no actuar. Es posible que no sea nada.
+#Narration
+You receive word that the murderer you condemned to prison has escaped.  A large explosion rocked the jail he was in, destroying the walls and setting many dangerous criminals free.
+Recibes la noticia de que el asesino que condenaste a prisión ha escapado. Una gran explosión sacudió la cárcel en la que estaba, destruyendo las paredes y liberando a muchos delincuentes peligrosos.
+#Narration
+It will now fall to the Royal Treasury to repair the damage.
+El Tesoro Real tendrá para reparar los daños.
+#Narration
+You receive word of an unfortunate incident at the gallows where the man you judged was sent to be executed.
+Recibes la noticia de un desafortunado incidente en la horca donde el hombre condenado debía haber sido ejecutado.
+#Narration
+As he was led to the platform, he suddenly lashed out with explosive magical power, killing several guards and spectators before making his escape.
+Mientras era conducido al cadalso, el hombre logró liberarse mediante una explosión mágica, matando a varios guardias y espectadores antes de escapar.
+#Narration
+The population is buzzing with rumors of a secret cabal of evil Lumens who sacrifice innocents in their dark rituals.
+Entre la población circulan rumores de una facción secreta de malvados Lumens que sacrifican inocentes en sus rituales oscuros.
+#Narration
+You receive a report on the search for Julianna, former Duchess of Ursul.
+Recibes un informe sobre la búsqueda de Julianna, ex Duquesa de Ursul.
+#Narration
+The soldiers you sent on patrol have so far been unable to find any trace of her.  No one will admit to having seen her.
+Los soldados que enviaste a buscarla han sido incapaces de seguirle el rastro. Nadie admite haberla visto.
+#Narration
+Wherever she's hidden herself, she must not be easy to find.  Or else, perhaps a monster got her.  That would be a fitting end for a Lumen.
+Dondequiera que se haya escondido, no será ser fácil encontrarla. Tal vez la haya matado un monstruo. Sería un final apropiado para un Lumen.
+#Narration
+#Narration
+There have been a number of incidents in neighboring duchies where angry mobs, eager to collect a reward, have formed up to assault any woman who vaguely matches the description.
+Se han producido varios incidentes en ducados vecinos, donde multitudes enfurecidas, deseosas de cobrar una recompensa, han estado asaltando a cualquier mujer cuya descripción coincide vagamente con la de la Duquesa.
+#Narration
+Many have been killed, and none, so far, was the correct target.
+Muchas han sido asesinadas, y ninguna, hasta ahora, era el objetivo correcto.
+#Narration
+#Narration
+#Narration
+Luckily, no one has yet been killed, but neither has the correct target been located.
+Por suerte, nadie ha sido asesinado todavía, pero tampoco han encontrado al objetivo.
+#Narration
+#Narration
+A group of peasants in Mazomba, guided by your artwork, located a woman in hiding who was almost certainly Julianna.  Unfortunately, when they tried to capture her, she used her magical powers to escape.
+Un grupo de campesinos en Mazomba, guiados por tu ilustración, encontraron escondida a una mujer que casi con total seguridad era Julianna. Por desgracia, cuando intentaron capturarla, usó sus poderes mágicos para escapar.
+#Narration
+Ordinary people are no match for the skills of a wicked Lumen.
+La gente normal no es rival para las habilidades de un malvado Lumen.
+#Narration
+#Narration
+An enterprising young archer from Mazomba, guided by your artwork, recognised the former Duchess in hiding and managed to get the drop on her.  Even a Lumen can't stop an arrow if she doesn't see it coming!
+Un joven arquero de Mazomba, guiado por tu ilustración, reconoció a la ex Duquesa y se las arregló para pillarla por sorpresa. ¡Ni siquiera un Lumen puede detener una flecha si no la ve venir!
+#Narration
+The body was delivered to the palace for verification, and the reward money paid out.  Julianna's threat is ended, and you can sleep a bit easier now.
+El cuerpo fue entregado al palacio para su verificación y la recompensa pagada. Puedes dormir un poco más tranquila ahora que Julianna ya no es ninguna amenaza.
+#Speaker: joslyn
+I regret to inform you that Fabian, the Earl of Titan and Duke-Regent of Elath, has passed away.
+Lamento informarte que Fabian, el Conde de Titán y Duque Regente de Elath, ha fallecido.
+#Speaker: elodie_depressed
+I expected that was coming.
+Ya me lo esperaba.
+#Narration
+This isn't really a surprise; he was pretty old.  The problem is the political implications.
+Su muerte no es una sorpresa; era bastante viejo. El problema son las implicaciones políticas.
+#Speaker: joslyn
+With the control of Elath in doubt, it falls to the crown to make decisions.
+Con el control de Elath en disputa, corresponde a la corona tomar decisiones.
+#Speaker: joslyn
+Young Lord Adair will not reach his fifteenth birthday for over two years. He requires a regent.
+El joven Señor Adair no alcanzará su decimoquinto cumpleaños hasta dentro de dos años. Necesita un regente.
+#Speaker: joslyn
+His stepmother, Arisse, the Duchess of Lillah, has petitioned that the boy be left in her care.
+Su madrastra, Arisse, la Duquesa de Lillah, ha solicitado cuidar al niño.
+#Speaker: joslyn
+This would, however, leave her in personal control of two neighboring duchies, which is generally forbidden.
+Esto, sin embargo, le daría el control de dos ducados vecinos, lo cual está prohibido.
+#Speaker: elodie_angry
+(Not to mention that she's closely related to the Duchess of Mead and the Duke of Kigal!)
+(Por no hablar de que está estrechamente relacionada con la Duquesa de Mead y el Duque de Kigal!)
+#Speaker: elodie_angry
+(She could control almost the entire eastern half of Nova.  People already call her Nova's other queen!)
+(Podía controlar casi toda la mitad oriental de Nova. ¡La gente ya la llama "la otra reina de Nova"!)
+#Speaker: elodie_afraid
+(Almost the entire eastern border.)
+(Casi toda la frontera oriental.)
+#Speaker: elodie_angry
+(Duchess Arisse almost certainly killed her second husband after she divorced him.)
+(La Duquesa Arisse muy probablemente mató a su segundo marido tras divorciarse de él.)
+#Speaker: elodie_angry
+(Her son, the Earl of Io, apparently hates and fears her.)
+(Al parecer su hijo, el Conde de Io, la odia y teme.)
+#Speaker: elodie_angry
+(And the last Duke of Mead died in mysterious circumstances while she was around.)
+(Y el último Duque de Mead murió en extrañas circunstancias mientras ella estaba cerca.)
+#Speaker: elodie_angry
+(Which meant the title of Mead passed to Arisse's daughter.)
+(Lo cual significa que el título de Mead pasó a la hija de Arisse.)
+#Speaker: elodie_angry
+(But without proof, she couldn't be punished.)
+(Pero sin pruebas, no pudo ser condenada.)
+#Speaker: elodie_angry
+(Duchess Arisse's previous husband was supposed to be a nasty piece of work.)
+(El anterior marido de la Duquesa Arisse debía ser mala persona.)
+#Speaker: elodie_angry
+(He may even have attacked Adair's mother before her untimely death.)
+(Incluso pudo haber atacado a la madre de Adair antes de morir.)
+#Speaker: elodie_angry
+(He's gone now, of course, but she's still the sort of woman who married a monster.)
+(Ahora ya no está, por supuesto, pero ella sigue siendo el tipo de mujer que se ha casado con un monstruo.)
+#Speaker: elodie_depressed
+(I don't know anything really {i}bad{/i} about her, though...)
+(La verdad es que no sé nada {i}malo{/i} de ella...)
+#Speaker: joslyn
+The boy does have a living grandfather, the Earl of Ishtar. Or you might appoint an unrelated noble to act in his stead.
+El chico todavía tiene un abuelo vivo, el Conde de Ishtar. También podrías nombrar a un noble sin relación alguna para el puesto.
+#Speaker: joslyn
+The Earl of Ishtar has suggested another possibility. You and Adair are both young, not too far apart in age.
+El conde de Ishtar ha sugerido otra posibilidad. Tú y Adair sois los dos jóvenes, tenéis casi la misma edad.
+#Speaker: joslyn
+He requests that we accept the boy as your future husband and keep him here at the castle.
+Ruega que aceptes al chico como tu futuro esposo y que viva aquí en el castillo.
+#Speaker: elodie_depressed
+(I talked to the late Regent at the gala about what he wanted for his son's future.)
+(Hablé con el difunto Regente en la gala de lo que quería para el futuro de su hijo.)
+#Speaker: elodie_depressed
+(He said that Adair should stay with either his stepmother or his stepsister Adele.)
+(Dijo que Adair debería quedarse con su madrastra o con su hermanastra Adele.)
+#Speaker: elodie_depressed
+(Adele would be a less politically dangerous choice.)
+(Adele sería una opción políticamente menos peligrosa.)
+#Speaker: elodie_angry
+(He also said definitely {i}not{/i} to give Adair to his grandfather.)
+(También dejo claro que {i}no{/i} quería dejar a Adair en manos de su abuelo.)
+#Speaker: elodie_depressed
+(He wanted me to marry Adair, or else to leave him with his stepmother.)
+(Él quería que me casara con Adair, y si no que lo cuidara su madrastra.)
+#choices:
+Leave him with Arisse
+Dejarlo con Arisse
+Send him to his grandfather
+Dejarlo con su abuelo
+Marry him
+Casarte con él
+Send him to your uncle
+Dejarlo con tu tío
+Make his stepsister Adele regent
+Nombrar a su hermanastra Adele regente
+#Speaker: elodie_depressed
+Adair must be upset enough already without us taking him away from his home.
+Adair ya debe de estar muy disgustado sin que lo hayamos sacado siquiera de su casa.
+#Speaker: elodie_depressed
+Leave him with his stepmother.
+Dejarlo con su madrastra.
+#Speaker: joslyn
+#Speaker: elodie_neutral
+The Earl of Ishtar is the closest blood relation that Adair has.  He should be regent.
+El conde de Ishtar es el pariente más cercano que tiene Adair. Él debe ser el regente.
+#Speaker: joslyn
+#Speaker: elodie_cheerful
+Okay, I'll marry him!
+¡Muy bien, me casaré con él!
+#Speaker: elodie_neutral
+(At least that way I won't get stuck with an old man.)
+(Al menos me libraré de tener que casarme con algún anciano.)
+#Speaker: joslyn
+You can't actually marry him until he's old enough, but he will be brought here to live as your companion.
+No podrás casarte con él hasta que crezca, pero lo traeremos aquí para que viva en tu compañía.
+#Speaker: elodie_neutral
+What about your brother Armand?  He would be a safe pair of hands to watch over Adair.
+¿Qué hay de tu hermano Armand? Adair estará seguro con él.
+#Speaker: joslyn
+#Speaker: elodie_neutral
+Let him stay with his family, but instead of Arisse, give the regency to Adair's stepsister Adele.
+Que se quede con su familia, pero en lugar de a Arisse, otorga la regencia a la hermanastra de Adair, Adele.
+#Speaker: elodie_neutral
+They've grown up together, and she's old enough for the responsibility.
+Han crecido juntos, y ella ya es lo suficientemente mayor como para asumir la responsabilidad.
+#Speaker: elodie_neutral
+She doesn't have a title of her own and is more likely to be loyal to Elath's interests.
+No posee ningún título y es más probable que sea leal a los intereses de Elath.
+#Speaker: joslyn
+A clever compromise.
+Una decisión inteligente.
+#Speaker: elodie_cheerful
+{tag=cheerful, to Joslyn}Thank you.
+Gracias.
+#Speaker: joslyn
+There is a woman here to see you. She is a musician and wishes Crown patronage.
+Hay una mujer que quiere verte. Es músico y desea el patrocinio de la Corona.
+#Speaker: elodie_neutral
+(Which means money.)
+(Es decir, dinero.)
+#Speaker: musician
+Your Royal Highness! If you accept me as a member of your court I will immortalise you in word and song.
+¡Alteza! Si me acepta como miembro de su corte os inmortalizaré con poemas y canciones.
+#Speaker: musician
+I have dabbled in musical styles from many countries, and can entertain your guests and lighten your evenings.
+Puedo entretener a sus invitados y aligerar sus tardes. He investigado los estilos musicales de muchos países.
+#Speaker: elodie_angry
+(Immortalise me in words?  I wonder if she wrote that filthy poem?)
+(¿Inmortalizarme en poemas? Me pregunto si es ella la autora del aquel asqueroso poema.)
+#Speaker: elodie_neutral
+(I wonder if she also writes naughty poetry?)
+(Me pregunto si también escribe poesía picante.)
+#Speaker: elodie_depressed
+(I don't think the Royal Treasury can handle this right now.)
+(No creo que el tesoro de la corona pueda en este momento permitirse esto.)
+#Speaker: elodie_depressed
+Thank you, but we are not interested.
+Gracias, pero no nos interesa.
+#Speaker: elodie_angry
+(The queen of Shanjia was taken in by a 'musician' who turned out to be after her crown.)
+(La reina de Shanjia acabó casándose con un 'músico' que andaba detrás de su corona.)
+#Speaker: elodie_angry
+(Not only that, but a Lumen in disguise, and now ruling her domain!)
+(Y no sólo eso, sino que además era un Lumen disfrazado, ¡y ahora controla su reino!)
+#Speaker: elodie_yielding
+(I don't sense any magic about this one, though.)
+(Sin embargo, no percibo ningún tipo de magia en ella.)
+#Speaker: elodie_neutral
+(Musicians are often used as secret agents and messengers.  They can be useful - and dangerous.)
+(Los músicos se utilizan a menudo como agentes secretos y mensajeros. Pueden ser útiles - y peligrosos)
+#Narration
+The musician sings a little ditty to demonstrate her skills with the lute.
+El músico entona una cancioncilla para demostrar sus habilidades con el laúd.
+#Speaker: elodie_yielding
+(It's okay, but nothing special.)
+(Está bien, pero nada especial.)
+#Speaker: elodie_willful
+(That might mean she has 'other' talents.)
+(Eso podría significar que tiene "otros" talentos.)
+#Speaker: elodie_neutral
+(She's actually pretty good.)
+(Es bastante buena.)
+#choice:
+Accept her as Court Musician
+Aceptarla como Músico en la Corte
+#Speaker: elodie_neutral
+Very well, you can remain as part of the court.
+Muy bien, puedes formar parte de la corte.
+#Speaker: musician
+I will do my best for you!
+¡Haré todo lo que pueda por complacerle!
+#choice:
+Test her for secret skills
+Poner a prueba sus habilidades secretas
+#Speaker: elodie_neutral
+You are familiar with the traditions of many locations, yes?  Can you also perform accents?
+Estás familiarizada con las tradiciones de muchos territorios, ¿no? ¿Puedes también fingir acentos?
+#Speaker: musician
+Aye, mum. That I can.
+Así es señorita. Puedo hacerlo.
+#Speaker: elodie_neutral
+What about juggling?
+¿Y que tal se te dan los malabares?
+#Speaker: musician
+I can keep a set of dangers in the air.
+Puedo mantener varios objetos en el aire.
+#Speaker: elodie_neutral
+Interesting.  I look forward to all you have to tell me.
+Interesante. Estoy deseando escuchar todo lo puedes contarme.
+#Speaker: elodie_neutral
+(We'll have to talk privately to see how much she knows, but I think she might be useful.)
+(Tendremos que hablar en privado para averiguar todo lo que sabe, pero creo que podrá ser útil.)
+#choice:
+Reject her
+Rechazarla
+#Speaker: elodie_neutral
+# Map choice
+Talk to Sabine
+Hablar con Sabine
+#Speaker: musician
+Your Highness, thank you again for the opportunity.
+Alteza, gracias de nuevo por esta oportunidad.
+#Speaker: elodie_yielding
+Yes, yes.  Now: what have you heard on your travels?  What are the people saying about me?
+Sí, sí. Ahora: ¿Qué has escuchado en sus viajes? ¿Qué dice la gente de mí?
+#Speaker: musician
+I haven't yet had the chance to play at many noble courts, although I intend to.
+Todavía no he tenido la oportunidad de interpretar en muchas cortes, aunque lo intento.
+#Variants depending on approval
+#Speaker: musician
+Your kindness has already won the hearts of the common folk of Nova. They will follow you wherever you lead.
+Su bondad ya se ha ganado los corazones del pueblo de Nova. Le seguirán adondequiera que vaya.
+#Speaker: musician
+You are already popular with the common folk of Nova. They put their trust in you.
+Usted ya es popular entre las gentes de Nova. Confían en vos.
+#Speaker: musician
+You have the support of the common people, but not their love. Not yet.
+Cuenta con el apoyo de la gente, pero no con su amor. Todavía no.
+#Speaker: musician
+The common people of Nova are wary of you. You are very young to have so much responsibility.
+La gente de Nova desconfía de vos. Creen que es muy joven para tanta responsabilidad.
+#Speaker: musician
+If they see you as a grieving child, they will not trust your ability to protect them.
+Si la ven como a una niña afligida, no van a confiar en su capacidad para protegerlos.
+#Speaker: musician
+I'm afraid you are not well-liked by the common people of Nova. I've even heard rumors about you kicking a puppy down the stairs.
+Me temo que no es muy querida por la gente de Nova. Incluso se rumorea que pateó a un cachorro por las escaleras.
+#Speaker: elodie_willful (if Cruel)
+(Well...)
+(Bien...)
+#Speaker: musician
+Of course, with me at your side, your popularity can only increase. Never underestimate the power of music.
+Claro que, conmigo a su lado, su popularidad sólo puede aumentar. Nunca subestime el poder de la música.
+#Speaker: joslyn
+How is Adair settling in to life at the castle?
+¿Cómo se está asentando Adair a la vida en el castillo?
+#Speaker: elodie_neutral
+I found him in the garden trying to catch frogs.
+Lo encontré en el jardín tratando de atrapar ranas.
+#Speaker: elodie_cheerful
+So I showed him a few tricks.
+Así que le mostré algunos trucos.
+#Speaker: elodie_yielding
+I think he's still afraid of me.
+Creo que todavía me tiene miedo.
+#Speaker: joslyn
+I'm sure you'll work things out.
+Estoy seguro de que te apañarás.
+#Narration
+You receive a letter from Young Lord Adair.
+Recibes una carta del joven Señor Adair.
+#Narration
+So far, he's enjoying himself with your uncle Armand in Mazomba.  He says the trees look different, and there are a lot more frogs.  He looks forward to visiting the lookout fort at Shepherd's Point.
+Por el momento, está disfrutando con tu tío Armand en Mazomba. Dice que los árboles se ven diferentes, y que hay muchas más ranas. Espera poder visitar el puesto de observación en la fortaleza la península del Pastor.
+#Narration
+It's an extremely formal letter for such a little boy, thanking you for your wisdom in allowing him to live with his grandfather (who probably dictated every word he wrote).
+Es una carta muy formal para un niño tan pequeño, dándote las gracias por tu sabiduría al permitirle vivir con su abuelo (El cual probablemente dictó cada palabra escrita).
+#Narration
+It's a bit messy and hard to read, but he seems to be thanking you for letting him stay with the family he knows.
+Está un poco desordenada y es difícil de leer, pero parece estar dándote las gracias por dejarle vivir con la familia que conoce.
+#Narration
+You also receive an update from your agents.  It would seem that the Duchess of Lillah is not pleased with your actions and is putting out feelers amongst the other nobles for support.
+Recibes también un informe de tus agentes. Parece que la Duquesa de Lillah no está contenta con tus decisiones y está tratando de conseguir el apoyo de otros nobles.
+#Narration
+If she means to rebel against you, that is treason.  Unfortunately, she's a long way away, in her own power base.  Calling her to order may not be easy.
+Si su intención es rebelarse contra ti, está cometiendo traición. Desafortunadamente, se encuentra muy lejos, en su propia y poderosa base. Llamarle la atención podría resultar complicado.
+#Narration
+Still, the longer you wait, the more dangerous she may become.
+Sin embargo, cuanto más esperes, más peligrosa puede hacerse.
+#choice:
+Send soldiers to arrest her
+Enviar soldados para arrestarla
+#Narration
+You give orders for a military company to travel to Lillah and take the Duchess into custody.
+Das órdenes para que una compañía de soldados viaje a Lillah y tome a la Duquesa bajo custodia.
+#choice:
+Send assassins to kill her
+Enviar asesinos a matarla
+#Narration
+You give orders for assassins to arrange for a quiet and natural-looking demise.  She is not a young woman, and she's just lost her husband... it shouldn't be suspicious.
+Ordenas a los asesinos que organicen una muerte aparentemente natural. La mujer no es joven, y acaba de perder a su marido ...nadie debería sospechar.
+#choice:
+Wait for more information
+Esperar más información
+#Narration
+It's only a rumor so far.  If you overreact, you might wind up making your opposition stronger.  Your agents will update you as the situation progresses.
+Por el momento es sólo un rumor. Si reaccionas de forma exagerada, podrías terminar fortaleciendo a tu oposición. Tus agentes te mantendrán informada sobre el tema.
+#choice:
+Send the musician to gather more information
+Enviar al músico a recopilar más información
+#Narration
+You summon your musician, which is to say, your spy.
+Convocas a tu músico, es decir, a tu espía.
+#Speaker: elodie_angry
+Travel to other noble courts. Try to find out what Arisse's grievance is, and how dangerous it might be.
+Viaja a las cortes de otros nobles. Trata de averiguar qué es lo que le pasa a Arisse, y cuan peligrosa puede llegar a ser.
+#Speaker: musician
+We'll see who dances to her tune.
+Veamos quien baila a su ritmo.
+#Narration < 1.3.x
+Your agents report a buildup of military strength - particularly warships -  in Shanjia, the major power across the ocean to the west.  If they send out conquering fleets, Nova might be in danger.
+Tus agentes informan de un incremento en la fuerza militar de Shanjia (en buques de guerra), la gran potencia al otro lado del océano hacia el oeste. Si envían una flota de conquista, Nova podría estar en peligro.
+# >= 1.3.x
+#Narration
+Your agents report a buildup of military strength - particularly warships - in Shanjia, the major power across the ocean to the west. They may be intending to go on the attack.
+Tus agentes informan de un incremento en la fuerza militar de Shanjia (en buques de guerra), la gran potencia al otro lado del océano hacia el oeste. Quizás, su intención sea atacar.
+#Speaker: elodie_angry (World History success)
+(The Queen of Shanjia has been conquering her smaller neighbors recently.)
+(La reina de Shanjia ha estado conquistando a sus vecinos más pequeños recientemente.)
+#Speaker: elodie_angry (else Foreign Affairs success)
+(Shanjia has been growing larger in recent years.)
+(Shanjia ha incrementado su tamaño durante los últimos años.)
+#Narration
+Shanjia lies a great distance from Nova. You have few diplomatic ties and no known conflicts. There's no reason to assume that you would be their target.
+Shanjia se encuentra a gran distancia de Nova. No tenéis relación diplomática ni conflictos conocidos. No hay razón alguna para suponer que eres su objetivo.
+#Narration
+Still, if they send a fleet across the ocean, Nova might be in danger. At the very least, shipping would be disrupted.
+Aún así, si envían una flota a través del océano, Nova podría estar en peligro. Como mínimo, el tránsito de barcos se vería alterado.
+#Speaker: elodie_angry (if Trade success)
+(And that would be a disaster to the Novan economy. We have to keep the shipping lanes clear.)
+(Y eso sería un desastre para la economía de Nova. Tenemos que mantener la rutas de navegación despejadas.)
+#Speaker: elodie_angry (If Trade partial success)
+(The western ocean is very important to Novan trade. That could cause problems.)
+(El océano occidental es muy importante para el comercio de Nova. Esto podría causar problemas.)
+#Narration < 1.3.x
+However, it takes time to assemble worthy vessels, and you have advance warning.  You could make your own preparations to defend your coast.
+Sin embargo, se necesita tiempo para reunir una flota en condiciones, y has sido informada con tiempo. Podrías organizar la defensa de tu costa.
+# >= 1.3.x
+It takes time to assemble worthy vessels, and you have advance warning. You could make your own preparations to defend your coast.
+Se necesita tiempo para reunir una flota en condiciones, y has sido informada con tiempo. Podrías organizar la defensa de tu costa.
+#Narration
+That is, you could, if you weren't running low on funds in the Royal Treasury.  Even if you started now, by the time you could assemble the gold it would be too late.
+Es decir, podrías, si la corona no estuviera baja de fondos. Incluso si comenzaras ahora, cuando reunieses el oro sería demasiado tarde.
+#Narration
+The downside is, they won't come cheap.
+La desventaja es que no son baratos.
+#choice:
+Build more warships
+Construir más buques de guerra
+#Narration
+You send orders for the assembly of new ships, and the strengthening of weaponry and cladding on the existing fleet.  If trouble comes, you'll be ready for it.
+Ordenas construir nuevos buques, mejorar el armamento y reforzar la flota existente. Si surgen problemas, estarás preparada.
+#choice:
+#Narration < 1.3.x
+There's no reason to panic - there are many other domains that Shanjia might be intending to invade.
+No hay por qué entrar en pánico - Shanjia  podría estar intentando invadir cualquier otro reino.
+#Narration, >=1.3.x
+There's no reason to panic. It's probably nothing to do with Nova at all.
+No hay por qué entrar en pánico. Probablemente no implique en nada a Nova.
+#Narration
+While studying reports of trade and goods shipments, you notice something interesting.  The domain of Shanjia, which is now the major power on the western continent, appears to be stepping up production.
+Mientras revisas informes comerciales y transacciones de bienes, te percatas de algo interesante. El reino de Shanjia, que ahora es la principal potencia en el continente occidental, parece estar aumentando la producción.
+#Narration
+In particular, their increased demand for wood, hemp, linen, and metals suggest that they are producing new ships - and new weapons.  This could be the precursor to a warfleet.
+El incremento en su demanda de madera, cáñamo, lino y metales sugiere que están produciendo nuevos buques - y nuevas armas. Podrían estar construyendo una flota de guerra.
+#Narration
+Whatever they're doing, it will take time.  If they intend to attack Nova, you have enough warning to make your own defensive preparations.
+Hagan lo que hagan, les llevará tiempo. Si pretenden atacar Nova, tienes tiempo más que suficiente para preparar tu defensa.
+#Narration
+#Narration
+#choice:
+#Narration
+#choice:
+#Narration
+#Narration
+Staring up into the sky out your window, you notice a strange flash of light.
+Mirando hacia el cielo por la ventana, observas extraño destello de luz.
+#Speaker: elodie_afraid
+(A falling star at that angle...  It means war is coming to Nova!)
+(Una estrella fugaz en ese ángulo... ¡Significa que la guerra va a llegar a Nova!)
+#Speaker: elodie_yielding
+(At least, it might.  Not every sign in the stars is meant for me.)
+(Como mínimo, podría. No todas las señales celestes están dirigidas a mí.)
+#Narration
+Still, if there is a war about to happen, this forewarning gives you time to prepare and build your strength.
+De todas formas, si hay una guerra en camino, esta advertencia te da tiempo para preparar y mejorar tu defensa.
+#choice:
+Hire more soldiers
+Contratar más soldados
+#Narration
+You make a note to have the recruiters try to get more soldiers ready for the army.
+Haces saber a tus oficiales de reclutamiento que quieres más soldados para el ejército.
+#Narration
+However, it will be difficult, as the Royal Treasury is now largely depleted.
+Sin embargo, será difícil, ya que el tesoro de la corona está prácticamente agotado.
+#choice:
+#Narration
+It's best not to get too worked up by signs and portents in the stars.
+Es mejor no preocuparse demasiado por augurios o presagios estelares.
+#Speaker: elodie_cheerful
+(A falling star...  Pretty!)
+(Una estrella fugaz... ¡Qué hermosa!)
+#Narration
+Time has passed, and there has been no word from the soldiers you sent to arrest the Duchess of Lillah.  Something may have gone wrong.
+Ha pasado tiempo desde que enviaste a tus soldados a detener a la Duquesa de Lillah, y no has vuelto a saber nada de ellos. Algo puede haber ido mal.
+#Narration
+You receive word that the Duchess of Lillah has passed away quietly in her sleep.
+Recibes la noticia de que la Duquesa de Lillah ha fallecido tranquilamente mientras dormía.
+# If Adair is dead: elodie yielding
+(... officially, anyway.)
+(...oficialmente, de todos modos.)
+# elodie angry
+(Maybe she had reasons to be angry at me, but she was still a traitor to the realm.)
+(Tal vez tuviera razones para estar enfadada conmigo, pero aún así era una traidora al reino.)
+# Narration
+She left her title not to the Earl of Io, but to Kiran, one of her younger sons.  He's 19, and rather handsome as you recall.  It's a messy affair, but things could be worse.
+Ella no dejó su título al Conde de Io, sino a Kiran, uno de sus hijos más jóvenes. Él tiene 19, y es bastante guapo como puedes recordar. Es un asunto complicado, pero las cosas podrían ir peor.
+#Speaker: elodie_willful
+(At least, that's what everyone thinks!)
+(¡Por lo menos, eso es lo que piensa todo el mundo!)
+#Narration
+She left her title not to the Earl of Io, but to Kiran, one of her younger sons.  He's 19, and rather handsome as you recall.  Everything has turned out for the best.
+Ella no dejó su título al Conde de Io, sino a Kiran, uno de sus hijos más jóvenes.  Él tiene 19, y es bastante guapo como puedes recordar.  Todo ha salido a pedir de boca.
+#Narration
+Your musician has returned from her wanderings.
+Tu músico ha regresado de sus viajes.
+#Speaker: sabine
+Your Highness, the Duchess of Lillah is a popular woman. More popular, in many quarters, than you yourself.
+Majestad, la Duquesa de Lillah es una mujer popular. Más popular, en muchos lugares, que vos misma.
+#sabine
+A wise mother. An experienced leader. And known to be ruthless enough to make hard choices.
+Es una madre sabia. Una líder con experiencia. Y se sabe que es lo suficientemente implacable como para tomar decisiones difíciles.
+#Speaker: elodie_angry
+(Like killing her own family?)
+(¿Como matar a su propia familia?)
+#Speaker: elodie_angry
+(Nova's 'Eastern Queen'.)
+('Reina del Este' de Nova).
+#Speaker: sabine
+If you can't change the way your nobles see you, they may not be your nobles for long.
+Si no puede cambiar la forma la que la miran sus nobles, quizás no lo sigan siendo por mucho tiempo.
+#Speaker: elodie_afraid
+(They'd really rebel against me?)
+(¿Serían capaces de rebelarse contra mí?)
+#Speaker: sabine
+That's all I can tell you, Your Highness.
+Eso es todo lo que sé, Alteza.
+#elodie_angry
+(Arisse... she's the real threat.)
+(Arisse... ella es la verdadera amenaza.)
+#[if Strategy]
+#Speaker: elodie_willful
+(Or a real asset.)
+(O un gran recurso.)
+#[else if Public Speaking]
+#Speaker: elodie_willful
+(Unless I can convince her otherwise.)
+(A menos que pueda convencerla de lo contrario.)
+#choice: Send soldiers to arrest her
+#choice: Send assassins to kill her
+#choice
+Try to win her support
+Intentar ganar su apoyo
+#[support]
+#Narration
+You prepare a letter to the Duchess of Lillah, inviting her to join you for a discussion about the future of Nova.  This may require some negotiation.
+Preparas una carta para la Duquesa de Lillah, invitándola a reunirse contigo para discutir el futuro de Nova. Esto podría conllevar alguna negociación.
+#okay noble approval
+#Speaker: sabine
+Your Highness, the Duchess of Lillah is like a shepherdess whose favorite lamb has gone astray.
+Majestad, la Duquesa de Lillah es como una pastora cuyo cordero favorito se ha extraviado.
+#elodie_neutral
+You mean Adair?
+¿Te refieres a Adair?
+#[if we sent the kid to Armand]
+#Speaker: sabine
+In her eyes, you have stolen her child to make him your family's plaything.
+A sus ojos, vos habéis robado a su hijo para convertirlo en el juguete de vuestra familia.
+#[if we gave the kid to Ishtar]
+#Speaker: sabine
+In her eyes, you have stolen her child and placed him in unworthy hands.
+A sus ojos, vos habéis robado a su hijo para ponerlo en manos indignas.
+#Speaker: sabine
+It is a personal grudge. I do not know whether your nobles would consider that worth rebellion.
+Es un rencor personal. No sé si sus nobles podrían considerarlo suficiente para una rebelión.
+#Speaker: elodie_yielding
+(Probably not, as long as nothing happens to Adair.)
+(Probablemente no, siempre y cuando nada le pase a Adair.)
+#Speaker: joslyn
+I have unpleasant news to report.
+Traigo malas noticias.
+#Speaker: joslyn
+Adair, the Young Lord of Elath, has been assassinated.
+Adair, el joven Señor de Elath, ha sido asesinado.
+#Speaker: elodie_afraid
+#Speaker: joslyn
+He was shot with a crossbow while playing on the grounds of his grandfather's estate.
+Le dispararon con una ballesta mientras jugaba en los terrenos de la finca de su abuelo.
+#Speaker: elodie_angry
+How did this happen?  Where were the guards?
+¿Cómo ha podido pasar esto? ¿Dónde estaban los guardias?
+#Speaker: joslyn
+This is not the first time such events have happened within the realm of Ishtar.
+Esta no es la primera vez que ocurre algo parecido en los dominios de Ishtar.
+#Speaker: elodie_depressed
+(The Earl of Ishtar's first wife and oldest daughter also died under mysterious circumstances.)
+(La primera esposa del Conde de Ishtar y su hija mayor también murieron en extrañas circunstancias.)
+#Speaker: elodie_depressed
+(Officially, an accident, but there were rumors it was agents from Talasse.)
+(Oficialmente fue un accidente, pero hubo rumores de que habían sido agentes de Talassee.)
+#Speaker: elodie_depressed
+(Then his other daughter married young and died giving birth to Adair.)
+(Después su otra hija se casó joven y murió dando a luz a Adair.)
+#Speaker: elodie_depressed
+(With Adair dead, the only family he has left is his second wife and their son Connor, who's fifteen.)
+(Con Adair muerto, la única familia que le queda es su segunda esposa y su hijo Connor, que tiene quince años.)
+#choices:
+Blame the Earl of Ishtar
+Culpar al Conde de Ishtar
+Blame Talasse
+Culpar a Talasse
+Blame no one
+No culpar a nadie
+#Speaker: elodie_angry
+Once is an accident.  Twice is a coincidence.  Three times?
+Una vez es un accidente. Dos una coincidencia. ¿Pero tres veces?
+#Speaker: elodie_angry
+He's either a traitor or incompetent.  He's useless as an Earl.
+O es un traidor o es incompetente. Es inútil como Conde.
+#choice:
+#Speaker: elodie_angry
+Have him arrested until further investigation.
+Que lo arresten mientras avanza investigación.
+#choice:
+#Speaker: elodie_angry
+For failing his responsibilities, his life is forfeit.
+Será ejecutado por incumplir sus responsabilidades.
+#Speaker: elodie_willful
+Connor can be Earl of Ishtar.
+Connor puede ser Conde de Ishtar.
+#Speaker: joslyn
+#Speaker: elodie_afraid
+Talasse is moving against us, aren't they?
+Talasse se está movilizando contra nosotros, ¿verdad?
+#Speaker: elodie_angry <= 1.3.13
+We have to protect our border. Send some soldiers west in case Talasse tries to invade.
+Tenemos que proteger nuestra frontera. Enviar soldados al oeste por si Talasse intenta invadirnos.
+#Speaker: elodie_angry >= 1.3.14
+We have to protect our border. Send some soldiers to the southeast in case Talasse tries to invade.
+Tenemos que proteger nuestra frontera. Enviar soldados al sudeste por si Talasse intenta invadirnos.
+#Speaker: joslyn
+A battalion will set out at once.
+Un batallón partirá de inmediato.
+#Speaker: elodie_depressed
+No matter what we do, things keep going wrong.
+Independientemente de lo que hagamos, todo sigue saliendo mal.
+#Speaker: joslyn
+Then there is the matter of the duchy of Elath.
+Luego está el asunto del Ducado de Elath.
+#Speaker: joslyn
+By blood, the nearest living heir is Talarist, the Duke of Sedna.... in Talasse.
+El heredero vivo más cercano es Talarist, el Duque de Sedna.... en Talassee.
+#Speaker: elodie_angry
+(A long time ago there were marriages between the leaders of Elath and Sedna.  That's his ancestry.)
+(Hace mucho tiempo hubo matrimonios entre los líderes de Elath y Sedna. Esa es su ascendencia.)
+#Speaker: elodie_angry
+(But the people of Elath did not want a Duke of foreign blood.  There were revolts.)
+(Sin embargo, la gente de Elath no quiso un Duque con sangre extranjera. Hubo revueltas.)
+#Speaker: elodie_angry
+(The title of Duke of Elath was passed to a distant relative instead of Talarist's ancestor.)
+(El título de Duque de Elath fue transferido a un pariente lejano en lugar de a los antepasados de Talarist.)
+#Speaker: elodie_afraid
+(There have been marriages between Elath and Sedna in the past...  He really could be the last heir!)
+(Ha habido matrimonios entre Elath y Sedna en el pasado... ¡Él podría ser el último heredero!)
+#Speaker: elodie_afraid
+But he's not even a Novan!
+¡Pero ni siquiera es de Nova!
+#Speaker: joslyn
+One of his ancestors was.
+Uno de sus antepasados lo fue.
+#Speaker: joslyn
+Elath is a major duchy. You cannot afford to lose control of it.
+EElath es un ducado importante. No puedes permitirte el lujo de perder su control.
+#Speaker: elodie_neutral
+(There are important mining operations there. We need those resources.)
+(Allí hay importantes operaciones mineras. Necesitamos esos recursos.)
+#choice:
+Name a Novan heir
+Nombrar un heredero de Nova
+#choice:
+Name Talarist the heir
+Nombrar a Talarist heredero
+#choice:
+Delay
+Retrasar la decisión
+#Speaker: elodie_neutral
+As Queen, I have the right to pass the lands of an extinct bloodline to a new ruler.
+Como reina, tengo derecho a transferir los terrenos de un linaje extinto a un nuevo gobernante.
+#Speaker: elodie_neutral
+Like my mother did with Uncle Laurent and Merva.
+Tal y como hizo mi madre con el tío Laurent y Merva.
+#Speaker: elodie_depressed
+... well, before he went bad.
+... bueno, antes de que empeorara.
+#Speaker: elodie_neutral
+Talarist is only {i}distantly{/i} related, and he's foreign.  He doesn't count.
+Talarist sólo está {i}lejanamente{/i} relacionado, y además es extranjero. Él no cuenta.
+#Speaker: joslyn
+Who should inherit the duchy of Elath, then?
+¿Entonces, quién debería heredar el Ducado de Elath?
+#Speaker: elodie_neutral
+(Hmm. There are a few noble families with a lot of children, too many to inherit all the existing titles.)
+(Hmm. Algunas familias nobles tienen una gran cantidad de hijos, demasiados para heredar todos los títulos existentes.)
+#Speaker: elodie_neutral
+(Arisse, the Duchess of Lillah, has six children.  The oldest three all have lands already.)
+(Arisse, la Duquesa de Lillah, tiene seis hijos. Los tres mayores ya tienen tierras.)
+#Speaker: elodie_neutral
+(That's Kevan, the Earl of Io, Corisande, the Duchess of Mead, and Charmion, the Duchess-Consort of Kigal.)
+(Son Kevan, el Conde de Io, Corisande, la Duquesa de Mead y Charmion, la Duquesa consorte de Kigal.)
+#Speaker: elodie_neutral
+(That leaves three others who are all a few years older than me.)
+(Eso deja a los otros tres, todos con unos años más que yo.)
+#Speaker: elodie_neutral
+(Arisse, the old Duchess of Lillah, had six children, and most of them have titles.)
+(Arisse, la vieja Duquesa de Lillah, tuvo seis hijos, y la mayoría de ellos tienen títulos.)
+#Speaker: elodie_neutral
+(The oldest are Kevan, the Earl of Io, Corisande, the Duchess of Mead, and Charmion, the Duchess-Consort of Kigal.)
+(Los más mayores son Kevan, el Conde de Io, Corisande, la Duquesa de Mead y Charmion, la Duquesa consorte de Kigal.)
+#Speaker: elodie_neutral
+(Then there's three more around my age: Kiran, the new Duke of Lillah, his brother Thaddeus and his sister Adele.)
+(Luego hay tres más o menos de mi edad: Kiran, el nuevo Duque de Lillah, su hermano Thaddeus y su hermana Adele)
+#Speaker: elodie_neutral
+(The Duke and Duchess of Kigal have {i}seven{/i} children, three around my age and four younger.)
+(Los Duques de Kigal tienen {i}siete{/i} hijos, tres más o menos de mi edad y cuatro menores.)
+#Speaker: elodie_neutral
+(Including Linley, who I danced with at the ball.)
+(Incluyendo a Linley, con quien bailé en la fiesta).
+#Speaker: elodie_yielding
+(And they're all Arisse's grandchildren through their mother.  So either way, it would be her line.)
+(Y todos son nietos de Arisse por parte de madre. Así que de todas formas, sería su linaje.)
+#choice:
+A child of the Duke of Kigal
+Un hijo del Duque de Kigal
+#Speaker: elodie_neutral
+The Duke of Kigal has so many children.  Let him pick one for Elath.
+El Duque de Kigal tiene muchos hijos. Dejad que escoja uno para Elath.
+#choice:
+A child of the Duchess of Lillah
+Un hijo de la Duquesa de Lillah
+#Speaker: elodie_neutral
+The Duchess of Lillah has so many children.  Let her pick one for Elath.
+La Duquesa de Lillah tiene muchos hijos. Dejad que escoja uno para Elath.
+#choice:
+A sibling of the Duke of Lillah
+Un hermano del Duque de Lillah
+#Speaker: elodie_neutral
+The old Duchess of Lillah had a lot of children.  Let the new Duke choose one of his siblings.
+La vieja Duquesa de Lillah tiene una gran cantidad de hijos. Dejad al nuevo Duque elegir a uno de sus hermanos.
+#choice:
+An administrator from Elath
+Un administrador de Elath
+#Speaker: elodie_neutral
+Someone must have been managing the old estates in Elath all these years.
+Alguien debe de haber estado administrando los viejos estados en Elath todos estos años.
+#Speaker: elodie_neutral
+There must be plenty of ministers and administrators and servants of the old family.
+Debe haber un montón de ministros, administradores y servidores de la antigua familia.
+#Speaker: elodie_neutral
+Find someone responsible who already knows Elath and has been working for its benefit.
+Encontrad a alguien responsable que ya conozca Elath y haya estado trabajando en su provecho.
+#Speaker: elodie_neutral
+Then I can ennoble them as a reward.
+Después podré ennoblecerlo como recompensa.
+#choice:
+A random commoner!
+¡Un plebeyo al azar!
+#Speaker: elodie_crowded
+I don't know, pick someone!  Pick anyone from Elath!  I don't care!
+¡No sé, escoged a alguien! ¡Escoged cualquiera de Elath! ¡No me importa!
+#Speaker: joslyn
+#Speaker: elodie_neutral
+If Talarist is the rightful heir, then he must be Duke.
+Si Talarist es el heredero legítimo, entonces debe ser el Duque.
+#Speaker: elodie_neutral
+But he can't be Duke of both places, so he'll have to give up the title to Sedna and become my subject.
+Pero no puede ser Duque de ambos lugares, por lo que tendrá que renunciar al título de Sedna y convertirse en mi súbdito.
+#Speaker: elodie_neutral
+Let Talasse worry about replacing their Duke.
+Que Talasse se preocupe de sustituir a su Duque.
+#Speaker: joslyn
+#Speaker: elodie_yielding
+I don't want to make any decisions about succession right now.
+No quiero decidir nada sobre la sucesión ahora mismo.
+#Speaker: elodie_angry
+For the moment, put it under the direct control of the crown.
+Por el momento, poner el Ducado bajo el control directo de la corona.
+#Speaker: elodie_willful
+I'll sort it out later.
+Ya lo arreglaré más tarde.
+#Speaker: joslyn
+#Speaker: joslyn
+Talarist, the Duke of Sedna, has instituted high tariffs and trade restrictions at the Elath border.
+Talarist, el Duque de Sedna, ha establecido elevados aranceles y restricciones comerciales en la frontera Elath.
+#Speaker: joslyn
+Luckily, you were well prepared for this difficulty, and have even profited on your investment.
+Por suerte, estabas bien preparada para esta situación, e incluso has sacado provecho de tu inversión.
+#Speaker: joslyn
+However, relations with Sedna may be strained in the future.
+Sin embargo, las relaciones con Sedna pueden ser tensas en el futuro.
+#Speaker: joslyn
+Business is disrupted, and there are growing shortages of supplies.
+Los negocios se han interrumpido, y cada vez hay mayor escasez de suministros.
+#Speaker: elodie_angry
+(There's nothing I can do about it - I don't have enough money in the treasury!)
+(¡No hay nada que pueda hacer al respecto - no tengo suficiente dinero en las arcas!)
+#Speaker: elodie_angry
+(The locals will just have to suffer.)
+(La gente tendrá que sufrir.)
+#Narration
+Your discretionary funds are low. Easing the trade situation will use up most of what you have available. But is there anything more important to save that money for?
+No dispones de muchos fondos. Aliviar la situación comercial en la región supondrá el gasto de gran parte del dinero. ¿Pero hay algo más importante para lo que guardar el dinero?
+#Narration
+You have a good amount of discretionary funds available. While this problem will cost a bit to solve, you will still have a useful buffer remaining.
+Dispones de una generosa cantidad de fondos. Aunque resolver este problema te cueste un buen pellizco de tu fortuna, seguirás disponiendo de una reserva importante de dinero.
+#Narration
+You have a large amount of discretionary funds remaining in the treasury. You can easily handle this situation.
+La corona posee una gran cantidad de riqueza. Puedes resolver esta situación sin problema.
+#choice:
+Send emergency aid
+Enviar ayuda de emergencia
+#Speaker: elodie_neutral
+Then the royal treasury will pay to keep the people fed.
+Entonces la corona pagará para alimentar a la gente.
+#Speaker: joslyn
+#choice:
+#Speaker: elodie_angry
+So business got harder.  Doesn't that happen all the time?
+Así que los negocios se han endurecido. ¿No pasa eso constantemente?
+#Speaker: elodie_yielding
+It's not my fault they didn't plan ahead.
+No es mi culpa que no lo planificaran con antelación.
+#Speaker: elodie_cheerful
+What a beautiful day!
+¡Qué día tan hermoso!
+#Speaker: elodie_neutral
+It's nice to stop and breathe sometimes.
+A veces es agradable parase a respirar.
+#Speaker: joslyn
+I have more unpleasant news.
+Tengo más noticias desagradables.
+#Speaker: joslyn
+Soldiers belonging to the Duke of Sedna have attempted to cross the border into Elath, but were chased off by your patrols.
+Soldados bajo las ordenes del Duque de Sedna han intentado cruzar la frontera de Elath, pero fueron repelidos por tus patrullas.
+#Speaker: elodie_cheerful
+Good thing I put soldiers there earlier!
+¡Menos mal que designé soldados allí a tiempo!
+#Speaker: joslyn
+The crisis is averted for now, but relations with Talasse are likely to be strained in the future.
+La crisis se ha evitado temporalmente, pero es probable que las relaciones con Talasse se deterioren en el futuro.
+#Speaker: joslyn
+Soldiers from Talasse have crossed the border into Elath and are pushing towards the ducal seat.
+Los soldados de Talasse han cruzado la frontera de Elath y presionan contra el asiento del Duque.
+#Speaker: joslyn
+The Duke of Sedna insists that he is the rightful heir, and the territory belongs to him.
+El Duque de Sedna insiste en que él es el heredero legítimo, y que el territorio le pertenece.
+#Speaker: joslyn
+The supplies you sent to Elath earlier have been stocked against a siege, but more military support is requested.
+Los suministros que enviaste a Elath con anterioridad se han almacenado para un asedio, pero se necesita más ayuda militar.
+#Speaker: joslyn
+Your newly-appointed Duke requests additional military support and supplies.
+Tu Duque recién nombrado solicita más suministros y apoyo militares.
+#Speaker: elodie_yielding
+#Speaker: elodie_yielding
+Fine, send some soldiers.
+Está bien, enviar más soldados.
+#Speaker: elodie_yielding
+I'll send soldiers, but we don't have any money for supplies. They'll just have to make do.
+Enviaré soldados, pero ya no tenemos dinero para provisiones. Tendrán que apañárselas.
+#Speaker: elodie_yielding
+Fine.  Whatever.
+Está bien. Lo que sea.
+#Speaker: joslyn
+You also have some letters.
+También tienes algunas cartas.
+#Speaker: alice_smile
+My lady, there are letters for you.
+Mi señora, hay cartas para vos.
+#Speaker: elodie_yielding
+(Another letter from Briony.  Why does she keep writing me?  We were never even friends.)
+(Otra carta de Briony. ¿Por qué sigue escribiéndome? Ni siquiera hemos llegado a ser amigas.)
+#Speaker: elodie_neutral
+(She says she's bored and lonely and she's looking forward to seeing me at Gwenelle's birthday party.)
+(Dice que está aburrida, se siente sola y que está deseando verme en el cumpleaños de Gwenelle.)
+#Speaker: elodie_cheerful
+(That's right!  Gwenelle is about to turn fifteen!  She'll be Duchess of Sudbury for real now.)
+(¡Es verdad! ¡Gwenelle está a punto de cumplir quince años! Va a convertirse definitivamente en Duquesa de Sudbury.)
+#Speaker: elodie_neutral
+(This other letter must be my invitation to her birthday celebration next week.)
+(Esta otra carta debe ser mi invitación a su fiesta de cumpleaños la próxima semana.)
+#Speaker: elodie_neutral
+(Gwenelle and I were friends at school, and this will be a big event, but it's also a long way to travel.)
+(Gwenelle y yo éramos amigas en la escuela, y esta va a ser una gran cita, pero conlleva realizar un largo viaje.)
+#Speaker: elodie_neutral
+(A lot of things can happen on the road.)
+(Puede pasar cualquier cosa en el camino.)
+#Speaker: elodie_angry
+(My agents have reported a lot of sightings of bandits recently.)
+(Mis hombres han informado de una gran cantidad de avistamientos de bandidos últimamente.)
+#Speaker: elodie_neutral
+(My agents haven't reported any particular problems with bandits recently, though.)
+(Sin embargo, mis hombres no han reportado ningún incidente con bandidos últimamente.)
+#Narration
+You remember dreaming about a road through a dark forest, surrounded by monsters like the keythong your father told you about. Of course, the Old Forest is nowhere near Sudbury.
+Recuerdas haber soñando con un camino a través de un bosque oscuro, rodeado de monstruos como el grifo del que te habló tu padre. Aunque claro, el Bosque Viejo no está ni remotamente cerca de Sudbury.
+#Speaker: elodie_afraid
+(Oh!  A letter from the Duchess of Lillah!)
+(¡Oh! ¡Una carta de la Duquesa de Lillah!)
+#Speaker: elodie_angry, if cruel
+(She's blaming me for Adair's death?  How was I supposed to know that would happen?)
+(¿Me está culpando de la muerte de Adair? ¿Cómo iba yo a saber que pasaría?)
+#Speaker: elodie_lonely, otherwise
+(She's blaming me for Adair's death.)
+(Me está culpando de la muerte de Adair.)
+#Narration
+There will be no support from that quarter.  You will have to win back the nobility on your own.
+No recibirás ningún apoyo. Tendrás que volver a ganarte a la nobleza por tu cuenta.
+#Speaker: elodie_neutral
+(She agrees to speak with me if we can meet in neutral territory, like Sudbury.)
+(Accede a hablar conmigo si nos reunimos en un territorio neutral, como Sudbury.)
+#Narration
+Apparently she is unimpressed with your writing skills.  She declined your invitation.
+Al parecer, tu habilidad con la pluma le es indiferente. Ha declinado tu invitación.
+#Speaker: elodie_angry
+(Well, she's still going to be at Gwenelle's party, right?  I have another chance.)
+(Bueno, de todas formas va a estar en la fiesta de Gwenelle, ¿verdad? Tengo otra oportunidad.)
+#choice:
+Go to Sudbury for Gwenelle's party
+Ir a Sudbury a la fiesta de Gwenelle
+#Speaker: elodie_cheerful
+(It'll be good to see my friends!)
+(¡Será fantástico ver a mis amigos!)
+#choice:
+Send your regrets
+Declinar la invitación
+#Speaker: elodie_yielding
+(I'd better stay here.)
+(Será mejor quedarme aquí.)
+#Speaker: elodie_yielding
+#Speaker: elodie_lonely
+(All of my friends are at Gwenelle's party and I don't get to go.)
+(Todos mis amigos están en la fiesta de Gwenelle y yo no he ido.)
+#Speaker: elodie_neutral
+(I sent her a note with my regrets and a gift, and she accepted, so at least she's not upset.)
+(Le envié una nota con mis disculpas un regalo, y ella lo aceptó. Por lo menos no se ha enfadado.)
+#Speaker: elodie_neutral
+(We can get together sometime after my coronation when things are less hectic.)
+(Podremos reunirnos tras mi coronación cuando las cosas estén más calmadas.)
+#Speaker: elodie_angry
+(I sent Gwenelle a letter saying that I couldn't come, but it was her mother the Countess who replied.)
+(Envié a Gwenelle una carta diciendo que no podía ir, pero me contestó su madre, la Condesa.)
+#Speaker: elodie_angry
+(I think she's insulted that I didn't consider the event important enough to attend.)
+(Creo que se siente insultada porque piensa que considero el evento poco importante como para asistir.)
+#Narration
+On your journey to Sudbury, your carriage is attacked by bandits!
+De camino a Sudbury, ¡tu carruaje es atacado por bandidos!
+#Narration
+Luckily, your bodyguards are well-prepared for such an event and manage to drive off the attackers.
+Por suerte, tus guardaespaldas están bien preparados y se las arreglan para ahuyentar a los atacantes.
+#Narration
+You are inconvenienced and annoyed, but not harmed.
+Te sientes incómoda y molesta, pero no herida.
+#Narration
+You hear the distinctive sound of incoming arrows just in time to push yourself away from the window and avoid being shot.
+Percibes el inconfundible sonido de una flecha perforando el aire justo a tiempo para apartarte de la ventana y evitar recibir el flechazo.
+#Narration
+From the screams outside, not all of your guards have been as lucky.
+Por los gritos que se escuchan fuera, no todos tus guardias han sido tan afortunados.
+#Narration
+The attackers scatter as soon as your forces show signs of resistance, vanishing into the woods.
+Los atacantes se dispersan tan pronto como tus soldados reaccionan en tu defensa, y desaparecen en el bosque.
+#Narration
+The rest of your trip passes without incident, but you can't help jumping at shadows.
+El resto de tu viaje transcurre sin incidentes, pero no puedes evitar asustarte con simples sombras.
+#Narration
+You look down in shock at the arrow which has buried itself in your side.  Outside, you can hear screams and curses, but it feels unreal.  Your world is centered around pain.
+Bajas la mirada conmocionada hacia la flecha que te ha perforado el costado. Afuera puedes oír alaridos y blasfemias, pero te parecen distantes. Tu mente se sume en el dolor tu herida.
+#Narration
+You know that trying to push the arrow through will only make matters worse, so you have to bear the pain and wait patiently until someone can help you.
+Sabes que intentar extraer la flecha sólo empeorará las cosas, así que tienes que aguantar el dolor y esperar a que alguien te ayude.
+#Narration
+Calling on your mental discipline, you remain calm and keep a steady pressure on the wound.
+Haciendo uso de tu fortaleza mental, permaneces en calma y mantienes una presión constante sobre la herida.
+#Narration
+Your escort chases off the bandits, and an experienced sergeant cuts out the arrowhead and bandages your wound.  It's actually not as bad as it looked, but it still {i}hurts.{/i}
+Tu guardia personal persigue a los bandidos, y un sargento experimentado corta la punta de la flecha y las vendas tus heridas. La herida aparenta ser peor de lo que realmente es, pero aún así {i}duele.{/i}
+#Narration
+The rest of your trip goes smoothly.
+El resto de tu viaje transcurre sin incidentes.
+#Narration
+Unfortunately, staying calm is easier said than done.  Your panicked screams attract more arrows, and soon, your pain is ended...
+Por desgracia, no eres capaz mantener la calma. Tus chillidos de pánico atraen más flechas, y tu agonía finaliza pronto...
+#Narration
+You struggle with the arrow, afraid to pull it loose.  You heard a story somewhere about pushing arrows through the body, so you brace yourself and give it a shove.
+Forcejeas con la flecha, con miedo a extraerla. Escuchaste una historia en algún lugar sobre la extracción de flechas, por lo que te mentalizas y tiras con fuerza.
+#Narration
+Unfortunately, this only drives the arrow deeper into your vital organs, turning a painful wound into a fatal one.
+Por desgracia, sólo consigues perforar con más fuerza algunos órganos vitales, convirtiendo una herida dolorosa en un mortal.
+#Narration
+Gwenelle's party is lovely - not nearly as glamourous as your own upcoming birthday will be, of course, but it's still a major event on the noble social calendar.  Everyone who is anyone is present.
+La fiesta de Gwenelle es encantadora - ni de lejos tan elegante como tu próxima fiesta de cumpleaños, por supuesto, pero aún así es un acontecimiento importante en el calendario de la nobleza. Todo el mundo que es alguien está presente.
+#Narration
+Except, of course, for the new Duke of Elath.  Matters there are too unsettled to be left unattended.
+Excepto, por supuesto, para el nuevo Duque de Elath. Tiene asuntos demasiado importantes como para ser desatendidos.
+#Narration
+Uncle Laurent and your younger cousins are here, but Charlotte and her mother are not.  Apparently Charlotte was ill.
+El tío Laurent y tus primos más jóvenes están aquí, pero Charlotte y su madre no. Al parecer, Charlotte está enferma.
+#Narration
+Your aunt, the recent Duchess-Regent of Merva, has not shown her face.  Considering her husband's disgrace, she is likely not considered a desirable guest.  The downside of that is that your cousins aren't here either.
+Tu tía, la reciente Duquesa Regente de Merva, no ha aparecido. Teniendo en cuenta la desgracia de su marido, probablemente no se le considera una invitada deseable. La desventaja de su ausencia es que tus primos tampoco han venido.
+#Narration
+Your uncle, the Duke of Merva, is present, and you realise that you've never spoken to him about his wife's death.  You wonder if Charlotte and her siblings are here.
+Tu tío, el Duque de Merva, está presente, y te das cuenta de que nunca has hablado con él sobre la muerte de su esposa. Te preguntas si Charlotte y sus hermanos están aquí.
+#Narration
+Uncle Laurent and Aunt Lucille are here, along with all three of their children. Charlotte rushes over eagerly to see you.
+El tío Laurent y la tía Lucille están aquí, junto con sus tres hijos. Charlotte corre hacia ti deseosa de verte.
+#Speaker: charlotte
+Hi, 'Lodie! Guess what?
+¡Hola 'Lodie! ¿Adivina qué?
+#Speaker: elodie_neutral
+Hi, Lottie. What is it?
+Hola Lottie. ¿Qué pasa?
+#Speaker: charlotte
+Mummy said after your coronation I can come and stay at the castle with you! And we can talk about, you know, {size=15}{i}magic...{/i}{/size}
+¡Mami dijo que después de tu coronación podré ir al castillo y quedarme contigo! Y podremos hablar, ya sabes, de {size=15} {i}magia...{/i}{/size}
+#Speaker: elodie_cheerful
+That's great!
+¡Estupendo!
+#Narration
+However, it seems that the assembled nobles are not eager to converse with Countess Nix and her family. The position of Lumen Minister may be damaging Aunt Lucille's social cachet.
+Sin embargo, parece que los nobles reunidos no están dispuestos a conversar con la Condesa Nix ni su familia. El puesto de Ministra Lumen puede estar dañando el prestigio social de la tía Lucille.
+#Narration
+You notice several people quickly looking away and whispering to their companions when they catch sight of you.  You wonder what they are talking about.
+Sorprendes a varias personas mirando rápidamente hacia otro lado y susurrando a sus compañeros cuando les miras. Te preguntas de que estarán hablando.
+#Narration
+Arisse, the Duchess of Lillah, is present, but she somehow always manages to avoid talking to you when you draw near.
+Arisse, la Duquesa de Lillah, está presente, pero de alguna manera siempre se las arregla para evitar hablar contigo cuando te acercas.
+#Narration
+Arisse, the Duchess of Lillah, is present. You should have a chance to plead your case.
+Arisse, la Duquesa de Lillah, está presente. Deberías tener la ocasión de abordar tu caso.
+#Narration
+There are refreshments and dancers and musicians and polite conversations... and one or two not-so-polite.
+Hay refrescos, bailarines, músicos, educadas conversaciones... y una o dos no tan educadas.
+#Speaker: lieke
+... will not be shoved aside.
+... no seré apartada.
+#Speaker: gwenelle
+Mother, it's my domain now.  I need space for myself.  You have your own lands to manage.
+Madre, es mi territorio ahora. Necesito espacio para mí misma. Tú puedes gestionar tus propias tierras.
+#Speaker: lieke
+Just because you're of age doesn't mean you know everything, young lady. You need my advice.
+Que ahora seas mayor de edad, no significa que lo sepas todo, señorita. Necesitas mi consejo.
+#Speaker: gwenelle
+This is my home. It has never been yours.
+Ésta es mi casa. Nunca ha sido la tuya.
+#Narration
+Before you can back away, their gazes fall on you.  They wait expectantly for you as near-queen to settle the dispute.
+Antes de que puedas retroceder, sus miradas recaen sobre ti. Esperan con expectación que como futura reina puedas solucionar el conflicto.
+#Narration
+Feelings could be easily hurt on either side here.  It's important that everyone involved save face.
+Podrías herir los sentimientos de ambas fácilmente. Es muy importante satisfacer a las dos partes.
+#choices:
+Side with Gwenelle
+Apoyar a Gwenelle
+Side with her mother
+Apoyar a su madre
+Flatter them both
+Halagar a ambas
+#Speaker: elodie_willful
+You heard her.  She's an adult now, and she's in charge here.
+Ya la has oído. Es una adulta, y ahora está al cargo.
+#Speaker: gwenelle
+Thank you!
+¡Gracias!
+#Speaker: lieke
+Is this what your father will face upon your coronation? Cast aside without another word?
+¿Es esto a lo que se enfrenta tu padre tras tu coronación? ¿A ser apartado sin mediar palabra?
+#Speaker: elodie_depressed
+(...  He's not going to like hearing that, is he.)
+(... seguro que no le va a gustar oír eso.)
+#Speaker: elodie_depressed
+You should listen to your mother.  She loves you, and she deserves your respect.
+Deberías escuchar a tu madre. Te quiere, y merece tu respeto.
+#Speaker: lieke
+#Speaker: gwenelle
+I am the Duchess of Sudbury, and I must command respect of my own.
+Yo soy la Duquesa de Sudbury, y debo imponer mi respeto.
+#Speaker: gwenelle
+We're not children anymore, Elodie. If you let people treat you like that, you can't rule them.
+Ya no somos niñas, Elodie. Si dejas que la gente te trate así, nunca podrás gobernarlos.
+#Speaker: elodie_neutral
+I'm sure you have a great deal of wisdom to impart.
+Estoy segura de que tiene una gran cantidad de sabiduría que transmitir.
+#Speaker: elodie_neutral
+But isn't that what you've already done? You have to trust in the strength of your own teachings.
+Pero ¿acaso no lo has hecho ya? Tienes que confiar en la calidad de tu enseñanza.
+#Speaker: elodie_neutral
+Trust in the strength and the intelligence of your daughter.
+Confiar en la fuerza y la inteligencia de tu hija.
+#Narration
+Neither of them looks entirely happy, but neither of them looks angry with you either.
+Ninguna de las dos parece del todo convencida, pero tampoco parecen haberse enfadado contigo.
+#Speaker: lieke
+... needs me! I will not be so easily shoved aside.
+... ¡Me necesita! No me haré a un lado tan fácilmente.
+#Speaker: bennett
+Calmly, calmly, Angelique. She's not rejecting you. Are you, kit?
+Calma, calma, Angelique. No te está rechazando. ¿Verdad, kit?
+#Speaker: gwenelle
+Mother, it's my domain now. I need to be responsible for it - for my own decisions.
+Madre, es mi territorio ahora. Tengo que ser responsable de él - de mis propias decisiones.
+#Speaker: lieke
+You need my advice.
+Necesitas mis consejos.
+#Speaker: bennett
+But I need it more.
+Pero yo los necesito más.
+#Speaker: bennett
+She's been waiting and training for this moment; I never expected to become a Duke. I need you by my side.
+Ella ha estado entrenándose para este momento; Yo nunca he esperado convertirme en Duque. Te necesito a mi lado.
+#Speaker: lieke
+Darling, I...
+Cariño, yo...
+#Speaker: bennnett
+I'd hate to see a mother blame her child for growing up.
+No me gustaría ver a una madre culpando a su hijo por haber crecido.
+#Narration
+The Countess looks distinctly unhappy at his words, and more so when she sees you watching them.
+La condesa no puede ocultar su tristeza, y menos cuando se percata de que los estás observando.
+#Speaker: bennett
+Kit, please look after Her Royal Highness. Your mother and I need to go sit down.
+Kit, por favor, ve a hablar con su alteza real. Tu madre y yo necesitamos sentarnos.
+#Speaker: gwenelle
+Okay. Thanks.
+Vale. Gracias.
+#Speaker: elodie_afraid
+What was that about?
+¿De qué iba todo eso?
+#Speaker: gwenelle
+Dad ran away from home when he was my age, and his mother disowned him. Then she died while he was traveling the world.
+Papá se escapó de casa cuando tenía mi edad, y su madre renegó de él. Luego ella murió mientras él viajaba por el mundo.
+#Speaker: gwenelle
+His family never forgave him, and he never forgave them.
+Su familia nunca lo perdonó, y él nunca los perdonó.
+#Speaker: gwenelle
+But I'm not running anywhere. I'm Duchess of Sudbury now, and I have to command respect for myself.
+Pero yo no estoy huyendo. Ahora soy la Duquesa de Sudbury, y tengo que exigir respeto.
+#Narration
+A bit later, Briony catches up with you.
+Un poco más tarde, te encuentras con Briony.
+#Speaker: briony
+Hello, Elodie. It's so wonderful that you're going to be Queen now.
+Hola Elodie. Es maravilloso que vayas a ser reina.
+#Speaker: briony
+I mean, I am sorry about your mother...
+Quiero decir, lo siento por tu madre...
+#Speaker: elodie_depressed
+Thanks.
+Gracias.
+#Speaker: briony
+... but think of the opportunities you're going to have! You're so lucky.
+... ¡pero piensa en todas las oportunidades que vas a tener! Tienes mucha suerte.
+#Narration
+That's an odd way of putting it.
+Es otra manera diferente de ver las cosas.
+#Speaker: briony
+Anyway, I was wondering, now that you're almost Queen and everything... have they told you all the secrets?
+De todos modos, me preguntaba, ahora que ya eres casi reina y eso... ¿Te han contado todos los secretos?
+#Speaker: elodie_depressed
+What secrets?
+¿Qué secretos?
+#Speaker: briony
+Like, how to get into the old palace! I've heard it's packed full of treasure.
+Por ejemplo, ¡cómo entrar al viejo palacio! He oído que está lleno de tesoros.
+#Speaker: elodie_neutral
+You mean the Old Capital by Kathre Lake?  The abandoned one?
+¿Te refieres a la antigua capital junto al lago Kathre? ¿La abandonada?
+#Speaker: briony
+Exactly! They had to leave in a hurry, so they left all kinds of treasure behind.
+¡Exacto! Tuvieron que huir a toda prisa, así que abandonaron todo tipo de tesoros.
+#Speaker: briony
+And nobody ever goes there because the forest is supposed to be haunted, so the treasure's probably still there!
+Y nadie va allí porque el bosque se supone que está encantado, ¡por lo del tesoro probablemente siga allí!
+#Speaker: elodie_afraid
+(The forest isn't just haunted, it's full of monsters like the keythong!)
+(El bosque no sólo está encantado, ¡también está lleno de monstruos como el grifo!)
+#Speaker: elodie_willful
+(But what if she's right and it is full of ancient treasure?)
+(Pero, ¿Y si tiene razón y está lleno de tesoros antiguos?)
+#choice:
+Offer to help
+Ofrecerle ayuda
+#choice:
+Try to talk her out of it
+Intentar disuadirla
+#choice:
+Tattle to her parents
+Decírselo a sus padres
+#Speaker: elodie_willful
+I don't know any secrets about getting into the old palace - {i}yet.{/i}
+No sé ningún secreto acerca del viejo palacio - {i}todavía.{/i}
+#Speaker: elodie_willful
+But if you come back to the castle with me, we can check the archives.
+Pero si vienes al castillo conmigo, podemos comprobar los archivos.
+#Speaker: briony
+Great! I knew you could help.
+¡Genial! Sabía que me ayudarías.
+#Speaker: briony
+I'm {i}supposed{/i} to go back to school, but I was already planning to sneak off.
+Se {i}supone{/i} que debo volver a la escuela, pero ya estaba planeando escaparme de todas formas.
+#Speaker: briony
+I'll ditch my escort, sneak ahead, and meet you at the castle!
+¡Despistaré a mi escolta, me escabulliré, y te veré en el castillo!
+#Speaker: elodie_cheerful
+(This could be fun.)
+(Podría ser divertido.)
+#Speaker: elodie_angry
+That forest is dangerous, Briony!  Not because of ghosts.  Because of monsters.
+¡Ese bosque es peligroso, Briony! No por los fantasmas. Por los monstruos.
+#Speaker: elodie_angry
+Do you know what happens when a monster from the forest gets loose and kills someone?
+¿Sabes que sucede cuando un monstruo del bosque y se escapa mata a alguien?
+#Speaker: elodie_angry
+{i}Nothing!{/i} Nobody does anything, because the monsters are too powerful to fight!
+{i}¡Nada!{/i} ¡Nadie hace nada, porque los monstruos son demasiado poderosos!
+#Speaker: elodie_lonely
+So we just let them eat whoever they want, and hope they don't take too many.
+Así que simplemente les dejamos comerse a quien quieran, y confiamos en que no sean demasiados.
+#Speaker: elodie_depressed
+If you go there, you'll die, and everyone will say it was your own fault.
+Si vas allí, morirás, y todo el mundo dirá que fue tu culpa.
+#Speaker: briony
+... You're scaring me.
+... Me estás asustando.
+#Speaker: elodie_yielding
+That's the point.
+De eso se trata.
+#Speaker: briony
+Okay, okay, maybe I should think a little more about this plan.
+Vale, vale, tal vez deba recapacitar sobre el plan.
+#Speaker: briony
+You're no fun.
+No eres divertida.
+#Speaker: elodie_yielding
+(...  I hope she was listening.)
+(... Espero que estuviera escuchando.)
+#Speaker: elodie_angry
+You'll get in trouble!  You'll get hurt!
+¡Te meterás en problemas! ¡Te harás daño!
+#Speaker: briony
+You're scared, aren't you? Well, {i}I'm{/i} not scared. I can find my own way.
+Tienes miedo, ¿verdad? Bueno, {i}yo{/i} no tengo miedo. Me las apañaré sola.
+#Speaker: elodie_afraid
+(I really hope she doesn't!)
+(¡Espero que no lo haga!)
+#Narration
+You nod and smile politely, then as soon as Briony isn't looking, you report on her scheme to her mother, the Duchess of Mead.  Her mother is {i}very{/i} grateful for the warning.  Hopefully Briony will be safe now.
+Asientes y sonríes educadamente. Después, en cuanto Briony se da la vuelta, informas de su plan a su madre, la Duquesa de Mead. Su madre se muestra {i}muy{/i} agradecida por el aviso. Con suerte Briony estará ahora segura.
+#Speaker: elodie_neutral
+Old palace?
+¿Antiguo palacio?
+#Speaker: briony
+The one at Kathre Lake! Where the Kings and Queens of Nova used to live.
+¡El que está junto al lago Kathre! Donde los reyes y reinas de Nova solían vivir.
+#Speaker: elodie_neutral
+I don't know anything about it.
+No sé nada al respecto.
+#Speaker: briony
+#Narration
+She bites her lip and frowns at you.
+Briony se muerde el labio y te frunce el ceño.
+#Speaker: briony
+Well, never mind, then.
+Bueno, entonces no importa.
+#Narration
+She walks away.  So much for wanting to talk to you!
+Se aleja caminando. ¡Tantas ganas de hablar contigo para esto!
+#Narration
+As the day progresses, you manage to separate the Duchess of Lillah from her crowd of relatives and well-wishers.
+A medida que avanza el día, te las apañas para separar a la Duquesa de Lillah de su grupo de familiares y amigos.
+#Speaker: arisse
+I am surprised you have bothered to keep trying. If only you had shown such dedication to your studies earlier.
+Me sorprende que te hayas tomado la molestia de seguir intentándolo. Si le hubieras puesto el mismo empeño a tus estudios.
+#Speaker: elodie_angry
+I know I've made mistakes.  I'm trying to fix them.
+Sé que he cometido errores. Estoy intentando solucionarlos.
+#Speaker: arisse
+I must admit, I was surprised to receive your invitation. Many young people are eager to prove that they need no guidance.
+Tengo que admitir que me sorprendió recibir tu invitación. Muchos jóvenes están ansiosos por demostrar que no necesitan ninguna orientación.
+#Speaker: elodie_depressed
+I'm not my mother.  I wish I could be.  I wish she were here.
+No soy mi madre. Me gustaría poder serlo. Me gustaría que estuviera aquí.
+#Speaker: elodie_yielding
+But this isn't only about me.  It's about Nova, and doing what's best.
+Pero esto no es sólo por mí. Es por Nova, y por hacer lo correcto.
+#Speaker: elodie_neutral
+This is a difficult time for everyone.  The domain needs stability.  For that, we need to work together.
+Son tiempos difíciles para todos. El reino necesita estabilidad. Por eso, tenemos que trabajar juntas.
+#Speaker: arisse
+I have one condition. You must agree to marry one of my sons.
+Tengo una condición. Te comprometerás a casarte con uno de mis hijos.
+#Speaker: elodie_afraid, if already engaged
+But I'm already...
+Pero ya estoy...
 # For the visible keyboard.
 space
 space
@@ -6603,7 +8103,7 @@ You didn't need to know.
 No necesitabas saberlo.
 #Speaker: julianna
 Your job is managing the domain. Some of us have other duties. Our missions have been passed down for {i}centuries,{/i} little princess.
-Tu trabajo es gestionar tus dominios. Algunos tenemos otras tareas. Nuestras misiones se han transmitido durante siglos, pequeña princesa.
+Tu trabajo es gestionar tu reino. Algunos tenemos otras tareas. Nuestras misiones se han transmitido durante siglos, pequeña princesa.
 #Speaker: elodie_angry
 Where did she get a crystal?  All the Lumens in the domain were supposed to have been wiped out two hundred years ago!
 ¿Dónde consiguió su cristal?  Se supone que todos los Lumens de nuestros dominios habían sido eliminados hace doscientos años!
@@ -6615,7 +8115,7 @@ We are here to train you. You don't need to know any more than that.
 Estamos aquí para entrenarte. No necesitas saber más.
 #choice:
 Order her to explain
-Ordenarle explicarse
+Exigirle una explicación
 #Speaker: elodie_angry
 Your duty is to me and to Nova. Renegade Lumens pose a threat to the entire domain.
 Te debes a mi y a Nova. Los Lumens renegados representan una amenaza para todo el dominio.
@@ -6645,10 +8145,10 @@ You're supposed to obey me! I order you to tell me everything you know!
 ¡Debes obedecerme! ¡Te ordeno que me digas todo lo que sabes!
 #Speaker: julianna
 That would require more time than we have available. If you survive, you will learn.
-Eso requeriría más tiempo que el que tenemos disponible. Si sobrevives, aprenderás.
+Eso requeriría más tiempo del que disponemos. Si sobrevives, aprenderás.
 #Speaker: elodie_crowded
 (Gahh!)
-(Gahh!)
+(¡Gahh!)
 #choice:
 #Speaker: elodie_yielding
 (Right...)
@@ -7007,7 +8507,7 @@ Está bien... Allá vamos... \n ¡{i}Illuminate{/i}!
 #Speaker: elodie_cheerful
 #Speaker: elodie_depressed
 If you attack an enemy Lumen, and you win, and they leave behind a crystal...
-Si atacas a un Lumen enemigo, ganas y se desprenden de su cristal...
+Si derrotas a un Lumen enemigo, y se desprende de su cristal...
 #Speaker: elodie_neutral
 Is it possible to combine that crystal with mine to make it stronger?
 ¿Es posible combinar el cristal con el mío para hacerlo más fuerte?
@@ -7041,7 +8541,7 @@ It will be attuned to a personality as foolish or violent or scheming as the Lum
 Se vinculará a una personalidad tan violenta, tonta, o intrigante como la del Lumen derrotado.
 #Speaker: elodie_angry
 So anyone taking the crystal would probably become a new enemy.  That's useless!
-Así que cualquiera que obtuviese el cristal se convertiría en un nuevo enemigo.  ¡Entonces es Inútil!
+Así que cualquiera que obtuviese el cristal se convertiría en un nuevo enemigo.  ¡Entonces es inútil!
 #Speaker: mentor_speaker
 A weak-willed candidate might be acceptable to the crystal and yet still controllable.
 Alguien de voluntad débil, y fácilmente controlable podría ser un buen candidato para el cristal.
@@ -7626,7 +9126,7 @@ Mi señora, hay una carta para usted.
 (¿Quién envió esto? No tiene firma...)
 #Narration
 It appears to be a poem, describing you in a manner that is entirely inappropriate for a Queen.
-Parece ser un poema, describiéndote de una manera que totalmente inadecuada para una reina.
+Parece ser un poema, describiéndote de una manera totalmente inadecuada para una reina.
 #Speaker: elodie_afraid
 (I *what*?  With a *squid*?)
 (Yo ¿*qué*? ¿Con un *calamar*?)
@@ -7635,20 +9135,20 @@ That's hilarious!
 ¡Esto es divertido!
 #Speaker: elodie_cheerful
 (That's actually pretty funny!)
-(¡Esto es realmente muy divertido!)
+(¡Qué poema tan divertido!)
 #choice:
 That's terrible!
 ¡Esto es terrible!
 #Speaker: elodie_crowded
 (Who writes this garbage?!?)
-(¿¡¿Quién escribe esta basura?!?)
+(¿¡¿Quién escribió esta basura?!?)
 #Narration
 Just then, an incredibly unlucky breeze swirls between the windows of your tower bedroom, tugging the paper out of your hands and off into the sky.
 Justo en ese momento, una desafortunada brisa se cuela entre las ventanas de tu habitación, arrancándote el papel de las manos y lanzándolo fuera de la torre.
 #
 #Narration
 You stick your head out the window to discover the 'poem' caught and fluttering on the roof nearby.  You can {i}almost{/i} reach it.
-Sacas la cabeza por la ventana para descubrir el 'poema' atrapado y agitándose en el tejado cercano. {i}Casi{/i} puedes alcanzarlo.
+Sacas la cabeza por la ventana para descubrir el 'poema' enganchado y agitándose en el tejado. {i}Casi{/i} puedes alcanzarlo.
 #choices:
 Climb out and grab it
 Subir y agarrarlo
@@ -7682,7 +9182,7 @@ Tienes suerte de no haberte roto el cuello, pero tus contusiones te van a poner 
 What's the worst that can happen?  It blows off and someone reads it and laughs at you?  That's better than breaking your neck.
 ¿Qué es lo peor que puede pasar? ¿Que salga volando y alguien lo lea y se ría de ti? Es mejor que romperte el cuello.
 Besides, if you're lucky it will rain and wash the words away.
-Además, si tienes lloverá y disolverá las palabras.
+Además, si tienes suerte lloverá y el agua disolverá las palabras.
 #Narration
 Almost everyone.
 Casi todo el mundo.
