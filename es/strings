@@ -8260,7 +8260,7 @@ Mi señora, tiene una carta.
 #Speaker: alice_smile
 #Speaker: elodie_neutral
 (It's from Briony.  She wants to know if I've ever heard any rumors about pirate treasure.)
-(Es de Briony. Quiere saber si alguna vez he oído algún rumor sobre el tesoro pirata.)
+(Es de Briony. Quiere saber si alguna vez he oído algún rumor sobre un tesoro pirata.)
 #Speaker: elodie_cheerful
 (Here we go again!)
 (¡Y vuelta a empezar!)
@@ -8270,10 +8270,411 @@ Mi señora, tiene una carta.
 (Ésta es de Briony - y {i}no{/i} está contenta conmigo.)
 #Speaker: elodie_scared
 (Apparently she had some plan to run off on a treasure hunt to the heart of the Old Forest? She would have been eaten!)
-(¿Por lo visto tenía algún plan para escaparse en busca del tesoro en el corazón del Bosque Viejo? ¡Se la habrían comido!)
+(¿Por lo visto tenía algún plan para escaparse a buscar el tesoro en el corazón del Bosque Viejo? ¡Se la habrían comido!)
 #Speaker: elodie_yielding
 (Until Arisse found out. Now Briony's under guard, with extra assignments to keep her busy.)
 (Hasta que Arisse se enteró. Ahora Briony está bajo custodia, con tarea extra para mantenerla ocupada.)
+#Narration
+You also receive a rather flowery letter from Banion, Duke of Maree.  He extols your cleverness and beauty, and professes his belief that you will not 'disappoint' him in the future.
+También recibes una carta un poco empalagosa de Banion, el Duque de Maree. En ella ensalza tu inteligencia y belleza, y asegura que no lo vas a defraudar.
+#Court Manners success
+#Speaker: elodie_angry
+(I think he's threatening me with a breach-of-promise suit if I don't marry him.)
+(Creo que me está amenazando con demandarme por incumplimiento del compromiso si no me caso con él.)
+#else Conversation success
+#Speaker: elodie_afraid
+(Is he suggesting we should have an affair after I marry Thaddeus?)
+(¿Me está sugiriendo una "aventura" después de casarme con Thaddeus?)
+#else:
+#Speaker: elodie_yielding
+(He must be upset about me marrying Thaddeus instead of him, but I can't tell what he's getting at.)
+(Parece estar molesto por mi decisión de casarme con Thaddeus, pero no llego a comprender a donde quiere ir a parar.)
+# choice:
+Give the letter to Arisse
+Darle la carta a Arisse
+#Speaker: elodie_yielding
+(I don't want to deal with this.)
+(No quiero ocuparme de esto.)
+#choice:
+Pay him off
+Pagarle
+#Speaker: elodie_neutral
+(An expensive gift and an apology should settle the matter.)
+(Un regalo caro y una disculpa deberían bastar.)
+#Narration if not enough money
+Unfortunately, the treasury is a bit bare at the moment.  He may not be impressed with your offering.
+Por desgracia, el dinero escasea últimamente. Quizás no le impresione tu obsequio.
+#choice:
+Reply angrily
+Responder con rabia
+#Speaker: elodie_angry
+(How dare he?)
+(¿Cómo se atreve?)
+#Narration
+You dash off an insulting response.
+Garabateas una respuesta insultante.
+# choice:
+Reply politely
+Responder educadamente
+#Speaker: elodie_willful, if you think he's flirting
+(Well, that could be fun.)
+(Bueno, puede ser divertido.)
+#Narration
+You write him a letter to encourage this line of thought.
+Le escribes una carta animándolo a seguir adelante.
+#Speaker: elodie_depressed
+(I suppose he has a reason to be upset.)
+(Supongo que tiene motivos para estar molesto.)
+#Narration
+You draft a polite apology.
+Redactas una disculpa educada.
+#choice:
+Do not reply
+No responder
+#Speaker: elodie_angry
+(I don't owe him anything.)
+(No le debo nada.)
+#Narration
+The other letter is less straightforward.
+La otra carta es más enigmática.
+#Speaker: elodie_afraid
+(What is this?  It isn't signed...)
+(¿Qué es esto? No está firmada...)
+#Narration
+The note is quite simple: "No one respects an oath-breaker."
+La nota es bastante simple: "Nadie respeta un quien incumple un juramento."
+#Speaker: elodie_afraid
+(Is this a threat?)
+(¿Es una amenaza?)
+#Speaker: alice_smile: My lady, there are letters for you.
+#Speaker: elodie_normal
+(This one's from Briony. She wants to know if I've ever heard any rumors about pirate treasure.)
+(This one's from Briony. Quiere saber si alguna vez he oído algún rumor sobre un tesoro pirata.)
+#Narration
+War rages for control of Nova.
+Se libra una guerra por el control de Nova.
+#Narration
+As defending Queen, you are required to take personal control of your forces.
+Como reina, estás obligada a dirigir personalmente a tu ejército.
+#Narration
+However, your inexperience with strategy proves more of a hindrance than a help.
+Sin embargo, por tu falta de experiencia como estratega, resultas ser más un estorbo que una ayuda.
+#Narration
+Your control of magic enhances your claim to divine right of rulership.
+Tu control de la magia aumenta tu pretensión al divino derecho de gobernar.
+#Narration
+Your Lumen powers cause chaos among your enemies with explosive displays and waves of terror.  You lack the strength to take on a whole army by yourself, of course, but they don't need to know that.
+Tus poderes mágicos siembran el caos entre tus enemigos con llamativas explosiones y oleadas de terror. Todavía no estás lista para asumir el control total de un ejército, por supuesto, pero no tienen por qué saberlo.
+#Narration
+Opposing forces flee in panic when faced with rays of burning light.
+Las tropas enemigas huyen presas del pánico cuando se topan con los abrasadores rayos de luz.
+#Narration
+Your Lumen powers also disconcert the opposition, weakening their will to resist.
+Tus poderes de Lumen también desconciertan a tu oponente, debilitando su voluntad de resistir.
+#Narration
+It's hard sometimes to keep from running away and hiding.
+Aveces, es difícil resistirse a salir corriendo y esconderse.
+#Narration
+Battles are won and lost, fallen soldiers decorating the landscape.  The final outcome...
+Las batallas se ganan y se pierden, y los soldados caídos decoran el paisaje. El desenlace...
+#Narration
+... is unfortunately not in your favor.
+... por desgracia es desfavorable.
+#Narration
+Your forces are overrun, and the castle falls into Arisse's control.
+Las tropas de Arisse toman el control del castillo.
+#Narration
+You are taken prisoner and locked into the deepest royal dungeon under heavy guard. You are still alive, for now, but no longer the ruler.
+Eres apresada y encerrada en la mazmorra más profunda bajo fuerte vigilancia. De momento sigues viva, pero ya no reinas sobre nada.
+#Narration
+... is a victory for your side.
+... es una victoria de tus tropas.
+#Narration
+Your forces sweep through the rebellious duchies and are met with cheers by the local population.  Arisse, the ringleader, is executed, and the other rebels forced to pay tribute to keep their holdings.
+Tus huestes barren a los Ducados rebeldes y son recibidas con aplausos de los lugareños. La cabecilla, Arisse, es ejecutada, y a los demás rebeldes se les obliga a pagar un tributo para mantener sus posesiones.
+#Narration
+Of course, there is also a cost paid in lives.
+Por supuesto, también se paga un precio en vidas.
+#Narration
+Your keen sense of military strategy enabled you to resolve the affair with much less loss of life than might have been expected.
+Tu ingenio de estratega te permitió resolver el conflicto con el menor número de bajas posibles.
+#Narration
+Your understanding of military strategy helped limit the losses received by your side.
+Tu ingenio de estratega te ayudó a limitar las bajas en tu bando.
+#Narration
+Led by your example, your soldiers killed many wounded enemies who might otherwise have been saved.
+Guiados por tu ejemplo, tus soldados acabaron con muchos enemigos heridos que tal vez podrían haberse salvado.
+#Narration
+Your medical training helped you to preserve the lives of some of your wounded soldiers, and their captive foes as well.
+Tu formación médica te ayudó a salvar la vida de algunos de tus soldados malheridos, y de algunos enemigos capturados.
+#Narration
+Your medical training helped you to preserve the lives of some of your wounded soldiers.
+Tu formación médica te ayudó a salvar la vida de algunos de tus soldados malheridos.
+#Narration
+The fledgling hospital you helped to construct was critical in saving the lives of many wounded soldiers.
+El hospital que ayudaste a construir fue fundamental para salvar las vidas de muchos soldados heridos.
+#Narration
+Total casualties were %(loyalist_loss_soldiers_fluff)s on your side and %(rebel_loss_soldiers_fluff)s among the rebels.
+El número total de bajas fue %(loyalist_loss_soldiers_fluff)s en tu bando y %(rebel_loss_soldiers_fluff)s en el contrario.
+#Narration
+Your stronger position and strategy made you able to win despite your losses.
+A pesar de las pérdidas, fuiste capaz de ganar gracias a tu posición ventajosa y a tus estrategias.
+#Narration
+Of course, there are no more rebel soldiers now - they are once more your loyal subjects.
+Ya no quedan soldados rebeldes - ahora vuelven a ser tus leales súbditos.
+#Narration
+As you are walking through the great hall, a freak gust of wind suddenly blows out all the candles in the room.
+Mientras estás saliendo del gran salón, una repentina ráfaga de viento apaga todas las velas en la habitación.
+#Speaker: elodie_afraid
+(An omen of war and danger...)
+(Un presagio de peligro y guerra...)
+#Speaker: elodie_afraid
+(But I avoided the civil war!  Didn't I?)
+(¡Pero he evitado la guerra civil! ¿No?)
+#Speaker: elodie_afraid
+(Will they attack me again?  Should I send more soldiers to watch the east just in case?)
+(¿Me atacarían otra vez? ¿Debería enviar más soldados al este por si acaso?)
+#choice:
+Dispatch soldiers
+Enviar soldados
+#Speaker: elodie_angry
+(Better safe than sorry.)
+(Más vale prevenir que curar.)
+#Narration
+Once that's dealt with, you feel much better.
+Después de tomar una decisión, te sientes mucho mejor.
+#choice:
+#Speaker: elodie_neutral
+(Not every omen is meaningful.  Maybe this one came too late.)
+(No todas las predicciones son útiles. Tal ésta llegue tarde.)
+#Speaker: elodie_afraid
+(Are the nobles still plotting against me? Was getting Arisse's help not enough?)
+(¿Acaso siguen los nobles conspirando contra mí? ¿Y la ayuda de Arisse? ¿No fue suficiente?)
+#Narration
+The wind cannot answer. All you can do is try to be prepared.
+El viento no puede responder. Lo único que puedes hacer es intentar estar preparada.
+#Speaker: elodie_angry
+(It must be Shanjia.  They're going to attack.)
+(Tiene que ser Shanjia. Van a atacarnos.)
+#Narration
+There's no sign of where the danger might be coming from, so there's nothing you can do about it.  Perhaps it's nothing.
+No sabes de donde puede llegar el peligro, por lo que no puedes hacer nada. Tal vez no sea nada.
+#Speaker: elodie_neutral
+(How strange. There must be an open window somewhere.)
+(Qué extraño. Debe de haber alguna ventana abierta.)
+#Narration
+You receive a letter from Briony hinting at some of the complicated family drama that has been going on.
+Recibes una carta de Briony que hace alusión a algunos de los complicados dramas familiares por los que está pasando.
+#Speaker: elodie_depressed
+(Her parents are getting divorced now that her father has a duchy of his own.)
+(Sus padres se están divorciando ahora que su padre tiene un Ducado propio.)
+#Speaker: elodie_depressed
+(Her father keeps alternating between wanting a divorce and being afraid of losing his home.)
+(Su padre teme perder su casa, por lo que sigue indeciso con el divorcio.)
+#Narration
+There's an extra section at the end of the letter written in code.
+Hay un último párrafo al final de la carta escrito en código.
+#Speaker: elodie_afraid
+(Her uncle and his stepfather?  Her uncle and her {i}mother?{/i})
+(Su tío y su padrastro? Su tío y su {i}madre {/i}?)
+#Speaker: elodie_yielding
+(No wonder she was trying to hide it.)
+(No es de extrañar que intentara ocultarlo.)
+#Narration
+Unfortunately, you can't figure out what that part says.
+Por desgracia, no eres capaz de averiguar lo que pone.
+#Speaker: elodie_neutral
+(Well, I hope she'll be happier now.)
+(Bueno, espero ahora sea más feliz.)
+#Narration
+The Duchess of Lillah and her retinue arrive at the castle to take their new places as your ministers and advisors.
+La Duquesa de Lillah y su séquito llegan al castillo para asumir sus nuevos cargos como ministra y asesores.
+#Narration
+Somewhat to your surprise, Arisse has {i}not{/i} brought your new fiancé with her.
+Para tu asombro, Arisse {i}no{/i} ha venido con tu prometido.
+#Speaker: arisse
+My intent is for you to wed my youngest son, Thaddeus, as he is the closest to your age.
+Mi intención es que te cases con mi hijo menor, Thaddeus, ya que es el que más se acerca a tu edad.
+#Speaker: arisse
+ However, he is a fragile boy and unwell at the moment.
+Sin embargo, es un chico frágil se encuentra algo indispuesto en estos momentos.
+#Narration
+You remember Thaddeus vaguely from school, and 'fragile' is not a word you would have used to describe him.  Angry, unpredictably violent, often in trouble, and a terrible scholar... but not 'fragile'.  And {i}he's{/i} going to be your husband?
+Recuerdas vagamente a Thaddeus de la escuela, y "frágil" no es la palabra que hubieras utilizado para describirlo. Violento, impredecible, conflictivo, y muy mal estudiante... pero no "frágil". ¿Y {i}él{/i} va a ser tu marido?
+#Speaker: elodie_neutral
+I do hope Thaddeus is not feeling too unwell. Is there anything I could provide to assist him?  Herbs, perhaps?
+Espero que Thaddeus no se encuentre muy mal. ¿Hay algo que pueda proporcionar para ayudarlo? ¿Hierbas, tal vez?
+#Speaker: arisse
+I fear not. Have patience and this will pass, as clouds always do.
+Me temo que no. Ten paciencia y se le pasará, igual que las nubes de tormenta.
+#Speaker: elodie_depressed
+Is he often... clouded?
+¿Enferma... muy amenudo?
+#Speaker: arisse
+My son is a good boy. Too good.
+Mi hijo es un buen chico. Demasiado bueno.
+#Speaker: arisse
+When he was young, he saw something he shouldn't have, something no child should...
+Cuando era joven, vio algo que no debería haber visto, algo que ningún niño debería ver...
+#Speaker: elodie_afraid
+#Speaker: arisse
+I will not speak of it, and neither should you. Do not ask me. Do not ask him.
+No voy a habla de ello, y tú tampoco deberías. No me preguntes. No le preguntes.
+#Speaker: arisse
+If he chooses someday to tell you his story, then perhaps that will help him, but it must be his choice.
+Si decide contarte algún día su historia, quizás le ayude, pero debe ser su decisión.
+#Speaker: arisse
+I want this marriage to be good for him.
+Quiero que este matrimonio sea bueno para él.
+#Speaker: elodie_afraid
+(But what about good for {i}me?{/i})
+(¿Y que pasa {i}conmigo{/i}?)
+#Speaker: elodie_angry
+What's wrong with him?
+¿Qué le ocurre?
+#Speaker: arisse
+Young lady, I suggest you turn your attention to your lessons. Particularly those in {i}manners.{/i}
+Jovencita, te sugiero que dediques tu atención a tus lecciones. En particular a las de {i}modales{/i}.
+#Narration
+Too late to change your mind now...
+Ya es tarde para cambiar de opinión...
+#Narration
+You find Adair digging a hole under a bush in the garden.
+Encuentras a Adair cavando un agujero bajo un arbusto en el jardín.
+#Speaker: adair
+Uh, hi, Elodie?
+¿Uh, hola, Elodie?
+#Speaker: elodie_neutral
+What are you doing?
+¿Qué estás haciendo?
+#Speaker: adair
+Nothing...
+Nada...
+#Speaker: adair
+You've been busy a lot, lately.
+Has estado muy ocupada, últimamente.
+#Narration
+It suddenly occurs to you that no one has told Adair what's been going on.  You went to war with his family.  You had his stepmother executed.  And he has no idea.
+De repente te das cuenta de que nadie le ha dicho a Adair lo que ha pasado. Fuiste a la guerra contra su familia. Hiciste que ejecutaran a su madrastra. Y él no tiene ni idea.
+#menu:
+#choice:
+Lie and distract him
+Mentir y distraerlo
+#Speaker: elodie_cheerful
+Yes, I've been working really hard!
+¡Sí, he estado trabajando muy duro!
+#Speaker: elodie_depressed
+So... let's go look at some plants.
+Así que... veamos alguna de esas plantas.
+#choice:
+Break the news gently
+Darle la noticia suavemente
+#Narration
+As best as you can, you explain the conflict and how Arisse's death was necessary to preserve the peace in Nova.  It's hard to tell how much he understands, because he goes completely quiet and doesn't speak to you for the rest of the day.
+Le explicas el conflicto y cómo fue necesaria la muerte de Arisse para preservar la paz en Nova lo mejor que puedes. Es difícil saber hasta que punto es consciente de lo que le has contado, porque enmudece y deja de hablarte durante el resto del día.
+#choice:
+Brag about it
+Alardear de ello
+#Speaker: elodie_willful
+You don't have to worry about being taken back to Lillah anymore.  Arisse was a traitor to the realm.  She attacked me, so I had to put her down.
+Ya no tendrás que preocuparte por volver a Lillah nunca más. Arisse era una traidora. Me atacó, así que tuve que acabar con ella.
+#Speaker: elodie_cheerful
+So you can stay here forever!
+¡Asi que... puedes quedarte aquí para siempre!
+#Narration
+He stares at you in shock.
+Él te mira fijamente conmocionado.
+#Speaker: elodie_yielding (Internal Affairs success)
+She was probably going to kill you, anyway.  She killed her family before.
+Probablemente iba a matarte, de todos modos. Ya lo había hecho antes.
+#Speaker: elodie_angry (Internal Affairs fail)
+You could say 'thank you.'
+Podrías decir 'gracias'.
+#Speaker: adair: ...
+#Narration
+For some reason he doesn't seem impressed.
+Por alguna razón, no parece impresionado.
+#Speaker: elodie_depressed
+Things have been so unsettled lately...  Everyone's on edge.  We need something cheerful.
+Las cosas han estado tan inestables últimamente... Todos están alterados. Necesitamos algo alegre.
+#Speaker: joslyn
+You could hold a tournament.
+Podrías celebrar un torneo.
+#Speaker: elodie_cheerful
+What a good idea!
+¡Qué buena idea!
+#Speaker: elodie_neutral
+Knights, jousting, musicians... all sorts of competitions.  Everyone loves a contest.
+Caballeros, justas, músicos... todo tipo de competiciones. A todo el mundo le gusta una buena contienda.
+#Speaker: joslyn
+What will you offer as prizes to the winners?
+¿Qué vas a ofrecer como premio a los ganadores?
+#Speaker: elodie_yielding
+(Well, it can't be gold.  I don't have enough left.)
+(Bueno, no puedo darles oro. No tenemos suficiente.)
+#choice:
+Status and praise
+Prestigio y elogios
+#Speaker: elodie_willful
+Being declared to be the {i}best{/i} in front of the entire domain should be prize enough for anyone!
+¡Ser proclamado el {i}mejor{/i} frente a todo el reino debería bastar a cualquiera como premio!
+#choice:
+Employment
+Trabajo
+#Speaker: elodie_willful
+The winners will have the option of taking up royal appointments.
+Los ganadores tendrán la oportunidad de trabajar para la corona.
+#Speaker: elodie_cheerful
+It's a recruitment drive!
+¡Es una campaña de reclutamiento!
+#choice:
+Gold
+Oro
+#Speaker: elodie_neutral
+A purse of gold for the champions!
+¡Una bolsa de oro para los campeones!
+#Speaker: joslyn
+Very well. I will draft the announcements.
+Muy bien. Voy a redactar los anuncios.
+#Narration
+You leave him to his work.
+Lo dejas trabajando.
+#Narration
+As you move through the hall, your eye falls upon a vase of flowers.  Pretty, but apparently not getting enough water.  The leaves on one blossom have shriveled.
+A medida que avanzas por el vestíbulo, tus ojos recaen sobre un jarrón de flores. Son bonitas, pero están un poco secas. Las hojas de una flor se han marchitado.
+#Speaker: elodie_afraid
+(A leaf killed by a secret weakness...  A hidden threat.)
+(Una hoja asesinada por una debilidad secreta... Una amenaza oculta.)
+#Speaker: elodie_angry
+(That spoils the whole display!)
+(¡Esas hojas estropean toda la belleza!)
+#Narration
+You pick off the dead leaves and adjust the floral arrangement, muttering under your breath about blind butlers.
+Recoges las hojas secas y acomodas el arreglo floral, murmurando en voz baja sobre los ineptos mayordomos.
+#Speaker: elodie_cheerful
+(There!  That's so much better.)
+(¡Eso es! Mucho mejor.)
+#Speaker: elodie_angry
+(Someone on hall duty is being lazy.  Those flowers should be replaced.)
+(El encargado de mantener esto se está descuidando. Esas flores deberían ser reemplazadas.)
+#Narration
+You continue up the stairs to your room, where a maid is waiting for you.
+Continúas subiendo las escaleras hacia tu habitación, donde te espera una criada.
+#Speaker: alice_smile
+My lady, a gift has arrived from Kigal.
+Mi señora, ha llegado un desde Kigal.
+#Speaker: elodie_neutral
+From the Duke?
+¿Es del Duque?
+#Speaker: alice_smile
+No, my lady. A merchant house, I believe. It was sent with a shipment down the Cavalla River.
+No, mi señora. De una casa de comerciantes, creo. Fue enviado en un cargamento por el río Cavalla.
+#Narration
+You tear open the brightly colored paper, to find:
+Desgarras el papel de brillantes colores, para encontrar:
+#Speaker: elodie_cheerful
+Chocolates!
+¡Chocolates!
 # For the visible keyboard.
 space
 space
