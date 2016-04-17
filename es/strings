@@ -8675,6 +8675,305 @@ Desgarras el papel de brillantes colores, para encontrar:
 #Speaker: elodie_cheerful
 Chocolates!
 ¡Chocolates!
+#Speaker: elodie_neutral
+(Chocolate producers in Kigal usually ship goods down the Napo River through Ursul, not straight to the capital.)
+(Los productores de chocolate de Kigal normalmente envían sus mercancías por el río Napo a través de Ursul, no directamente a la capital.)
+#Speaker: elodie_neutral
+(This merchant house probably specialises in something else and only traded for the chocolate.)
+(Estos comerciantes probablemente sean especialistas en otros productos y el chocolate sea algo puntual.)
+#Narration
+There is a little card with the box - 'With Our Compliments, The House of Kraellat'.
+Hay una pequeña nota acompañando a la caja - 'Cortesía de, La casa de Kraellat'.
+#Speaker: elodie_angry
+(That's oddly high-handed for some tiny trader I've never heard of.)
+(Eso un poco arrogante para tratarse de un pequeño comerciante del que nunca había oído hablar.)
+#Narration
+All of a sudden, your puppy, who is usually so well behaved, growls at the box of chocolates and lunges at it.
+De repente, tu cachorro, que por lo general se porta bastante bien, se abalanza sobre los bombones y comienza a gruñir.
+#Speaker: elodie_angry
+Bad dog!  Chocolate isn't good for you!
+¡Perro malo! ¡El chocolate no es bueno para ti!
+#Speaker: elodie_neutral
+Silly thing, making such a fuss.
+Estúpido, menudo alboroto has montado.
+# Speaker: elodie_angry
+(There's something suspicious about this.)
+(Aquí hay algo que no encaja).
+# Narration
+Much as you love chocolate, it would be undignified to seem too eager.
+Por mucho que te encante el chocolate, sería poco correcto parecer demasiado ansiosa.
+#choice:
+Eat candy now
+Comerse el chocolate
+#choice:
+Save it for later
+Guardarlo para más tarde
+#choice:
+Test for poison
+Examinarlo por si tiene veneno
+#Narration
+You pop one of the chocolates into your mouth.
+Te metes uno de los bombones en la boca.
+#Speaker: elodie_cheerful
+Mmm.  Delicious!
+Mmm. ¡Delicioso!
+#Narration
+#Narration
+Suddenly you feel very cold.  The world seems darker; colors less bright.
+De repente te invade una sensación de frío. El mundo se oscurece; los colores se apagan.
+#Narration
+Luckily you recognise the symptoms of poisoning immediately and are able to reverse the effects.
+Por suerte reconoces los síntomas del envenenamiento de inmediato y eres capaz de revertir los efectos.
+#Narration
+Subsequent investigation shows that no 'House of Kraellat' exists in Kigal.  Someone has tried to kill you... but you don't know who.
+Una investigación posterior demuestra que en Kigal no existe ninguna "Casade Kraellat. Alguien ha intentado matarte... pero no sabes quién.
+#Speaker: elodie_afraid
+I think these chocolates are poisoned...  Get me some charcoal!
+Creo que estos bombones están envenenados... ¡Tráeme carbón!
+#Narration
+But try as she might, your maid is not able to save you.
+A pesar de sus esfuerzos, tu doncella no es capaz de salvarte.
+#Narration
+You worry that perhaps you shouldn't have eaten so much candy, and try to ignore the feeling of illness.
+Te preocupa haber ingerido demasiado azúcar, y tratas de ignorar el malestar.
+#Narration
+Unfortunately, it was more than just an upset tummy.  By the time you realise you have been poisoned, it is too late.
+Por desgracia, era algo más una molestia digestiva. Para cuando te das cuenta de que te han envenenado, ya es demasiado tarde.
+#Speaker: elodie_yielding
+I don't feel like candy right now.  Maybe later.
+No me apetecen dulces ahora. Quizás mas tarde.
+# Testing for poison...
+The gift doesn't appear to be enchanted, at least.
+Por lo menos, el regalo no parece estar encantado.
+You know enough about poisons to conduct some simple experiments. Sadly, your suspicions prove correct. Someone has tried to kill you.
+Sabes lo suficiente sobre venenos como para realizar algunos experimentos sencillos. Por desgracia, tus sospechas se confirman. Alguien ha intentado matarte.
+You send for the guards and begin asking a lot of pointed questions about these chocolates and how they got to your room without a food taster.
+Llamas a tus guardias y comienzas a preguntar sobre los bombones y sobre cómo han llegado a tu habitación sin un análisis previo.
+#Narration
+You send the chocolates to Arisse to investigate. She should know what to do.
+Envías el chocolate a Arisse para que lo investigue. Ella debería saber qué hacer.
+The easiest way to test the chocolates would be to feed them to Alice, but she might be inconvenient to replace.
+La forma más fácil de probar el chocolate es hacerle comer a Alice, pero quizás sea difícil reemplazarla.
+There's always the livestock, but chocolate is deadly to most animals even if it hasn't been poisoned.
+Siempre puedo recurrir al ganado, pero el chocolate es mortal para la mayoría de los animales, incluso si no ha sido envenenado.
+You manage to cram a piece of candy into a chicken, which then drops dead, but you're not entirely sure it wasn't going to do that anyway.
+Logras meterle un pedazo de chocolate a un pollo, que luego cae muerto, pero no estás segura de que no fuese a hacerlo de todas formas.
+You give the box over to the royal guards and order them to find someone unimportant to test it on.
+Le entregas la caja a tu guardia real y les ordenas probar el chocolate con algún don nadie.
+You can't think of any safe way to test the chocolate, and you don't want to leave it lying around where it might present a danger to others.
+No se te ocurre ninguna forma segura de probar el chocolate, y no quieres dejarlo por ahí tirado donde pueda representar un peligro para los demás.
+Eventually you mash the candies together into an unappetising paste and bury the box in the palace garden.
+Al final escachas el chocolate en una repugnante bola y entierras la caja en el jardín del palacio.
+# Speaker: elodie_yielding
+(It's a waste, if they weren't really poisoned... My candy...)
+(Valla desperdicio, si no hubiera estado envenenado... Mi chocolate...)
+#Narration
+This is the week of the general tournament.  Nobles and commoners alike have turned out to compete against each other.
+Ésta es la semana del torneo. Nobles y plebeyos por igual han acudido para competir entre sí.
+#Speaker: joslyn
+The people will be pleased if you participate in their games. However, it would expose you to danger.
+A la gente le encantaría que participases en sus juegos. Sin embargo, sería exponerse al peligro.
+#Speaker: arisse
+# Trailing space in <=1.3.17.  Not needed for >=1.3.18.
+The people will not be pleased if their promised Queen makes a poor showing of herself. Do only what you can do well. 
+A la gente no le va a gustar que su futura reina haga el ridículo. Haz sólo lo que puedas dominar.
+The people will not be pleased if their promised Queen makes a poor showing of herself. Do only what you can do well.
+A la gente no le va a gustar que su futura reina haga el ridículo. Haz sólo lo que puedas dominar.
+#Narration
+What event do you wish to take part in?
+¿En qué evento te gustaría participar?
+#choice:
+Mounted Parade
+Desfile a caballo
+#Narration
+You choose to lead the parade mounted on a brilliant white horse.
+Eliges liderar el desfile montada en un caballo blanco.
+#Narration
+You do, of course, know how to ride, and it is not difficult to follow a well-marked procession.
+Sabes montar, desde luego, y no te resulta difícil seguir el paso de la procesión.
+#Narration
+You don't actually know how to ride, but the horse is well-trained, so all you need to do is sit up straight, look regal, and don't fall off.
+La verdad es que no sabes montar, pero el caballo está bien entrenado, por lo que todo lo que tienes que hacer es sentarte erguida, y no caerte.
+#Narration
+However, the effect of your appearance is spoiled somewhat by the way that you're clinging to the horse's neck.  Perhaps it might have been wise to take some riding lessons first.
+Sin embargo, el efecto de tu aparición se echa a perder un poco por la forma en la que te aferras al cuello del caballo. Probablemente habría sido buena idea haber tomado clases de equitación.
+#choice:
+Jousting
+Justas
+#Narration
+You make your way to the lists, where you are assigned a horse and a carefully-padded lance.
+Te abres paso hasta el torneo, donde se te asigna un caballo y una lanza cuidadosamente acolchada.
+#Narration
+Unfortunately, when it comes your turn to compete, you promptly fall off your steed.  Oh well.
+Por desgracia, te caes oportunamente del corcel cuando te llega el turno. Oh valla.
+#Narration
+You mount successfully, but you struggle to control the heavy lance and are quickly unhorsed.
+Te montas con éxito, pero sufres dificultades para controlar la pesada lanza y acabas en el suelo rápidamente.
+#Narration
+You are soon defeated by an older, larger opponent, but you acquit yourself admirably.
+No tardas en ser derrotada por un oponente más grande y más viejo, pero admirablemente tu actuación no es mala.
+#Narration
+To your surprise - and the thunderous applause of the crowd - you manage to defeat your first challenger.  After that, you are defeated by an older, larger opponent, but there's no shame in that.
+Para tu sorpresa - y el atronador aplauso de la multitud - logras derrotar a tu primer oponente. Más tarde, eres derrotada por un oponente más grande y más viejo, pero no tienes por qué avergonzarte.
+#choice:
+Fencing
+Esgrima
+#Narration
+Here the devotees of the blade can challenge each other to duels fought only for points, not blood and honor.
+Aquí los amantes de la espada pueden retarse a duelos sólo por los puntos, no por sangre ni por honor.
+#Narration
+You win your first match to uproarious applause, but are soon overpowered by more experienced competitors.  Still, you did very well for your first tournament!
+Ganas tu primer combate entre un estruendoso aplauso, pero pronto eres dominada por competidores más experimentados. Aún así, para tratarse tu primer torneo, ¡lo has hecho muy bien!
+#Narration
+It is immediately obvious that your opponent is more skilled than you are, but she draws out the match longer than necessary before driving you out of the ring.  Perhaps she was afraid of hurting you.  At least you aren't too embarrassed.
+Es obvio que tu oponente es más hábil que tu, pero aún así el duelo dura bastante. Tal vez tenía miedo de hacerte daño. Por lo menos no te ha avergonzado demasiado.
+#Narration
+Unfortunately, your match is a disaster.  You're far too slow - a strike that your opponent clearly intended you to block flies right past your guard and draws a red line along your skin.  If you weren't royalty, you would be booed.
+Por desgracia, tu actuación es un desastre. Eres demasiado lenta - tu oponente realiza un movimiento que claramente pretende que bloquees, pero te pilla desprevenida y te dibuja una dolorosa línea roja en la piel. Si no fueras de la realeza, te habrían abucheado. 
+#choice:
+Archery
+Tiro con arco
+#Narration
+You make your way to the archery field.
+Te abres paso hasta el campo de tiro.
+#Narration
+Round after round your arrows fly smoothly towards their target.
+Una tras otra tus flechas vuelan suavemente hacia su objetivo.
+#Narration
+You don't win in the end, but you were ranked within the top ten, which is highly respectable.
+Al final no ganas, pero te clasificas entre los diez primeros, lo cual es muy respetable.
+#Narration
+You know how to aim and loose, but so do an enormous number of people in your domain.  You are swiftly eliminated from competition, but with no reason to be embarrassed about it.
+No sabes como apuntar ni como disparar, y la mayoría de tus oponentes tampoco. Te eliminan rápidamente de la competición, pero no hay razón alguna para estar avergonzada.
+#Narration
+Neither of your shots comes anywhere near the target, and you are swiftly eliminated.  The only comfort is that with so many shooting at once, few can tell how badly you did.
+Ninguno de tus disparos se acerca remotamente al objetivo, por lo que te eliminan con rapidez. Tu único consuelo es que pocos han reparado en tu estropicio con tantas personas disparando a la vez.
+#choice:
+Music
+Música
+#Narration
+You take your place in line for the bardic contest.
+Te posicionas en la fila para el concurso de músicos.
+#Narration
+When your turn comes, you take your seat at a beautiful wooden harp and let the notes fall like rain.
+Cuando te llega el turno, tomas asiento junto a una hermosa arpa de madera y dejas que las notas fluyan.
+#Narration
+Your voice weaves a spell of love and loss over the crowd.
+Tu voz teje un hechizo de amor y pérdida sobre la multitud.
+#Narration
+After such a performance, the judges cannot help but name you the champion.
+Después de tal actuación, los jueces no pueden evitar nombrar la ganadora.
+#Narration
+You attempt to sing while you play, but it is difficult to control your breathing while focusing on the notes.  The end result really isn't your best performance.
+Intentas cantar mientras tocas, pero te es difícil controlar la respiración mientras te centras en las notas. El resultado final no hace justicia a tus aptitudes musicales.
+#Narration
+At first it looks as if the judges may be tempted to award you anyway, but there are a few murmurs about the consequences of \"giving\" the contest to the crown, so the recognition goes to others.
+Al principio parece que los jueces van a concederte el premio de todas formas, pero se escuchan murmullos en contra de "regalar" el concurso a la corona, por lo que la victoria se la lleva otro.
+#Narration
+You aren't trained in any instrument that's appropriate for a setting like this, so you have to sing {i}a capella.{/i}
+No has practicado con ningún instrumento apropiado para la ocasión, por lo que no te queda otra que cantar {i}a capela{/i}.
+#Narration
+Your performance is well-received, but you are overshadowed by those whose talents are more in line with the expected style.
+Tu actuación es bien recibida, pero aquellos cuyo talento está más en línea con el estilo esperado te hacen sombra.
+#Narration
+You don't embarrass yourself, but your song won't be remembered as a highlight of the day, either.
+No has hecho el ridículo, pero tu canción no destacará entre los acontecimientos del día.
+#Narration
+You tighten your belly and force yourself to sing hard and loud rather than give into fear.  Unfortunately, that doesn't actually equate with singing {i}well.{/i}  You might have been better off stopping.
+Aprietas el abdomen y te obligas a cantar con fuerza y en voz alta para mitigar los nervios. Por desgracia, cantar más alto no equivale a cantar {i}bien{/i}. Habría sido mejor parar.
+#Narration
+Faced with such an audience, your voice fades away to nothing.  Not a promising result.
+Frente a semejante público, tu voz se desvanece en el aire. No es un resultado prometedor.
+#choice:
+Falconry
+Cetrería
+#Narration
+#<=1.2.27
+Only nobles take part in the falconry competition, of course.  The only commoner who fly such birds do so under  a noble's aegis.
+Sólo los nobles toman parte en la competición de cetrería, por supuesto. El único plebeyo que vuela dichas aves lo hace bajo la tutela de un noble.
+# >= 1.2.27.1
+Only nobles take part in the falconry competition, of course.  The only commoners who fly such birds do so under a noble's aegis.
+Sólo los nobles toman parte en la competición de cetrería, por supuesto. Los únicos plebeyos que vuelan dichas aves lo hacen bajo la tutela de un noble.
+#Narration
+One such is your own master of the mews, who catches you trying to sneak down to the competition and gives you an earful about what damage can be done by exhibiting a half-trained bird.
+One such is your own master of the mews, who catches you trying to sneak down to the competition and gives you an earful about what damage can be done by exhibiting a half-trained bird.
+#Narration
+Looks like you won't be taking part in this after all.
+Looks like you won't be taking part in this after all.
+#Narration
+You are far too new to the sport to be in contention for a prize, but it is a pleasant learning experience, and your fellow competitors are pleased by your interest and enthusiasm.
+You are far too new to the sport to be in contention for a prize, but it is a pleasant learning experience, and your fellow competitors are pleased by your interest and enthusiasm.
+#choice:
+None
+Nada
+#Speaker: elodie_lonely
+I guess I'll just watch from my tower.
+I guess I'll just watch from my tower.
+#Narration
+The tournament goes on without you.
+The tournament goes on without you.
+#Narration
+All the winners are announced and displayed to great cheers.  As near-Queen, you place flower garlands around their necks.
+All the winners are announced and displayed to great cheers.  As near-Queen, you place flower garlands around their necks.
+#Narration
+All of a sudden, a man approaches the winner's platform.
+All of a sudden, a man approaches the winner's platform.
+#Narration
+It's Kevan, the Earl of Io.
+It's Kevan, the Earl of Io.
+#Narration
+In one hand, he carries an armored gauntlet.  In the other, a sword.
+In one hand, he carries an armored gauntlet.  In the other, a sword.
+#Speaker: kevan
+My family's blood is on your hands!
+My family's blood is on your hands!
+#Speaker: elodie_depressed
+(Arisse, the ringleader of the rebellion... She was his mother.)
+(Arisse, the ringleader of the rebellion... She was his mother.)
+# Speaker: elodie_scared
+(Does he know that I had his mother Arisse assassinated?)
+(Does he know that I had his mother Arisse assassinated?)
+#Speaker: elodie_angry
+(He's as crazy as his niece was. Briony's death was her own fault.)
+(He's as crazy as his niece was. Briony's death was her own fault.)
+#Speaker: elodie_afraid
+(Briony, his niece... Is she dead?)
+(Briony, his niece... Is she dead?)
+#Speaker: elodie_afraid
+(What is he talking about?)
+(What is he talking about?)
+#Narration
+He casts the metal glove to the ground with a clatter and raises his sword, pointing it at you.
+He casts the metal glove to the ground with a clatter and raises his sword, pointing it at you.
+#Speaker: kevan
+I challenge you, Elodie! A life for a life!
+I challenge you, Elodie! A life for a life!
+#Narration
+He's challenging you to a duel?
+He's challenging you to a duel?
+#Narration
+Doesn't he know you could burn him to a crisp just by waving your hand?
+Doesn't he know you could burn him to a crisp just by waving your hand?
+#choices:
+Accept
+Accept
+Kill him with magic
+Kill him with magic
+#Speaker: elodie_angry
+Very well.  I will meet your challenge.
+Very well.  I will meet your challenge.
+#Narration
+As the challenged party, you have the choice of weapons.
+As the challenged party, you have the choice of weapons.
+#choice:
+Swords
+Swords
+#choice:
+Staves
+Staves
+#Speaker: elodie_angry
+Bring me my sword.
+Bring me my sword.
 # For the visible keyboard.
 space
 space
