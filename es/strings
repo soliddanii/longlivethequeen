@@ -2599,7 +2599,7 @@ Encarcelarla
 #choice:
 #choice:
 Ask the Earl of Io about her story
-Preguntar al conde de Io por su historia
+Preguntar al Conde de Io por su historia
 #choice:
 Tell her that justice was already done
 Decirle que ya se ha hecho justicia
@@ -2720,7 +2720,7 @@ The honor of our line is far greater than that of the wet-bottomed child who sit
 #Speaker: elodie_afraid
 #Narration
 Without warning, the Earl of Io draws a dagger and slices the convict's throat.
-Sin previo aviso, el conde de Io saca una daga y rebana la garganta de la convicta.
+Sin previo aviso, el Conde de Io saca una daga y rebana la garganta de la convicta.
 #Speaker: kevan
 No one harms my family. No one!
 Nadie hace daño a mi familia. ¡Nadie!
@@ -8896,84 +8896,1223 @@ Only nobles take part in the falconry competition, of course.  The only commoner
 Sólo los nobles toman parte en la competición de cetrería, por supuesto. Los únicos plebeyos que vuelan dichas aves lo hacen bajo la tutela de un noble.
 #Narration
 One such is your own master of the mews, who catches you trying to sneak down to the competition and gives you an earful about what damage can be done by exhibiting a half-trained bird.
-One such is your own master of the mews, who catches you trying to sneak down to the competition and gives you an earful about what damage can be done by exhibiting a half-trained bird.
+Uno de los participantes es tu maestro de equitación, que te pilla intentando colarte en la competición y te echa un buen rapapolvo sobre lo peligroso que es intentar exhibir un ave a medio entrenar.
 #Narration
 Looks like you won't be taking part in this after all.
-Looks like you won't be taking part in this after all.
+Parece que finalmente no vas a poder participar.
 #Narration
 You are far too new to the sport to be in contention for a prize, but it is a pleasant learning experience, and your fellow competitors are pleased by your interest and enthusiasm.
-You are far too new to the sport to be in contention for a prize, but it is a pleasant learning experience, and your fellow competitors are pleased by your interest and enthusiasm.
+Tienes muy poca experiencia como para poder pelear por el premio, pero resulta una experiencia educativa agradable, y tus compañeros competidores se muestran agradecidos por tu interés y entusiasmo.
 #choice:
 None
 Nada
 #Speaker: elodie_lonely
 I guess I'll just watch from my tower.
-I guess I'll just watch from my tower.
+Supongo que me limitaré a observar desde mi torre.
 #Narration
 The tournament goes on without you.
-The tournament goes on without you.
+El torneo se celebra sin ti.
 #Narration
 All the winners are announced and displayed to great cheers.  As near-Queen, you place flower garlands around their necks.
-All the winners are announced and displayed to great cheers.  As near-Queen, you place flower garlands around their necks.
+Todos los ganadores son anunciados y recibidos entre aplausos. Como futura reina, les colocas collares de flores alrededor del cuello.
 #Narration
 All of a sudden, a man approaches the winner's platform.
-All of a sudden, a man approaches the winner's platform.
+De repente, un hombre se acerca a la plataforma de los ganadores.
 #Narration
 It's Kevan, the Earl of Io.
-It's Kevan, the Earl of Io.
+Es Kevan, el Conde de Io.
 #Narration
 In one hand, he carries an armored gauntlet.  In the other, a sword.
-In one hand, he carries an armored gauntlet.  In the other, a sword.
+En una mano, lleva un guante blindado. En la otra, una espada.
 #Speaker: kevan
 My family's blood is on your hands!
-My family's blood is on your hands!
+¡La sangre de mi familia está en tus manos!
 #Speaker: elodie_depressed
 (Arisse, the ringleader of the rebellion... She was his mother.)
-(Arisse, the ringleader of the rebellion... She was his mother.)
+(Arisse, la cabecilla de la rebelión... Era su madre.)
 # Speaker: elodie_scared
 (Does he know that I had his mother Arisse assassinated?)
-(Does he know that I had his mother Arisse assassinated?)
+(¿Sabe que hice asesinar a su madre Arisse?)
 #Speaker: elodie_angry
 (He's as crazy as his niece was. Briony's death was her own fault.)
-(He's as crazy as his niece was. Briony's death was her own fault.)
+(Está tan loco como lo estaba su sobrina. La muerte de Briony fue por su propia culpa.)
 #Speaker: elodie_afraid
 (Briony, his niece... Is she dead?)
-(Briony, his niece... Is she dead?)
+(Briony, su sobrina... ¿Está muerta?)
 #Speaker: elodie_afraid
 (What is he talking about?)
-(What is he talking about?)
+(¿De qué está hablando?)
 #Narration
 He casts the metal glove to the ground with a clatter and raises his sword, pointing it at you.
-He casts the metal glove to the ground with a clatter and raises his sword, pointing it at you.
+Con un estruendo, arroja el guante de metal contra el suelo y levanta su espada, apuntándote con ella.
 #Speaker: kevan
 I challenge you, Elodie! A life for a life!
-I challenge you, Elodie! A life for a life!
+¡Te desafío, Elodie! ¡Una vida por una vida!
 #Narration
 He's challenging you to a duel?
-He's challenging you to a duel?
+¿Te está retando a un duelo?
 #Narration
 Doesn't he know you could burn him to a crisp just by waving your hand?
-Doesn't he know you could burn him to a crisp just by waving your hand?
+¿Acaso no sabe que podrías reducirlo a cenizas con un simple gesto de la mano?
 #choices:
 Accept
-Accept
+Aceptar
 Kill him with magic
-Kill him with magic
+Matarlo con magia
 #Speaker: elodie_angry
 Very well.  I will meet your challenge.
-Very well.  I will meet your challenge.
+Muy bien. Acepto tu desafío.
 #Narration
 As the challenged party, you have the choice of weapons.
-As the challenged party, you have the choice of weapons.
+Como parte retada, tienes la opción de elegir las armas.
 #choice:
 Swords
-Swords
+Espadas
 #choice:
 Staves
-Staves
+Báculos
 #Speaker: elodie_angry
 Bring me my sword.
-Bring me my sword.
+Traedme mi espada.
+#Narration
+The crowd seems not to realise at first that this is a blood match and not entertainment.  Or perhaps they do, and their cheering is all the louder for it.
+Al principio, la multitud no parece entender que se trata de un duelo a muerte y no simple entretenimiento. O tal vez lo hacen, y su vítores son aún más fuertes por ello.
+#Narration
+Kevan's rage fills him with great strength, but makes him erratic - and unpredictable.
+La rabia le otorga a Kevan una gran fuerza, pero también lo vuelve errático - e impredecible.
+#Narration
+Worse, he's armored, and he seems willing to settle for nothing less than your death or his.
+Lo que es peor, está armado, y parece dispuesto a conformarse con nada menos que tu muerte o la suya propia.
+#Narration
+You are somewhat tired from your earlier efforts in the tournament, but you have the stamina to keep going for now.
+Aunque estás un poco cansada por el esfuerzo realizado durante el torneo, todavía tienes la resistencia necesaria para seguir adelante.
+#Narration
+Unfortunately, your exertions in the tournament have drained your strength.  You can barely keep your guard up.
+Por desgracia, tus esfuerzos durante el torneo te han dejado sin fuerzas. Apenas puedes mantenerte en guardia.
+#Narration
+Before you can begin to work out some way to safely forfeit, you have fallen...
+Antes de que puedas idear una forma de perder de forma segura, ya has sido derrotada...
+#Narration
+Finally, after much footwork and dodging, you are able to penetrate his defences.  Your sword drives through a weak spot in his armor, slicing through muscle and bone.
+Finalmente, después de mucho moverte y esquivar, eres capaz de penetrar sus defensas. Tu espada se cuela a través de un punto débil en su armadura, cortando a su paso músculos y huesos.
+#Narration
+He lies at your feet, bleeding, helpless - and his final act is to spit upon your feet.
+Cae a tus pies, sangrado, indefenso - y su última acción es escupir a tus pies.
+#Narration
+Even in death, he would not submit.  You had no choice.
+Incluso en la muerte, no se doblegaría. No te queda elección.
+#Narration
+You score minor wounds against him, but his expression never changes.  His speed never falters.
+Consigues herirlo levemente multiples veces, pero su expresión nunca cambia. Su velocidad nunca disminuye.
+#Narration
+And his face, his eyes... they're as red as blood.  He's gone berserk.
+Y su cara, sus ojos... están tan rojos como la sangre. Se ha vuelto loco.
+#Narration
+There's nothing you can do to stop him.  Eventually, you are overpowered.
+No hay nada que puedas hacer para detenerlo. Eventualmente, consigue vencerte.
+#Speaker: elodie_angry
+I choose staves.  I would prefer not to kill you, but I {i}will{/i} defend myself.
+Elijo báculos. Preferiría no tener que matarte, pero {i}voy{/i} a defenderme.
+#Narration
+He snarls at you, and you can almost see foam escaping the curl of his lip, but he allows the attendants to replace his sword with a marginally-less-lethal weapon.
+Emite un gruñido, casi puedes ver la espuma escapando de la curvatura de su labio, pero permite a sus acompañantes reemplazar su espada por un arma un poco menos letal.
+#Narration
+The crowd roars with excitement as you take up positions across from each other.
+La multitud ruge de emoción mientras tomáis posiciones uno frente al otro.
+#Narration
+His first strike nearly knocks you off your feet.  He's larger, heavier, and his rage fills him with great strength.  This may have been a miscalculation.
+Su primer golpe casi consigue derribarte. Es más grande, más pesado, y su rabia le otorga una gran fuerza. Puede que te hayas equivocado.
+#Narration
+It's a struggle to keep going, with your muscles already feeling the strain of your earlier exertions, but your athletics training has kept you in good condition.  For the moment, you can continue.
+Te cuesta seguir adelante, con los músculos ya cansados por los esfuerzos anteriores, pero tu entrenamiento físico te ha mantenido en buenas condiciones. Por el momento eres capaz de continuar.
+#Narration
+#Narration
+Before you can begin to work out some way to safely forfeit, you feel the blinding pain of a hard strike to the head, and you fall...
+Antes de que puedas idear una forma de perder de forma segura, sientes el dolor cegador de un fuerte golpe en la cabeza, y caes derrotada...
+#Narration
+The quarterstaff {i}looks{/i} like a simple weapon to wield, but handling it in a combat situation against someone who is truly trying to kill you is another matter entirely.
+El báculo {i}parace{/i} un arma fácil de usar, pero manejarlo en una situación de combate contra alguien que realmente está intentando matarte es otra historia.
+#Narration
+The last thing you feel is a blinding pain in your head...
+Lo último que sientes es un agudo dolor en la cabeza...
+#Narration
+You exchange blows for a time which seems to go on forever, but is probably only minutes to outside observers.
+Intercambiáis golpes durante un tiempo que parece no tener fin, pero son probablemente sólo unos minutos para los espectadores.
+#Narration
+At last you manage a particularly tricky move to entangle his legs and knock him onto his back.  You jab the end of your staff at his chin, making it clear that you {i}could{/i} have crushed his throat.
+Por fin logras ejecutar un movimiento particularmente difícil para derribarlo y cae sobre su espalda. Apuntas con el extremo de tu báculo a su barbilla, dejando claro que {i}podrías{/i} haberle aplastado la garganta.
+#Speaker: elodie_angry
+Yield!
+¡Ríndete!
+#Speaker: kevan
+Death first!
+¡Antes muerto!
+#Narration
+His fingers twitch - he may be about to bring his weapon up again.
+Sus dedos se contraen - puede que esté intentando volver a levantar su arma.
+#choice:
+Hit him
+Golpearlo
+#Narration
+With a sound half-sigh and half-growl, you slam your staff hard against his head, and his body goes limp.
+Emitiendo un sonido a medio camino entre un suspiro y un gruñido, golpeas tu báculo con fuerza contra su cabeza, y su cuerpo queda inerte.
+#Narration
+You don't know if you've killed him or not, and at the moment, you don't really care.
+No sabes si lo has matado o no, y realmente no te preocupa.
+#choice:
+#Speaker: elodie_angry
+You've fought for your family.  Your honor is satisfied.
+Has luchado por tu familia y recuperado tu honor.
+#Speaker: elodie_angry
+If you breach the rules of chivalry now, it will be you who dishonors them. {i}Yield.{/i}
+Si decides incumplir las reglas del duelo, serás tú quien los deshonre. {i}Ríndete{/i}.
+#Narration
+You hold out your hand to him and wait.
+Le extiendes la mano y esperas.
+#Narration
+After a moment, he allows you to help him to his feet.  The applause of the crowd is {i}deafening.{/i}
+Después de unos segundos, te permite que lo ayudes a ponerse en pie. Los aplausos de la multitud son {i}ensordecedores{/i}.
+#Speaker: elodie_angry
+Just give up and stay down already!
+¡Ríndete de una vez y deja de levantarte!
+#Narration
+It's no use - you are forced to jump back as he swings his staff up.
+No sirve de nada - te ves obligada a saltar hacia atrás mientras él mueve su báculo hacia arriba.
+#Narration
+Of course, this is not some back-alley brawl.  This is a duel, surrounded by monitors and trained warriors.  Now that he has broken the rules of conduct, they leap into action, quickly overpowering and restraining Kevan.
+Por supuesto, esta no es una pelea de callejón. Esto es un duelo, rodeado de observadores y guerreros entrenados. Tras quebrantar las reglas de conducta, saltan hacia él, inmovilizándolo rápidamente.
+#Narration
+One prepares a blade to slit Kevan's throat, but you hold up your hand to prevent it.
+Uno de ellos coloca una cuchilla en el cuello de Kevan, dispuesto a cortárselo, pero levantas la mano para evitarlo.
+#Speaker: elodie_lonely
+Just take him away.
+Simplemente lleváoslo.
+#Narration
+It's over.
+Se acabó.
+#Narration
+You put up a fight, but you're not making any headway.
+Presentas batalla, pero consigues hacer ningún progreso.
+#Narration
+Eventually, you find yourself flat on your back, his blood-flushed visage looming above you.
+Eventualmente, te encuentras tirada sobre tu espalda, con su rostro ensangrentado mirándote desde arriba.
+#Speaker: elodie_afraid
+I yield!
+¡Me rindo!
+#Narration
+For a moment, in surprise, he hesitates - but you can see him steeling himself to strike again.
+Por un momento parece dudar, sorprendido - pero puedes ver como se prepara para golpearte de nuevo.
+#Speaker: elodie_depressed
+You challenged me before all these eyes and won.  Your honor is satisfied.
+Me has desafiado ante toda esta gente y has ganado. Tu honor ha sido reparado.
+#Speaker: elodie_angry
+Don't throw it away now.
+No lo eches a perder.
+#Narration
+A tense moment passes while you wonder...
+Permaneces en tensión mientras esperas su respuesta...
+#Narration
+... and then he throws down his staff and walks away.
+... y por fin decide tirar su báculo y alejarse.
+#Narration
+Instinctively, you close your eyes...
+Instintivamente, cierras los ojos...
+#Speaker: elodie_angry
+I'm not going to fight you just because you want me to.
+No voy a pelear contigo sólo porque tú quieras.
+#Narration
+Unfortunately, it seems he isn't interested in your refusal, and charges at you anyway!
+Por desgracia, parece que no le importa tu negativa, ¡y carga hacia ti de todos modos!
+#Narration
+You leap out of his path, but he swerves and comes at you again, braying like a mad bull.  So you keep running.
+Te apartas de su camino, pero él rectifica su trayectoria, rebuznando como un toro loco. Por lo que sigues corriendo.
+#Narration
+Moments later, he staggers and collapses, an assortment of arrows standing out from his body like pins through a cushion.
+Momentos después, se tambalea y se derrumba, con una gran cantidad de flechas clavadas en su espalda, como alfileres en un cojín.
+#Narration
+It's really not the best of ideas to attempt a murder in front of an entire tournament of trained warriors.
+Realmente no es la mejor de las ideas intentar un asesinato delante un montón de guerreros entrenados.
+#Narration
+Before you can react, a streak of dark feathers races down from above, screeching for blood.
+Antes de poder reaccionar, un rayo de plumas negras desciende desde lo alto, sedientas de sangre.
+#Narration
+You're not quite sure how it happened, but somehow, your falcon has come to your rescue!
+No estás muy segura de cómo ha pasado, pero de alguna manera, ¡tu halcón ha llegado a rescatarte!
+#Narration
+Faced with a sharp beak and claws trying to tear out his eyes, Kevan is forced to drop his sword and use his hands to protect himself.
+Frente a un afilado pico y las garras que intentan arrancarle los ojos, Kevan se ve obligado a dejar caer su espada y utilizar las manos para protegerse.
+#Narration
+At that point, guards move in to arrest him.  You and your bird are both safe.
+En ese momento, los guardias lo alcanzan para arrestarlo. Tu ave y tú estáis a salvo.
+#Narration
+The last thing you think is \"But that's not {i}fair...{/i}\"
+Lo último que te pasa por la cabeza es "Pero no es {i}justo... {/i}"
+#Narration
+Without a further word, you direct the full force of your magical wrath at the Earl of Io.
+Sin mediar más palabra, diriges toda tu fuerza e ira mágica hacia el Conde de Io.
+#Narration
+Unfortunately, your full force amounts to a spray of razorlight discs, which slice and burn the skin, but nothing more.
+Por desgracia, toda tu fuerza se traduce en un puñado de discos afilados, que le cortan y queman la piel, pero nada más.
+#Narration
+Against an experienced combatant in armor, that is nowhere near enough.
+Contra un luchador armado y experimentado, ni de lejos es suficiente.
+#Narration
+The last thing you hear is the screams of the crowd as the Earl of Io charges toward you...
+Lo último que alcanzas a escuchar son los gritos de la multitud mientras el Conde de Io carga hacia ti...
+#Narration
+There is a horrible scream, and the smell of burning flesh.
+Se produce un horrible chillido, seguido de un olor a carne quemada.
+#Speaker: elodie_willful
+I decline.
+Renuncio.
+#Narration
+Kevan's sword falls to the ground beside his gauntlet.  He won't be needing either anymore.
+La espada de Kevan cae al suelo al lado de su guante. No los va a necesitar más.
+#Narration
+After the tournament, a minor tragedy is revealed.
+Después del torneo, se revela una tragedia menor.
+#Narration
+One of the stewards apparently had an incredible sweet tooth and dared to steal a piece of your recently-received chocolates.  He {i}had{/i} a sweet tooth... the chocolates were poisoned.
+Uno de los mayordomos, que al parecer era un goloso, se atrevió a robar un pedazo de tus chocolates recibidos recientemente. {i}Era{/i} un goloso... los chocolates estaban envenenados.
+#Speaker: elodie_willful
+(Good thing I didn't eat them!)
+(¡Menos mal que no me los comí!)
+#Narration
+When you ask questions, it turns out that the merchant house which supposedly sent you this present never existed.
+Cuando preguntas, resulta que la casa comercial que supuestamente te envió el regalo nunca había existido.
+#Narration
+Someone has tried to kill you... but you don't know who.
+Alguien ha intentado matarte... pero no sabes quién.
+# If you tested the chocolates
+After the tournament, you receive a report on the poisoned chocolates.
+Después del torneo, recibes un informe sobre los bombones envenenados.
+The merchant house named on the card is fictitious. No such trader is registered in Kigal.
+La casa comercial nombrada en la tarjeta es ficticia. Ningún comerciante parecido se ha registrado en Kigal.
+However, the chocolates themselves arrived in a shipment from a trusted supplier, one whose goods are only subject to the occasional sampling checks instead of more thorough scrutiny.
+Sin embargo, los bombones llegaron en un envío de un proveedor de confianza, uno cuyos productos sólo son sometidos a controles ocasionales en lugar de a controles más estrictos.
+It's hard to imagine a supplier willing to risk losing the royal warrant by taking part in a clumsy assassination attempt. The reputation boost of being known to do business with the palace is quite valuable.
+Es difícil imaginar un proveedor dispuesto a correr el riesgo de perder la autorización real, participando en un torpe intento de asesinato. La reputación asociada a hacer negocios con la corona es muy valiosa.
+Regardless, surely someone in palace security should have been paying more attention!
+En cualquier caso, ¡está claro que algún miembro de la seguridad del palacio debería haber estado más atento!
+# Choice:
+Punish the guards
+Castigar a los guardias
+# Speaker: elodie_angry
+(If they can't keep me safe, they're useless!)
+(Si no pueden mantenerme a salvo, son inútiles!)
+#choice:
+Punish the supplier
+Sancionar al proveedor
+# Speaker: elodie_angry
+(They'll never be allowed to do business here again!)
+(¡Nunca se les permitirá volver a hacer negocios por aquí!)
+# Choice:
+#Wait for more information
+#Speaker: elodie_angry
+(I need to find my real enemy.)
+(Tengo que encontrar a mi verdadero enemigo.)
+After the tournament, you check in with palace security about the chocolates you sent to be tested.
+Después del torneo, preguntas a la seguridad del palacio sobre los bombones que enviaste a examinar.
+Based on the effect they had on the peasants in the dungeon, the candies were definitely poisoned.
+A juzgar por el efecto que tuvieron sobre los campesinos del calabozo, los dulces estaban claramente envenenados.
+#Narration
+After the tournament, you remember to ask about the chocolates you sent to be tested.
+Después del torneo, te acuerdas de preguntar sobre los bombones que enviaste a examinar.
+#Speaker: arisse
+You were quite correct. The merchant seals were counterfeit - and yes, the chocolates were poisoned.
+Estabas en lo cierto. Los sellos de los mercaderes eran falsos - y sí, los bombones estaban envenenados.
+#Speaker: arisse
+I have sent word to my daughter in Kigal to investigate this 'House of Kraellat.'
+He enviado un mensaje a mi hija en Kigal para que investigue esta "Casa de Kraellat".
+#Speaker: elodie_angry
+(Arisse has connections, but so do I. I have to find out who's behind this.)
+(Arisse tiene contactos, pero yo también. Tengo que averiguar quién está detrás de esto.)
+#Speaker: sabine
+Your Highness, I never thought I'd say this to someone like you, but... I heard you sing at the tournament, and...
+Majestad, nunca pensé que diría esto a alguien como usted, pero... la oí cantar en el torneo, y ...
+#Speaker: sabine
+You're better than I am.
+Usted es mejor que yo.
+#Speaker: elodie_willful
+I didn't hire you for your musical talents.
+No te contrate por tu talento musical.
+#Speaker: sabine
+Yes, I know. But I am still a musician, and I'd like to improve my craft.
+Sí, lo sé. Pero aún así soy músico, y me gustaría mejorar en mi oficio.
+#Speaker: sabine
+Might we practice together, sometime?
+¿Podríamos practicar juntas, en algún momento?
+#menu:
+#choice:
+{tag=practice with sabine}Accept
+Aceptar
+#Speaker: elodie_cheerful
+I'd like that.
+Me gustaría.
+#choice:
+Decline
+Rechazar.
+#Speaker: elodie_yielding
+I'm sorry, I don't have time for music anymore.
+Lo siento, ya no tengo tiempo para la música.
+#choice:
+Suggest Romance
+Sugerir Romance
+#Speaker: elodie_willful
+Perhaps we can teach each other.  Say, in my room?
+Tal vez podamos enseñarnos entre nosotras. Por ejemplo, ¿en mi habitación?
+#Speaker: sabine
+I may be in your service, Highness, but some things are not for sale.
+Puede que esté en su servicio, Alteza, pero algunas cosas no están en venta.
+#Speaker: elodie_yielding
+(Oops.)
+(Oops.)
+#Speaker: alice_worried
+My lady, your father wishes to speak with you. He says it's urgent.
+Mi señora, su padre desea hablar con usted. Dice que es urgente.
+#Speaker: elodie_yielding
+I'll be there in a minute.  There's someone I have to talk to first.
+Estaré allí en un minuto. Primero tengo que hablar con alguien.
+#Narration
+You wait for the maid to leave, then hurry off to rendezvous with your agent.
+Esperas a que la doncella se marche, y después te apresuras a reunirte con tu espía.
+#Speaker: musician
+Your Highness, I had a quiet chat with the workers on the cargo ship which carried the poisoned chocolates.
+Alteza, he tenido una pequeña charla con los trabajadores a bordo del buque que ha traído los bombones envenenados.
+#Speaker: musician
+Seems someone was bribed to take that package on board, not in Kigal, but further down the river in Merva.
+Parece que alguien fue sobornado para subir ese paquete a bordo, no en Kigal, sino río abajo, en Merva.
+#Speaker: musician
+I had a look at the card that came with it and checked it against your correspondence -
+Eché un vistazo a la tarjeta que vino con los bombones y la comparé con su correspondencia -
+#Narration
+For a moment you are mildly annoyed that she's somehow managed to get into your personal mail and read it without asking you, but then, that {i}is{/i} the sort of thing you hired her for.
+Por un momento te sientes algo molesta por el hecho de que haya podido acceder en tu correo personal y lo haya leído sin tu consentimiento, pero al fin y al cabo, ese {i}es{/i} el tipo trabajo para el que la as contratado.
+#Speaker: musician
+- and the handwriting does bear a certain similarity to a prominent noble. You won't like this.
+- y la letra guarda cierta similitud con la de una noble importante. Esto no le va a gustar.
+#Speaker: elodie_afraid
+#Speaker: musician
+Your aunt Lucille, the Countess of Nix.
+Su tía Lucille, la Condesa de Nix.
+#Speaker: musician
+Your aunt Lucille, the Duchess-Regent of Merva.
+Su tía Lucille, la Duquesa-Regente de Merva.
+#Speaker: elodie_angry
+#Speaker: musician
+I can't be certain, and even if she wrote the card doesn't mean she's behind the poison. But I'd be careful.
+No puedo estar segura, e incluso puede que ella no este detrás del veneno a pesar de haber escrito la nota. De todas formas tendré cuidado.
+#Speaker: musician
+If something happens to you, who benefits? Who inherits?
+Si me pasara algo, ¿Quién se beneficiaría? ¿Quién heredaría?
+#Speaker: elodie_angry
+My uncle Laurent, her husband.
+Mi tío Laurent, su marido.
+#Speaker: elodie_lonely
+My cousin, her daughter... {i}Charlotte.{/i}
+Mi prima, su hija...{i}Charlotte.{/i}
+#Speaker: musician
+If you'd like, I could travel to the ducal seat in Merva, see if I can find out more.
+Si lo desea, puedo viajar al palacio ducal en Merva, a ver si puedo encontrar más información.
+#Speaker: elodie_angry
+Yes, fine, go.
+Sí, muy bien, hazlo.
+#Speaker: elodie_depressed
+(Maybe this is all a clever trick, or a misunderstanding...)
+(Tal vez todo esto no es más que un ingenioso truco, o un malentendido...)
+#Speaker: elodie_lonely
+(... and Dad wants to talk to me, which is probably {i}more{/i} bad news.)
+(... y papá quiere hablar conmigo, lo que probablemente signifique {i}más{/i} malas noticias.)
+#Speaker: agent
+Greetings, Your Highness. I have been traveling from duchy to duchy, listening at inns.
+Saludos, Alteza. He estado viajando de ducado en ducado, escuchando en las posadas.
+#Speaker: agent
+I have heard many jests at your expense. Impolite lyrics, unflattering caricatures, and so on.
+He sido testigo de gran cantidad de chanzas su costa. Letras inapropiadas, caricaturas poco halagadoras, y así sucesivamente.
+#Speaker: agent
+You can even buy a disgusting fermented fruit beverage called the 'Spoiled Princess'...
+Incluso puede comprar un desagradable brebaje de fruta fermentada llamado la "Princesa consentida"...
+#Speaker: elodie_crowded
+ARGH!
+¡ARGH!
+#Speaker: agent
+... but I digress.
+... pero estoy divagando.
+#Speaker: agent
+I have not found any evidence of an organised plot to assassinate you among the commoners.
+No he encontrado evidencia de ningún complot para asesinarle.
+#Speaker: agent
+There are many unhappy people, and they may make their voices known, but they lack the subtlety.
+Hay mucha gente descontenta, y puede que tengan cierta influencia, pero carecen de astucia.
+#Speaker: agent
+No common revolutionary sent you those poisoned chocolates. I would wager that the motive is more... personal.
+Ningún revolucionario es responsable de esos bombones envenenados. Yo apostaría a que el motivo es más... personal.
+#Speaker: agent
+As far as I can tell, you are beloved among the common people.
+En lo que a mi respecta, el pueblo la adora.
+#Speaker: agent
+You are the young and innocent princess bearing up nobly under sorrow. A true heroine.
+Usted es la princesa joven e inocente que lleva noblemente en virtud la tristeza. Una verdadera heroína.
+#Speaker: elodie_depressed
+{tag=elodie, to her agent}Right.
+Vale.
+#Speaker: agent
+The poisoned chocolates you received were not the tool of a revolutionary plot.
+Los bombones envenenados que recibió no eran la herramienta de un complot revolucionario.
+#Speaker: agent
+I would wager that the motive is more... personal.
+Yo apostaría a que el motivo es más... personal.
+#Speaker: elodie_depressed
+(Personal?  A romantic gift of death?  Great.)
+(¿Personal? ¿Un regalo romántico mortal? Genial.)
+#Speaker: agent
+We will of course continue to monitor the situation.
+Por mi parte, seguiré investigando.
+#Speaker: elodie_depressed
+Right.  You may go.
+Vale. Puedes irte.
+#Speaker: elodie_lonely
+(Now I need to speak with my father.)
+(Ahora tengo que hablar con mi padre.)
+#Speaker: agent
+Greetings, Your Highness. I trust you are well?
+Saludos, Alteza. ¿Confío en que está bien?
+#Speaker: elodie_yielding
+As well as can be expected.
+Tanto como cabe esperar.
+#Speaker: elodie_yielding
+{i}I'm{/i} fine.  So far.
+{i}Estoy{/i} bien. De momento.
+#Speaker: agent
+I have just returned from the duchy of Kigal.
+Acabo de regresar del ducado de Kigal.
+#Speaker: agent
+We have made a number of discreet inquiries and infiltrated much of the Duke's private correspondence.
+Hemos llevado a cabo una serie de investigaciones discretas y nos hemos infiltrado en gran parte de las comunicaciones privadas del Duque.
+#Speaker: agent
+The Duke of Kigal is certainly not your greatest supporter.
+El Duque de Kigal no es precisamente su mayor defensor.
+#Speaker: agent
+However, he seems entirely preoccupied with restoring the stability of the duchy.
+Sin embargo, parece totalmente preocupado con la restauración de la estabilidad del ducado.
+#Speaker: agent
+We find no evidence that his family was involved in the attempt on your life.
+No hemos encontrado pruebas de que su familia haya estado involucrada en su intento de asesinato.
+#Speaker: elodie_depressed
+I suppose that's a relief, but...  That means we {i}still{/i} don't know who did it.
+Supongo que es un alivio, pero... Esto significa que {i}aún{/i} no sabemos quién lo hizo.
+#Speaker: elodie_angry
+Aren't you supposed to detect these things before they happen?
+¿No se supone que tienes que detectar estas cosas antes de que sucedan?
+#Speaker: agent
+A political coup requires allies, signals, coordination. Assassins work alone. They leave far fewer traces.
+Un golpe de estado requiere aliados, señales, coordinación. Los asesinos trabajan solos. Dejan un rastro mucho más difícil de detectar.
+#Speaker: elodie_yielding
+#Speaker: elodie_depressed
+Get back to work, then.  I have other things to do.
+Entonces vuelve al trabajo. Tengo otras cosas que hacer.
+#Speaker: elodie_lonely
+(I need to speak with my father.)
+(Tengo que hablar con mi padre.)
+#Speaker: elodie_yielding
+Fine, I'm coming.
+Bien, ya voy.
+#Narration
+You find your father standing over a map of the coastline, his face grave.
+Encuentras a tu padre frente a un mapa de la costa, con el rostro ensombrecido.
+#Narration
+The Duchess of Lillah is present as well. This must be serious.
+La Duquesa de Lillah también está presente. Esto debe ser serio.
+#Speaker: joslyn
+Ships have been sighted on approach from Shanjia. Not tradeships - this is a warfleet.
+Se han avistado buques aproximándose desde Shanjia. No son mercantes - es una flota de guerra.
+#Speaker: elodie_afraid
+#Speaker: elodie_angry
+I've been expecting something like that.
+He estado esperando algo así.
+#Speaker: joslyn
+Within a week they will be in Novan waters. Within two they could reach the capital.
+Dentro de una semana estarán en aguas de Nova. Dentro de dos podrían llegar a la capital.
+#Speaker: elodie_angry
+Then we will fight to defend ourselves.
+Entonces lucharemos para defendernos.
+#Speaker: joslyn
+You can try to use the treasury funds to hire additional soldiers, but it may be difficult on short notice.
+Puedes intentar utilizar los fondos de la corona para contratar más soldados, pero puede que no consigas muchos en tan corto plazo.
+#choice:
+Recruit soldiers
+Reclutar soldados
+#Speaker: elodie_angry
+Fine, we'll do that.
+Está bien, hagámoslo.
+#choice:
+#Speaker: elodie_angry
+No, it's too late for that.
+No, ya es demasiado tarde.
+#Speaker: elodie_neutral
+What about Talasse?  Can we call on any troops from Sedna?
+¿Qué hay de Talasse? ¿Podemos conseguir tropas de Sedna?
+#Speaker: joslyn
+Send a message, but even if he agrees, it will take time for his soldiers to mobilise.
+Envía un mensaje, pero incluso aunque acepte, los soldados tardarán tiempo en movilizarse.
+#Speaker: elodie_neutral
+What about Ixion?
+¿Y qué hay de Ixion?
+#Speaker: elodie_angry
+After I gave up territory to them, they owe us a favor!
+Les cedí parte de nuestro territorio. ¡Nos lo deben!
+#Speaker: joslyn
+Send them a message as fast as possible. If they accept your request, they may be able to provide aid.
+Envíales un mensaje lo más rápido posible. Si aceptan, puede que sean capaces de ayudarnos.
+#Speaker: joslyn
+You will need to draw up a naval strategy for our ships to carry out.
+Vas a tener que elaborar una estrategia para nuestra flota de barcos.
+#Speaker: joslyn
+You {i}could{/i} choose to act as admiral and lead the fleet in person, but the danger to you would be very great.
+{i}Podrías{/i} actuar como Almirante y comandar la flota personalmente, pero correrías un gran peligro.
+#Speaker: arisse
+She must not. It would be far too easy for an accident to befall her, far from shore.
+No debería. Sería muy fácil que sufriera un accidente, lejos de la costa.
+#Speaker: elodie_angry
+Don't talk about me like I'm not here!
+¡No hables de mí como si no estuviera aquí!
+#Speaker: arisse
+Even if you were victorious, it would be easy for an 'accident' to befall you, far from shore. If the battle went poorly, you would have no hope of escape.
+Incluso venciendo, las probabilidades de sufrir un "accidente" lejos de la costa son muy altas. Si perdieses, no tendrías ninguna posibilidad de escapar.
+#Speaker: joslyn
+Unless you think your personal skills will make the difference, I would strongly advise against it.
+A menos que consideres que tu habilidad al mando de la flota va a marcar la diferencia, te recomiendo encarecidamente que no vayas.
+#choice:
+Direct the fleet
+Dirigir la flota
+#Speaker: elodie_angry
+The risk is mine to take.
+Debo tomar el riesgo.
+#Speaker: joslyn
+You have your mother's heart.
+Tienes el corazón de tu madre.
+#Speaker: arisse
+What do you know about naval warfare? Can you even swim?
+¿Qué sabes sobre la guerra en el mar? ¿Sabes siquiera nadar?
+#Speaker: elodie_willful
+Unlike Lillah, my home is {i}not{/i} landlocked.  I have trained for this.
+Al contrario que Lillah, mi tierra {i}tiene{/i} salida al mar. He entrenado para esto.
+#Speaker: arisse
+Our fleet will need a strong leader. Very well, go -  but come back safely.
+Nuestra flota necesita un líder fuerte. Muy bien, ve - pero regresa de una pieza.
+#Speaker: elodie_yielding
+(You'd almost think she cared!)
+(¡Casi podrías pensar que le importas!)
+#Speaker: elodie_depressed
+Well...
+Vale...
+#Speaker: arisse
+Your domain depends on you. You cannot throw your life away.
+Tu reino te necesita. No desperdicies tu vida.
+#Speaker: elodie_yielding
+Fine.  I'll stay here.
+Está bien. Me quedaré aquí.
+#choice:
+Stay in the capital
+Quedarse en la capital
+#Speaker: elodie_depressed
+No, there's too much to do here.  I can't go to sea.
+No, hay mucho que hacer aquí. No puedo ir al mar.
+#Speaker: joslyn
+Do your best, and Nova will survive.
+Hazlo lo mejor que puedas, y Nova sobrevivirá.
+#Speaker: joslyn
+There is one more thing. I hesitate to ask, but...
+Una cosa más. No sé si preguntar, pero...
+#Speaker: joslyn
+An invasion...
+La invasión...
+#Speaker: joslyn
+This is the sort of disaster for which a Lumen's power may be worth the cost.
+Los poderes de un Lumen merecen la pena en esta clase de desastres.
+#Speaker: joslyn
+If the fleet could be destroyed before they reached our waters, many lives would be saved.
+Si pudiéramos destruir su flota antes de su llegada a nuestra aguas, salvaríamos muchas vidas.
+#Speaker: elodie_afraid
+(I don't know any magic that could sink a whole fleet!)
+(¡No sé que tipo de magia podría hundir una flota entera!)
+#Speaker: elodie_afraid
+I...  I'll have to talk to my mentor.
+Eee... Tendré que hablar con mi mentora.
+#Narration
+You track down the priestess Selene in the central grove.
+Encuentras a la sacerdotisa Selene en patio interior.
+#Speaker: selene
+A fleet from Shanjia... I must search for them.
+Una flota de Shanjia... tengo que buscarlos.
+#Narration
+She brings out a black bowl filled with water and stares into its depths.
+Selene coge un tazón negro lleno de agua y clava su mirada en el fondo.
+#Narration
+Suddenly the water explodes out of the bowl in a shower of droplets.
+De repente, el agua sale despedida del tazón en todas la direcciones formando una lluvia de gotas.
+#Speaker: selene
+There is one among them with a Lumen's power, and much strength.
+Uno de ellos es un Lumen poderoso.
+#Speaker: elodie_angry
+(Of course, the King of Shanjia is a Lumen!)
+(¡Por supuesto! ¡El rey de Shanjia es un Lumen!)
+#Speaker: selene
+It would require great force to overpower that protection and destroy the entire fleet without endangering Nova.
+Vas a necesitar una gran fuerza para sobrepasar su protección y destruir toda la flota sin poner en peligro a Nova.
+#Speaker: selene
+At least three or four Lumens acting in concert.
+Tres o cuatro Lumens como mínimo.
+#Speaker: elodie_neutral
+In concert?
+¿Juntos?
+#Speaker: selene
+If you truly will it, you can give up control of your power to another for a time.
+Si lo deseas, puedes ceder el control de tu poder a otro Lumen durante un tiempo.
+#Speaker: selene
+This was the most devastating power of the Novan rulers - all the noble houses combined.
+Este era el poder más devastador de los gobernantes de Nova - todas las casas nobles juntas.
+#Speaker: selene
+The cost for such power can be high. All involved may perish.
+El coste de tal poder puede ser alto. Todos los involucrados asumen un riesgo.
+#Speaker: elodie_angry
+You and me and Aunt Lucille.  Is that enough?
+La tía Lucille, tú y yo. ¿Es suficiente?
+#Speaker: selene
+It may be. It may not. Are you willing to take the risk?
+Puede ser, o puede que no. ¿Está dispuesta a correr el riesgo?
+#choice:
+Yes
+Si
+#Speaker: elodie_willful
+This is what I was born for.  I say we do it.
+Es para lo que nací. Yo digo que lo hagamos.
+#Speaker: selene
+Bring your aunt and we will train together.
+Trae a tu tía para entrenar juntas.
+#choice:
+No
+No
+#Speaker: elodie_afraid
+No.  I think I'd rather rely on the soldiers to protect me.
+No. Creo que prefiero confiar mi protección a los soldados.
+#Speaker: selene
+May the gods be with us.
+Que los dioses nos acompañen.
+#Speaker: elodie_depressed
+You and I, that's only two.  That's not enough.
+Tú y yo sólo somos dos. No es suficiente.
+#Speaker: elodie_depressed
+What about the Duchess of Ursul?  She's a Lumen, right?
+¿Y la Duquesa de Ursul? Ella es Lumen, ¿verdad?
+#Speaker: selene
+You banished her from the capital.
+La desterraste de la capital.
+#Speaker: elodie_yielding
+... right.
+... es verdad.
+#Speaker: elodie_yielding (OLD < 1.3.x)
+(I suppose there's no hope, then.  We'll have to fight.)
+(Entonces supongo que no hay esperanza. Tendremos que luchar.)
+# >= 1.3.x
+#Speaker: selene
+Julianna knows her duty. She will return if you summon her. But you must act at once if you wish her to arrive in time to sail with the fleet.
+Julianna conoce sus obligaciones. Volverá si se lo pides. Pero debes hacerlo de inmediato si quieres que llegue a tiempo para zarpar con la flota.
+#Speaker: elodie_depressed
+(Will she be willing to risk her life for me after I banished her? Do I want to risk my own?)
+(¿Estará dispuesta a arriesgar su vida por mí después de haberla desterrado? ¿Estoy yo dispuesta a arriesgarla?)
+#choice:
+Dispatch a messenger
+Enviar un mensajero
+#choice:
+{tag=dispatch messenger}Don't
+No hacerlo
+# Speaker: elodie_angry
+I'll send for her right away. If there's any chance to stop this invasion, I have to take it.
+La mandaré buscar enseguida. Si hay alguna posibilidad de detener esta invasión, tengo que aprovecharla.
+# Speaker: Selene: May the gods be with us.
+# Speaker: elodie_yielding
+(This is all my fault. We'll have to fight.)
+(Esto es todo por mi culpa. Vamos a tener que luchar.)
+#Narration
+You find the Duchess of Ursul in her guest quarters.
+Encuentras a la Duquesa de Ursul en el cuarto de invitados.
+#Speaker: elodie_angry
+A fleet from Shanjia is attacking us.  Is it possible to sink them all with magic?
+Una flota de Shanjia nos está atacando. ¿Es posible hundirlos a todos con magia?
+#Speaker: julianna
+It is easy enough to attack one soldier, one ship, as a demonstration. But to obliterate an entire fleet...
+Es bastante fácil atacar a un soldado, o incluso a un barco. Pero destruir una flota entera...
+#Speaker: julianna
+You would need an immense amount of power spread over a large area, more than any one Lumen could control.
+Vas a necesitar propagar una immensa cantidad de energía en un área muy grande, demasiado incluso para el Lumen más poderoso.
+#Speaker: julianna
+If you tried to raise that much power yourself, you would die.  Not could. Would.
+Si intentases reunir tal cantidad de poder sola, morirías. Seguro.
+#Speaker: elodie_depressed
+So it's hopeless.
+Entonces es imposible.
+#Speaker: elodie_depressed
+(We'll just have to rely on our soldiers.)
+(Tendremos que depender de nuestros soldados.)
+#Speaker: julianna
+Not necessarily.
+No necesariamente.
+#Speaker: julianna
+The most dangerous power of Imperial Nova was that of Lumens acting in concert.
+El mayor peligro durante la Nova Imperial era el poder combinado de varios Lumens juntos.
+#Speaker: julianna
+If the need is great and the will is true, one Lumen may choose to give command of her power to another.
+Si la necesidad es grande y la voluntad verdadera, un Lumen puede entregar el control de su poder a otro.
+#Speaker: julianna
+Three, perhaps four people working together might have the strength to destroy a fleet.
+La energía unificada de tres, tal vez cuatro personas, tendría la capacidad de destruir una flota.
+#Speaker: elodie_angry
+You, me, and Selene.  Will that be enough?
+Selene, tú y yo. ¿Será suficiente?
+#Speaker: elodie_angry
+You, me, and Aunt Lucille.  Will that be enough?
+La tía Lucille, tú y yo. ¿Será suficiente?
+#Speaker: julianna
+It might. Are you willing to take the risk? Such power has its price.
+Es posible. ¿Estás dispuesta a correr el riesgo? Tanto poder tiene su precio.
+#choice:
+#Speaker: elodie_willful
+#Speaker: julianna
+Then we will begin the preparations.
+Entonces empecemos con los preparativos.
+#choice:
+#Speaker: elodie_afraid
+#Speaker: julianna
+So be it.
+Que así sea.
+#Speaker: elodie_angry
+You, me, the priestess Selene, and my Aunt Lucille.  Will that be enough?
+La sacerdotisa Selene, mi tía Lucille, tú y yo. ¿Será suficiente?
+#Speaker: julianna
+If your will is strong enough to wield that power, then yes, it should be.
+Si tu voluntad es lo bastante fuerte como para reunir tanto poder, entonces sí, debería serlo.
+#choice:
+Use magic against the fleet
+Usar magia contra la flota
+#Speaker: elodie_willful
+Then that's what we'll do.  We're going to save our domain.
+Entonces eso es lo que haremos. Vamos a salvar nuestro reino.
+#choice:
+Fight with navy only
+Luchar sólo con la armada
+#Speaker: elodie_afraid
+#Speaker: julianna
+#Narration
+Danger on the high seas!
+¡Peligro en alta mar!
+#Narration
+You and your three fellow Lumens join hands to focus your powers.
+Tus tres compañeras y tú juntáis vuestras manos para concentrar los poderes.
+#Narration
+You and your two fellow Lumens join hands to focus your powers.
+Tus dos compañeras y tú juntáis vuestras manos para concentrar los poderes.
+#Narration
+Because you are not yet able to throw energy over a great distance, you are forced to stage this attempt aboard a ship which has sailed bravely out of formation to bring you close to the enemy.
+Aún no eres capaz de arrojar magia a mucha distancia, lo que te obliga a adelantarte a la formación a bordo de un sólo barco con la esperanza de acercarte lo suficiente al enemigo.
+#Narration
+Thus, there remains the danger that your ship will come under fire, or that you will be swallowed up by the effects of your own attack.
+Al ejecutar este movimiento, te arriesgas a que tu nave caiga bajo fuego enemigo, o a ser engullida por el efecto de tu propio ataque.
+#Speaker: wobblenarrator
+Power grows...
+Sientes el poder crecer...
+#Narration
+In the distance, you hear a terrible roaring noise, as the seas you have charmed suddenly {i}buckle{/i} beneath the invaders, opening up a maw of void into which they tumble helplessly.
+A lo lejos, se oye un imponente rugido, mientras el mar bajo los invasores se agita y retuerce formando un gigantesco remolino, al que se precipitan con impotencia.
+#Narration
+The ship lists sharply, and you can hear the sailors screaming. \"WAVE!  WAVE!\"
+Tu barco se agita bruscamente, mientras escuchas a los marineros gritar. \"¡Oleaje!  ¡Oleaje!\"
+#Narration
+And then it all comes apart...
+Y entonces todo se resquebraja...
+#Narration
+You destroyed the warfleet, but the resulting rogue waves smashed your ship to splinters.
+Has destruido su flota, pero las gigantescas olas resultantes han reducido tu nave a astillas.
+#Narration
+In the distance, the sea stirs.  Ripples become waves become triangular peaks of water, causing enemy ships to tilt crazily and batter into one another.
+A lo lejos, el mar se agita. Las pequeñas ondas en el agua se convierten olas y más tarde en imponentes picos triangulares, que balancean y entrechocan las naves enemigas sin control.
+#Narration
+It is a terrible storm, but it is not enough.  You have damaged their fleet, but the fleet still sails.  Now it will come down to the naval battle.
+Es una tormenta horrible, pero no es suficiente. Has dañado su flota, pero todavía navega. Ahora todo se decidirá en la batalla.
+#Narration
+Unfortunately, it grows beyond your ability to channel it.
+Por desgracia, crece más allá de tu capacidad para canalizarlo.
+#Narration
+Your magical training has paid off by allowing you to stage this attempt at a safe distance from the invading vessels of war.
+Tu entrenamiento ha dado sus frutos permitiéndote llevar a cabo el plan a una distancia segura de los buques de guerra invasores.
+#Narration
+Far in the distance, you hear the roar of the ocean you have charmed as it {i}buckles{/i} beneath the incoming ships, opening up a maw of void into which they tumble helplessly.
+Muy a lo lejos, escuchas un imponente rugido, mientras el mar bajo los invasores se agita y retuerce formando un gigantesco remolino, al que se precipitan con impotencia.
+#Narration
+Then, as they fall, the water rushes back in around them, washing over decks and pummelling hulls.
+Entonces, a medida que caen, el agua se precipita de nuevo en torno a ellos, inundando sus cubiertas y penetrando en los cascos.
+#Narration
+Even from so far away, you can see the disturbance you have made rippling through the water.
+Incluso desde tan lejos, puedes apreciar el caos que has provocado a través de las ondulaciones del agua.
+#Narration
+Some of the Shanjians may survive, but their threat as an invasion has ended.
+Puede que alguno de ellos sobreviva, pero su amenaza como invasores ha terminado.
+#Narration
+#Narration
+#Narration
+#Narration
+Ships close in on each other, angling into range.
+Los buques de ambas flotas acortan distancias.
+#Narration
+Your urgent request for aid from Ixion did not go unanswered - they have sent a flotilla of ships to supplement yours.
+Tu petición urgente de ayuda a Ixion no ha quedado sin respuesta - han enviado una flotilla de barcos para complementar tu armada.
+#Narration
+Your ships, but not Ixion's.  They did not see fit to respond to your request for aid.
+Tus buques, no los de Ixion. Ellos no han tenido a bien responder a tu solicitud de ayuda.
+#Narration
+You clamber up the rigging to take a position in the crow's nest, where you can watch the enemy's movements with a spyglass and shout out any necessary changes in plan.
+Trepas por el cordaje para alcanzar una posición de avistamiento, desde donde puedes observar los movimientos del enemigo con un catalejo y gritar a tus marineros cualquier instrucción necesaria.
+#Narration
+You take your position with a spyglass, watching the enemy movements closely and shouting out any necessary changes in plan.
+Tomas tu posición con el catalejo, observando de cerca los movimientos del enemigo y gritando los cambios necesarios en el plan.
+#Narration
+You now have an edge over the Shanjian forces in terms of numbers, but it could all come down to strategy.
+Ahora tienes cierta ventaja sobre las fuerzas de Shanjia en cuanto a números, pero todo podría reducirse a estrategia.
+#Narration
+The Shanjians outnumber you slightly, but it could all come down to strategy.
+Las fuerzas de Shanjia te superan ligeramente en número, pero todo podría reducirse a estrategia.
+#Narration
+The Shanjians have half again as many troops as you do.  It doesn't look promising.
+Las fuerzas de Shanjia te superan en la mitad de tus tropas. No parece prometedor.
+#Narration
+The Shanjian forces greatly outnumber the Novans.  This is unlikely to end well.  If only you had more soldiers available!
+Las fuerzas de Shanjia superan en mucho a las de Nova. Es improbable que esto termine bien. ¡Si tan sólo dispusieras de más soldados!
+# Narration ( < 1.3.x )
+Your skill in long-range magic makes you as effective as a cannon (and more maneuverable), but there is still only one of you.
+Tu habilidad con la magia de largo alcance te hace tan eficaz como un cañón, pero aún así estás sola.
+# >= 1.3.x
+Your skill in long-range magic makes you as effective as a cannon (and more maneuverable), but there are far too many ships for you to take each one out individually.
+Tu habilidad con la magia de largo alcance te hace tan eficaz como un cañón, pero no puedes acabar uno con uno con semejante cantidad de barcos.
+#Narration
+Still, your position in the crow's nest allows you to target ships at a distance too great for them to respond effectively.
+Aún así, tu posición en la cima del mástil te permite alcanzar a los barcos a una distancia demasiado grande para que puedan responder de manera efectiva.
+#Narration
+The eventual outcome...
+El resultado final...
+# Testbubble
+War
+Guerra
+#Narration
+... is not in your favor.
+... no te es favorable.
+#Narration
+The Novan ships are sunk or scattered, as the Shanjian forces press towards landfall.
+Las fuerzas de Shanjia empujan a los pocos y dispersos barcos de Nova restantes hacia tierra.
+#Narration
+Your grasp of strategy allows you to recognise when the tipping point has been passed, and order your remaining vessels to retreat before they are all destroyed.
+Tu habilidad como estratega te permite reconocer cuando la victoria ya no es posible, y ordenas a tus buques la retirada para que no sean destruidos.
+#Narration
+This saves lives, but it means leaving the Novan approach completely unguarded.
+Con esta acción salvas vidas, pero también dejas el litoral de Nova completamente desprotegido.
+#Narration
+Your own vessel is holed and left to sink, and the lifeboats fall victim to flaming arrows.  You and your sailors are forced to leap into the water and swim for shore.
+Tu propia embarcación es agujereada y los botes salvavidas acribillados con flechas de fuego. Te ves obligada a saltar al agua y nadar hacia la orilla junto a tus marineros.
+#Narration
+Your long hours of practice pay off.  Once you are in the water, you quickly remove any unneeded items of clothing that will weigh you down.  From others, you construct a makeshift flotation device.  With this you will be able to better ration your strength during the grueling journey to shore.
+Tus largas horas de práctica dan sus frutos. Una vez en el agua, te quitas rápidamente los elementos innecesarios de la ropa que pesan mucho. Después, construyes una balsa improvisada con algunas maderas. Con esto serás capaz de racionar mejor tu energía durante el agotador viaje hacia la costa.
+#Narration
+At last you wash up on a Novan beach, sore and exhausted, but alive.
+Por fin consigues alcanzar una de las playas de Nova, dolorida y agotada, pero viva.
+#Narration
+You know how dangerous the seas can be, and the impossibly long stretch of water between you and safety.  Few of you will survive.  Your only hope is to find something buoyant from the wreckage to cling to... but there's only so many of those to go around.
+Conoces lo peligrosos que pueden ser los mares, y el impresionante tramo de agua que te separa de la costa. La mayoría pereceréis intentándolo. Tu única esperanza es encontrar algo que flote entre los restos del navío... pero no hay mucho donde elegir.
+#Narration
+With the aid of a wooden barrel and your aching, exhausted legs, you manage to propel yourself to shore... but you know that by taking that barrel you doomed someone else to drown.
+Con la ayuda de un barril de madera y tus doloridas y agotadas piernas, consigues impulsarte hasta la orilla... pero sabes que al agarrar ese barril has condenado a alguien a morir ahogado.
+#Narration
+You know how to swim, but you have never prepared for a situation like this - miles from shore, surrounded by enemies and no rescue in sight.
+Sabes nadar, pero nunca te has preparado para una situación como esta - a kilómetros de la costa, rodeada de enemigos y sin rescate a la vista.
+#Narration
+There's no help for it - you have to swim, and you have to keep going no matter what.  If you run out of strength and falter, no one will ever find your body.
+No te queda otra - tienes que nadar, y seguir adelante pase lo que pase. Si te quedas sin fuerza, nadie encontrará nunca tu cadáver.
+#Narration
+No, bad thought.  Only strong thoughts now.
+No, pensamiento negativo. Ahora solo pensamientos positivos.
+#Narration
+You struggle for time beyond time, not counting the hours, always fighting onward.  It doesn't matter how slow you are.  It only matters that you never stop.
+Peleas por lo que parece una eternidad, sin contar el tiempo, siempre hacia adelante. No importa lo lenta que vayas. Lo único que importa es no dejar de avanzar.
+#Narration
+At last you wash up on a Novan shore, exhausted and in terrible pain, your body covered with wounds, your fingers senseless.  You can barely move, but you are alive.
+Por fin consigues alcanzar una de las playas de Nova, agotada, con el cuerpo lleno de heridas, los dedos insensibles y el cuerpo envuelto en un dolor agudo. Apenas puedes moverte, pero estás viva.
+#Narration
+You struggle against the waves for as long as you can, but your limbs grow ever more heavy.  You have to rest.  Just for a little while.
+Luchas contra las olas durante todo el tiempo que puedes, pero tus extremidades se hacen cada vez más pesadas. Tienes que descansar. Solo un momentito.
+#Narration
+Just close your eyes...
+Tan sólo cierra los ojos...
+#Narration
+Swimming always seemed so easy, even fun.  Little children can do it.
+Nadar siempre te ha parecido fácil, incluso divertido. Hasta los niños pequeños pueden hacerlo.
+#Narration
+It's not so much fun when you're weighed down by clothing, miles from land, and surrounded by enemies.
+No es tan divertido cuando te pesa tanto la ropa, a kilómetros de la costa y rodeada de enemigos.
+#Narration
+If anyone could see you clearly, they'd probably help.  Your sailors would willingly risk their lives to haul you to safety, and your enemies would surely love to capture you intact.
+Si alguien pudiera verte, probablemente te ayudaría. Tus hombres estarían dispuestos a arriesgar sus vidas para ponerte a salvo, y a tus enemigos seguramente les encantaría capturarte con vida.
+#Narration
+But you're just one tiny figure lost in a dark sea.  You struggle against the waves for as long as you can, but your limbs grow ever more heavy...
+Pero no eres más que una pequeña figura perdida en un mar oscuro. Luchas contra las olas durante todo el tiempo que puedes, pero tus extremidades se hacen cada vez más pesadas...
+#Narration
+Many good soldiers were lost today, and Nova's troubles have not ended.
+Muchos buenos soldados han caído hoy, y los problemas de Nova no han terminado.
+#Narration
+Since you have failed to repel the invasion, the Shanjian fleet will soon land and their troops will begin to progress towards your capital city.
+Como has sido incapaz de repeler la invasión, la flota de Shanjia pronto llegará a tierra y sus tropas comenzarán a avanzar hacia la capital.
+#Narration
+Your remaining soldiers will hold them off as long as possible, of course, but the main strength of your military has been exhausted.  Nova's future looks bleak.
+El resto de tus soldados intentarán mantenerlos a raya el mayor tiempo posible, por supuesto, pero la mayor parte de tu ejército está agotado. El futuro de Nova parece sombrío.
+#Narration
+... is a hard-fought victory.
+... es una reñida victoria.
+#Narration
+You have repelled the invasion fleet, driving the survivors back across the sea.  You and your sailors are heroes, and Nova is safe once more.
+Has repelido a la flota invasora, devolviendo a los supervivientes al otro lado del mar. Tus marineros y tú sois héroes, y Nova vuelve a estar a salvo.
+#Speaker: joslyn
+The magical storms you summoned created giant waves which swept inland as well as out.
+Las tormentas mágicas que invocaste crearon olas gigantes que también avanzaron tierra adentro.
+#Speaker: joslyn
+Damage has been reported along the shoreline from Mazomba down to northern Maree.
+Se han reportado daños a lo largo de la costa desde Mazomba hasta el norte de Maree.
+#Speaker: joslyn
+The beaches are covered with wrack and the bodies of animals, and many fishers and cocklers are missing.
+Las playas están cubiertas de algas y de cuerpos de animales, y muchos pescadores han desaparecido.
+#Speaker: elodie_angry
+Are you blaming me?
+¿Me estás echando la culpa?
+#Speaker: joslyn
+Of course not. Many more lives would have been lost if the fleet had landed.
+Por supuesto que no. Muchas más vidas se habrían perdido si la flota hubiera desembarcado.
+#Speaker: joslyn
+What worries me is that these reports are increasing, even long after the events of the battle.
+Lo que me preocupa es que estos reportes van en aumento, tanto tiempo después de la batalla.
+#Speaker: joslyn
+More than that, an observatory in Caloris has seen strange shapes in the sea to the west.
+Además, un observador en Caloris ha divisado extrañas formas en el mar hacia el oeste.
+#Speaker: joslyn
+Something worse than a simple storm may have been unleashed.
+Algo peor que una simple tormenta puede haberse desatado.
+#Speaker: elodie_afraid
+(Does that mean... a sea monster?)
+(¿Quiere decir eso que... un monstruo marino?)
+#Speaker: joslyn
+We have obtained a number of Shanjian prisoners who survived the naval battle.
+Hemos apresado a varios soldados de Shanjia supervivientes de la batalla.
+#Speaker: joslyn
+A few are from wealthy families and can be ransomed, but most are common sailors and soldiers.
+Algunos provienen de familias adineradas y podemos exigir un rescate, pero la mayoría son marineros y simples soldados.
+#Speaker: joslyn
+What do you intend to do with them?
+¿Qué vas a hacer con ellos?
+#Speaker: elodie_neutral
+(Shanjia is a rich and powerful domain.  They may be willing to pay ransom even for common citizens.)
+(Shanjia es un reino rico y poderoso. Quizás estén dispuestos a pagar el rescate, incluso de simples ciudadanos.)
+#Speaker: elodie_angry
+(But they {i}did{/i} attack us, and giving them their soldiers back makes them stronger.)
+(Pero nos {i}han{/i} atacado, y devolverles los soldados los hace más fuertes.)
+#choice:
+Ransom them all
+Pedir un rescate por todos
+#choice:
+Ransom the rich, conscript the poor
+Pedir un rescate por los ricos y reclutar a los pobres
+#choice:
+Ransom the rich, execute the poor
+Pedir un rescate por los ricos y ejecutar a los pobres
+#choice:
+Execute them all
+Ejecutarlos a todos
+#Speaker: elodie_neutral
+Shanjia can afford to pay for their sailors as well as their captains.  Ask for ransom for all of them.
+Shanjia puede permitirse el lujo de pagar por sus marineros, igual que por sus capitanes. Pide un rescate por todos ellos.
+#Speaker: elodie_neutral
+Those with fewer skills may be worth {i}less.{/i} but they're not {i}worthless.{/i}
+Los menos habilidosos valdrán {i}poco{/i}, pero algo valen.
+#Speaker: joslyn
+#Speaker: elodie_neutral
+Ransom back the ones whose families will pay.
+Pide un rescate por los que estén dispuestos a pagar.
+#Speaker: elodie_neutral
+Offer the soldiers and such their freedom if they are willing to serve in {i}my{/i} army instead.
+Ofrece la libertad a los soldados que estén dispuestos a servir en {i}mi{/i} ejército.
+#Speaker: joslyn
+#Speaker: elodie_willful
+Ransom back the ones whose families will pay.  Kill the rest.
+Pide un rescate por los que estén dispuestos a pagar.  Ejecuta al resto.
+#Speaker: elodie_willful
+I don't need them clogging up my prisons.  They're of no use to me.
+No los quiero saturando mis calabozos. No me sirven de nada.
+#Speaker: joslyn
+#Speaker: elodie_angry
+No mercy.  Kill them all.
+Sin piedad. Ejecútalos a todos.
+#Speaker: elodie_willful
+Anyone who goes against me will be wiped out.
+Cualquiera que vaya en mi contra será eliminado.
+#Speaker: joslyn
+#Narration
+As you walk out of the room, you pass one of the maids, who appears to be in some distress.
+A salir de la habitación te cruzas con una de las criadas, que parece estar un poco afligida.
+#Speaker: alice_worried
+Your Highness... Your Majesty...
+Alteza... Majestad...
+#Speaker: elodie_angry
+Is there a problem?
+¿Hay algún problema?
+#Speaker: alice_worried
+No, my lady... I am your loyal servant, always...
+No, mi señora... yo siempre seré su servidora más leal...
+#Speaker: elodie_willful
+#Narration
+The invasion of Nova is proceeding.  Your coastline is under Shanjian control.  Soldiers have marched through villages, trampling fields and frightening citizens.
+La invasión de Nova ya ha comenzado. La costa está bajo el control de Shanjia. Los soldados marchan sobre los pueblos, pisoteando los campos y amenazando a los ciudadanos.
+#Narration
+A diplomatic delegation from Shanjia has requested access to the castle to discuss terms - most likely, for your surrender.  You lack the strength to hold off their armies, and surrendering now will save many lives.  It would seem that you have no choice.
+Una delegación diplomática de Shanjia ha solicitado acceso al castillo para discutir los términos - lo más probable, de tu rendición. No estás capacitada para contener a sus ejércitos, y rendirte ahora salvaría muchas vidas. Casi parece que no te queda otra opción.
+#Narration
+Almost no choice.
+Casi ninguna opción.
+#Narration - accent added sometime before 1.3.17
+Your fiance, Duke Talarist of Sedna, has sent you a message.  He does not personally command enough soldiers to turn the tide against this invasion, but his king in Talasse is eager to discuss a formal alliance.
+Tu prometido, el Duke Talarist de Sedna, te ha enviado un mensaje. Él no comanda personalmente suficientes soldados como para cambiar el curso de la invasión, pero su rey en Talasse está dispuesto a discutir una alianza formal.
+Your fiancé, Duke Talarist of Sedna, has sent you a message.  He does not personally command enough soldiers to turn the tide against this invasion, but his king in Talasse is eager to discuss a formal alliance.
+Tu prometido, el Duke Talarist de Sedna, te ha enviado un mensaje. Él no comanda personalmente suficientes soldados como para cambiar el curso de la invasión, pero su rey en Talasse está dispuesto a discutir una alianza formal.
+#Narration
+If you flee the capital now, you should be able to evade the army and reach the Talassian border.
+Si huyes de la capital ahora, deberías ser capaz de evadir al ejército y de llegar a la frontera con Talasse.
+#choice:
+#Narration
+Gathering what equipment and money you can,  you sneak out of the castle and flee into the east.
+Después de equiparte lo mejor que puedes, abandonas sigilosamente el castillo y huyes hacia el este.
+#Narration
+Agents of Sedna meet you partway through your journey to give you aid and keep you safe until you reach Talasse.  There, while the Shanjians loot your domain, you and the Duke of Sedna will be married.
+A mitad de camino te reúnes con varios agentes de Sedna que han sido enviados para protegerte y escoltarte hasta Talasse. Allí te casarás con el Duque de Sedna, mientras las fuerzas de Shanjia saquean tu reino.
+#Narration
+Together, you can gather the power necessary to retake your throne.  You hope.
+Juntos, conseguiréis reunir los apoyos suficientes para recuperar el trono. O eso esperas.
+#choice:
+Meet with diplomats
+Recibir a los diplomáticos
+#Narration
+You prepare yourself as best you can to meet with the representatives from Shanjia.
+Te preparas lo mejor que puedes para tu reunión con los representantes de Shanjia.
+#Narration
+You expected diplomats and a military representative, a general or an admiral.  You did not expect the handsome man decked in jewels who now stands before you - a man announced by your servants as Togami, King of Shanjia.
+Esperabas diplomáticos y un representante militar, un general o un almirante. No al hombre apuesto y cubierto de joyas que ahora está frente a ti - un hombre anunciado por tus sirvientes como Togami, Rey de Shanjia.
+#Speaker: elodie_angry
+(King-consort, he should be, if even that much.  He's a common musician who married his way onto the throne.)
+(Rey consorte, debería ser, como mucho. Es un simple músico que ha trepado hasta el trono mediante el matrimonio.)
+#Speaker: elodie_angry
+(The current leader of Shanjia {i}should{/i} be Queen Junko.  Is this her husband or a usurper?)
+(La verdadera líder de Shanjia {i}debería{/i} ser la reina Junko. ¿Es este su marido o un usurpador?)
+#Speaker: elodie_afraid
+(Is he really their King?  Why would a king come all the way here?)
+(¿Es realmente el rey? ¿Por qué ha venido hasta aquí?)
+#Speaker: elodie_angry
+(And he's a Lumen, too!)
+(¡Y además es un Lumen!)
+#Speaker: togami
+My dear young lady. How difficult this must be for you. So much responsibility at such a tender age.
+Mi querida señorita. Qué difícil que debe de ser para usted. Tanta responsabilidad a una edad tan temprana.
+#Narration
+You yearn to slap the false sympathy off his oily face, but you force yourself to remain calm.
+Desearías arrancarle de un bofetazo esa falta simpatía de su aceitosa cara, pero te obligas a mantener la calma.
+#Speaker: elodie_angry
+Don't pretend to be my friend while you're killing my people!
+¡No finja ser mi amigo mientras está matando a mi gente!
+#Speaker: togami
+Temper, temper, Princess. After all, I am here to {i}save{/i} your people.
+Tranquila, tranquila, princesa. Al fin y al cabo, estoy aquí para {i}salvar{/i} a su pueblo.
+#Speaker: togami
+War benefits no one, don't you think? Such a terrible waste. Better to settle things in a civilised manner.
+La guerra no beneficia a nadie, ¿no le parece? Un terrible desperdicio. Es mejor arreglar las cosas de una manera civilizada.
+#Speaker: togami
+A contest. A game, so to speak, with Nova as the stakes.
+Un certamen. Un juego, por así decirlo, con Nova como premio.
+#Speaker: togami
+Should I win, then your domain will submit and accept me as Overlord with no further resistance.
+Si gano, entonces su reino se rendirá y me aceptará como su rey y señor sin oponer resistencia.
+#Speaker: togami
+Should I lose, then my army will leave your domain in peace and shed no more blood.
+Si pierdo, entonces mi ejército se marchará de su reino sin derramar más sangre.
+#Speaker: elodie_afraid
+What sort of game?
+¿Qué clase de juego?
+#Speaker: togami
+It is well known that Nova is ruled by Lumens. As it happens, I too possess the powers of a Lumen.
+Todo el mundo sabe que Nova lo gobiernan Lumens. Da la casualidad de que yo también poseo los poderes de un Lumen.
+#Speaker: togami
+I propose a formal duel. My powers against yours. The winner takes control of Nova, the loser... dies.
+Propongo un duelo formal. Mi magia contra la suya. El ganador obtiene el control de Nova, el perdedor... muere.
+#Speaker: elodie_afraid
+But I'm not a Lumen!
+¡Pero yo no soy un Lumen!
+#Speaker: togami
+Saving it for the coronation, were you? Such a pity that you'll be unprepared.
+Esperando a la coronación, ¿verdad? Es una pena que no vaya a estar preparada.
+#Speaker: togami
+Well, then. Go and find your crystal. Becoming a Lumen is a very simple matter. Then we can have our duel.
+En fin. Vaya a buscar a su cristal. Convertirse en Lumen es algo muy sencillo. Después podremos tener nuestro duelo.
+#Speaker: elodie_angry
+What's the point?  You know I can't win.  Why don't you just kill me now?
+¿Qué sentido tiene? Usted sabe que no puedo ganar. ¿Por qué no me mata ahora?
+#Speaker: togami
+Because that's not the game. You want to save your people, don't you? I want to fight a Lumen.
+Porque así no funciona el juego. ¿Quiere salvar a su pueblo, verdad? Pues yo quiero pelear contra otro Lumen.
+#Speaker: elodie_angry
+Your game by your rules, for my life?  That doesn't sound fair to me.
+¿Su juego y sus reglas, por mi vida? No me parece justo.
+#Speaker: togami
+The rules of formal dueling have been passed down for centuries and must be upheld.
+Las reglas de los duelos se han transmitido durante siglos y han de ser respetadas.
+#Speaker: togami
+It is important that we do this by the ancient codes.
+Es importante que hagamos esto como se hacía antaño.
+#Speaker: elodie_angry
+Why should I?
+¿Y por qué debería?
+#Speaker: togami
+If you refuse, then the war will continue.
+Si se niega, la guerra continuará.
+#Speaker: togami
+I'll sweeten the deal. If you meet me in a formal Lumen challenge, I'll call off the invasion even if I win.
+Voy a mejorar el trato. Si acepta medirse a mí en un duelo formal, paralizaré la invasión incluso si gano.
+#Speaker: elodie_afraid
+Really?
+¿De Verdad?
+#Speaker: togami
+I swear it by the gods. Nova will be free and safe.
+Lo juro por los dioses. Nova será libre.
+#Speaker: elodie_angry
+Why take that risk?  You're winning the war.
+¿Por qué correr el riesgo? Ya va ganando la guerra.
+#Speaker: togami
+It's not your land that I want. It's your crystal.
+No es su tierra lo que deseo. Es su cristal.
+#Speaker: elodie_willful
+It won't work for you!
+¡No funcionará con usted!
+#Speaker: togami
+How little you know. Under the right circumstances, resonance can be changed.
+Que poco sabe. La resonancia se puede cambiar bajo las condiciones adecuadas.
+#Speaker: togami
+To gain your power, I am willing to wager my own. Shall we begin?
+Para conseguir su poder, estoy dispuesto a arriesgar el mío. ¿Empezamos?
+#Speaker: elodie_afraid
+(I can sense his power... it's so strong!)
+(Puedo sentir su poder... ¡Es tan fuerte!)
+#Speaker: elodie_afraid
+(I've learned everything I possibly could, but he's at least as good as I am...)
+(He aprendido todo lo que he podido, pero aún así es al menos tan bueno como yo...)
 # For the visible keyboard.
 space
 space
