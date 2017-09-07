@@ -308,7 +308,13 @@ Engaged to Adair
 Comprometida con Adair
 Engaged to Thaddeus
 Comprometida con Thaddeus
+# < 1.3.25
 Single
+Soltera
+# >= 1.3.25
+{tag=male}Single
+Soltero
+{tag=female}Single
 Soltera
 # <= 1.2.25 - old dossier strings
 {b}Father{/b}: Joslyn, King-Dowager of Nova
@@ -837,7 +843,11 @@ The following year, Elodie and Banion were married. Attendees said that the cere
 Al año siguiente, Elodie y Banion se casaron. Los asistentes dijeron que la ceremonia fue encantadora, pero la novia y el novio siguieron fulminándose con la mirada el uno al otro mientras tomaban sus votos.
 The following year, Elodie and Thaddeus were married in a quiet ceremony attended by only the noble elite. Elodie was surprised to discover that for all his rebellious ways, her husband had no romantic experience at all. Their wedding night ended in a cautious truce, with plans for slow progress in the future.
 Al año siguiente, Elodie y Thaddeus se casaron en una ceremonia tranquila asistida sólo por la élite noble. Elodie se sorprendió al descubrir que a pesar de sus formas rebeldes, su marido no tenía experiencia romántica en absoluto. Su noche de bodas terminó en una tregua prudente, con planes para un progreso lento en el futuro.
+# Typo'd version found in LLtQ <= 1.3.25
 Depite objections and misgivings, the Duchess of Lillah insisted that Elodie and Thaddeus must be married within the year. The resulting disagreements led eventually to Elodie's Aunt Lucille leaving the castle in a huff and threatening to cut off all contact between Elodie and her cousin Charlotte.
+A pesar de las objeciones y dudas, la Duquesa de Lillah insistió en que Elodie y Thaddeus debían casarse ese mismo año. Los desacuerdos resultantes llevaron finalmente a que la tía de Elodie, Lucille, dejara el castillo enfadada y amenazando con cortar todo contacto entre Elodie y su prima Charlotte.
+# Corrected in >= 1.3.25.1
+Despite objections and misgivings, the Duchess of Lillah insisted that Elodie and Thaddeus must be married within the year. The resulting disagreements led eventually to Elodie's Aunt Lucille leaving the castle in a huff and threatening to cut off all contact between Elodie and her cousin Charlotte.
 A pesar de las objeciones y dudas, la Duquesa de Lillah insistió en que Elodie y Thaddeus debían casarse ese mismo año. Los desacuerdos resultantes llevaron finalmente a que la tía de Elodie, Lucille, dejara el castillo enfadada y amenazando con cortar todo contacto entre Elodie y su prima Charlotte.
 The wedding, when it took place, was a quiet affair, neither bride nor groom seeming entirely comfortable with their roles. Elodie was surprised to discover that for all his rebellious ways, her husband had no romantic experience at all. Their wedding night ended in a cautious truce, with plans for slow progress in the future.
 La boda, cuando se llevó a cabo, fue un asunto tranquilo, con la novia ni el novio visíblemente incómodos con su papel. Elodie se sorprendió al descubrir que a pesar de sus formas rebeldes, su marido no tenía experiencia romántica en absoluto. Su noche de bodas terminó en una tregua prudente, con planes para un progreso lento en el futuro.
@@ -14001,6 +14011,8 @@ Morning
 Mañana
 Evening
 Tarde
+Afternoon
+Tarde
 Now that you've finished studying,\nwhat will you do for the weekend?
 Ahora que has acabado de estudiar,\n¿que vas a hacer el fin de semana?
 Test: %(caption)s â‡¨ %(result)s
@@ -14963,6 +14975,18 @@ OpenGL
 OpenGL
 You will need to quit and restart the game before changes to the renderer setting will take effect.
 Necesitarás reiniciar el juego antes de que los cambios en el procesador de renderizado surtan efecto.
+Adaptive framerate enabled.
+Framerate adaptativo activado.
+Cursor:
+Cursor:
+System
+Sistema
+Image
+Imagen
+Long Live The Queen only redraws the screen when it's actually changed, so the framerate will normally be very low except when an animation is running.  This saves electricity and battery life, but conflicts with some video recording software.  If you want smoother videos, try setting the cursor to 'image' - that will force the game to update frames whenever it draws the mouse pointer.
+Long Live The Queen sólo redibuja la pantalla cuando se produce algún cambio, por lo que el framerate normalmente es muy bajo, a no ser que se esté ejecutando alguna animación. Esto ahorra electricidad y duración de la batería, pero entra en conflicto con algún software de grabación de vídeo. Si quieres videos más suaves, intenta establecer el cursor en 'imagen' - esto forzará al juego a actualizar frames siempre que dibuje el puntero del ratón.
+Dismiss
+Descartar
 Debugging Console
 Consola de depuración
 #Speaker: charlotte_scared
