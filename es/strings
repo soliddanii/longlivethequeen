@@ -142,13 +142,13 @@ broken off an\nengagement?
 been sent flowers\nby a woman?
 ¿Has recibido flores \nde una mujer?
 transformed into\na Lumen?
-¿Has sido transformada \nen un lumen?
+¿Te has convertido \nen un Lumen?
 faced a vote of\nno-confidence?
 ¿Te has enfrentadao a un \nvoto de desconfianza?
 challenged someone\nto a duel?
 ¿Has desafiado a \nalguien a un duelo?
 held a hostage to\nransom?
-¿Has liberado un rehén \npor un precio?
+¿Has retenido a un rehén \npor un rescate?
 Prev
 Ant.
 Checklist
@@ -180,7 +180,7 @@ hired a Lumen\nMinister?
 ordered an\nassassination?
 ¿Has ordenado \nun asesinato?
 forced someone else\nto get married?
-¿Has forzado a otra \npersona para casarse?
+¿Has forzado a otra \npersona a casarse?
 achieved a naval\nvictory?
 ¿Has ganado una \nbatalla naval?
 become an evil\nminion?
@@ -192,7 +192,7 @@ sunk a fleet\nwith magic?
 encountered a\ntentacle monster?
 ¿Has encontrado un\nmonstruo con tentáculos?
 caused a couple\nto divorce?
-¿Has causado \nun divorcio?
+¿Has provocado \nun divorcio?
 forged a military alliance?
 ¿Has forjado una \nalianza militar?
 been blessed by\nthe favor of cats?
@@ -275,7 +275,7 @@ Ha ocurrido una excepción: %s
 More code
 Más código
 Done
-Finalizado
+Volver
 Joslyn
 Joslyn
 King-Dowager of Nova
@@ -1623,7 +1623,7 @@ Long Live The Queen
 Boarding School Uniform
 Uniforme de Colegio Internado
 Coronet - Boosts Royal Demeanor
-Corona - Mejora el Comportamiento
+Corona - Mejora la Conducta
 Tea Dress - Boosts Conversation
 Vestido de Tarde - Mejora la Conversación
 Toga - Boosts Expression
@@ -1637,7 +1637,7 @@ Vestido de Enfermera - Mejora la Medicina
 Tuxedo - Boosts Economics
 Esmoquin - Mejora la Economía
 Uniform - Boosts Military
-Uniforme - Mejora Militar
+Uniforme - Mejora la capacidad militar
 Tutu - Boosts Agility
 Tutu - Mejora la Agilidad
 Tabard - Boosts Weapons
@@ -1711,7 +1711,7 @@ Joystick
 Check For Updates
 Buscar Actualizaciones
 Video Settings
-Ajustes de Video
+Ajustes de Vídeo
 Credits
 Créditos
 # Load/Save stuff:
@@ -2202,7 +2202,7 @@ No real harm done.  Please be more careful in the future.
 No me ha hecho daño en realidad. Por favor se más cuidadosa en el futuro.
 #Speaker: alice_smile
 Yes, my lady. Thank you.
-Si, mi señora. Gracias.
+Sí, mi señora. Gracias.
 #choice:
 Apologise
 Disculparse
@@ -2220,7 +2220,7 @@ How dare you!  What do you think you're doing?  I'll have you flogged for this!
 ¡¿Cómo te atreves?!  ¿Qué crees que estás haciendo?  ¡Haré que te azoten por esto!
 #Speaker: alice_worried
 ... Yes, my lady...
-... Si, mi señora...
+... Sí, mi señora...
 #Narration
 You return to your rooms, but you have barely settled when someone knocks on the door.
 Vuelves ha tu habitación, pero todavía no te has asentado cuando alguien llama a la puerta.
@@ -4339,7 +4339,7 @@ I am not yet her subject. When she is crowned and I give my oath, I will obey. U
 Todavía no soy su súbdito. Cuando ella sea coronada y yo haga mi juramento, obedeceré. Hasta entonces, mi intención es protegerla.
 #Speaker: talarist
 You should be ashamed that you Novans show less loyalty to your future Queen than I, a foreign visitor.
-Debería avergonzaros que yo, un visitante extranjero, muestre más lealtad hacia la futura reina que vos.
+Debería avergonzaros que yo, un visitante extranjero, muestre más lealtad hacia la futura reina que usted.
 #Narration
 There is an unpleasant stir among the crowd at his words.
 Se produce un desagradable revuelo entre la multitud tras sus palabras.
@@ -6617,13 +6617,13 @@ Your kindness has already won the hearts of the common folk of Nova. They will f
 Su bondad ya se ha ganado los corazones del pueblo de Nova. Le seguirán adondequiera que vaya.
 #Speaker: musician
 You are already popular with the common folk of Nova. They put their trust in you.
-Usted ya es popular entre las gentes de Nova. Confían en vos.
+Usted ya es popular entre las gentes de Nova. Confían en usted.
 #Speaker: musician
 You have the support of the common people, but not their love. Not yet.
 Cuenta con el apoyo de la gente, pero no con su amor. Todavía no.
 #Speaker: musician
 The common people of Nova are wary of you. You are very young to have so much responsibility.
-La gente de Nova desconfía de vos. Creen que es muy joven para tanta responsabilidad.
+La gente de Nova desconfía de usted. Creen que es muy joven para tanta responsabilidad.
 #Speaker: musician
 If they see you as a grieving child, they will not trust your ability to protect them.
 Si la ven como a una niña afligida, no van a confiar en su capacidad para protegerlos.
@@ -6821,7 +6821,7 @@ Your musician has returned from her wanderings.
 Tu músico ha regresado de sus viajes.
 #Speaker: sabine
 Your Highness, the Duchess of Lillah is a popular woman. More popular, in many quarters, than you yourself.
-Majestad, la Duquesa de Lillah es una mujer popular. Más popular, en muchos lugares, que vos misma.
+Majestad, la Duquesa de Lillah es una mujer popular. En muchos lugares, más popular que usted misma.
 #sabine
 A wise mother. An experienced leader. And known to be ruthless enough to make hard choices.
 Es una madre sabia. Una líder con experiencia. Y se sabe que es lo suficientemente implacable como para tomar decisiones difíciles.
@@ -6870,11 +6870,11 @@ You mean Adair?
 #[if we sent the kid to Armand]
 #Speaker: sabine
 In her eyes, you have stolen her child to make him your family's plaything.
-A sus ojos, vos habéis robado a su hijo para convertirlo en el juguete de vuestra familia.
+A sus ojos, usted ha robado a su hijo para convertirlo en el juguete de vuestra familia.
 #[if we gave the kid to Ishtar]
 #Speaker: sabine
 In her eyes, you have stolen her child and placed him in unworthy hands.
-A sus ojos, vos habéis robado a su hijo para ponerlo en manos indignas.
+A sus ojos, usted a robado a su hijo para ponerlo en manos indignas.
 #Speaker: sabine
 It is a personal grudge. I do not know whether your nobles would consider that worth rebellion.
 Es un rencor personal. No sé si sus nobles podrían considerarlo suficiente para una rebelión.
@@ -7179,7 +7179,7 @@ You also have some letters.
 También tienes algunas cartas.
 #Speaker: alice_smile
 My lady, there are letters for you.
-Mi señora, hay cartas para vos.
+Mi señora, hay cartas para usted.
 #Speaker: elodie_yielding
 (Another letter from Briony.  Why does she keep writing me?  We were never even friends.)
 (Otra carta de Briony. ¿Por qué sigue escribiéndome? Ni siquiera hemos llegado a ser amigas.)
@@ -8160,7 +8160,7 @@ Encuentra una silla o un sofá donde colocarlo.
 #Speaker: elodie_neutral
 #Speaker: alice_worried
 But... the Duchess sent that pillow to you.
-Pero... la Duquesa envió esta almohada para vos.
+Pero... la Duquesa envió esta almohada para usted.
 #Speaker: elodie_willful
 #Speaker: alice_worried
 #Speaker: elodie_willful
@@ -9916,7 +9916,7 @@ It may be. It may not. Are you willing to take the risk?
 Puede ser, o puede que no. ¿Está dispuesta a correr el riesgo?
 #choice:
 Yes
-Si
+Sí
 #Speaker: elodie_willful
 This is what I was born for.  I say we do it.
 Es para lo que nací. Yo digo que lo hagamos.
@@ -12509,7 +12509,7 @@ Asuntos Internos
 what the nobles and other citizens are up to
 a que se dedican los nobles y ciudadanos
 Foreign Intelligence
-Información del Exterior
+Asuntos Externos
 what other countries are up to
 que traman otros países
 Ciphering
@@ -12521,7 +12521,7 @@ Hierbas
 knowledge of helpful and harmful plants
 conocimiento de las plantas útiles y perjudiciales
 Battlefield Medicine
-Medicina de batalla
+Campo de batalla
 first aid, dealing with immediate injuries
 primeros auxilios, tratar lesiones inmediatas
 Poison
@@ -12621,7 +12621,7 @@ conocimiento y control sobre tus propios poderes mágicos
 Social
 Social
 Royal Demeanor
-Comportamiento
+Conducta
 #Composure
 You practice deep breathing exercises, learning to find and maintain a sense of inner calm.
 Practicas ejercicios de respiración, aprendiendo a encontrar y mantener la calma.
@@ -13950,41 +13950,41 @@ Now, get ready to become a Queen!
 Bonus to: Agility, Faith
 Bonus a: Agilidad, Fe
 Penalty to: Royal Demeanor, Weapons, Intrigue, Military
-Penalización a: Conducta Real, Armas, Intriga, Militar
+Penalización a: Conducta, Armas, Intriga, Ciencias Militares
 Bonus to: Weapons, Military
-Bonus a: Armas, Militar
+Bonus a: Armas, Ciencias Militares
 Penalty to: Royal Demeanor, Expression, Animal Handling, Medicine
-Penalización a: Conducta Real, Expression, Manejo de Animales, Medicina
+Penalización a: Conducta, Expression, Manejo de Animales, Medicina
 Bonus to: Expression,\nAnimal Handling
 Bonus a: Expression,\nManejo de Animales
 Penalty to: Royal Demeanor, Conversation, Athletics
-Penalización a: Conducta Real, Conversación, Atlética
+Penalización a: Conducta, Conversación, Atlética
 Bonus to: Conversation, Athletics
 Bonus a: Conversación, Atlética
 Penalty to: Weapons, Intrigue, Military
-Penalización a: Armas, Intriga, Militar
+Penalización a: Armas, Intriga, Ciencias Militares
 Bonus to: Royal Demeanor, History, Faith
-Bonus a: Conducta Real, Historia, Fe
+Bonus a: Conducta, Historia, Fe
 Penalty to: Weapons, Lumen
 Penalización a: Armas, Lumen
 Bonus to: Intrigue, Military,\nLumen
-Bonus a: Intriga, Militar,\nLumen
+Bonus a: Intriga, Ciencias Militares, Lumen
 Penalty to: Royal Demeanor, History, Economics
-Penalización a: Conducta Real, Historia, Economía
+Penalización a: Conducta, Historia, Economía
 Bonus to: Athletics, Faith
 Bonus a: Atlética, Fe
 Bonus to: Conversation, Medicine
 Bonus a: Conversación, Medicina
 Penalty to: Royal Demeanor, Intrigue, Faith
-Penalización a: Conducta Real, Intriga, Fe
+Penalización a: Conducta, Intriga, Fe
 Penalty to: Conversation, History, Economics
 Penalización a: Conversación, Historia, Economía
 Penalty to: Agility, Weapons, Athletics, Animal Handling
 Penalización a: Agilidad, Armas, Atlética, Manejo de Animales
 Novan
-Novan
+Historia de Nova
 World
-Mundo
+Historia del Mundo
 Battlefield
 Campo de Batalla
 # Tooltip for individual classes.
@@ -14024,7 +14024,7 @@ Partial Success
 Failed
 Fracaso
 %(sn)s\nSaved on %(ft)s
-%(sn)s\nGuardado en %(ft)s
+%(sn)s\nGuardado el %(ft)s
 Current version: %s
 Versión actual: %s
 An error occurred trying to get the latest update list: %r
@@ -14277,7 +14277,7 @@ My mother was trained, wasn't she?
 Mi madre estaba entrenada, ¿verdad?
 #Speaker: julianna
 {tag=julianna, to elodie}Yes.
-Si.
+Sí.
 #Speaker: elodie_lonely
 My father said she used too much magic and over time it built up and killed her.
 Mi padre dijo que ella usaba demasiado la magia y que con el tiempo se acumuló y la mató.
@@ -14956,11 +14956,11 @@ Reiniciando juego.{nw}
 Disabled fullscreen because fullscreen software rendering is not supported on Lion.
 Pantalla completa deshabilitada porque no está soportada sobre Lion.
 Video Settings:
-Opciones de Video:
+Opciones de Vídeo:
 Currently using GL (accelerated) renderer.
-Currently using GL (accelerated) renderer.
+Usando renderizado GL (acelerado).
 Currently using software renderer.
-Currently using software renderer.
+Usando renderizado por software.
 Current logical resolution: %dx%d
 Resolución lógica actual: %dx%d
 Current physical resolution: %dx%d
@@ -14968,7 +14968,7 @@ Resolución física actual: %dx%d
 Snap to 1024x600
 Ajustar a 1024x600
 Preferred renderer:
-Preferred renderer:
+Preferencia de renderizado:
 Software
 Software
 OpenGL
@@ -14986,7 +14986,7 @@ Imagen
 Long Live The Queen only redraws the screen when it's actually changed, so the framerate will normally be very low except when an animation is running.  This saves electricity and battery life, but conflicts with some video recording software.  If you want smoother videos, try setting the cursor to 'image' - that will force the game to update frames whenever it draws the mouse pointer.
 Long Live The Queen sólo redibuja la pantalla cuando se produce algún cambio, por lo que el framerate normalmente es muy bajo, a no ser que se esté ejecutando alguna animación. Esto ahorra electricidad y duración de la batería, pero entra en conflicto con algún software de grabación de vídeo. Si quieres videos más suaves, intenta establecer el cursor en 'imagen' - esto forzará al juego a actualizar frames siempre que dibuje el puntero del ratón.
 Dismiss
-Descartar
+Entendido
 Debugging Console
 Consola de depuración
 #Speaker: charlotte_scared
