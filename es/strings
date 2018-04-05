@@ -539,7 +539,7 @@ Conde de Io
 Is estranged from his mother
 Está separada de su madre
 Lives with the Duchess of Mead
-Vive con la duquesa de Mead
+Vive con la Duquesa de Mead
 #
 # <= 1.2.25 dossier strings.
 Got upset about a woman trying to kill his
@@ -607,7 +607,7 @@ Duque de Kigal
 {b}Daughter{/b}: Peri, age 6
 {b}Hija{/b}: Peri, 6 años
 Arisse, the Duchess of Lillah is his mother-in-law.
-Arisse, la duquesa de Lillah es su suegra.
+Arisse, la Duquesa de Lillah es su suegra.
 Arisse, the former Duchess of Lillah was his mother-in-law.
 Arisse, la ex Duquesa de Lillah era su suegra.
 Lieke
@@ -862,7 +862,7 @@ Para sorpresa de muchos, Joslyn, Duque de Caloris, pronto anunció su compromiso
 It seemed that Elodie would soon have new half-siblings on the way.
 Al parecer Elodie pronto tendría hermanastros nuevos en camino.
 Once his daughter was secure on her throne, Joslyn returned to his birthplace to focus on his duties as Duke of Caloris.
-Una vez su hija estubo segura en su trono, Joslyn regresó a su ciudad natal para centrarse en sus funciones como duque de Caloris.
+Una vez su hija estubo segura en su trono, Joslyn regresó a su ciudad natal para centrarse en sus funciones como Duque de Caloris.
 He soon became engaged to Brin, the Duchess of Hellas.
 En poco tiempo se comprometió con Brin, la Duquesa de Hellas.
 He soon became engaged to the Countess Sirin.
@@ -1523,7 +1523,7 @@ Jugar con Juguetes
 Play with Toys\n\n
 Jugar con Juguetes\n\n
 +1 Yielding\n+1 Lonely\n+1 Cheerful
-+1 Dócil\n+1 Solitaria\n+1 Alegria
++1 Dócil\n+1 Solitaria\n+1 Alegre
 +2 Willful\n+1 Lonely
 +2 Obstinada\n+1 Solitaria
 +1 Willful\n+1 Depressed\n+1 Lonely
@@ -1531,7 +1531,7 @@ Jugar con Juguetes\n\n
 Walk in the Gardens
 Pasear por los jardines
 +1 Lonely\n+1Cheerful
-+1 Solitaria\n+1 Alegria
++1 Solitaria\n+1 Alegre
 Attend Ball
 Attend Ball
 Attend court
@@ -1585,7 +1585,7 @@ Servicio
 Attend Court
 Asistir a la Corte
 Mood
-Humor
+Actitud
 Current mood: %s
 Estado de ánimo: %s
 Injured
@@ -1639,7 +1639,7 @@ Esmoquin - Mejora la Economía
 Uniform - Boosts Military
 Uniforme - Mejora la capacidad militar
 Tutu - Boosts Agility
-Tutu - Mejora la Agilidad
+Tutú - Mejora la Agilidad
 Tabard - Boosts Weapons
 Tabardo - Mejora las Armas
 Exercise Gear - Boosts Athletics
@@ -1742,13 +1742,13 @@ You'll have to work hard this year to prepare yourself before your fifteenth bir
 Vas a tener que trabajar duro este año para prepararte antes de tu decimoquinto cumpleaños, pero sé que puedes hacerlo.
 #Speaker: joslyn
 You'll learn quickly and you'll make a wonderful queen.  It's what your mother would have wanted.
-Aprenderás rápidamente y serás una Reina maravillosa.  Es lo que tu madre hubiera querido.
+Aprenderás rápidamente y serás una reina maravillosa.  Es lo que tu madre hubiera querido.
 #Speaker: elodie_angry
 This is not what Mother would have wanted!
 ¡Esto no es lo que mamá hubiera querido!
 #Speaker: elodie_depressed
 She wouldn't have wanted to die and leave me.
-Ella no hubiera querido morir y dejarme.
+Ella no hubiera querido morir ni abandonarme.
 #Speaker: joslyn
 No. She wouldn't. But sometimes bad things happen. We have to pick up and carry on.
 No. Pero a veces pasan cosas malas, y tenemos que seguir adelante.
@@ -1760,13 +1760,13 @@ Todo Nova depende de nosotros. De ti.
 *suspiro*
 #Speaker: joslyn
 I will be here to guide you until your coronation, but the decisions you make are ultimately up to you.
-Yo estaré aqui para guiarte hasta tu coronación, pero las decisiones que tomes dependerán en última instancia de ti.
+Yo estaré aquí para guiarte hasta tu coronación, pero en última instancia, las decisiones las tendrás que tomar tú.
 #Speaker: joslyn
 Come. Your maids are waiting.
 Ven. Tus damas están esperando.
 #Speaker: elodie_afraid
 What's all that noise outside? Who's here?
-¿Que es todo ese ruido fuera? ¿Quién está aqui?
+¿Que es todo ese ruido fuera? ¿Quién ha venido?
 #Speaker: elodie_cheerful
 Oh!  It's my cousins!  And my aunt and uncle.
 ¡Oh!  ¡Son mis primos!  Y mis tíos.
@@ -1795,7 +1795,7 @@ Maybe we'll have some time to talk later.
 Tal vez tengamos tiempo de hablar más tarde.
 #Speaker: elodie_neutral
 What's that commotion outside? Father? What's going on?
-¿Qué es todo ese alboroto fuera? ¿Papa? ¿Qué está pasando?
+¿Qué es todo ese alboroto fuera? ¿Papá? ¿Qué está pasando?
 #Speaker: julianna
 I have come to pay my respects in honor of your mother.
 He venido a presentar mis respetos en honor a tu madre.
@@ -1875,7 +1875,7 @@ No, not at you. At your... feet?
 No, a ti no. A tus... ¿pies?
 #Speaker: julianna
 Princess! Don't move!
-¡Princesa! ¡No se mueva!
+¡Princesa! ¡No te muevas!
 #choice:
 Hold still
 No moverse
@@ -1938,11 +1938,11 @@ Lottie!
 ¡Lottie!
 #Narration
 Too late, Julianna swings her sword and cuts off the snake's head.
-Demasiado tarde, Julianna balancea su espada y le corta la cabeza a la serpiente.
+Demasiado tarde, Julianna mueve su espada y le corta la cabeza a la serpiente.
 #Speaker: lucille
 #Speaker: julianna
 Your daughter's been bitten by a milk viper. They're poisonous. Get an herbalist, right away!
-Su hija ha sido mordida por una víbora de leche. Son venenosas. ¡Consiga un herbolario, de inmediato!
+A su hija la ha mordido una víbora de leche. Son venenosas. ¡Consiga un herbolario, de inmediato!
 #Speaker: lucille
 {b}I{/b} will treat my daughter. I certainly can't trust anyone here to keep her safe!
 {b}Yo{/b} curaré a mi hija. ¡Ciertamente no confío en nadie para mantenerla a salvo!
@@ -2169,16 +2169,16 @@ Guards!
 ¡Guardias!
 #Narration
 However, by the time the response is organised and directed to the area beyond the palace, there's no sign of any intruder.
-Sin embargo, para cuando los guardias se organizan y dirigen a la zona más allá del palacio, no hay señales de ningún intruso.
+Sin embargo, para cuando los guardias se organizan y llegan a la zona situada más allá del palacio, ya no hay señales de ningún intruso.
 #Narration
 You wonder if you were only imagining it.
-Te preguntas si sólo lo estabas imaginando.
+Te preguntas si lo habrás imaginado.
 #choice:
 Run and hide
 Correr y esconderte
 #Narration
 You rush back to the safety of your stone tower. Better safe than sorry!
-Corres hacia la seguridad de tu torre de piedra. Más vale prevenir que curar!
+Corres hacia la seguridad de tu torre de piedra. ¡Más vale prevenir que curar!
 #Narration
 As you are walking up the stairs, a maid comes running down holding a towering pile of linen.
 Mientras subes las escaleras, una criada baja corriendo con una imponente pila de ropa de cama.
@@ -2235,7 +2235,7 @@ The Duke Consort of Mead.
 El Duque consorte de Mead.
 #Speaker: elodie_neutral
 (The husband of the Duchess of Mead is the older brother of the Duchess of Ursul, but has no title in his own right.)
-(El marido de la duquesa de Mead es el hermano mayor de la duquesa de Ursul, pero no tiene ningún título de propio derecho.)
+(El marido de la Duquesa de Mead es el hermano mayor de la Duquesa de Ursul, pero no tiene ningún título de propio derecho.)
 #Speaker: elodie_neutral
 (Everyone was surprised when the Old Duke skipped his son in the succession.)
 (Todo el mundo se sorprendió cuando el viejo duque apartó a su hijo de la línea de sucesión.)
@@ -2304,7 +2304,7 @@ I need to borrow 875 lassi to assemble the metal and a factory to mold and cast 
 Necesito que me preste 875 lassi para ensamblar el metal y una fábrica para moldearlo.
 #Speaker: man
 With this system, we will be able to create new books in a fraction of the time it takes now, and make copies to send all over the world.
-Con este sistema, vamos a ser capaces de crear nuevos libros en una fracción del tiempo que se necesita ahora, y hacer copias para enviar a todo el mundo.
+Con este sistema, vamos a ser capaces de crear nuevos libros en una fracción del tiempo del que se necesita ahora, y hacer copias para enviar a todo el mundo.
 #Speaker: elodie_depressed
 (I don't know much about factories or trade.  Would that really be worthwhile?)
 (No sé mucho acerca de fábricas o de comercio. ¿Valdrá realmente la pena?)
@@ -2336,7 +2336,7 @@ However, I must call for your aid. The Ixionite occupation of the county of Imbr
 Sin embargo, debo pedirle ayuda. La ocupación Ixionite del condado de Imbrium se ha prolongado durante demasiado tiempo. Ahora es el momento de hacerlos retroceder.
 #Speaker: elodie_neutral
 (His sister, the Duchess of Hellas, started trouble in Ixion four years ago, so they invaded his territory as payback.)
-(Su hermana, la duquesa de Hellas, causó problemas en Ixion hace cuatro años, por lo que Ixion invadió su territorio como una venganza.)
+(Su hermana, la Duquesa de Hellas, causó problemas en Ixion hace cuatro años, por lo que Ixion invadió su territorio como venganza.)
 #Speaker: elodie_neutral
 (I know there's been some problems with Ixion, but I don't know the details. I guess they're occupying southern Maree.)
 (Sé que ha habido algunos problemas con Ixion, pero no sé los detalles. Supongo que están ocupando el sur de Maree.)
@@ -2381,7 +2381,7 @@ Your Highness, if I may ask... That necklace you're wearing. Where did it come f
 Alteza, si se me permite preguntar... Ese collar que lleva. ¿De dónde proviene?
 #Speaker: elodie_neutral
 It was a gift from the Duke of Sedna.
-Fue un regalo del Duque de Sedna.
+Es un regalo del Duque de Sedna.
 #Speaker: banion
 Then, you have made arrangements with him?
 Entonces, ¿Ha llegado a un acuerdo con él?
@@ -2444,7 +2444,7 @@ Your appearance and magical might so terrified the Ixionite invaders that they f
 Tu aparición y magia aterrorizó tanto a los invasores de Ixionite que huyeron casi sin luchar. ¡La victoria es tuya!
 #Speaker: joslyn
 The representative from Ixion is here. Be careful - no one wants to give up prizes that they have won.
-El representante de Ixion está aquí. Ten cuidado - nadie quiere renunciar a los premios que ha ganado.
+El representante de Ixion está aquí. Ten cuidado - nadie quiere renunciar a lo que ha conseguido hasta ahora.
 #Speaker: banion
 You have the full support of my sister and myself, Your Highness.
 Tiene el apoyo incondicional de mi hermana y mío, Alteza.
@@ -2563,13 +2563,13 @@ Sin embargo, no tenía nuestra aprobación para hacerlo. Si retira sus tropas, l
 ¡Alteza!
 #Speaker: elodie_neutral
 This is the fair solution. You have no right to invade us because of her actions.
-Esta es la solución justa. No tienes derecho a invadir a causa de sus acciones.
+Esta es la solución justa. No tiene derecho a invadirnos a causa de sus acciones.
 #Speaker: diplomat_ixion
 What manner of punishment were you considering?
-¿Qué clase de castigo estaba considerando?
+¿Qué clase de castigo está considerando?
 #choice:
 Make her a commoner
-Hacerla un plebeyo
+Convertirla en plebeyo
 #Speaker: elodie_neutral
 She will be stripped of her titles and forced to live as one of the common people.
 Será despojada de sus títulos y obligada a vivir como una persona común.
@@ -2596,7 +2596,7 @@ Command her to marry an Ixionite
 Obligarla a casarse con un Ixionite
 #Speaker: elodie_neutral
 She will marry an Ixionite lord of your choosing.
-Será obligada a casarse con un noble Ixionite de tu elección.
+Será obligada a casarse con un noble Ixionite de su elección.
 #Speaker: brin
 I will not!
 ¡No lo haré!
@@ -2605,7 +2605,7 @@ You will if I say you will, or I'll take your title away!
 Lo harás si yo lo digo, ¡o me quedaré con tus títulos!
 #Speaker: elodie_neutral
 Her heirs will be of your blood, in a peaceful union that benefits us both.
-Sus herederos serán de tu sangre, en una unión pacífica que nos beneficia a los dos.
+Sus herederos serán de su sangre, en una unión pacífica que nos beneficia a los dos.
 #Speaker: diplomat_ixion
 Very well. We will accept this arrangement.
 Muy bien. Vamos a aceptar este acuerdo.
@@ -2904,10 +2904,10 @@ It's justice, it is!  Them devils killed me brother, and broke me mam's heart.
 ¡Es justicia! Esos demonios mataron a mi hermano, dejando a mi madre destrozada.
 #Speaker: condemned_woman
 Lied to her, they did, when she went to see why he'd not come back.  Said he'd gone for a soldier, when he never would!
-La mintieron, desde luego, cuando fue a ver por qué él no volvía. ¡Le dijeron que se había ido para soldado, cuando él nunca lo hubiera hecho!
+Le mintieron, desde luego, cuando fue a ver por qué él no volvía. ¡Le dijeron que se había ido para soldado, cuando él nunca lo hubiera hecho!
 #Speaker: condemned_woman
 He weren't the only one neither.  I waited ten years for my chance to get my own back.  That's justice!
-Mi hermano ni siquiera fue único. Esperé diez años para poder vengarme. ¡Esto es justicia!
+Mi hermano ni siquiera fue el único. Esperé diez años para poder vengarme. ¡Esto es justicia!
 #Speaker: kevan
 You see? She's completely unrepentant! Hang her and be done with it.
 ¿Lo ve? ¡No se arrepiente en absoluto! Cuélguela y acabemos de una vez.
@@ -3407,8 +3407,8 @@ Preparas tu mejor vestido para la ocasión, y después caminas lentamente a trav
 You can tell from the excited murmurs around you that the people are impressed with your queenly appearance.
 Puedes deducir a partir de los murmullos de tu alrededor que la gente está impresionada con tu majestuosa apariencia.
 #Narration
-You hear the occasional little girl squeal \"Pretty!\" as you pass by, and can't hide your smile.
-Escuchas a una niña chillar \"¡Guapa!\" cuando pasas a su lado, y no puedes evitar ocultar tu sonrisa.
+You hear the occasional little girl squeal "Pretty!" as you pass by, and can't hide your smile.
+Escuchas a una niña chillar "¡Guapa!" cuando pasas a su lado, y no puedes evitar ocultar tu sonrisa.
 #Narration
 At the end of the route, you help the priestesses turn over the earth for the new tree to be planted.
 Al final del recorrido, ayudas a las sacerdotisas a remover la tierra para plantar el nuevo árbol.
@@ -3898,7 +3898,7 @@ Someone scandalous
 Alguien escandaloso
 #Narration
 You approach Linley, the second son of the Duke of Kigal.  He's about two years older than you, and he was always nice to you at school.
-Te acercas a Linley, el segundo hijo Del duque de Kigal. Él es aproximadamente dos años mayor que tú, y siempre ha sido amable contigo en la escuela.
+Te acercas a Linley, el segundo hijo del Duque de Kigal. Él es aproximadamente dos años mayor que tú, y siempre ha sido amable contigo en la escuela.
 #Narration
 #Narration
 You may be too young to hold a title in your own right, but you are not the youngest noble present.  That honor falls to Adair, the Young Lord of Elath, who is only twelve and a head shorter than you are.  Next to him, you look positively adult.
@@ -5823,7 +5823,7 @@ Be calm and determined and you will succeed. I believe in you.
 Mantén la calma y la determinación y triunfarás. Yo creo en ti.
 #Speaker: elodie_cheerful
 Thanks, Dad.
-Gracias, papa.
+Gracias, papá.
 #choice:
 More guards
 Asignar más guardias a tu protección
@@ -8037,7 +8037,7 @@ I don't know, a few years ago. After Gran's divorce.
 No sé, hace unos años. Después del divorcio de Grant.
 #Speaker: elodie_neutral
 (The Duchess of Lillah divorced her second husband Jael, and he 'died' right afterwards. She probably had him killed.)
-(La duquesa de Lillah se divorció de su segundo marido, Jael, y él "murió" justo después. Probablemente hizo que lo matasen.)
+(La Duquesa de Lillah se divorció de su segundo marido, Jael, y él "murió" justo después. Probablemente hizo que lo matasen.)
 #Speaker: elodie_neutral
 (Most people think that was no great loss, because there were all sorts of horrible rumors about Jael.)
 (A la mayoría de la gente no le importó demasiado, al fin y al cabo circulaban todo tipo de rumores horribles sobre Jael.)
@@ -9200,7 +9200,7 @@ Después de tal actuación, los jueces no pueden evitar nombrar la ganadora.
 You attempt to sing while you play, but it is difficult to control your breathing while focusing on the notes.  The end result really isn't your best performance.
 Intentas cantar mientras tocas, pero te es difícil controlar la respiración mientras te centras en las notas. El resultado final no hace justicia a tus aptitudes musicales.
 #Narration
-At first it looks as if the judges may be tempted to award you anyway, but there are a few murmurs about the consequences of \"giving\" the contest to the crown, so the recognition goes to others.
+At first it looks as if the judges may be tempted to award you anyway, but there are a few murmurs about the consequences of "giving" the contest to the crown, so the recognition goes to others.
 Al principio parece que los jueces van a concederte el premio de todas formas, pero se escuchan murmullos en contra de "regalar" el concurso a la corona, por lo que la victoria se la lleva otro.
 #Narration
 You aren't trained in any instrument that's appropriate for a setting like this, so you have to sing {i}a capella.{/i}
@@ -9478,7 +9478,7 @@ Frente a un afilado pico y las garras que intentan arrancarle los ojos, Kevan se
 At that point, guards move in to arrest him.  You and your bird are both safe.
 En ese momento, los guardias lo alcanzan para arrestarlo. Tu ave y tú estáis a salvo.
 #Narration
-The last thing you think is \"But that's not {i}fair...{/i}\"
+The last thing you think is "But that's not {i}fair...{/i}"
 Lo último que te pasa por la cabeza es "Pero no es {i}justo... {/i}"
 #Narration
 Without a further word, you direct the full force of your magical wrath at the Earl of Io.
@@ -10058,8 +10058,8 @@ Sientes el poder crecer...
 In the distance, you hear a terrible roaring noise, as the seas you have charmed suddenly {i}buckle{/i} beneath the invaders, opening up a maw of void into which they tumble helplessly.
 A lo lejos, se oye un imponente rugido, mientras el mar bajo los invasores se agita y retuerce formando un gigantesco remolino, al que se precipitan con impotencia.
 #Narration
-The ship lists sharply, and you can hear the sailors screaming. \"WAVE!  WAVE!\"
-Tu barco se agita bruscamente, mientras escuchas a los marineros gritar. \"¡Oleaje!  ¡Oleaje!\"
+The ship lists sharply, and you can hear the sailors screaming. "WAVE!  WAVE!"
+Tu barco se agita bruscamente, mientras escuchas a los marineros gritar. "¡Oleaje!  ¡Oleaje!"
 #Narration
 And then it all comes apart...
 Y entonces todo se resquebraja...
@@ -11048,7 +11048,7 @@ Speak clearly, priestess. What is your proposal?
 Habla claramente, sacerdotisa. ¿Cuál es tu propuesta?
 #Speaker: selene
 The Crown Princess must leave the castle in disguise and join forces with the Duchess of Ursul.
-La princesa debe salir del castillo disfrazada y unir fuerzas con la duquesa de Ursul.
+La princesa debe salir del castillo disfrazada y unir fuerzas con la Duquesa de Ursul.
 #Speaker: joslyn
 What? She was banished -
 ¿Qué? Fue desterrada -
@@ -12497,7 +12497,7 @@ Historia de Nova
 notable events and locations within this domain
 eventos y lugares destacables dentro de este reino
 Foreign Affairs
-Asuntos Exteriores
+Historia Externa
 notable events and relationships between this domain and its neighbors
 acontecimientos destacables y las relaciones entre este reino y sus vecinos
 World History
@@ -12796,7 +12796,7 @@ You practice sight-reading complex pieces of music.
 Practicas complejas piezas de música a primera vista.
 #Voice
 You practice deep-breathing exercises to build up your ability to sustain a note.
-Practicas ejercicios de respiración profunda para mejorar tu habilidad de mantener notas.
+Practicas ejercicios de respiración profunda para mejorar tu habilidad para mantener notas.
 You learn the differences in resonance between the chest, the head, and the nose.
 Aprendes las diferencias de resonancia entre el pecho, la cabeza y la nariz.
 You learn about different vocal ranges, from the most profound bass to the rare coluratura soprano.
@@ -13912,7 +13912,7 @@ Controlarás a Elodie, la casi-Reina de Nova, mientras intenta prepararse para s
 The skills she learns will provide different choices in the ongoing plot.  Learning the right skills can mean the difference between life and death!
 Las habilidades que aprenda ofrecerán diferentes elecciones en la trama.  Aprender las habilidades correctas puede significar la diferencia entre la vida y la muerte!
 You also need to keep an eye on Elodie's {b}Mood.{/b} With her mother's tragic death, Elodie is not very happy right now.  The Mood button will take you to the emotions screen for more details.
-También necesitaras estar atento al {b}estado de ánimo{/b} de Elodie. Con la trágica muerte de su madre, Elodie no es está muy feliz.  El botón de Humor te mostrará la pantalla de emociones con más detalle.
+También necesitaras estar atento al {b}estado de ánimo{/b} de Elodie. Con la trágica muerte de su madre, Elodie no es está muy feliz.  El botón de Actitud te mostrará la pantalla de emociones con más detalle.
 Elodie is feeling both {b}Afraid{/b} and {b}Depressed{/b}, but her strongest emotion is Depressed.  If she becomes more Cheerful to cancel out the depression, her strongest emotion would then be Afraid.
 Elodie se siente {b}Asustada{/b} y {b}Deprimida{/b}, pero su emoción mas fuerte es Deprimida.  Si Elodie deja de estar deprimida y es más feliz, su emoción más fuerte será entonces Asustada.
 Elodie's current mood affects her ability to learn.  It will give her a bonus to some skills and a penalty to others.  Let's take a look at the Skills screen now.
@@ -13954,9 +13954,9 @@ Penalización a: Conducta, Armas, Intriga, Ciencias Militares
 Bonus to: Weapons, Military
 Bonus a: Armas, Ciencias Militares
 Penalty to: Royal Demeanor, Expression, Animal Handling, Medicine
-Penalización a: Conducta, Expression, Manejo de Animales, Medicina
+Penalización a: Conducta, Expresión, Manejo de Animales, Medicina
 Bonus to: Expression,\nAnimal Handling
-Bonus a: Expression,\nManejo de Animales
+Bonus a: Expresión,\nManejo de Animales
 Penalty to: Royal Demeanor, Conversation, Athletics
 Penalización a: Conducta, Conversación, Atlética
 Bonus to: Conversation, Athletics
@@ -14014,7 +14014,7 @@ Tarde
 Afternoon
 Tarde
 Now that you've finished studying,\nwhat will you do for the weekend?
-Ahora que has acabado de estudiar,\n¿que vas a hacer el fin de semana?
+Ahora que has acabado de estudiar,\n¿qué vas a hacer el fin de semana?
 Test: %(caption)s â‡¨ %(result)s
 Prueba: %(caption)s â‡¨ %(result)s
 Success
@@ -14146,10 +14146,10 @@ What crystal?
 ¿Qué cristal?
 #Speaker: julianna
 The source of power for any Lumen is a particular magical crystal.  Once you've bonded with it, it becomes a part of you as long as you live.
-La fuente de poder de cualquier Lumen es un cristal mágico particular.  Una vez te has unido a el, pasa a formar parte de ti mientras vivas.
+La fuente de poder de cualquier Lumen es un cristal mágico particular.  Una vez te has unido a el, pasa a formar parte de ti mientras vives.
 #Speaker: julianna
 The Royal Crystal has been passed down from ruler to ruler for generations. It belongs to you, now - except that the King may be keeping it from you.
-El cristal Real ha pasado de soberano a soberano durante generaciones. Ahora te pertenece - aunque tu padre puede estar ocultándotelo.
+El Cristal Real ha pasado de soberano a soberano durante generaciones. Ahora te pertenece - aunque tu padre puede estar ocultándotelo.
 #Speaker: elodie_neutral
 Do you have a crystal?
 ¿Tienes tú un cristal?
@@ -14174,10 +14174,10 @@ How do I find my Lumen crystal?
 ¿Cómo encuentro mi cristal de Lumen?
 #Speaker: julianna
 Your father probably knows what happened to it.
-Probablemente tu padre sepa lo que le sucedió.
+Probablemente tu padre sepa donde está.
 #Speaker: elodie_neutral
 What if he destroyed it?
-¿Y si lo destruyó?
+¿Y si lo ha destruido?
 #Speaker: julianna
 They can't be destroyed. He could throw it away, but then someone else might find it. No, he'll keep it safe.
 No puede ser destruido. Podría tirarlo, pero entonces alguien podría encontrarlo. No, lo mantendrá seguro.
@@ -14186,7 +14186,7 @@ But if it's mine, it wouldn't matter if someone else found it.
 Pero si es mío, no importa si otra persona lo encuentra, ¿no?
 #Speaker: julianna
 It's attuned to you, but you haven't bonded with it yet. If it found a compatible host, someone who was {i}like{/i} you in some way, it could bond to them.
-Está en sintonía contigo, pero todavía no te has unido a él. Si encuentra un huésped compatible, alguien que sea {i}como{/i} tú de alguna manera, podría unirse con él.
+Está en sintonía contigo, pero todavía no te has unido a él. Si encuentra un huésped compatible, alguien que sea {i}como{/i} tú de alguna manera, podría unirse a él.
 #Speaker: elodie_neutral
 My father says I can't have the crystal until I'm Queen, so we'll just have to wait.
 Mi padre dice que no puedo tener el cristal hasta que sea reina, así que tendremos que esperar.
@@ -14241,7 +14241,7 @@ I got it!
 #Speaker: elodie_neutral
 #Speaker: julianna
 Pick up the crystal with your bare hands. Press it against your chest, over your heart, and say {i}\"Illuminate!\"{/i}
-Coge el cristal con tus manos. Presiona lo contra tu pecho, sobre tu corazón y di {i}\"¡Iluminate!\"{/i}
+Coge el cristal con tus manos. Presionalo contra tu pecho, sobre tu corazón y di {i}\"¡Iluminate!\"{/i}
 #choice:
 #Speaker: elodie_neutral
 Okay...  Here we go... \n Illuminate!
@@ -15079,7 +15079,7 @@ There are treasures that have been collected by my family, enchanted artifacts o
 Hay tesoros que han sido recogidos por mi familia, poderosos artefactos encantados que se han escondido para nunca ser utilizados.
 #Speaker: joslyn
 They are hidden because they are dangerous, just as Lumen magic is dangerous. Even more so, because many of their workings have been lost over the years.
-Están escondidos porque son peligrosos, igual que la magia de un Lumen. Más aún, porque muchos de sus ('workings') se han perdido con los años.
+Están escondidos porque son peligrosos, igual que la magia de un Lumen. Más aún, porque muchos de sus propósitos se han perdido con los años.
 #Speaker: joslyn
 I would rather such things were forgotten entirely. The world is a better place without them.
 Preferiría que esas cosas fueran olvidadas para siempre. El mundo es un lugar mejor sin ellas.
@@ -15155,7 +15155,7 @@ You attend a formal ball, which gives you the chance to interact with the nobili
 Asistes a un baile de gala, lo que te da la oportunidad de interactuar con la nobleza en un ambiente menos estresante.
 #Narration
 You attend services in the castle grove, letting the peace of the ritual calm your heart.
-Asistes a los servicios en el jardín del castillo, dejando que la paz del ritual calme tu corazón.
+Asistes a los servicios en la arboleda del castillo, dejando que la paz del ritual calme tu corazón.
 #Narration
 You sneak a peek at some of the luckless peasants held in the dungeons - petty thieves and troublemakers, now suffering in the dark. They're obviously bad people, but seeing them so miserable still feels unfair. There must be a better way.
 Echas un vistazo a algunos de los desafortunados campesinos encerrados en las mazmorras - ladronzuelos y alborotadores, que ahora sufren en la oscuridad. Obviamente son malas personas, pero verlos tan miserables te da lástima. Tiene que haber una manera mejor.
@@ -15308,7 +15308,7 @@ Dad, if this trouble with Ixion started years ago, why didn't Mom fix it?
 Papá, si el problema con Ixion comenzó hace años, ¿por qué no lo arregló Mamá?
 #Speaker: joslyn
 Your mother told the Duke of Maree and the Duchess of Hellas that it was their problem and they should sort it out themselves.
-Tu madre le dijo al duque de Maree y a la duquesa de Hellas que era su problema y que debían solucionarlo ellos mismos.
+Tu madre le dijo al Duque de Maree y a la Duquesa de Hellas que era su problema y que debían solucionarlo ellos mismos.
 #Speaker: elodie_lonely
 #Speaker: elodie_depressed
 Should I have done that?
