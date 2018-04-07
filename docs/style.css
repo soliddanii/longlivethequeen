@@ -54,12 +54,13 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    
+
     background: linear-gradient(to right bottom, #f0e8f1 71%, #EF97AF 29%);
 }
 
 .right {
     height: 100%;
+    display: block;
     margin-right: 5%;
 }
 
@@ -80,11 +81,17 @@
 
 .left {
     height: 100%;
+    max-width: 1600px;
+    display: inline-block;
     /*margin-left: 2%;*/
-    display: flex;
+    /*display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items: center;*/
+}
+
+.left > div {
+    display: block;
 }
 
 .left h1 {
@@ -137,13 +144,17 @@
 }
 
 .author a {
-    padding: 0 16px 0 40px;
+    padding: 0 16px 0 37px;
     background: transparent url(images/steam.png) no-repeat center left;
 
     text-decoration: none;
     font-family: Yellowtail;
     font-size: 30px;
     color: #980521;
+}
+
+.dbuttons {
+    text-align: center;
 }
 
 .dbuttons > a {
@@ -192,4 +203,93 @@
 
 #copyright a:hover {
     color: #EE4973;
+}
+
+/* FOR SCREENS SMALLER THAN 660px HEIGHT */
+@media(max-height: 660px) {
+
+    .left h1 {
+        margin-bottom: 0;
+        font-size: 52px;
+    }
+    
+    .left h2 {
+        margin-bottom: 10px;
+        font-size: 32px;
+    }
+    
+    .left p {
+        margin-bottom: 8px;
+        font-size: 15px;
+    }
+    
+    .left p:last-of-type {
+        margin-bottom: 15px;
+    }
+
+    .author {
+        padding-left: 3px;
+    }
+
+    .author a {
+        padding: 0 16px 0 30px;
+        background-size: 22px;
+        font-size: 20px;
+    }
+    
+    .dbuttons > a {
+        padding: 12px 20px;
+        margin: 10px;
+    }
+
+    .dbuttons > a > span {
+        font-size: 15px;
+    }
+}
+
+/* FOR SCREENS SMALLER THAN 500px HEIGHT */
+@media(max-height: 550px),(max-width: 1100px) {
+
+    #copyright {
+        font-size: 18px;
+    }
+
+}
+
+/* FOR SCREENS SMALLER THAN 360px HEIGHT or 600px WIDTH */
+@media(max-height: 500px),(max-width: 700px) {
+
+    .wrapper {
+        display: block;
+    }
+
+    .right {
+        margin: 40px 0 0 0;
+    }
+
+    .right > img {
+        width: auto;
+        height: 100%;
+        margin: 0 auto;
+        display: block;
+        position: initial;
+        transform: none;
+        opacity: 1;
+        /*top: 50%;
+        left: 500px;*/
+    }
+
+    .author a {
+        background-size: 16px;
+        font-size: 14px;
+    }
+
+    #copyright {
+        display: block;
+        text-align: center;
+        position: initial;
+        font-size: 14px;
+        text-shadow: 0px 0px 10px #EF97AF;
+    }
+
 }
