@@ -74,7 +74,7 @@ Agente
 Gwenelle, Duchess of Sudbury
 Gwenelle, Duquesa de Sudbury
 Briony, Lady Mead
-Briony, Señora de Mead
+Briony, Señorita de Mead
 Diplomat
 Diplomático
 Togami
@@ -240,17 +240,17 @@ recibido un flechazo
 let your blood run dry
 acabado desangrada
 choked on magical chains
-sido ahogada por cadenas mágicas
+muerto estrangulada por cadenas mágicas
 drowned at sea
 sucumbido en el mar
 cracked your skull
 quedado KO
 had your life drained
-agotado tu vida
+drenado tu vitalidad
 fallen victim to monsters
 sido víctima de monstruos
 been blasted by magic
-sido golpeada con magia
+sido derrotada con magia
 blown\nyourself up
 explotado en pedazos
 been poisoned
@@ -463,7 +463,7 @@ Age 38
 {b}Wife{/b}: Corisande, Duchess of Mead
 {b}Esposa{/b}: Corisande, Duquesa de Mead
 {b}Daughter{/b}: Briony, Lady Mead, age 16
-{b}Hija{/b}: Briony, Señora de Mead, 16 años
+{b}Hija{/b}: Briony, Señorita de Mead, 16 años
 {b}Son{/b}: Noll, age 8
 {b}Hijo{/b}: Noll, 8 años
 Elodie took the title from his sister Julianna and made him Duke of Ursul.
@@ -968,7 +968,7 @@ En algunos territorios, cualquier persona que se encontrara en posesión de una 
 The young Queen sponsored expeditions of trained knights to venture into the Old Forest and attempt to exterminate the monsters within. Unfortunately, black magic would not give up its grip on Nova so easily. Many lives were lost, and with their blood, the monsters appeared to grow even stronger...
 La joven reina financiaba expediciones de caballeros entrenados para aventurarse en el Bosque Viejo y tratar de exterminar a los monstruos que en el habitaban. Por desgracia, la magia negra no iba a desparecer de Nova tan fácilmente. Los monstruos parecían hacerse más fuertes con cada vida que se perdía...
 The subject of magic and Lumens remained a slightly uncomfortable one for the citizens of Nova. Perfectly fine for the Queen, who had inherited it by divine right, but not something that other people should be aspiring towards. Look at all the terrible things that happened when that power fell into the wrong hands!
-El tema de la magia y los Lumens era un tema poco cómodo para los ciudadanos de Nova. Era algo correcto para la reina, que había heredado la magia por derecho divino, pero no era algo a lo que otras personas debieran aspirar. ¡No hay más que mirar a todas las cosas horribles que pasaron cuando el poder estaba en manos equivocadas!
+El tema de la magia y los Lumens era un tema poco cómodo para los ciudadanos de Nova. Era algo correcto para la reina, que había heredado la magia por derecho divino, pero no era algo a lo que otras personas debieran aspirar. ¡No hay más que ver todas las cosas horribles que pasaron cuando el poder estaba en manos equivocadas!
 As an openly acknowledged Lumen, Julianna, Duchess of Ursul, was met with public suspicion whenever she journeyed outside of her Duchy. At times, that suspicion was accompanied with thrown vegetables.
 Como Lumen reconocida abiertamente, Julianna, Duquesa de Ursul, era mal recibida cada vez que viajaba fuera de su ducado. A veces, ese recibimiento estaba acompañado por el lanzamiento de verduras.
 It did not matter that Elodie supported her fully as a member of the noble court. That only led the commoners to whisper that Julianna was a bad influence on their Queen.
@@ -3506,7 +3506,7 @@ With a growl, you bring your weapon crashing down.  He won't be harming anyone e
 Con un gruñido, golpeas tu arma con fuerza. No volverá a hacer daño a nadie.
 #choice:
 Don't
-No matarlo
+No hacerlo
 #Speaker: elodie_angry
 Guards!  Take this man into custody!  I want answers.
 ¡Guardias! ¡Tomad a este hombre en custodia! Quiero respuestas.
@@ -5426,7 +5426,7 @@ An engagement present?
 ¿Un regalo de compromiso?
 #Narration
 You open the box to reveal a little glass figure of a dancing girl, her hands held above her head.
-Abres la caja para revelar una pequeña figura de cristal de una bailarina, sosteniendo las manos sobre la cabeza.
+Abres la caja para revelar la pequeña figura de cristal de una bailarina, sosteniendo las manos sobre la cabeza.
 #choice:
 Put it away
 Guardarlo
@@ -5605,7 +5605,7 @@ Are you both all right?
 ¿Estáis las dos bien?
 #Speaker: elodie_willful
 I'm fine.
-Yo si.
+Yo sí.
 #Narration
 She picks herself up and glares at you before forcing a smile onto her face.
 La Duquesa se recompone y te mira fijamente antes de forzar una sonrisa en su rostro.
@@ -5630,7 +5630,7 @@ I should go now. I hope to see more of you later.
 Debo irme. Espero veros más tarde.
 #Narration
 Once she's gone, you raise an eyebrow at your father.
-Una vez se ha ido, miras a tu padre arqueando una ceja.
+Una vez se ha ido, arqueas la ceja en dirección a tu padre.
 #Speaker: joslyn
 This is the path that you have set us on.
 No nos has dejado otra opción.
@@ -5997,7 +5997,7 @@ Also, we have received a message from the King of Talasse.
 Además, hemos recibido un mensaje del Rey de Talasse.
 #Speaker: joslyn
 It suggests that the Duke of Sedna is extremely displeased at how publicly you broke your betrothal to him.
-Informa que el Duque de Sedna está extremadamente disgustado por la forma en que rompiste públicamente su compromiso contigo.
+Informa que el Duque de Sedna está extremadamente disgustado por la forma en la que rompiste públicamente vuestro compromiso.
 #Speaker: elodie_depressed
 Oh.
 Oh.
@@ -6555,7 +6555,7 @@ Gracias, pero no nos interesa.
 (Los músicos se utilizan a menudo como agentes secretos y mensajeros. Pueden ser útiles - y peligrosos)
 #Narration
 The musician sings a little ditty to demonstrate her skills with the lute.
-El músico entona una cancioncilla para demostrar sus habilidades con el laúd.
+La músico entona una cancioncilla para demostrar su habilidad con el laúd.
 #Speaker: elodie_yielding
 (It's okay, but nothing special.)
 (Está bien, pero nada especial.)
@@ -6659,7 +6659,7 @@ So far, he's enjoying himself with your uncle Armand in Mazomba.  He says the tr
 Por el momento, está disfrutando con tu tío Armand en Mazomba. Dice que los árboles se ven diferentes, y que hay muchas más ranas. Espera poder visitar el puesto de observación en la fortaleza la península del Pastor.
 #Narration
 It's an extremely formal letter for such a little boy, thanking you for your wisdom in allowing him to live with his grandfather (who probably dictated every word he wrote).
-Es una carta muy formal para un niño tan pequeño, dándote las gracias por tu sabiduría al permitirle vivir con su abuelo (El cual probablemente dictó cada palabra escrita).
+Es una carta muy formal para un niño tan pequeño, dándote las gracias por tu sabiduría al permitirle vivir con su abuelo (el cual probablemente dictó cada palabra escrita).
 #Narration
 It's a bit messy and hard to read, but he seems to be thanking you for letting him stay with the family he knows.
 Está un poco desordenada y es difícil de leer, pero parece estar dándote las gracias por dejarle vivir con la familia que conoce.
@@ -6975,7 +6975,7 @@ One of his ancestors was.
 Uno de sus antepasados lo fue.
 #Speaker: joslyn
 Elath is a major duchy. You cannot afford to lose control of it.
-EElath es un ducado importante. No puedes permitirte el lujo de perder su control.
+Elath es un ducado importante. No puedes permitirte el lujo de perder su control.
 #Speaker: elodie_neutral
 (There are important mining operations there. We need those resources.)
 (Allí hay importantes operaciones mineras. Necesitamos esos recursos.)
@@ -7088,7 +7088,7 @@ I don't want to make any decisions about succession right now.
 No quiero decidir nada sobre la sucesión ahora mismo.
 #Speaker: elodie_angry
 For the moment, put it under the direct control of the crown.
-Por el momento, poner el Ducado bajo el control directo de la corona.
+Por el momento, vamos a poner el ducado bajo el control directo de la corona.
 #Speaker: elodie_willful
 I'll sort it out later.
 Ya lo arreglaré más tarde.
@@ -7233,7 +7233,7 @@ Go to Sudbury for Gwenelle's party
 Ir a Sudbury a la fiesta de Gwenelle
 #Speaker: elodie_cheerful
 (It'll be good to see my friends!)
-(¡Será fantástico ver a mis amigos!)
+(¡Será fantástico ver a mis amigas!)
 #choice:
 Send your regrets
 Declinar la invitación
@@ -7360,7 +7360,7 @@ This is my home. It has never been yours.
 Ésta es mi casa. Nunca ha sido la tuya.
 #Narration
 Before you can back away, their gazes fall on you.  They wait expectantly for you as near-queen to settle the dispute.
-Antes de que puedas retroceder, sus miradas recaen sobre ti. Esperan con expectación que como futura reina puedas solucionar el conflicto.
+Antes de que puedas retroceder, sus miradas se posan en ti. Esperan con expectación que como futura reina puedas solucionar el conflicto.
 #Narration
 Feelings could be easily hurt on either side here.  It's important that everyone involved save face.
 Podrías herir los sentimientos de ambas fácilmente. Es muy importante satisfacer a las dos partes.
@@ -7476,7 +7476,7 @@ What secrets?
 ¿Qué secretos?
 #Speaker: briony
 Like, how to get into the old palace! I've heard it's packed full of treasure.
-Por ejemplo, ¡cómo entrar al viejo palacio! He oído que está lleno de tesoros.
+Por ejemplo, ¡cómo entrar al antiguo palacio! He oído que está lleno de tesoros.
 #Speaker: elodie_neutral
 You mean the Old Capital by Kathre Lake?  The abandoned one?
 ¿Te refieres a la antigua capital junto al lago Kathre? ¿La abandonada?
@@ -7563,7 +7563,7 @@ You nod and smile politely, then as soon as Briony isn't looking, you report on 
 Asientes y sonríes educadamente. Después, en cuanto Briony se da la vuelta, informas de su plan a su madre, la Duquesa de Mead. Su madre se muestra {i}muy{/i} agradecida por el aviso. Con suerte Briony estará ahora segura.
 #Speaker: elodie_neutral
 Old palace?
-¿Antiguo palacio?
+¿El antiguo palacio?
 #Speaker: briony
 The one at Kathre Lake! Where the Kings and Queens of Nova used to live.
 ¡El que está junto al lago Kathre! Donde los reyes y reinas de Nova solían vivir.
@@ -7706,7 +7706,7 @@ Who is against me?
 ¿Quién se ha puesto en mi contra?
 #Speaker: joslyn
 A number of minor earls and countesses. The Duchess of Mead and the Duke of Kigal.
-Unos pocos de condes y condesas sin importancia. La Duquesa de Mead y el Duque de Kigal.
+Unos pocos condes y condesas sin importancia. La Duquesa de Mead y el Duque de Kigal.
 #Speaker: joslyn
 The forces of Elath are under Arisse's control, of course.
 Naturalmente, las tropas de Elath están bajo el control de Arisse.
@@ -8947,7 +8947,7 @@ What will you offer as prizes to the winners?
 (Bueno, no puedo darles oro. No tenemos suficiente.)
 #choice:
 Status and praise
-Prestigio y elogios
+Prestigio y Elogios
 #Speaker: elodie_willful
 Being declared to be the {i}best{/i} in front of the entire domain should be prize enough for anyone!
 ¡Ser proclamado el {i}mejor{/i} frente a todo el reino debería bastar a cualquiera como premio!
@@ -8980,7 +8980,7 @@ A medida que avanzas por el vestíbulo, tus ojos recaen sobre un jarrón de flor
 (Una hoja asesinada por una debilidad secreta... Una amenaza oculta.)
 #Speaker: elodie_angry
 (That spoils the whole display!)
-(¡Esas hojas estropean toda la belleza!)
+(¡Esas hojas estropean todo el conjunto!)
 #Narration
 You pick off the dead leaves and adjust the floral arrangement, muttering under your breath about blind butlers.
 Recoges las hojas secas y acomodas el arreglo floral, murmurando en voz baja sobre los ineptos mayordomos.
@@ -8995,7 +8995,7 @@ You continue up the stairs to your room, where a maid is waiting for you.
 Continúas subiendo las escaleras hacia tu habitación, donde te espera una criada.
 #Speaker: alice_smile
 My lady, a gift has arrived from Kigal.
-Mi señora, ha llegado un desde Kigal.
+Mi señora, ha llegado un regalo desde Kigal.
 #Speaker: elodie_neutral
 From the Duke?
 ¿Es del Duque?
@@ -9071,7 +9071,7 @@ You worry that perhaps you shouldn't have eaten so much candy, and try to ignore
 Te preocupa haber ingerido demasiado azúcar, y tratas de ignorar el malestar.
 #Narration
 Unfortunately, it was more than just an upset tummy.  By the time you realise you have been poisoned, it is too late.
-Por desgracia, era algo más una molestia digestiva. Para cuando te das cuenta de que te han envenenado, ya es demasiado tarde.
+Por desgracia, era algo más que una molestia digestiva. Para cuando te das cuenta de que te han envenenado, ya es demasiado tarde.
 #Speaker: elodie_yielding
 I don't feel like candy right now.  Maybe later.
 No me apetecen dulces ahora. Quizás mas tarde.
@@ -9192,10 +9192,10 @@ When your turn comes, you take your seat at a beautiful wooden harp and let the 
 Cuando te llega el turno, tomas asiento junto a una hermosa arpa de madera y dejas que las notas fluyan.
 #Narration
 Your voice weaves a spell of love and loss over the crowd.
-Tu voz teje un hechizo de amor y pérdida sobre la multitud.
+Tu voz teje un hechizo de amor y perdición sobre la multitud.
 #Narration
 After such a performance, the judges cannot help but name you the champion.
-Después de tal actuación, los jueces no pueden evitar nombrar la ganadora.
+Después de tan brillante actuación, los jueces no pueden evitar nombrarte la ganadora.
 #Narration
 You attempt to sing while you play, but it is difficult to control your breathing while focusing on the notes.  The end result really isn't your best performance.
 Intentas cantar mientras tocas, pero te es difícil controlar la respiración mientras te centras en las notas. El resultado final no hace justicia a tus aptitudes musicales.
@@ -9820,7 +9820,7 @@ Direct the fleet
 Dirigir la flota
 #Speaker: elodie_angry
 The risk is mine to take.
-Debo tomar el riesgo.
+Debo asumir el riesgo.
 #Speaker: joslyn
 You have your mother's heart.
 Tienes el corazón de tu madre.
@@ -10421,7 +10421,7 @@ I'll sweeten the deal. If you meet me in a formal Lumen challenge, I'll call off
 Voy a mejorar el trato. Si acepta medirse a mí en un duelo formal, paralizaré la invasión incluso si gano.
 #Speaker: elodie_afraid
 Really?
-¿De Verdad?
+¿De verdad?
 #Speaker: togami
 I swear it by the gods. Nova will be free and safe.
 Lo juro por los dioses. Nova será libre.
@@ -10523,7 +10523,7 @@ He's used to dealing with magical attacks, but he might not be expecting a physi
 Él está acostumbrado a los ataques mágicos, pero podría no estar preparado para uno físico.
 #Narration
 Perhaps if you rushed him, you could take him off guard?  Up close, he couldn't use his fancy spells.  But what would you do then?
-Quizás, si lo embistieses, ¿podrías pillarlo con desprevenido? A esa distancia no podría lanzar hechizos. Pero, ¿qué pasaría luego?
+Quizás, si lo embistieses, ¿podrías pillarlo desprevenido? A esa distancia no podría lanzar hechizos. Pero, ¿qué pasaría luego?
 #Narration
 You still have to use magic to win, you can't just grab him and bang his head against the floor.
 Aún así tienes que ganar usando magia, no puedes simplemente agarrarle y golpearle la cabeza contra el suelo.
@@ -10759,7 +10759,7 @@ Hacerlo
 #Speaker: elodie_willful
 #Narration
 You close your eyes and will your power into the King of Shanjia, ignoring the horrified screams around you.
-Cierras tus ojos y entregas tu poder al rey de Shanjia, ignorando los gritos horripilantes de quienes te rodean.
+Cierras los ojos y entregas tu poder al rey de Shanjia, ignorando los gritos horripilantes de quienes te rodean.
 #Narration
 And then there is a great rush of fire.
 Y entonces se materializa una gran llamarada.
@@ -11741,7 +11741,7 @@ The castle is buzzing with preparations for your upcoming coronation.  Ministers
 El castillo rebosa de preparativos para tu próxima coronación. Los ministros te presionan para saber detalles como tu color favorito, tus flores preferidas, etc.
 #Narration
 You are happy to collaborate with the designers to ensure you are shown off to the best possible effect.  You are still so young, after all.  Good design will help a lot in making you look like a Queen.
-Te alegra poder colaborar con tus diseñadores para asegurarte de que luces lo mejor posible. Después de todo, aún eres muy joven, y un buen aspecto te ayudará mucho parecer una reina.
+Te alegra poder colaborar con tus diseñadores para asegurarte de que luces lo mejor posible. Después de todo, aún eres muy joven, y un buen aspecto te ayudará mucho a parecer una reina.
 #Narration
 You really can't see the point of wasting time worrying about decorations when there's so much else to worry about.
 No eres capaz de encontrarle el sentido a semejante perdida de tiempo, preocuparse de decoraciones, cuando hay asuntos mucho más importantes que atender.
@@ -11946,7 +11946,7 @@ At this time last year, you were celebrating your fourteenth birthday.  You were
 En esta fecha el año pasado, estabas celebrando tu decimocuarto cumpleaños. Estuviste en los jardines de la escuela, rodeada de tus amigas. Un maestro te traía té y pasteles, mientras que el hijo de un comerciante rico tejía una corona de flores para tu cabeza.
 #Narration
 It didn't matter so much that you were a princess then.  Your title was something for the future.  Many of your peers {i}would be{/i} Duchesses or Earls or the like, someday, but not then.  You were children.
-No importaba tanto que fueras una princesa entonces. Tu título era cosa del futuro. Muchos de tus compañeros {i}serían{/i} Duquesas, Condes o similares, algún día, pero no entonces. Erais niños.
+No importaba tanto que fueras una princesa entonces. Tu título era cosa del futuro. Muchos de tus compañeros {i}serían{/i} duqueses, condes o similares, algún día, pero no entonces. Erais niños.
 #Narration
 Your parents could not attend on the actual day, but they did send wonderful gifts, some for you, and some for you to share.  And a week later, they came for a visit, and your mother took you with her through the countryside in a splendid carriage.
 Tus padres no pudieron estar contigo aquel día, pero enviaron maravillosos regalos, algunos para tí, y otros para compartir. Y una semana después llegaron de visita y tu madre te llevó con ella por el campo en un espléndido carruaje.
@@ -11955,7 +11955,7 @@ It was the last time you would ever see her.
 Fue la última vez que la viste.
 #Narration
 You wonder if, wherever she is, she can see you now.
-Te preguntas si ahora puede verte, desde dondequiera que esté.
+Te preguntas si ahora podrá verte, desde dondequiera que esté.
 #Narration
 You are fifteen years old, a legal adult.  You have worked and studied and suffered and prepared, and now the time has come.
 Ya tienes quince años, eres legalmente adulta.  Has trabajado, has estudiado, has sufrido y te has preparado, y ahora ha llegado el momento.
@@ -11964,7 +11964,7 @@ You kneel before the priestess, barely hearing her words as she recites the bles
 Te arrodillas ante la sacerdotisa, apenas escuchando sus palabras mientras recita las bendiciones.
 #Narration
 She calls upon the gods to deliver peace, wisdom, and prosperity to you, and through you, to all of Nova.  And then she calls upon you, for your oath of rulership.
-Pide a los dioses que difundan paz, sabiduría y prosperidad, tanto a ti como a tu pueblo.  Y después te llama, para tu juramento.
+Pide a los dioses que difundan paz, sabiduría y prosperidad, tanto para ti como para tu pueblo.  Y después te llama, para tu juramento.
 #Speaker: priestess
 Will you guide and govern and protect your people to the best of your ability, according to law and custom?
 ¿Guiarás, gobernarás y protegerás a tu pueblo de la mejor manera posible, según la ley y la costumbre?
@@ -13430,15 +13430,15 @@ Fe
 You practice assuming a sitting position that allows you to be relaxed and tranquil without being so relaxed that you are likely to fall asleep.
 Practicas adoptando una posición sentada que te permite estar relejada y tranquila pero no tanto como para dormirte.
 You close your eyes and relax every muscle of your body in turn, letting that feeling travel down through you from your head to your fingertips and toes.
-Cierras tus ojos y relajas cada musculo de tu cuerpo de uno en uno, permitiendo que esa sensación viaje hacia abajo a través de ti desde la cabeza hasta los dedos de los pies.
+Cierras los ojos y relajas cada musculo de tu cuerpo de uno en uno, permitiendo que esa sensación viaje hacia abajo a través de ti desde la cabeza hasta los dedos de los pies.
 You take slow, deep breaths, letting that air move through your body, feeling it give you life and energy.
 Respiras despacio y profundamente, dejando que el aire fluya a través de tu cuerpo, sintiendo la vida y energía que te da.
 You stare into a polished crystal ball and relax, letting your mind wander.
 Fijas tu mirada en una bola de cristal y te relajas, dejando volar tu mente.
 You close your eyes and visualise the crystal ball floating in front of your eyes.
-Cierras tus ojos y visualizas la bola de cristal flotando frente a ti.
+Cierras los ojos y visualizas la bola de cristal flotando frente a ti.
 You close your eyes and visualise a crystal ball floating through the air, moving past your eyes and into your mind, filling you with light.
-Cierras tus ojos y visualizas una bola de cristal flotando por el aire, moviéndose más allá de tus ojos e introduciéndose en tu mente, llenándote con luz.
+Cierras los ojos y visualizas una bola de cristal flotando por el aire, moviéndose más allá de tus ojos e introduciéndose en tu mente, llenándote con luz.
 You learn to visualise the space around you so that you can 'see' the whole room with your eyes closed.
 Aprendes a visualizar el espacio que te rodea para poder «ver» el cuarto entero con los ojos cerrados.
 You discover that if you put yourself into the right frame of mind, your entire body begins to glow faintly.
@@ -13497,7 +13497,7 @@ Practicas usando pequeñas cantidades de magia y sintiendo ese poder fuera de ti
 Your mentor summons up magical energies to strike the nearby ground so that you can learn to sense someone else's spells in use.
 Tu mentora invoca energías mágicas que golpean la tierra cerca de ti para que puedas aprender a sentir los hechizos de una otra persona.
 You close your eyes and call out when you detect your mentor casting a silent spell beside you.
-Cierras tus ojos y gritas cuando detectas que tu mentora está usando un hechizo silencioso junto a ti.
+Cierras los ojos y gritas cuando detectas que tu mentora está usando un hechizo silencioso junto a ti.
 You learn to detect ongoing enchantments, such as blessed weapons that can do magical damage.
 Aprendes a detectar encantamientos permanentes, como las armas encantadas que pueden hacer daño mágico.
 You learn to tell the difference between different kinds of magical signatures, so that you can tell roughly what a spell you detect is meant to achieve.
@@ -13507,12 +13507,12 @@ Expandes tus percepciones magias para intuir la procedencia del hechizo detectad
 You learn to detect the latent power that signifies a Lumen even when he or she is not actively working magic.
 Aprendes a detectar el poder latente que emana un Lumen incluso cuando él o ella no está utilizando la magia activamente.
 You expand your senses, learning to detect spells and magical creatures at a greater distance.
-Expandes tus sentidos, aprendiendo detectar hechizos y criaturas mágicas a mayor distancia.
+Expandes tus sentidos, aprendiendo a detectar hechizos y criaturas mágicas a mayor distancia.
 You learn to detect lingering traces of strong magic from the past, even when the spell has long since completed.
 Aprendes a detectar rastros persistentes de magia antigua, incluso cuando el hechizo lleva mucho tiempo completado.
 #Resist Magic
 You increase your awareness of your own thoughts and emotions, making it more difficult for mind-affecting magic to twist your reactions.
-Aumentas tu conciencia sobre tus propios pensamientos y emociones para impedir que la magia que afecta la mente retuerza tus reacciones.
+Aumentas el control sobre tus pensamientos y emociones para impedir que la magia que afecta a la mente gobierne tus reacciones.
 You learn to consciously project a magical field through your thoughts, blocking outside magic from touching your mind - but only when you have the energy to consciously resist.
 Aprendes a proyectar conscientemente un campo mágico por sus pensamientos, impidiendo que la magia externa alcance tu mente – pero solo cuando tienes la energía para resistir conscientemente.
 You gain innate resistance to light and dark - you can now see in the blackest caves or stare into the sun without going blind.
@@ -14240,12 +14240,12 @@ I got it!
 ¡Lo tengo!
 #Speaker: elodie_neutral
 #Speaker: julianna
-Pick up the crystal with your bare hands. Press it against your chest, over your heart, and say {i}\"Illuminate!\"{/i}
-Coge el cristal con tus manos. Presionalo contra tu pecho, sobre tu corazón y di {i}\"¡Iluminate!\"{/i}
+Pick up the crystal with your bare hands. Press it against your chest, over your heart, and say {i}"Illuminate!"{/i}
+Coge el cristal con tus manos. Presionalo contra tu pecho, sobre tu corazón y di {i}"¡Ilumínate!"{/i}
 #choice:
 #Speaker: elodie_neutral
 Okay...  Here we go... \n Illuminate!
-Ok...  Allá vamos... \n ¡Iluminate!
+Ok...  Allá vamos... \n ¡Ilumínate!
 #Narration
 #Speaker: elodie_neutral
 #Speaker: julianna
@@ -15214,7 +15214,7 @@ You try to explain to the guards that you need to visit the treasury in order to
 Intentas explicar a los guardias que necesitas visitar la tesorería con el fin de obtener un informe preciso sobre las finanzas del reino. Flaquean un poco, pero al final, se mantienen firmes a las ordenes de tu padre.
 #Narration
 You try to talk your way past the treasury guards, but despite eyelash-fluttering, foot-stomping, and outright threats, they won't budge. Hmph!
-Intentas convencer a los guardias de la tesorería, pero a pesar de tus pestañeos, pisadas y amenazas directas, no ceden. ¡Hmph!
+Intentas convencer a los guardias de la tesorería, pero a pesar de tus pestañeos, pataleos y amenazas directas, no ceden. ¡Hmph!
 You order the guards to step aside and let you into the treasury. They waver slightly, but in the end, they stand by your father's commands.
 Ordenas a los guardias que se hagan a un lado y te permitan entrar en la tesorería. Flaquean un poco, pero al final, se mantienen firmes a las ordenes de tu padre.
 You order the guards to stand aside and walk forward with your head held high. None of them dares to deny you access to your own treasury.
@@ -15264,7 +15264,7 @@ Meddling with magic killed your mother. I don't want that to happen to you.
 Tratar con magia mató a tu madre. No quiero que te pase a ti también.
 #Speaker: joslyn
 Once you're crowned Queen, I can't stop you from doing anything you want, but for now you are still a child.
-Una vez seas coronada Reina, no podré impedir que hagas lo que quieras, pero por ahora eres todavía una niña.
+Una vez seas coronada reina, no podré impedir que hagas lo que quieras, pero por ahora eres todavía una niña.
 #Speaker: elodie_depressed
 Dad?  What really happened to Mom?
 ¿Papá? ¿Qué le pasó realmente a mamá?
