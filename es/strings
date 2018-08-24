@@ -168,7 +168,7 @@ been challenged to\na duel?
 ordered an execution?
 ¿Has ordenado \nuna ejecución?
 made a foreign duke\nyour subject?
-¿Te has apropiado de \nun ducado extranjero?
+¿Has sometido a\nun duque extranjero?
 paid a reward for\nkilling a fugitive?
 ¿Has pagado por \nmatar a un fujitivo?
 spoken to Adair's father\nat the gala?
@@ -188,7 +188,7 @@ become an evil\nminion?
 saved the day with\nthe power of music?
 ¿Salvaste el día con \nel poder de la música?
 sunk a fleet\nwith magic?
-¿Undiste una flota \ncon magia?
+¿Hundiste una flota \ncon magia?
 encountered a\ntentacle monster?
 ¿Has encontrado un\nmonstruo con tentáculos?
 caused a couple\nto divorce?
@@ -404,7 +404,7 @@ Age 13
 {b}Brother{/b}: Emry
 {b}Hermano{/b}: Emry
 Elodie's cousin, and third-in-line to the throne of Nova.
-Primo de Elodie, y tercero en la línea de sucesión al trono de Nova.
+Prima de Elodie, y tercera en la línea de sucesión al trono de Nova.
 # Variant Charlotte titles and dossier entries for an assortment of options
 # where you've disempowered or killed Lucille and/or Laurent.
 Charlotte, Young Lady of Merva
@@ -507,9 +507,9 @@ Ex Duquesa de Hellas
 {b}Brother{/b}: Bennett, Duke of Maree
 {b}Hermano{/b}: Bennett, Duque de Maree
 Engaged to Ixionite Noble
-Comprometida con un Noble de Inoxite
+Comprometida con un Noble Ixionita
 Elodie forced her to accept marriage to an Ixionite
-Elodie la obligó a aceptar el matrimonio con uno de Ixionite
+Elodie la obligó a casarse con un Ixionita
 Talarist
 Talarist
 Duke of Sedna
@@ -778,13 +778,13 @@ Edad ???
 {b}Wife{/b}: Junko, Queen of Shanjia
 {b}Esposa{/b}: Junko, Reina de Shanjia
 Togami comes from a land across the ocean;\nyou know nothing about his family.
-Togami proviene de un país al otro lado del océano;\nno sabes nada de su familia.
+Togami proviene de un país al otro lado\n del océano. No sabes nada de su familia.
 Chambermaid
-Camarera
+Sirvienta
 Age 18
-12 Años
+18 Años
 Family owns a bakery in town. Has two brothers.
-La familia es dueña de una panadería en la ciudad. Tiene dos hermanos.
+La familia es dueña de una panadería\nen la ciudad. Tiene dos hermanos.
 {b}Brother{/b}: Evrard
 {b}Hermano{/b}: Evrard
 # Adair's dossier
@@ -13115,7 +13115,7 @@ El gobernante más famoso de la antigua Nova fue el rey Latimer. De acuerdo a lo
 You study the relationship of Nova and its nearest neighbors.  The borders have been mostly peaceful in recent years, except for the problems with Ixion to the south.  However, trouble may be brewing in Pyrias as well.
 Estudias las relaciones entre Nova y sus vecinos más cercanos. Las fronteras han estado en paz durante los últimos años, exceptuando los problemas con Ixion al sur. Sin embargo, podrían estar gestándose problemas en Pyrias también.
 Four years ago, the Duchess of Hellas tried to foment an insurrection in northern Ixion, just over the Galben River border.  Not only did that fail, but in retaliation, Ixion pushed troops into southern Maree, and they are still refusing to leave.
-Hace cuatro años, la Duquesa de Hellas intento fomentar una insurrección al norte de Ixion, justo sobre el borde del río Galben. No solo falló, sino que en represalia, Ixion envió tropas al sur de Maree, las cuales aún se niegan a marcharse.
+Hace cuatro años, la Duquesa de Hellas intentó fomentar una insurrección al norte de Ixion, justo sobre el borde del río Galben. No solo falló, sino que en represalia, Ixion envió tropas al sur de Maree, las cuales aún se niegan a marcharse.
 # Alternate if you've already pushed the Ixionites out
 Four years ago, the Duchess of Hellas tried to foment an insurrection in northern Ixion, just over the Galben River border.  Not only did that fail, but in retaliation, Ixion pushed troops into southern Maree.
 Hace cuatro años, la Duquesa de Hellas intento fomentar una insurrección al norte de Ixion, justo sobre el borde del río Galben.  No solo falló, sino que en represalia, Ixion envió tropas al sur de Maree.
@@ -13744,23 +13744,23 @@ Affected By Loneliness
 Afectada por la Soledad
 # Treasury reports; these use Novan pluralization rules.
 You are too Angry to focus properly on this subject right now.
-Estás demasiado Enfadada como para concentrarte correctamente en este tema ahora.
+Estás demasiado Enfadada como para concentrarte\ncorrectamente en este tema ahora.
 You are too Afraid to focus properly on this subject right now.
-Estás demasiado Asustada como para concentrarte correctamente en este tema ahora.
+Estás demasiado Asustada como para concentrarte\ncorrectamente en este tema ahora.
 You are too Depressed to focus properly on this subject right now.
-Estás demasiado Deprimida como para concentrarte correctamente en este tema ahora.
+Estás demasiado Deprimida como para concentrarte\ncorrectamente en este tema ahora.
 You are too Cheerful to focus properly on this subject right now.
-Estás demasiado Alegre como para concentrarte correctamente en este tema ahora.
+Estás demasiado Alegre como para concentrarte\ncorrectamente en este tema ahora.
 You are too Willful to focus properly on this subject right now.
-Estás demasiado Obstinada como para concentrarte correctamente en este tema ahora.
+Estás demasiado Obstinada como para concentrarte\ncorrectamente en este tema ahora.
 You are too Yielding to focus properly on this subject right now.
-Estás demasiado Dócil como para concentrarte correctamente en este tema ahora.
+Estás demasiado Dócil como para concentrarte\ncorrectamente en este tema ahora.
 You are too Pressured to focus properly on this subject right now.
-Estás demasiado Presionada como para concentrarte correctamente en este tema ahora.
+Estás demasiado Presionada como para concentrarte\ncorrectamente en este tema ahora.
 You are too Lonely to focus properly on this subject right now.
-Estás demasiado Sola como para concentrarte correctamente en este tema ahora.
+Estás demasiado Sola como para concentrarte\ncorrectamente en este tema ahora.
 You are too Injured to focus properly on this subject right now.
-Estás demasiado Lastimada como para concentrarte correctamente en este tema ahora.
+Estás demasiado Lastimada como para concentrarte\ncorrectamente en este tema ahora.
 # Bonus image captions
 Magical Girl
 Chica Mágica
