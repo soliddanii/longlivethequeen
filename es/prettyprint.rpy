@@ -130,3 +130,93 @@ init python:
                 ret += num_words[i]
         return ret
     readable_number_translations['es'] = readable_number_translation
+
+    # Change the dict for allow the translation of the values
+    # %(subgroup)s and %(activity)s
+    # eg: dict({'Military': 'Ciencias Militares', 'Weapons':'Armas'})
+
+    def subgroup_translation():
+        return dict({
+            # Social
+            'Royal Demeanor': 'Conducta',
+            'Conversation': u'Conversación',
+            'Expression': u'Expresión',
+            # Physical
+            'Agility': 'Agilidad',
+            'Weapons': 'Armas',
+            'Athletics': 'Atletismo',
+            'Animal Handling': 'Cuidado Animal',
+            # Intellectual
+            'History': 'Historia',
+            'Intrigue': 'Intriga',
+            'Medicine': 'Medicina',
+            'Economics': u'Economía',
+            'Military': 'Ciencias Militares',
+            # Mystical
+            'Faith': 'Fe',
+            'Lumen': 'Lumen'
+        })
+
+    subgroup_translations['es'] = subgroup_translation
+
+    def activity_translation():
+        return dict({
+            # Royal Demeanor
+            'Composure': 'Serenidad',
+            'Elegance': 'Elegancia',
+            'Presence': 'Presencia',
+            # Conversation
+            'Public Speaking': u'Hablar en Público',
+            'Court Manners': 'Modales',
+            'Flattery': u'Adulación',
+            # Expression
+            'Decoration': u'Decoración',
+            'Instrument': 'Instrumento',
+            'Voice': 'Voz',
+            # History
+            'Novan History': 'Historia de Nova',
+            'Foreign Affairs': 'Historia Externa',
+            'World History': 'Historia del Mundo',
+            # Intrigue
+            'Internal Affairs': 'Asuntos Internos',
+            'Foreign Intelligence': 'Asuntos Externos',
+            'Ciphering': 'Cifrado',
+            # Medicine
+            'Herbs': 'Hierbas',
+            'Battlefield Medicine': 'Medicina de Batalla',
+            'Poison': 'Veneno',
+            # Economics
+            'Accounting': 'Contabilidad',
+            'Trade': 'Comercio',
+            'Production': u'Producción',
+            # Military
+            'Strategy': 'Estrategia',
+            'Naval Strategy': 'Estrategia Naval',
+            'Logistics': u'Logística',
+            # Agility
+            'Dance': 'Baile',
+            'Reflexes': 'Reflejos',
+            'Flexibility': 'Flexibilidad',
+            # Weapons
+            'Swords': 'Espadas',
+            'Archery': 'Tiro con arco',
+            'Polearms': 'Alabardas',
+            # Athletics
+            'Running': 'Atletismo',
+            'Climbing': 'Escalada',
+            'Swimming': u'Natación',
+            # Animal Handling
+            'Horses': 'Caballos',
+            'Dogs': 'Perros',
+            'Falcons': 'Halcones',
+            # Faith
+            'Meditation': u'Meditación',
+            'Divination': u'Adivinación',
+            'Lore': 'Lore',
+            # Lumen
+            'Sense Magic': 'Percibir Magia',
+            'Resist Magic': 'Resistir Magia',
+            'Wield Magic': 'Usar Magia'
+        })
+
+    activity_translations['es'] = activity_translation
