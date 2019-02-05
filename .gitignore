@@ -1,11 +1,11 @@
 /*
 !/.gitignore
 !/README.md
-!/docs/*
+!/docs/
 !/game/
 /game/*
 !/game/stats.rpyc
 !/game/translation.rpyc
 !/game/translations/
-**.psd
-**titledark.jpg
+/game/translations/**/*.psd
+/game/translations/**/titledark.jpg
