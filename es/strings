@@ -1567,7 +1567,13 @@ Visitar a Charlotte, Señorita de Merva
 Talk to Adair
 Hablar con Adair
 Tour Barracks
-Gira Cuartel
+Visitar Cuartel
+# MoodLocation Barracks expanded
+Tour\nBarracks
+Visitar\nCuartel
+# MoodLocation Treasury expanded
+Visit\nthe\nTreasury
+Visitar la\nTesorería
 # Touch-friendly tooltip control
 Show Tooltips
 Mostrar Ayuda
@@ -12477,7 +12483,7 @@ Modales
 proper etiquette for all situations
 buenos modales para todas las situaciones
 Flattery
-Zalamería
+Adulación
 the ability to tell someone what they want to hear
 la capacidad de decirle a alguien lo que quiere oír
 Decoration
