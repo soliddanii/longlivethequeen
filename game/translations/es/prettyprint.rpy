@@ -1,4 +1,4 @@
-init python:
+﻿init python:
     # Change these functions to apply your own language's rules as appropriate.
     # Notice the u' for allow encode to utf-8 characters like í
 
@@ -31,7 +31,7 @@ init python:
         elif rem >= .07:
             ret += ' y un decimo'
         elif rem > .03:
-            ret = 'una minima parte '+ret
+            ret = 'un poco mas de '+ret
         if ret.startswith('cero y '):
             ret = ret[7:]
         return ret
@@ -48,7 +48,7 @@ init python:
         if int(soldiers/1200.0):
             return readable_number_small(soldiers/1200.0)+' batallones'
         elif soldiers/1200.0 <= .03:
-            return 'un puñado de soldados'
+            return u'un puñado de soldados'
         elif soldiers/1200.0 < .07:
             return u'un pelotón'
         return readable_number_small(soldiers/1200.0)+' de un batallon'
@@ -78,9 +78,9 @@ init python:
                 ret += ' y '
             ret += readable_number(companies)
             if companies > 1:
-                ret += ' compañias'
+                ret += u' compañias'
             else:
-                ret += ' compañia'
+                ret += u' compañia'
         if platoons:
             if companies and battalions:
                 ret += ', y '
