@@ -6,6 +6,8 @@
 /game/*
 !/game/stats.rpyc
 !/game/translation.rpyc
+!/game/battle.rpyc
 !/game/translations/
 /game/translations/**/*.psd
 /game/translations/**/titledark.jpg
+!decompiled_resources
